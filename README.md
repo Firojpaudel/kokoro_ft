@@ -58,6 +58,11 @@ espeak-ng --voices=ne
 
 # Sync dependencies
 uv sync
+
+# Configure environment variables
+# Copy .env.example to .env and configure your W&B API Key
+cp .env.example .env
+# Edit .env and paste your actual WANDB_API_KEY
 ```
 
 ---
