@@ -1,0 +1,21 @@
+# Virtual Environment
+.venv/
+__pycache__/
+*.pyc
+
+# Dataset and Manifests (Exclude heavy audio WAV files)
+data/audio_24k/
+data/raw/
+
+# Model Checkpoints (Exclude heavy model binaries)
+checkpoints/
+*.pth
+*.pt
+*.t7
+
+# Logs and W&B logs
+logs/
+wandb/
+
+# OS specific files
+.DS_Store
