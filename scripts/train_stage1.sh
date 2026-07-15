@@ -16,4 +16,4 @@ fi
 # Note: we use absolute paths or relative paths correctly.
 # The config file path is relative to the directory we run the command from,
 # which is kikiri-tts/StyleTTS2, so ../../configs/stage1.yaml
-../../.venv/bin/accelerate launch train_first.py --config_path ../../configs/stage1.yaml
+../../.venv/bin/accelerate launch --mixed_precision bf16 train_first.py --config_path ../../configs/stage1.yaml

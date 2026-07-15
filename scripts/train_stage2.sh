@@ -13,4 +13,4 @@ if [ -f ../../.env ]; then
 fi
 
 # Run Stage 2 training using accelerate launch and pointing to our config
-../../.venv/bin/accelerate launch train_second.py --config_path ../../configs/stage2.yaml
+../../.venv/bin/accelerate launch --mixed_precision bf16 train_second.py --config_path ../../configs/stage2.yaml

@@ -1,7 +1,7 @@
 # Kokoro Nepali Stage 2 Config (Single-Speaker Refinement)
 # Based on kikiri-tts config_german_ft.yml
 
-batch_size: 2
+batch_size: 4
 epochs: 20
 epochs_1st: 20
 epochs_2nd: 20
