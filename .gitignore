@@ -19,3 +19,4 @@ wandb/
 
 # OS specific files
 .DS_Store
+GUIDE.md
