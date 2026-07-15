@@ -16,7 +16,7 @@ log_dir: "../../logs/stage1_base"
 data_params:
   train_data: "../../data/manifests/train.txt"
   val_data: "../../data/manifests/val.txt"
-  root_path: "../../data/audio_24k"
+  root_path: "../../"
   OOD_data: "Data/OOD_texts.txt"
   min_length: 50
   num_workers: 4
