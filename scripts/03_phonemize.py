@@ -60,7 +60,7 @@ def main():
                     row["phonemes"] = ""
                 
                 # StyleTTS2 format: audio_path|phonemes|speaker
-                speaker = row.get("speaker", "ne_speaker")
+                speaker = str(row.get("speaker", "0"))
                 # Ensure relative path from project root (configs/stage1.yaml specifies data_params paths relative to CWD)
                 audio_path = row["audio_path"]
                 txt_lines.append(f"{audio_path}|{row['phonemes']}|{speaker}")
