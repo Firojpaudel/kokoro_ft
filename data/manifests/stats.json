@@ -1,0 +1,27 @@
+{
+  "total_rows": 78295,
+  "language_distribution": {
+    "ne": 28128,
+    "mai": 22825,
+    "en": 27342
+  },
+  "duration": {
+    "min": 0.31,
+    "max": 228.817,
+    "mean": 7.989155596887839,
+    "median": 6.999458333333333
+  },
+  "duration_histogram": {
+    "0-1s": 2069,
+    "1-3s": 13387,
+    "3-6s": 18059,
+    "6-10s": 21256,
+    "10-15s": 15101,
+    "15s+": 8423
+  },
+  "flags": {
+    "short_text_count_total": 713,
+    "sampled_corrupt_audio": 0,
+    "sampled_mismatched_duration": 0
+  }
+}
