@@ -61,19 +61,14 @@ def main():
         filepath = os.path.join("data/audio_24k", filename)
         
         if os.path.exists(filepath):
-            try:
-                info = sf.info(filepath)
-                processed_records.append({
-                    "audio_path": filepath,
-                    "text": text,
-                    "language": "ne",
-                    "duration": float(info.duration)
-                })
-                pbar.update(1)
-                continue
-            except Exception as e:
-                # If reading info fails, proceed to re-download/re-process
-                pass
+            processed_records.append({
+                "audio_path": filepath,
+                "text": text,
+                "language": "ne",
+                "duration": float(row.get("duration", 0.0))
+            })
+            pbar.update(1)
+            continue
 
         try:
             # Load audio using soundfile from bytes
