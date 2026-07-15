@@ -13,7 +13,7 @@ This codebase includes and adapts components from the following projects:
 ## 1. Directory Structure
 
 ```
-/home/oem/wiseyak_backup/firojpaudel/kokoro_ft/
+kokoro_ft/
 ├── kikiri-tts/                  # git clone of semidark/kikiri-tts (training code + submodules)
 ├── data/
 │   ├── raw/                     # original dataset manifests
