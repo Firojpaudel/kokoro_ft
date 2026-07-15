@@ -57,7 +57,24 @@ def main():
         audio_data = row.get("audio", {})
         if not audio_data or "bytes" not in audio_data or audio_data["bytes"] is None:
             continue
-            
+        filename = f"nepali_{len(processed_records)}.wav"
+        filepath = os.path.join("data/audio_24k", filename)
+        
+        if os.path.exists(filepath):
+            try:
+                info = sf.info(filepath)
+                processed_records.append({
+                    "audio_path": filepath,
+                    "text": text,
+                    "language": "ne",
+                    "duration": float(info.duration)
+                })
+                pbar.update(1)
+                continue
+            except Exception as e:
+                # If reading info fails, proceed to re-download/re-process
+                pass
+
         try:
             # Load audio using soundfile from bytes
             import io
