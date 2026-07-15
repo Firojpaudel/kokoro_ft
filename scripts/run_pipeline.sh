@@ -2,8 +2,12 @@
 # scripts/run_pipeline.sh
 set -euo pipefail
 
-echo "=== STEP 0: Cleaning codebase ==="
-rm -rf data/audio_24k/* data/manifests/*.jsonl data/manifests/*.txt
+if [ ! -d "data/audio_24k" ] || [ -z "$(ls -A data/audio_24k 2>/dev/null)" ]; then
+  echo "=== STEP 0: Cleaning codebase ==="
+  rm -rf data/audio_24k/* data/manifests/*.jsonl data/manifests/*.txt
+else
+  echo "=== STEP 0: Skipping cleanup (audio files exist) ==="
+fi
 
 echo "=== STEP 1: Preparing Manifests & Audio (Full Dataset) ==="
 # This will download parquet files sequentially, resample to 24kHz, and save to data/audio_24k/
