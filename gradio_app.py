@@ -4,6 +4,9 @@ import torch
 import gradio as gr
 from pathlib import Path
 
+# Configure Gradio to use a local temp directory inside the project to avoid /tmp permission errors
+os.environ["GRADIO_TEMP_DIR"] = str(Path(__file__).resolve().parent / "tmp")
+
 # Add kokoro submodule to sys.path
 _repo_root = Path(__file__).resolve().parent
 _kokoro_submodule = _repo_root / "kikiri-tts" / "kokoro"
