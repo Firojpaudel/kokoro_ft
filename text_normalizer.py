@@ -1,6 +1,7 @@
 import re
 import csv
 from nepali_g2p import NepaliG2P
+from misaki import en
 
 NEPALI_NUMS = {
     0: 'शून्य', 1: 'एक', 2: 'दुई', 3: 'तीन', 4: 'चार', 5: 'पाँच', 6: 'छ', 7: 'सात', 8: 'आठ', 9: 'नौ', 10: 'दश',
@@ -477,6 +478,7 @@ class NepaliHybridG2P:
     def __init__(self, dict_path="/home/oem/wiseyak_backup/firojpaudel/kokoro_ft/data/dictionary_data.csv"):
         self.word_dict = {}
         self.rule_g2p = NepaliG2P()
+        self.en_g2p = en.G2P()
         
         print(f"Loading dictionary from {dict_path}...")
         try:
@@ -518,19 +520,31 @@ class NepaliHybridG2P:
         return res
 
     def convert_word(self, word):
-        if word in self.word_dict:
-            return self.word_dict[word]
-        try:
-            raw_phonemes = self.rule_g2p.to_phonemes_simple(word)
-            return self.clean_rule_ipa(raw_phonemes)
-        except Exception:
-            return ""
+        # 1. Devanagari word
+        if re.match(r'^[\u0900-\u097F]+$', word):
+            if word in self.word_dict:
+                return self.word_dict[word]
+            try:
+                raw_phonemes = self.rule_g2p.to_phonemes_simple(word)
+                return self.clean_rule_ipa(raw_phonemes)
+            except Exception:
+                return ""
+        # 2. English word / Transliterated word
+        elif re.match(r'^[a-zA-Z\-_]+$', word):
+            try:
+                en_phonemes, _ = self.en_g2p(word)
+                allowed_chars = set(" !\"(),.:;?AIOQSTWYabcdefhijklmnopqrstuvwxyzæçðøŋœɐɑɒɔɕɖəɚɛɜɟɡɣɤɥɨɪɯɰɲɳɴɸɹɻɽɾʁʂʃʈʊʋʌʎʒʔʝʣʤʥʦʧʨʰʲˈˌː̃βθχᵊᵝᵻ—“”…→↓↗↘ꭧ")
+                clean_en = "".join(c for c in en_phonemes if c in allowed_chars)
+                return clean_en
+            except Exception:
+                return word
+        return word
 
     def __call__(self, text):
-        tokens = re.findall(r'[\u0900-\u097F]+|[^\u0900-\u097F\s]+|\s+', text)
+        tokens = re.findall(r'[\u0900-\u097F]+|[a-zA-Z\-_]+|[^\u0900-\u097F\sa-zA-Z\-_]+|\s+', text)
         result_phonemes = []
         for token in tokens:
-            if re.match(r'^[\u0900-\u097F]+$', token):
+            if re.match(r'^[\u0900-\u097F]+$', token) or re.match(r'^[a-zA-Z\-_]+$', token):
                 ph = self.convert_word(token)
                 if ph:
                     result_phonemes.append(ph)
@@ -545,5 +559,5 @@ if __name__ == "__main__":
     
     # Test hybrid G2P
     g2p = NepaliHybridG2P()
-    test_ph, _ = g2p("नेपाली भाषा")
+    test_ph, _ = g2p("नेपाली mobile notifications चेक गर्ने")
     print("Phonemes test:", test_ph)
