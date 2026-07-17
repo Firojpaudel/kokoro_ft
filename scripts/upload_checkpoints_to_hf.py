@@ -46,9 +46,10 @@ def main():
     base_dir = "/home/oem/wiseyak_backup/firojpaudel/kokoro_ft"
     checkpoints_to_upload = {
         # file_path_locally: path_in_repo
-        os.path.join(base_dir, "logs/stage1_base/epoch_1st_00012.pth"): "epoch_1st_00012.pth", # Best, val loss 0.225
-        os.path.join(base_dir, "logs/stage1_base/epoch_1st_00011.pth"): "epoch_1st_00011.pth", # 2nd best, val loss 0.229
-        os.path.join(base_dir, "configs/stage1.yaml"): "stage1.yaml" # Configuration file
+        os.path.join(base_dir, "logs/stage2_voice/epoch_2nd_00002.pth"): "epoch_2nd_00002.pth",
+        os.path.join(base_dir, "checkpoints/stage2_voice/nepali_kokoro_epoch3.pth"): "nepali_kokoro_epoch3.pth",
+        os.path.join(base_dir, "kikiri-tts/kokoro/voices/nepali_ft.pt"): "voices/nepali_ft.pt",
+        os.path.join(base_dir, "configs/stage2.yaml"): "stage2.yaml"
     }
 
     # Upload checkpoints
