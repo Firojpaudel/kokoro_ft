@@ -474,6 +474,30 @@ def normalize_text(text):
     res = re.sub(r' +', ' ', res)
     return res.strip()
 
+NEPALI_SUFFIXES = {
+    'हरूले': 'ɦʌruːleː',
+    'हरूलाई': 'ɦʌruːlaːiː',
+    'हरूको': 'ɦʌruːkoː',
+    'हरूका': 'ɦʌruːkaː',
+    'हरूमा': 'ɦʌruːmaː',
+    'हरू': 'ɦʌruː',
+    'लाई': 'laːiː',
+    'ले': 'leː',
+    'को': 'koː',
+    'का': 'kaː',
+    'की': 'kiː',
+    'मा': 'maː',
+    'बाट': 'baːʈʌ',
+    'सँग': 'sʌŋɡʌ',
+    'देखि': 'dekʰi',
+    'समेत': 'sʌmeːt',
+    'तिर': 'tiɾʌ',
+    'भन्दा': 'bʰʌndaː',
+    'द्वारा': 'dwaːraː',
+    'ै': 'ai',
+    'नै': 'nʌi'
+}
+
 class NepaliHybridG2P:
     def __init__(self, dict_path="/home/oem/wiseyak_backup/firojpaudel/kokoro_ft/data/dictionary_data.csv"):
         self.word_dict = {}
@@ -522,8 +546,18 @@ class NepaliHybridG2P:
     def convert_word(self, word):
         # 1. Devanagari word
         if re.match(r'^[\u0900-\u097F]+$', word):
+            # A. Direct lookup
             if word in self.word_dict:
                 return self.word_dict[word]
+            
+            # B. Suffix stripping lookup
+            for suffix in sorted(NEPALI_SUFFIXES.keys(), key=len, reverse=True):
+                if word.endswith(suffix) and len(word) > len(suffix):
+                    root = word[:-len(suffix)]
+                    if root in self.word_dict:
+                        return self.word_dict[root] + NEPALI_SUFFIXES[suffix]
+            
+            # C. Fallback to rule G2P
             try:
                 raw_phonemes = self.rule_g2p.to_phonemes_simple(word)
                 return self.clean_rule_ipa(raw_phonemes)
@@ -559,5 +593,5 @@ if __name__ == "__main__":
     
     # Test hybrid G2P
     g2p = NepaliHybridG2P()
-    test_ph, _ = g2p("नेपाली mobile notifications चेक गर्ने")
+    test_ph, _ = g2p("नेपाली mobile notifications चेक गर्ने सांसदहरूले बैठकले")
     print("Phonemes test:", test_ph)
