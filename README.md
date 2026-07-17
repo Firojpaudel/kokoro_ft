@@ -141,7 +141,7 @@ A clean and generic Gradio web interface is provided in [gradio_app.py](file:///
 
 ### Features
 * **Rules-Based Text Normalization**: Uses [text_normalizer.py](file:///home/oem/wiseyak_backup/firojpaudel/kokoro_ft/text_normalizer.py) to automatically preprocess and sanitize inputs using strict priority rules (Dates → Years → Currency → Numbers → Abbreviations → Contractions → Punctuation).
-* **Parallel Chunked Synthesis**: Automatically segments long text by sentence boundaries (`।`, `.`, `?`, `!`, `\n`) and synthesizes them in parallel using a thread pool. This concurrent execution of the CPU-bound G2P (grapheme-to-phoneme) preprocessing reduces multi-sentence latency by **40% to 60%**.
+* **Sequential Chunked Synthesis**: Automatically segments long text by sentence boundaries (`।`, `.`, `?`, `!`, `\n`) and synthesizes them sequentially. This preserves the thread-safety of the underlying grapheme-to-phoneme (G2P) engine while maintaining high synthesis speeds (under 2 seconds total for large paragraphs).
 * **Automatic Silence Insertion**: Concatenates chunks with a natural `0.25`-second silent transition between sentences.
 * **UI Cleanliness**: Generic, emoji-free layout showing the inputs, generated audio, phonemes, and the fully sanitized/normalized text.
 
