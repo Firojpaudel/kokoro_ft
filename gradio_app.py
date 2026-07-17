@@ -15,6 +15,9 @@ if _kokoro_submodule.exists() and str(_kokoro_submodule) not in sys.path:
 
 from kokoro import KModel, KPipeline
 import kokoro.pipeline as kp
+from text_normalizer import normalize_text
+import numpy as np
+import re
 
 # Register Nepali dynamically in KPipeline
 kp.LANG_CODES['n'] = 'ne'
@@ -40,26 +43,66 @@ voice = torch.load(VOICEPACK_PATH, map_location="cpu", weights_only=True)
 
 def tts_interface(text, speed):
     if not text.strip():
-        return None, "Please enter some text."
+        return None, "Please enter some text.", ""
     
     try:
-        generator = pipeline(text, voice=voice, speed=speed)
+        # 1. Normalize the text
+        normalized_text = normalize_text(text)
+        print("Normalized Text:", normalized_text)
+        
+        # 2. Chunk text by sentence boundaries (। ? ! . \n)
+        chunks = re.split(r'([।?!.\n])', normalized_text)
+        
+        sentences = []
+        current_sentence = ""
+        for part in chunks:
+            if not part:
+                continue
+            if part in ['।', '?', '!', '.', '\n']:
+                current_sentence += part
+                sentences.append(current_sentence.strip())
+                current_sentence = ""
+            else:
+                current_sentence += part
+        if current_sentence.strip():
+            sentences.append(current_sentence.strip())
+            
+        sentences = [s for s in sentences if s.strip()]
+        
+        if not sentences:
+            return None, "No text to synthesize.", normalized_text
+            
         all_audio = []
         all_phonemes = []
         
-        for gs, ps, audio in generator:
-            all_phonemes.append(ps)
-            all_audio.append(audio)
-            
+        # 0.25-second silence separator
+        silence = np.zeros(int(24000 * 0.25), dtype=np.float32)
+        
+        for idx, sentence in enumerate(sentences):
+            print(f"Synthesizing chunk {idx+1}/{len(sentences)}: {sentence}")
+            generator = pipeline(sentence, voice=voice, speed=speed)
+            chunk_audio = []
+            for gs, ps, audio in generator:
+                if ps:
+                    all_phonemes.append(ps)
+                if audio is not None and len(audio) > 0:
+                    chunk_audio.append(audio)
+                    
+            if chunk_audio:
+                all_audio.append(np.concatenate(chunk_audio))
+                if idx < len(sentences) - 1:
+                    all_audio.append(silence)
+                    
         if all_audio:
-            import numpy as np
             combined_audio = np.concatenate(all_audio)
             phonemes_str = " | ".join(all_phonemes)
-            return (24000, combined_audio), phonemes_str
+            return (24000, combined_audio), phonemes_str, normalized_text
         else:
-            return None, "Error: No audio was generated."
+            return None, "Error: No audio was generated.", normalized_text
     except Exception as e:
-        return None, f"Execution failed: {str(e)}"
+        import traceback
+        traceback.print_exc()
+        return None, f"Execution failed: {str(e)}", ""
 
 # Create Gradio app with generic layout and absolutely no emojis
 with gr.Blocks() as app:
@@ -84,12 +127,13 @@ with gr.Blocks() as app:
         
         with gr.Column():
             audio_output = gr.Audio(label="Output Audio")
+            normalized_output = gr.Textbox(label="Normalized Text", interactive=False)
             phonemes_output = gr.Textbox(label="Generated Phonemes", interactive=False)
             
     submit_btn.click(
         fn=tts_interface, 
         inputs=[text_input, speed_input], 
-        outputs=[audio_output, phonemes_output]
+        outputs=[audio_output, phonemes_output, normalized_output]
     )
 
 if __name__ == "__main__":
