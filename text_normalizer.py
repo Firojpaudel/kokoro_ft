@@ -1,6 +1,6 @@
+import os
 import re
 import csv
-from nepali_g2p import NepaliG2P
 from misaki import en
 
 NEPALI_NUMS = {
@@ -432,15 +432,16 @@ def normalize_punctuation_misc(text, is_nep):
     if is_nep:
         text = text.replace('&', ' र ')
         text = text.replace('+', ' प्लस ')
-        text = text.replace('-', ' माइनस ')
+        text = re.sub(r'-(?=[०-९0-9])', 'माइनस ', text)
         text = text.replace('=', ' बराबर ')
     else:
         text = text.replace('&', ' and ')
         text = text.replace('+', ' plus ')
-        text = text.replace('-', ' minus ')
+        text = re.sub(r'-(?=[0-9])', 'minus ', text)
         text = text.replace('=', ' equals ')
 
     text = text.replace('@', ' at ')
+    text = text.replace('-', ' ')
     return text
 
 def normalize_sentence(sentence):
@@ -474,29 +475,14 @@ def normalize_text(text):
     res = re.sub(r' +', ' ', res)
     return res.strip()
 
-NEPALI_SUFFIXES = {
-    'हरूले': 'ɦʌruːleː',
-    'हरूलाई': 'ɦʌruːlaːiː',
-    'हरूको': 'ɦʌruːkoː',
-    'हरूका': 'ɦʌruːkaː',
-    'हरूमा': 'ɦʌruːmaː',
-    'हरू': 'ɦʌruː',
-    'लाई': 'laːiː',
-    'ले': 'leː',
-    'को': 'koː',
-    'का': 'kaː',
-    'की': 'kiː',
-    'मा': 'maː',
-    'बाट': 'baːʈʌ',
-    'सँग': 'sʌŋɡʌ',
-    'देखि': 'dekʰi',
-    'समेत': 'sʌmeːt',
-    'तिर': 'tiɾʌ',
-    'भन्दा': 'bʰʌndaː',
-    'द्वारा': 'dwaːraː',
-    'ै': 'ai',
-    'नै': 'nʌi'
-}
+# Ordered list of grammatical suffixes to try stripping — longest first.
+# IPA values are derived from the dictionary at NepaliHybridG2P load time (not hardcoded).
+NEPALI_SUFFIX_KEYS = [
+    'हरूलाई', 'हरूले', 'हरूको', 'हरूका', 'हरूमा',
+    'हरू', 'लाई', 'भन्दा', 'द्वारा', 'देखि', 'समेत',
+    'बाट', 'सँग', 'तिर', 'ले', 'को', 'का', 'की', 'मा',
+    'नै',
+]
 
 G2P_CONSONANTS = {
     'क': 'k', 'ख': 'kʰ', 'ग': 'ɡ', 'घ': 'ɡʰ', 'ङ': 'ŋ',
@@ -505,7 +491,7 @@ G2P_CONSONANTS = {
     'त': 't', 'थ': 'tʰ', 'द': 'd', 'ध': 'dʰ', 'न': 'n',
     'प': 'p', 'फ': 'pʰ', 'ब': 'b', 'भ': 'bʰ', 'म': 'm',
     'य': 'j', 'र': 'r', 'ल': 'l', 'व': 'w',
-    'श': 's', 'ष': 's', 'स': 's', 'ह': 'ɦ',
+    'श': 's', 'ष': 's', 'स': 's', 'ह': 'h',
     'श्र': 'sr', 'क्ष': 'kʃ', 'त्र': 'tr', 'ज्ञ': 'ɡj'
 }
 
@@ -586,10 +572,15 @@ def devanagari_to_ipa(word):
     return "".join(ipa)
 
 class NepaliHybridG2P:
-    def __init__(self, dict_path="/home/oem/wiseyak_backup/firojpaudel/kokoro_ft/data/dictionary_data.csv"):
+    def __init__(self, dict_path=None):
         self.word_dict = {}
         self.en_g2p = en.G2P()
-        
+
+        if dict_path is None:
+            dict_path = os.path.join(
+                os.path.dirname(os.path.abspath(__file__)), "data", "dictionary_data.csv"
+            )
+
         print(f"Loading dictionary from {dict_path}...")
         try:
             with open(dict_path, "r", encoding="utf-8") as f:
@@ -607,30 +598,54 @@ class NepaliHybridG2P:
         except Exception as e:
             print(f"Error loading dictionary: {e}")
 
+        # Build suffix IPA table from the dictionary itself — no hardcoded IPA strings.
+        # For each suffix key, look it up in word_dict first, then fall back to rule engine.
+        self.suffix_ipa = {}
+        for suffix in NEPALI_SUFFIX_KEYS:
+            if suffix in self.word_dict:
+                self.suffix_ipa[suffix] = self.clean_rule_ipa(self.word_dict[suffix])
+            else:
+                # Rule-engine fallback for suffixes not in the dictionary (e.g. single matras)
+                self.suffix_ipa[suffix] = self.clean_rule_ipa(devanagari_to_ipa(suffix))
+        print(f"Suffix IPA table built from dictionary ({len(self.suffix_ipa)} entries).")
+
     def clean_rule_ipa(self, ipa_str):
-        allowed_chars = set(" !\"(),.:;?AIOQSTWYabcdefhijklmnopqrstuvwxyzæçðøŋœɐɑɒɔɕɖəɚɛɜɟɡɣɤɥɨɪɯɰɲɳɴɸɹɻɽɾʁʂʃʈʊʋʌʎʒʔʝʣʤʥʦʧʨʰʲˈˌː̃βθχᵊᵝᵻ—“”…→↓↗↘ꭧ")
+        # Map voiced glottal ɦ (not in Kokoro vocab) to supported standard h
+        ipa_str = ipa_str.replace('ɦ', 'h')
+        # Dictionary IPA uses plain ASCII 'g'; normalise to IPA ɡ so it passes the filter
+        ipa_str = ipa_str.replace('g', 'ɡ')
+        allowed_chars = set(" !\"(),.:;?AIOQSTWYabcdefghijklmnopqrstuvwxyzæçðøŋœɐɑɒɔɕɖəɚɛɜɟɡɣɤɥɨɪɯɰɲɳɴɸɹɻɽɾʁʂʃʈʊʋʌʎʒʔʝʣʤʥʦʧʨʰʲˈˌː̃βθχᵊᵝᵻ—“”…→↓↗↘ꭧ")
         res = "".join(c for c in ipa_str if c in allowed_chars)
         return res
+
+    def _strip_suffix_ipa(self, word):
+        """Recursively strip known Nepali suffixes using dictionary-derived IPA.
+        Lookup root in dict (or recurse further), then reconstruct IPA.
+        Returns IPA string or None if no dictionary match found at any level."""
+        if word in self.word_dict:
+            return self.clean_rule_ipa(self.word_dict[word])
+
+        # Iterate suffix keys longest-first (order preserved from NEPALI_SUFFIX_KEYS)
+        for suffix in NEPALI_SUFFIX_KEYS:
+            if word.endswith(suffix) and len(word) > len(suffix):
+                root = word[:-len(suffix)]
+                root_ipa = self._strip_suffix_ipa(root)
+                if root_ipa is not None:
+                    # Trailing schwa deletion: native Nepali drops final /ʌ/ before suffix
+                    if root_ipa.endswith('ʌ'):
+                        root_ipa = root_ipa[:-1]
+                    return root_ipa + self.suffix_ipa[suffix]
+        return None
 
     def convert_word(self, word):
         # 1. Devanagari word
         if re.match(r'^[\u0900-\u097F]+$', word):
-            # A. Direct lookup
-            if word in self.word_dict:
-                return self.word_dict[word]
-            
-            # B. Suffix stripping lookup
-            for suffix in sorted(NEPALI_SUFFIXES.keys(), key=len, reverse=True):
-                if word.endswith(suffix) and len(word) > len(suffix):
-                    root = word[:-len(suffix)]
-                    if root in self.word_dict:
-                        root_ipa = self.word_dict[root]
-                        # Trailing schwa deletion: strip trailing 'ʌ' from root IPA if present
-                        if root_ipa.endswith('ʌ'):
-                            root_ipa = root_ipa[:-1]
-                        return root_ipa + NEPALI_SUFFIXES[suffix]
-            
-            # C. Fallback to custom Devanagari G2P rules
+            # A. Recursive dict lookup + suffix stripping
+            res = self._strip_suffix_ipa(word)
+            if res is not None:
+                return res
+
+            # B. Fallback to custom Devanagari G2P rules
             try:
                 raw_phonemes = devanagari_to_ipa(word)
                 return self.clean_rule_ipa(raw_phonemes)
@@ -648,15 +663,20 @@ class NepaliHybridG2P:
         return word
 
     def __call__(self, text):
-        tokens = re.findall(r'[\u0900-\u097F]+|[a-zA-Z\-_]+|[^\u0900-\u097F\sa-zA-Z\-_]+|\s+', text)
+        tokens = re.findall(r'[\u0900-\u097F]+|[a-zA-Z]+|[^\u0900-\u097F\sa-zA-Z]+|\s+', text)
         result_phonemes = []
+        prev_was_word = False
         for token in tokens:
-            if re.match(r'^[\u0900-\u097F]+$', token) or re.match(r'^[a-zA-Z\-_]+$', token):
+            if re.match(r'^[\u0900-\u097F]+$', token) or re.match(r'^[a-zA-Z]+$', token):
                 ph = self.convert_word(token)
                 if ph:
+                    if prev_was_word:
+                        result_phonemes.append(' ')
                     result_phonemes.append(ph)
+                    prev_was_word = True
             else:
                 result_phonemes.append(token)
+                prev_was_word = False
         return "".join(result_phonemes), None
 
 if __name__ == "__main__":
