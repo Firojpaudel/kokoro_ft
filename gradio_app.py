@@ -78,18 +78,34 @@ def tts_interface(text, speed):
         # 0.25-second silence separator
         silence = np.zeros(int(24000 * 0.25), dtype=np.float32)
         
-        for idx, sentence in enumerate(sentences):
-            print(f"Synthesizing chunk {idx+1}/{len(sentences)}: {sentence}")
-            generator = pipeline(sentence, voice=voice, speed=speed)
-            chunk_audio = []
-            for gs, ps, audio in generator:
-                if ps:
-                    all_phonemes.append(ps)
-                if audio is not None and len(audio) > 0:
-                    chunk_audio.append(audio)
-                    
-            if chunk_audio:
-                all_audio.append(np.concatenate(chunk_audio))
+        from concurrent.futures import ThreadPoolExecutor
+
+        def process_chunk(sentence):
+            try:
+                generator = pipeline(sentence, voice=voice, speed=speed)
+                chunk_audio = []
+                phonemes = []
+                for gs, ps, audio in generator:
+                    if ps:
+                        phonemes.append(ps)
+                    if audio is not None and len(audio) > 0:
+                        chunk_audio.append(audio)
+                if chunk_audio:
+                    return np.concatenate(chunk_audio), " ".join(phonemes)
+            except Exception as ce:
+                print(f"Error processing chunk: {ce}")
+            return None, ""
+
+        # Run chunks in parallel using thread pool
+        with ThreadPoolExecutor() as executor:
+            results = list(executor.map(process_chunk, sentences))
+            
+        for idx, res in enumerate(results):
+            if res and res[0] is not None:
+                audio, phonemes = res
+                all_audio.append(audio)
+                if phonemes:
+                    all_phonemes.append(phonemes)
                 if idx < len(sentences) - 1:
                     all_audio.append(silence)
                     

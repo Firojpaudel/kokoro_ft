@@ -21,3 +21,6 @@ wandb/
 .DS_Store
 GUIDE.md
 .env
+
+tmp/
+.gradio/
