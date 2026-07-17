@@ -624,7 +624,11 @@ class NepaliHybridG2P:
                 if word.endswith(suffix) and len(word) > len(suffix):
                     root = word[:-len(suffix)]
                     if root in self.word_dict:
-                        return self.word_dict[root] + NEPALI_SUFFIXES[suffix]
+                        root_ipa = self.word_dict[root]
+                        # Trailing schwa deletion: strip trailing 'ʌ' from root IPA if present
+                        if root_ipa.endswith('ʌ'):
+                            root_ipa = root_ipa[:-1]
+                        return root_ipa + NEPALI_SUFFIXES[suffix]
             
             # C. Fallback to custom Devanagari G2P rules
             try:
