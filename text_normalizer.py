@@ -498,10 +498,96 @@ NEPALI_SUFFIXES = {
     'नै': 'nʌi'
 }
 
+G2P_CONSONANTS = {
+    'क': 'k', 'ख': 'kʰ', 'ग': 'ɡ', 'घ': 'ɡʰ', 'ङ': 'ŋ',
+    'च': 'ts', 'छ': 'tsʰ', 'ज': 'dz', 'झ': 'dzʰ', 'ञ': 'n',
+    'ट': 'ʈ', 'ठ': 'ʈʰ', 'ड': 'ɖ', 'ढ': 'ɖʰ', 'ण': 'n',
+    'त': 't', 'थ': 'tʰ', 'द': 'd', 'ध': 'dʰ', 'न': 'n',
+    'प': 'p', 'फ': 'pʰ', 'ब': 'b', 'भ': 'bʰ', 'म': 'm',
+    'य': 'j', 'र': 'r', 'ल': 'l', 'व': 'w',
+    'श': 's', 'ष': 's', 'स': 's', 'ह': 'ɦ',
+    'श्र': 'sr', 'क्ष': 'kʃ', 'त्र': 'tr', 'ज्ञ': 'ɡj'
+}
+
+G2P_VOWELS = {
+    'अ': 'ʌ', 'आ': 'aː', 'इ': 'i', 'ई': 'iː', 'उ': 'u', 'ऊ': 'uː',
+    'ऋ': 'ri', 'ए': 'eː', 'ऐ': 'ʌi', 'ओ': 'oː', 'औ': 'ʌu'
+}
+
+G2P_MATRAS = {
+    'ा': 'aː', 'ि': 'i', 'ी': 'iː', 'ु': 'u', 'ू': 'uː',
+    'ृ': 'ri', 'े': 'eː', 'ै': 'ʌi', 'ो': 'oː', 'ौ': 'ʌu'
+}
+
+def devanagari_to_ipa(word):
+    # Pre-process joint characters
+    word = word.replace('ज्ञ', 'ग्य्')
+    
+    ipa = []
+    i = 0
+    n = len(word)
+    while i < n:
+        char = word[i]
+        
+        if char in G2P_VOWELS:
+            ipa.append(G2P_VOWELS[char])
+            i += 1
+            continue
+            
+        if char in G2P_CONSONANTS:
+            base_ipa = G2P_CONSONANTS[char]
+            has_halant = False
+            has_matra = False
+            matra_val = ''
+            
+            # Check next chars for joint consonants or halant
+            j = i + 1
+            while j < n and word[j] == '्':
+                has_halant = True
+                j += 1
+            
+            if not has_halant and j < n and word[j] in G2P_MATRAS:
+                has_matra = True
+                matra_val = G2P_MATRAS[word[j]]
+                i = j
+                
+            if has_halant:
+                ipa.append(base_ipa)
+                i = j - 1
+            elif has_matra:
+                ipa.append(base_ipa + matra_val)
+            else:
+                if i + 1 == n:
+                    ipa.append(base_ipa)
+                else:
+                    ipa.append(base_ipa + 'ʌ')
+            i += 1
+            continue
+            
+        if char == 'ं':
+            next_char = word[i + 1] if i + 1 < n else ''
+            if next_char in 'पफबभम':
+                ipa.append('m')
+            elif next_char in 'कखगघङ':
+                ipa.append('ŋ')
+            else:
+                ipa.append('n')
+            i += 1
+            continue
+            
+        if char == 'ँ':
+            if ipa:
+                ipa.append('̃')
+            i += 1
+            continue
+            
+        i += 1
+        
+    return "".join(ipa)
+
 class NepaliHybridG2P:
     def __init__(self, dict_path="/home/oem/wiseyak_backup/firojpaudel/kokoro_ft/data/dictionary_data.csv"):
         self.word_dict = {}
-        self.rule_g2p = NepaliG2P()
         self.en_g2p = en.G2P()
         
         print(f"Loading dictionary from {dict_path}...")
@@ -522,25 +608,8 @@ class NepaliHybridG2P:
             print(f"Error loading dictionary: {e}")
 
     def clean_rule_ipa(self, ipa_str):
-        mapping = {
-            'ā': 'aː',
-            'ē': 'eː',
-            'ī': 'iː',
-            'ō': 'oː',
-            'ū': 'uː',
-            'ã': 'ʌ̃',
-            'm̐': '̃',
-            'c': 'ts',
-            'j': 'dz',
-            'ś': 's',
-            'ṣ': 's',
-            'h': 'ʰ',
-        }
-        res = ipa_str
-        for k, v in mapping.items():
-            res = res.replace(k, v)
         allowed_chars = set(" !\"(),.:;?AIOQSTWYabcdefhijklmnopqrstuvwxyzæçðøŋœɐɑɒɔɕɖəɚɛɜɟɡɣɤɥɨɪɯɰɲɳɴɸɹɻɽɾʁʂʃʈʊʋʌʎʒʔʝʣʤʥʦʧʨʰʲˈˌː̃βθχᵊᵝᵻ—“”…→↓↗↘ꭧ")
-        res = "".join(c for c in res if c in allowed_chars)
+        res = "".join(c for c in ipa_str if c in allowed_chars)
         return res
 
     def convert_word(self, word):
@@ -557,9 +626,9 @@ class NepaliHybridG2P:
                     if root in self.word_dict:
                         return self.word_dict[root] + NEPALI_SUFFIXES[suffix]
             
-            # C. Fallback to rule G2P
+            # C. Fallback to custom Devanagari G2P rules
             try:
-                raw_phonemes = self.rule_g2p.to_phonemes_simple(word)
+                raw_phonemes = devanagari_to_ipa(word)
                 return self.clean_rule_ipa(raw_phonemes)
             except Exception:
                 return ""
