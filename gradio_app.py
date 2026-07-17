@@ -25,7 +25,7 @@ CONFIG_PATH = "configs/stage2.yaml"
 # Load model
 device = "cuda" if torch.cuda.is_available() else "cpu"
 print(f"Loading KModel on {device}...")
-kmodel = KModel(repo_id="hexgrad/Kokoro-82M", config=CONFIG_PATH, model=MODEL_PATH)
+kmodel = KModel(repo_id="hexgrad/Kokoro-82M", config=None, model=MODEL_PATH)
 kmodel = kmodel.to(device).eval()
 
 # Load pipeline
