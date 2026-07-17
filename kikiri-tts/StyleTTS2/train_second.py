@@ -750,6 +750,21 @@ def main(config_path):
                 writer.add_scalar("train/d_loss_slm", d_loss_slm, iters)
                 writer.add_scalar("train/gen_loss_slm", loss_gen_lm, iters)
 
+                wandb.log({
+                    "train/mel_loss": running_loss / log_interval,
+                    "train/gen_loss": loss_gen_all,
+                    "train/d_loss": d_loss,
+                    "train/ce_loss": loss_ce,
+                    "train/dur_loss": loss_dur,
+                    "train/slm_loss": loss_lm,
+                    "train/norm_loss": loss_norm_rec,
+                    "train/F0_loss": loss_F0_rec,
+                    "train/sty_loss": loss_sty,
+                    "train/diff_loss": loss_diff,
+                    "train/d_loss_slm": d_loss_slm,
+                    "train/gen_loss_slm": loss_gen_lm,
+                }, step=iters)
+
                 running_loss = 0
 
                 print("Time elasped:", time.time() - start_time)
@@ -903,6 +918,12 @@ def main(config_path):
         writer.add_scalar("eval/dur_loss", loss_align / iters_test, epoch + 1)
         writer.add_scalar("eval/F0_loss", loss_f / iters_test, epoch + 1)
 
+        wandb.log({
+            "eval/mel_loss": loss_test / iters_test,
+            "eval/dur_loss": loss_align / iters_test,
+            "eval/F0_loss": loss_f / iters_test,
+        }, step=iters)
+
         if epoch % saving_epoch == 0:
             if (loss_test / iters_test) < best_loss:
                 best_loss = loss_test / iters_test
@@ -937,6 +958,11 @@ def main(config_path):
         )
         writer.add_scalar("voicepack/acoustic_norm", _acoustic_norm, epoch + 1)
         writer.add_scalar("voicepack/prosodic_norm", _prosodic_norm, epoch + 1)
+
+        wandb.log({
+            "voicepack/acoustic_norm": _acoustic_norm,
+            "voicepack/prosodic_norm": _prosodic_norm,
+        }, step=iters)
         logger.info(
             f"  acoustic_norm={_acoustic_norm:.4f}  prosodic_norm={_prosodic_norm:.4f}"
         )

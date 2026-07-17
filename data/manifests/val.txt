@@ -1,0 +1,1386 @@
+data/audio_24k/nepali_16722.wav|kˈeː hˌaːmɪːlˈaːi jˈoː sˌəpʰʈəwˈeːjəɾˌə pɾəjˈoːɡ ɡˈʌrrnə ənumˌətˌɪ cʰˈə?|0
+data/audio_24k/nepali_5711.wav|mˌaːnəwətˈaːleː ˌeːlɪjˌənəhəɾˈuːkoː ˈaːkɾəmˌəɳəkˌoː sˈaːmənˌaː ɡˌərrnupˈʌrrneː hˈunˈə sˈʌkcʰə bʰənˈeːɾə məlˈaːi cˈɪntaː lˈaːɡcʰə ɾə mˈeːɾoː nɪdʰˈaːɾəmˌaː cˈɪʈəcˌɪʈ pˈʌsɪnˌaː ˌaːũcʰˈə|0
+data/audio_24k/nepali_15801.wav|kˈeː hˈaːmi bˈʌttˌiː kˈʌmə ɡˈʌrrnə sˈʌkcʰɔ̃?|0
+data/audio_24k/nepali_2383.wav|ɡoːdˈaːwəɾˌiː|0
+data/audio_24k/nepali_7784.wav|jˈoː bˈʌs sˌɪkəndˌəɾaːbˈaːdəkˌaː lˈaːɡɪ hoː|0
+data/audio_24k/nepali_4845.wav|lˈuʈ|0
+data/audio_24k/nepali_705.wav|dʰˈeːɾɛː səŋkʰjˈaːmaː bɾˌaːjoːpʰaːˈɪʈsə, lˌaːɪkˈeːn, pʰˈʌŋɡi, ʃɛːwˈaːl ɾə bjˈaːkʈeːɾˌɪjaː tˌəmɪlənˈaːɖukˌoː ɟˈʌŋɡəlˌiː wənˈʌspətˌɪ wɪwˈɪdʰətˌaːmaː pˈʌrrcʰən|0
+data/audio_24k/nepali_12129.wav|jˈoː pɔːɾˈaːɳɪkˌə kˌətʰaːʃˈʌ̃ɡ səmbˈʌndʰɪt cʰˈʌwəʈˌaː dˈãt bʰəˈeːkoː bˌoːdʰɪsˈʌtw nˈaːməkˌoː hˈaːttˌɪːkoː cˈɪtɾə hoː|0
+data/audio_24k/nepali_9373.wav|jˈoː pɾˈʌkɾɪjˌaː sˈuɡəmˌə cʰˈə|0
+data/audio_24k/nepali_4744.wav|kˈeː ɟˌələwˈaːjukˌoː swˈaːbʰaːwˌəleː kˈʌhɪlˌeː tˌəpaːĩlˈaːi tːjˈoː ɾˈaːɟjə cʰˈoːɖnəmˌaː pɾˈeːɾɪt ɡəɾˈeːkoː cʰˈə?|0
+data/audio_24k/nepali_6024.wav|haːmˈɪːleː tˌəpaːĩkˈoː kˈɔːʃəlˌəmaː dʰˈaːɾə ləɡˈaːʊn jˈʌtɪ sˈʌməjˌə kʰˈʌrrcə ɡərjˈɔ̃ ˈʌnɪ ʌbˈə təpˈaːĩ ˈʌrrkɛː ʈʰˌaːũmˈaː kˈaːmə kʰˈoːɟdɛː hˌunuhˈuncʰə? jˈoː tˈə səɾˈaːsəɾˌə ɡˈʌlət kˈuɾaː hoː|0
+data/audio_24k/nepali_17530.wav|sˈʌn dˈui həɟˈaːɾə nˈɔːkoː ɾˈaːɟjə wɪdʰˈaːnəsˌəbʰaː nɪrrwˈaːcənˌəmaː ˈʊnəlˌeː ɾˌaːɟəmˌundɾɪːbˈaːʈ sˈaːnsəd sˈɪʈəkˌaː lˈaːɡɪ pɾˌətɪspˈʌrrdʰaː ɡˈʌɾeː ˈʌnɪ hˈaːɾeː|0
+data/audio_24k/nepali_26183.wav|sˈuːtɾəhˌəɾuːˌənusˌaːɾˌə aːɟˈəː bɪhˈaːn ʃˈaːwəkˌə ləɡˈaːjət lˈʌɡəbʰˌəɡ cʰˈʌwəʈˌaː hˈaːttˌɪːhəɾˌuːkoː ˈeːʊʈˌaː ɟʰˈunɖə məʈˈeːli tʰˈaːnaː ˌɪlaːkaːbʰˈʌndaː ˈʌɡʰɪ cɪlˈaːʊnˌeː cˈɪjaː bəɡˈaːnəmˌaː pəsˈeːpəcʰˌɪ ˈɪnəɡˌu cˈɪjaː bˌəɡaːnətˈʌrrpʰə ɡˈʌjoː|0
+data/audio_24k/nepali_6480.wav|mˈɛːleː mˈeːɾoː kˈaːɾəkˌoː ˈɪnɟɪnˌəkoː sˈʌrrbʰɪsˌɪŋ ɡˈʌrrnə ˈʌntɪmˌə kʂˈʌɳəmˌaː ɾˈaːkʰnaːlˌeː ɾə ʌbˈə ɡjaːɾˈeːɟəlˌeː jˌəsəlˈaːi pˈuɾaː ɡˈʌrrneː kˈaːmə wˈaːstəwˌəmɛː dˈɪkkˌə lˈaːɡdoː cʰˈə|0
+data/audio_24k/nepali_26123.wav|tˌəpaːĩlˈeː jˌəsəpˈʌlʈə bʰˈoːʈ hˈaːlnə kʰˈoːɟnubʰˌəeːkˌoː ˈaːɪɖˌiː pɾəmˈaːɳ tˌəpaːĩkˈoː hˈoinˌə|0
+data/audio_24k/nepali_21630.wav|ˈʊnəkˌoː jˈoː əbʰjˈaːs ɡˈʌrrneː tˈʌɾɪkˌaː jˈʌtɪ ənˈɔːʈʰoː ˈʌnɪ kʰəɾˈaːb cʰˈə kˈʌstoː nəɾˈaːmɾoː dˌeːkʰɪˈeːkoː|0
+data/audio_24k/nepali_5414.wav|məlˈaːi kˌəhɪleːkˈaːhĩ hˈaːmɾoː ɡˈaːũ pʰˈʌrrkən mˈʌn lˈaːɡcʰə|0
+data/audio_24k/nepali_5391.wav|dˈaːdəɾˌaː ɾə nˈʌɡəɾˌə həwˈeːli ˈʌnɪ dˈʌmən dˈɪːwəlˌeː bʰˌaːɾətˈɪːjə sˈʌnsədˌəkoː tˈʌllloː sˈʌdən lˈoːkə səbʰˈaːmaː duˈɪːɟənˌaː sədˈʌsjə pˌəʈʰaːũcʰˈʌn|0
+data/audio_24k/nepali_3840.wav|ˈeːləˌɪɖi lˌaːɪʈəbˈʌlbəhˌəɾuː lˌəɡaːˌʊnuhˈoːs, ɟˈun nˈɪjəmˌɪt lˌaːɪʈəbˈʌlbəhˌəɾuː bʰˈʌndaː cˈaːɾə ɡˈuɳaː ˈʊrrɟaː kˈuʃəl cʰˈʌn, ˈʌnɪ tˌəpaːĩlˈeː pɾəjˈoːɡ nəɡˈʌrrdaː wˌɪdjutˈɪːjə ˈʊpəkˌəɾəɳˌəhəɾˌuː bˈʌndə ɡˈʌrrnə sˌəmɟʰənuhˈoːs|0
+data/audio_24k/nepali_19329.wav|ɟəɾˈoːkoː pɾəcˈʌɳɖə tˈaːp cʰˈə ˈʌʊ bɪɾˈaːmi ˈʌɟʰɛː əcˈeːt cʰˈʌn tˈaɾə cɪntˈaːkoː kˈaːɾəɳ kˈeːhi cʰˈɛːnə|0
+data/audio_24k/nepali_27100.wav|kˈeː təpˈaːĩ pˈaːɡəl hˌunuhˈuncʰə? ˌʊpəcˈaːɾə sˈuɾu hũdˈaː ˈʌnjə ɖˈaːkʈəɾˌəhəɾˌuːleː tˈə pɛ̃tˈaːlɪs dˈɪn aːɾˈaːmə ɡˌərrnupˈʌrrcʰə bʰənˈeːnən tˈə! mˈɛːleː ˈeːkkˌaːɪs dˌɪnəsˈʌmmˌə aːɾˈaːmə ɡˌəɾɪsəkˈeːkoː cʰˈu ˈʌnɪ jˈʌdɪ mə ʌbˈə pˈʌnɪ kˈaːməmˌaː pʰˈʌrrkɪnˌʌ̃ bʰˈʌneː mˈeːɾoː ɟˈaːɡɪɾˌə ɟˈaːncʰə|0
+data/audio_24k/nepali_25473.wav|mˈoːʈaː ɾaːˈɪːki ɡɾˈɪhɪɳˌiː ˈaːpʰɛː ʃˈɪkʂɪtˌaː tʰˈɪɪn|0
+data/audio_24k/nepali_3474.wav|kʰˈaːnəlˌeː bʰˌənsaːlɪːdːwˈaːɾaː nˈɪrrmɪt cˌələcˈɪtɾə ɾˈaːʊɖˌiː ɾaːʈʰˈɔːɾəmˌaː kˈaːmə pˈuɾaː ɡəɾˈeːpəcʰˌɪ ˌʊnəlˈaːi ɾˈaːmə lɪːlˈaːkaː lˈaːɡɪ boːlˈaːɪjˌoː|0
+data/audio_24k/nepali_22956.wav|wˈʌɾɪpˌəɾɪkˌaː sˈeːtaː pʰˈuːl aːɟˈəː ˌoːɪlɪˈeːɾə wˌərrɳəhˈɪːn bʰəˈeːkaː cʰˈʌn|0
+data/audio_24k/nepali_16188.wav|wɪːɳˈaːkoː ɾˈuːpəmˌaː ˈʌcəl ʃˈaːntɪ cʰˈə, maːjˈaːkoː ɾˈuːpəmˌaː cʰˈə ʊttˈaːl təɾˈʌŋɡə, wˈɪːɳaː sˈʌɾəl bʰˈʌeː pˈʌnɪ cˈʌtuɾˌiː cʰˈə, mˈaːjaː cʰˈə aːwˈeːʃ ɾə ʊmˈʌŋɡəmˌaː kˈaːmə ɡˈʌrrneː|0
+data/audio_24k/nepali_21261.wav|səmpˈuːrrɳə mˈuddˌaː pˈʌʃʃcɪmˌiː mˌɪɖɪjˈaːleː ˌʊɖaːˈeːkoː kʰˈʌbəɾˌə hoː bʰˈʌndɛː, jˈʌdjəpˌɪ, ˈʊnəlˌeː bʰɾəʂʈˌaːcˈaːɾəmˌaː ˈaːpʰːnoː ɾeːkˈʌrrɖəkˌoː dɾˈɪɖʰətˌaːkaː sˈaːtʰ bəcˈaːʊ ɡəɾˈeːkaː cʰˈʌn|0
+data/audio_24k/nepali_11194.wav|ˈʌɾəb ʋjaːpˈaːɾi sˌuleːmˈaːnəlˌeː bəlhˈaːɾə ɾə ɟˈurrɟəkˌaː ɾaːɟˈaːkoː bʰˈʌndaː pˌaːləhˌəɾuːʃˈʌ̃ɡ ʈʰˈuloː sˈeːnaː ɾəhˈeːkoː bˌətaːũcʰˈʌn|0
+data/audio_24k/nepali_4479.wav|jˈoː kʰˈeːl sənsˈaːɾəkˌaː pɾˈaːjəh sˈʌbɛː dˌeːʃəhəɾˈuːmaː kʰeːlˈɪncʰə|0
+data/audio_24k/nepali_10575.wav|mˈeːksɪkˌoːmaː cˈaːɾə lˈaːkʰ, cʰˈʌttˌɪs həɟˈaːɾə cʰəjˈaːlɪsˌəɟənˌaː sˈʌŋkɾəmˌɪt bʰəˈeːkaː cʰˈʌn ˈʌnɪ sɛ̃tˈaːlɪs həɟˈaːɾə sˈaːt sˈʌjə cʰˌəjaːlˌɪsəɟənˈaːkoː mɾˈɪtːju bʰəˈeːkoː cʰˈə|0
+data/audio_24k/nepali_24870.wav|mˈeːɾoː ʈʰeːɡˈaːnaː pˌustɪkˈaːmaː jˈoː ɪmˈeːl tʰˌəpnuhˈoːs|0
+data/audio_24k/nepali_22629.wav|kˈeː mə pʰˈoːn peːmˈaːrrpʰət bəɟˈaːɟ pʰˌaːɪnˈeːnsəmˌaː mˈeːɾoː ʋjˈʌktɪɡˌət ɾˈɪɳ pʰˈɪrrtaː tˈɪrrnə sˈʌkcʰu?|0
+data/audio_24k/nepali_8763.wav|sˈʌn ˈʊnnˌaːɪs sˈʌjə sˌəntaːnəbːbˈeːkoː sˈɪɟənˌəmaː dˈʌsəwˌəʈaː dˈɔːɖ tˈʌjə bʰˌəeːkˈaːleː səɲjˈuktə ɾˈaːɟjə ˌəmeːɾɪkˈaːmaː ˈʌrrkoː kˈeːhi wˈʌrrʂəmˌaː jˈʌs kʰˈeːləkˌoː loːkˈʌpɾɪjˌətaː bˈʌɖʰdɛː ɡˈʌjoː|0
+data/audio_24k/nepali_22275.wav|bʰənˈeːpəcʰˌɪ tˌəpaːĩkˈoː nˈaːmə sərrbʰˈeːs hoː|0
+data/audio_24k/nepali_20951.wav|meːɡʰˈaːləjˌəmaː wɪbʰˈɪnnˌə pɾəkˈaːɾəkˌaː stˌənədʰˈaːɾi, cˌəɾaːcuɾˈuŋɡi, sˌəɾɪːsɾˈɪp ɾə kˌɪːɾaːpʰəʈʈjˈaːŋɡɾaːhˌəɾuːkˌoː pˈʌnɪ bɾˈɪhət wɪwˈɪdʰətˌaː cʰˈə|0
+data/audio_24k/nepali_5365.wav|ɾˈaːɟjə ˈaːndʰɾə pɾədˈeːʃ mˈaː kˈunɛː ˌɪeːsəˈaːɪsˌiː kˈeːndɾəhˌəɾuː cʰˈʌn|0
+data/audio_24k/nepali_15480.wav|mə ˈaːpʰːnoː nˌaːnɪːlˈaːi tˌəpaːĩkˈoː nɾˈɪtːjə wɪdjˈaːləjˌəmaː dˈɪɪnˌeː pɾˌəʃɪkʂˌəɳəʃˈʌ̃ɡ səmbˈʌndʰɪt lˈaːɡətˌəhəɾˌuː wˈʌhən ɡˈʌrrnə ˌəsəmˈʌrrtʰə cʰˈu bʰˈʌnnˌeː bˈuɟʰnə kˈɪn ɡˈaːhɾoː bʰˌəɪɾəhˈeːkoː cʰˈə? wɪdjˈaːləjˌəleː tˈə nɾˈɪtːjə kˌəlaːlˈaːi ʋjˌaːwəsaːjˈɪːkəɾˌəɳ ɡˌəɾɪɾəhˈeːkoː deːkʰˈɪncʰə nˈɪ|0
+data/audio_24k/nepali_19409.wav|ɟˌeːeːsəɖˈʌbljuː hoːlɖˈɪŋsə ˈeːləʈˌɪɖi|0
+data/audio_24k/nepali_14443.wav|bˈʌmə wɪspʰˈoːʈəpˌəcʰɪ sˌəmbʰaːwˈɪt sˈaːmpɾədˌaːjɪkˌə dəŋɡˈaːkoː sˈʌməjˌəmaː sˌuɾəkʂˈaːkaː lˈaːɡɪ tˈʌskəɾˌiː ɡˌəɾɪˈeːkoː mˌaːnɪˈeːkoː ɖˈiː kˌəmpənɪːdːwˈaːɾaː aːpˈuːrrtɪ ɡˌəɾɪˈeːkoː əwˈɛːdʰ hˌətɪjˈaːɾəhˌəɾuː ɾaːkʰˈeːkoː aːɾˈoːpəmˌaː sˌəɲɟəjəlˈaːi sˈʌn ˈʊnnˌaːɪs sˈʌjə tˌɪɾaːnəbːbˈeːmaː ɡˌɪɾəpʰtˈaːɾə ɡˌəɾɪˈeːkoː tʰˈɪjoː|0
+data/audio_24k/nepali_15918.wav|kˈeː təpˈaːĩ ˈeːklɛː cˌələcˈɪtɾə hˈeːrrnə ɟˌaːnubʰəˈeːkoː tʰˈɪjoː?|0
+data/audio_24k/nepali_5853.wav|haːmˈɪːleː kʰˈeːtəmˌaː kˈaːmə ɡˈʌrrdaː hˈaːmɾoː kʰˈaːɟaː kʰaːnˈaːkaː lˈaːɡɪ ˌaːɾaːmədˈaːji ɾə cʰˌaːjãdˈaːɾə ʈʰˈaːũ pˈaːeː tˈə kˈʌtɪ ɾˈaːmɾoː hˈuntʰjˌoː hˈɛː|0
+data/audio_24k/nepali_10341.wav|əmˈaːnət|0
+data/audio_24k/nepali_2201.wav|ˈeːkə ɡʰənʈˈaːkoː sˌəpʰaːɾˈɪːmaː wˈaːc ʈˌaːwəɾədˈeːkʰɪ ɟˈʌŋɡəlˌəkoː dɾˈɪʃjə hˈeːrrnə sˈaːtʰɛː pˌərrjəʈˌəkəhˌəɾuːlˈaːi hˈeːrrneː ˈʌwəsˌəɾə pɾˈaːptə hunˈeːcʰə|0
+data/audio_24k/nepali_13783.wav|hˌɪːɾaːkʰˈʌɳɖə ˈeːksəpɾˌeːs|0
+data/audio_24k/nepali_16815.wav|ʈoːlˈɪːleː jˈʌs sˈɪɟənˌəmaː sˈãccˌɛː ɾˈaːmɾoː kʰˈeːljoː ˈʌnɪ sˈʌbɛː kʰˈeːl ɟˈɪtːjoː|0
+data/audio_24k/nepali_27349.wav|dˈʌs ɟˈʌnəwˌəɾi ˈʊnnˌaːɪs sˈʌjə bˌəjaːsˈɪːmaː ɟˌənmɪˈeːki kˈʌlki koːˈeːclɪn ˈeːkəɟˌənaː pʰɾˈaːnseːlˌiː ˌəbʰɪnˈeːtɾi ɾə lˈeːkʰɪkˌaː hˈun ɟˈʌsəlˌeː hˈɪndi cˌələcˌɪtɾəhəɾˈuːmaː kˈaːmə ɡˈʌrrcʰɪn|0
+data/audio_24k/nepali_24792.wav|jˈʌsəkˌaː sˈaːtʰɛː kwˈaːɾaːnʈˌaːɪn kˈeːndɾəmˌaː ˌeːkaːntəwˈaːsəmˌaː ɾˌəheːkˌaːhəɾˈuːkoː səhˈaːjətˌaː ɡˌərrneːhˌəɾuːmˈaːɟʰ sˌeːnɪʈˈaːɪɟˌəɾə ˈeːwəm mˈaːskə pˈʌnɪ pɾədˈaːn ɡˈʌɾɪjˌoː|0
+data/audio_24k/nepali_18442.wav|ɡˌaːũmˈaː bəsˈeːɾə ˌənəlˈaːɪn kˌəkʂaːhəɾˈuːmaː ʊpˈʌstʰɪtˌɪ dˈɪnuʲˌu aːpʰˈɛːmaː ˈeːʊʈˌaː cunˈɔːti hoː|0
+data/audio_24k/nepali_11558.wav|tˌəpaːĩlˈaːi swˈaːɡət cʰˈə bˈaːi!|0
+data/audio_24k/nepali_11524.wav|jˈʌs pˈʌsəlˌəmaː ˌaːɪpˈuɡnəkˌaː lˈaːɡɪ ˈeːkə sˈʌjə mˈaːɪlˌəkoː jˈaːtɾaː ɡəɾˈeːɾə ˌaːũdˈaː pˈʌnɪ jˈoː bˈʌndə bʰəˈeːkoː dˈeːkʰdaː məlˈaːi ɾˈɪsəlˌeː kənpˈaːɾoː tˈaːttˌɪjoː mˈaːlɪkˌəleː tˈə jˈoː kʰˈulɛː ɾˌəhənˈeːcʰə bʰənˈeːkaː tʰˈɪeː|0
+data/audio_24k/nepali_13881.wav|tːjəsˈɛːleː tɪmˈɪːhəɾˌuː ˈaːʊn ɾə ɟˈaːn duwˈɛːkaː lˈaːɡɪ jˈoː suwˈɪdʰaː lˈɪn sˈʌkcʰɔː|0
+data/audio_24k/nepali_14395.wav|ˈʊni kˈeːwəl pˈãc pʰˈɪʈəkˌaː cʰˈʌn tˈaɾə ˈʊnəlˌeː kˈʌtɪ ˈʌɡloː haːwˈaːmaː ˌʊpʰɾɪˈeːɾə bˈaːskeːʈˌəbəl hˈupəkˌoː ɾˈɪmə cʰˈoːeː|0
+data/audio_24k/nepali_7801.wav|cʰjˈaː hˈɔː, ˈaːpʰːnoː pˌəhɪɾˌənəlˈaːi jˈʌsəɾˌiː nəʈˈoːknuhˌoːs nˈə|0
+data/audio_24k/nepali_25542.wav|dˌəkʂɪɳˌəpuːrrwmˈaː, kˈoːʈaː ɾə bˈundi ɟˌɪlllaːhˌəɾuːbʰˈɪtɾəkˌoː bɾˈɪhəd kʂˈeːtɾəlˌeː ʈˌeːbələljˈaːnɖə bˌənaːũcʰˈə|0
+data/audio_24k/nepali_273.wav|ˌɪnɖuɾˈeːnsə ʈˈeːknoːlˌoːɟɪɟ ˈeːləʈˌɪɖi|0
+data/audio_24k/nepali_13354.wav|cˈoːl wˈʌnʃ dˈʌkʂɪɳ bʰˈaːɾətˌəkoː tˈʌmɪl tʰˌaːlaːsˈoːkɾeːʈˌɪkə saːmɾˈaːɟjə tʰˈɪjoː jˈoː wˈɪʃw ˌɪtɪhˈaːsəkˌɛː sˌəbɛːbʰˈʌndaː lˈaːmoː ʃˈaːsən ɡˈʌrrneː wˌənʃəmˈʌdʰjeː ˈeːʊʈˌaː tʰˈɪjoː|0
+data/audio_24k/nepali_11679.wav|mˈʌɲcəkˌaː pəcʰˈaːɖɪ jˈʌtɪ cˈʌrrkoː swɾˈʌmaː nˌəcɪcːjˌaːʊnuhˈoːs tˈə dˌərrʃəkˌəhəɾˈuːleː tˌəpaːĩlˈaːi sˈunnˌə sˈʌkcʰən|0
+data/audio_24k/nepali_23773.wav|sˈoːhɾə ʃɾˈaːdːdʰə|0
+data/audio_24k/nepali_7667.wav|ɡˈoːlɖə mˌoːnɪʈˌaːɪɟˈeːsən skˈɪmə|0
+data/audio_24k/nepali_2813.wav|sˈʌn dˈui həɟˈaːɾə sˈoːhɾəmˌaː bʰˈaːɟəpˌaː nˈɪɡəmˌəkoː sˈʌttˌaːmaː aːˈeːkoː tʰˈɪjoː|0
+data/audio_24k/nepali_10319.wav|hˈʌɟuɾˌə sˈʌɾə, hoː|0
+data/audio_24k/nepali_16306.wav|wˈaːskoː sˈʌhəɾˌə nˌəɟɪkˈɛːkoː mˈoːrrmuɡˌaːoː pˈoːrrʈə ʈɾˈʌsʈəlˌeː kʰˈʌnɪɟ əjˈʌskə, pˈeːʈɾoːlˌɪjəmˌə, kˈoːɪlˌaː ɾə ˌəntərrɾˈaːʂʈɾˌɪjə kənʈˈeːnəɾˌəhəɾˌuː səmhˈaːlcʰə|0
+data/audio_24k/nepali_13996.wav|məlˈaːi jˈoː mˌaːɪkɾoːwˈeːwəmˌaː ˈaːɡoː lˈaːɡcʰə bʰˈʌni ɖˈʌɾə lˈaːɡcʰə jˌəsəlˈaːi bˈʌndə ɡˌərrnuhˈoːs nˈə|0
+data/audio_24k/nepali_5535.wav|ɾˈaːmɾoː mˌəhɪlˌaːhəɾˈuːleː kˈeː lˌəɡaːũcʰˈʌn?|0
+data/audio_24k/nepali_16027.wav|ˌeːcəsɪˈeːl ʈˈeːknoːlˌoːɟɪɟ ˈeːləʈˌɪɖi|0
+data/audio_24k/nepali_8889.wav|sˈʌn dˈui həɟˈaːɾəmˌaː ˌaːɪˌeːməˈeːpʰ ɾə wˈɪʃw bjˈaːŋkəkˌoː ʃˈɪkʰəɾˌə sˈʌmmˌeːlən pɾˈaːɡəmˌaː aːjˈoːɟɪt bʰˈʌjoː ˈʌnɪ jˈʌhã wɛːʃwˈɪkəɾˌəɳ wɪɾˈoːdʰi dˈʌŋɡaː ɡʰˈʌʈɪt bʰˈʌjoː|0
+data/audio_24k/nepali_7974.wav|ˈʊni ʃˌɪwəɟˈɪːkaː dˈoːsɾoː cʰˈoːɾaː tʰˈɪeː, saːmɾˈaːɟjəkˌaː sənstʰˈaːpəkˌə tˈʌtʰaː sˈaːmbʰaːɟˌɪːkaː kˈaːncʰaː sɔːtˈeːlaː bʰˈaːɪ tʰˈɪeː ɾə ʊnˈɪːpəcʰˌɪ ʊttˌəɾaːdʰɪkˈaːɾi bʰəˈeːkaː tʰˈɪeː|0
+data/audio_24k/nepali_15080.wav|kˌəmboːɖɪjˈaːkoː stʰaːnˈɪːjə ˌɪtɪhˈaːs ɾə sənskɾˈɪtɪkˌoː səmɾˈɪdːdʰɪ sˈãccˌɛː mˌənəmˈoːhəkˌə cʰˈə|0
+data/audio_24k/nepali_15912.wav|ˈʌkʈupˌəs|0
+data/audio_24k/nepali_12315.wav|mə mˌumbəɪːbˈaːʈ bˈoːldɛːcʰˌu|0
+data/audio_24k/nepali_5436.wav|tːjˈoː ˈeːʊʈˌaː kˈaːməkˌoː dˈɪn hunˈeːcʰə|0
+data/audio_24k/nepali_17959.wav|pʰˈaːlɡunˌiː nˈaːjəɾˌə|0
+data/audio_24k/nepali_12560.wav|ʈˈɪ ɡˈaːrrɖeːn ˈeːksəpɾˌeːs|0
+data/audio_24k/nepali_19505.wav|məhˈoːdəjˌaː, hˈaːmi tˌəpaːĩlˈaːi ˈaːpʰːnoː ljˈaːpəʈˌəpəkˌoː sˌəpʰʈəwˈeːjəɾˌə səmˈʌsjaː sˌəmaːdʰˈaːn ɡˈʌrrnə mˈʌddˌət ɡərrnˈeːcʰɔ̃ tˈaɾə bʰˌəɡəwˈaːnkoː nˈaːməmˌaː, ˈaːpʰːnoː ljˌaːpəʈˌəpəlˈaːi ˈʌnjə ʈʰˈaːũ nˌəlɛːɟˌaːnuhˈoːs nˈə|0
+data/audio_24k/nepali_23584.wav|nəɾˈeːndɾə mˈoːdi|0
+data/audio_24k/nepali_21543.wav|wˌɪɟəjˈaːkoː ʃɪkʂˈaːkoː bʰˈaːɾə mˈeːɟəɾˌə saːhˈeːbəlˌeː ɡˌɪɾɪːlˈaːi sumpˈeːɾə nɪʃʃcˈɪntə bʰˈʌi bˈʌseː|0
+data/audio_24k/nepali_10193.wav|ɟaːlˈʌndʰəɾˌə sˈɪʈi, njˈu dˈɪllli ˈɪnʈəɾˌəsɪʈˌiː ˈeːksəpɾˌeːs|0
+data/audio_24k/nepali_16949.wav|jˈʌhã, nədˈɪːkoː nˈʌhəɾˌəkoː puːrrwmˈaː, ˌʊbəɖəkʰˈaːbəɖ pəʈʰˈaːɾə pˈʌʃʃcɪmˌiː ɡʰˈaːʈəkˌoː ɟˌələwˈɪbʰaːɟˌəkə ɾˌeːkʰaːsˈʌmmˌə ˈʊʈʰcʰə|0
+data/audio_24k/nepali_9014.wav|ɾˈaːɟjəmˌaː sˈʌŋkɾəmˌəɳəkˌoː nˈɪkoː hˈuneː dˈʌɾə lˌəɡaːtˈaːɾə bˌəɖʰɪɾəhˈeːkoː cʰˈə bʰˈʌneː wˈɪɡət cˈɔːbɪs ɡʰənʈˈaːkoː ˈʌwədʰˌɪmaː ɾˈaːɟjəbʰˌəɾɪ tˈɪn həɟˈaːɾə nəwˈaːsɪːwˌəʈaː nˈʌjã mˈaːmɪlˌaː aːˈeːkaː cʰˈʌn|0
+data/audio_24k/nepali_19312.wav|bˌədəlˈaːmaː, muhˈʌrrɾəmˌəkoː pˈʌhɪlˌoː dˈɪnəkˌoː nˈɔː dˈɪnəpˌəcʰɪ ˌaːsuɾˈaːkoː dˈɪn pˈʌrrdəcʰˌə|0
+data/audio_24k/nepali_8517.wav|mə kˈeː bʰˈʌncʰu ɾə|0
+data/audio_24k/nepali_21863.wav|mˈɛːleː ʈʈjˈaːbleːʈ lˈɪẽ tˈaɾə ˈʌhɪlˌeː mə spˈʌʂʈˌə dˈeːkʰnə sˈʌkdɪnˌʌ̃ ˈʌnɪ mˈeːɾaː hˈaːtəhˌəɾuː kãpˈɪɾəhˌeːkaː cʰˈʌn|0
+data/audio_24k/nepali_10186.wav|mə ɟˈʌstaː mˈaːnɪsˌəhəɾˌuː pˈʌnɪ jˈʌstɛː ˌəwəstʰaːbˈaːʈ ɡˌuɟɾɪˈeːkaː tʰˈɪeː hoːlˈaːn bʰˈʌnnˌeː məlˈaːi wɪʃwˈaːs cʰˈə|0
+data/audio_24k/nepali_24758.wav|kˈʌlllədˌaː|0
+data/audio_24k/nepali_24713.wav|kˈeː kˈʌtɪɟˌənaː ˌaːɪɾəhˈeːkaː cʰˈʌn, bʰˈʌnnˌeː ɟˈaːnnˌə sˈʌkcʰu?|0
+data/audio_24k/nepali_26466.wav|jˈoː dʰˈeːɾɛː hˈʌlkaː wˈʌɟən bʰəˈeːkoː ɾə mulˈaːjəmˌə hˈuncʰə, tˈaɾə jˈʌsəlˌeː tˌəpaːĩlˈaːi kəʈʰjˈaːŋɡɾɪnˌeː ɾə wˈɪkəʈ ɟaːɖˈoːmaː njˈaːnoː ɾˈaːkʰcʰə, jˈʌhi jˈoː sˈaːləkˌoː ədːwˈɪtɪːjˌə wɪʃˈeːʂətˌaː hoː|0
+data/audio_24k/nepali_15262.wav|ɟˈʌb hˌaːmɪːʃˈʌ̃ɡ ɪnʈˈʌrrnəhˌəɾuː hˈuncʰən nˈɪ, tːjˌətɪbˈeːlaː jˈʌstɛː hˈuncʰə təpˈaːĩ ʊɖˈaːnəmˌaː cˈʌɖʰdɛː ɡˈʌrrdaː ˌʊnɪːhˌəɾuːmˈʌdʰjeː ˌeːʊʈˈaːleː ˈʌrrkoː ʋjˈʌktɪkˌoː saːmˈaːnəkˌoː sˈʌʈʈˌaː tˌəpaːĩkˈoː saːmˈaːn ʊtˈaːɾeː|0
+data/audio_24k/nepali_19084.wav|bˈaːbu, ˈʊ ʃˈeːkʰəɾˌə dˈaːɟjuː!|0
+data/audio_24k/nepali_4148.wav|jˈiː wˌɪbʰaːɡˌəhəɾˈuːkoː pˌəkʂəbˈaːʈ ɾˌoːɟəɡˈaːɾə ˈʌwəsˌəɾəkˌoː wɾˈɪdːdʰɪmˌaː ɟˈoːɖ dˌɪɪnˈeːcʰə ˌʊllleːkʰənˈɪːjə cʰˈə, bˌəɟeːʈəlˈaːi lɪˈeːɾə mˌukʰjəmˈʌntɾi tˈʌtʰaː mˈukʰjə sˈʌcɪwˌəleː wɪbʰˈɪnnˌə wˌɪbʰaːɡˌəhəɾˈuːkaː ˌədʰɪkˌaːɾɪːhəɾˈuːsɪt ˈʌləɡ ˈʌləɡ bˈɛːʈʰəkˌə ɡˌəɾɪsəkˈeːkaː cʰˈʌn|0
+data/audio_24k/nepali_27263.wav|tˌəpaːĩlˈeː ˈaːpʰːnɛː hˈaːtəlˌeː bɪɡˈaːrrnə nˌəcaːhʌ̃dˌaːsˈʌmmˌə ˌaːɪsˌəkɾɪməɟˈʌstaː ɟˌəmaːˈeːkaː ˌʊtpaːdˌənəhˌəɾuːlˈaːi dʰˈeːɾɛː lˈaːmoː sˌəməjəsˈʌmmˌə ɟˌəmaːʊnˈeːkoː bʰˌəɳɖaːɾˌəɳəbˈaːʈ bˈaːhɪɾˌə ɾˈaːkʰnuʲˌu hũdˈɛːnə|0
+data/audio_24k/nepali_14697.wav|mˈɛːleː sʈˈoːɾəmˌaː jˈʌsəkˌoː ʈʰˌaːũmˈaː kˈeːhi pˈʌnɪ pʰˈeːlaː pˈaːrrnə nəsˈʌkdaː tˈə məlˈaːi ɾˈɪs ˈʊʈʰcʰə hˈɔː|0
+data/audio_24k/nepali_11838.wav|məlˈaːi dˈə pɾˈɪnʈsəkˌoː wˌeːbəsˈaːɪʈˌətɪɾˌə məlˈaːi lˌɛːɟaːnuhˈoːs|0
+data/audio_24k/nepali_22413.wav|jˌəsəlˈaːi bˌəmbəˈɪːkoː mɪnˈʌrrbʰaː tʰɪˈeːʈəɾˌəmaː lˌəɡaːtˈaːɾə pˈãc wˌərrʂəsˈʌmmˌə deːkʰˈaːɪjˌoː|0
+data/audio_24k/nepali_12960.wav|aːkˈaːseː nˈɪloː|0
+data/audio_24k/nepali_6888.wav|sˈaːtʰɛː, kɾˈɪtɾɪmˌə ɾə stʰˈaːji ɾˈʌŋɡəhˌəɾuː kəɖˈaːɪkˌaː sˈaːtʰ nɪʂˈeːdʰɪt cʰˈʌn!|0
+data/audio_24k/nepali_8018.wav|jˈʌsəˌəɡʰɪ ˈʊhã meːɡʰˈaːləjˌəkaː ɾˈaːɟjəpˌaːləkˌaː ɾˈuːpəmˌaː seːwˈaːɾət hˌunuhˈuntʰjˌoː|0
+data/audio_24k/nepali_4785.wav|hˌumaːjũlˈeː hˌəɾɪjaːɳˈaːkoː wˌərrtəmˈaːn nˈuhə ɟˈɪlllaː meːwˈaːtəkˌaː kʰˌaːnəɟˈaːdaː ɟəmˈaːl kʰˈaːnəkˌiː ɟˈeːʈʰi cʰˌoːɾɪːʃˈʌ̃ɡ wɪwˈaːhə ɡˈʌɾeː ɾə ˈʊnəlˌeː bɛːɾˈaːmə kʰˌaːnəlˈaːi sˈaːni cʰˌoːɾɪːʃˈʌ̃ɡ wɪwˈaːhə ɡˈʌrrnə ˈaːɡɾəhˌə ɡˈʌɾeː|0
+data/audio_24k/nepali_10829.wav|jˈʌs sʈˈeːɖɪjˌəməmˌaː ˈaːʈʰ həɟˈaːɾəɟˌənaː dˈʌrrʃəkˌə mˈaːtɾə ˈʌʈnə sˈʌkcʰən ɾə əkʈˈoːbəɾˌə dˈui həɟˈaːɾə tˈeːhɾəmˌaː ɟˈʌb sˈʌcɪn tˈeːndulˌəkəɾˌəleː jˈʌhã ˈaːpʰːnoː ˈʌntɪmˌə ɾˈʌɳəɟˌiː ʈɾˈʌpʰim mjˈaːɟ kʰˈeːleː tˈʌb jˈoː cərrcˈaːmaː aːˈeːkoː tʰˈɪjoː|0
+data/audio_24k/nepali_21474.wav|pɾˌədʰaːnəmˈʌntɾi nəɾˈeːndɾə moːdˈɪːleː bʰˈʌnnˌubʰəjˌoː, dˌeːʃəlˈaːi ˈʌstʰɪɾˌə ɡˈʌrrneː ʃˈʌtɾukˌoː kˌaːrrjəwˈaːhɪːmˌaːtʰɪ ɾˈaːʂʈɾˌə ˈeːkəɟˌuʈ cʰˈə|0
+data/audio_24k/nepali_10325.wav|hˈaːmɾoː ʃaːkʰˈaːmaː tˌəpaːĩlˈaːi bʰəˈeːkoː nˌəkaːɾˈaːtməkˌə ˌənubʰˌəwˌəkˈaː lˈaːɡɪ mə mˈaːpʰi mˈaːɡcʰu hˈaːmi ʊtkɾˈɪʂʈˌə ɡɾˈaːhəkˌə seːwˈaː pɾədˈaːn ɡˈʌrrnə pɾəjˈaːsəmˌaː cʰˈɔ̃|0
+data/audio_24k/nepali_8867.wav|ˈaːɾətˌiː ɪnɖˈʌsʈɾɪɟ ˈeːləʈˌɪɖi|0
+data/audio_24k/nepali_312.wav|tːjˈoː ɖɾˈaːɪbʰˌəɾəlˌeː tˈə dʰˈeːɾə bʰˈaːɖaː lɪnˈaːkaː lˈaːɡɪ lˈaːmoː bˈaːʈoː poː lˌɪɪɾəhˈeːkoː ɾəhˈeːcʰə mˈeːɾoː tˈə ɾˈɪsəlˌeː kˈʌnsɪɾˌiː tˈaːtɪjˌoː|0
+data/audio_24k/nepali_4119.wav|mˈeːɾoː ljˈaːpəʈˌəp bˈɪɡɾɪjˌoː ɾə məʃˈʌ̃ɡ ɖˈeːʈaː pˌunərrstʰˈaːpənˌaː ɡˈʌrrnə kˈunɛː bjˈaːkəˌəp cʰˈɛːnə tːjəsˈɛːleː mə ˈeːkədˌəmə tənˈaːʊmˌaː cʰˈu|0
+data/audio_24k/nepali_15363.wav|ˈʌsəhˌəɟ ʃˌəbdəlˈaːi kˈʌstoː stʰˈɪtɪmˌaː tˌəpaːĩlˈeː pɾəjˈoːɡ ɡˌərrnuhˈuncʰə?|0
+data/audio_24k/nepali_1489.wav|kˈeː mə jˌunɪsˈeːpʰ lˈaːi dˈaːn ɡˈʌrrnə sˈʌkcʰu?|0
+data/audio_24k/nepali_17531.wav|ʃˈuːnjə ˈeːkə, ʃˈuːnjə sˈaːt, tɾɪpˈʌnnˌə|0
+data/audio_24k/nepali_20637.wav|ˈɪnɖɪjˌən ɾuːpˈɛːjã|0
+data/audio_24k/nepali_10859.wav|mə ʊtpˈaːdən cˈɔːbɪs mˈʌntɾaː bˈeːsən pˈɪʈʰoː pʰərrkˈaːʊn caːhˈʌncʰu|0
+data/audio_24k/nepali_12378.wav|səɾˈaːwətˌiː|0
+data/audio_24k/nepali_8341.wav|ˈaːpʰːnoː ɟɪːwˈʌntə pɾədˈʌrrʃənˌəpəcʰˌɪ jˌuwətˈɪːleː ʈʰˌulaːhəɾˈuːpɾətˌɪ dˌeːkʰaːˈeːkoː wɪnˈʌmɾətˌaː ɾə səmmˈaːn deːkʰˈeːɾə mə nˈɪkɛː kʰˈusi bʰˈʌẽ|0
+data/audio_24k/nepali_4438.wav|tˌɪɾumˈaːlaː ˈeːksəpɾˌeːs|0
+data/audio_24k/nepali_7539.wav|pətʰˈeːɾə pˈaːncaːlˌiː ˈeːʊʈˌaː ˈʌrrdʰə ˌaːtməcˌəɾɪtɾˈaːtməkˌə ˌʊpənjˈaːs hoː ɟˈʌsəmˌaː bəŋɡˈaːləkˌoː ˈeːʊʈˌaː ɡˌaːũkˈoː sˈaːnoː kˈeːʈaː əpˈuːkoː pˌəɾɪpəkwtˈaːkoː wˈʌrrɳən ɡˌəɾɪˈeːkoː cʰˈə|0
+data/audio_24k/nepali_15046.wav|kːjˈaːpɾi ɡlˈoːbəl kːjˈaːpɪʈˌəl ˈeːləʈˌɪɖi|0
+data/audio_24k/nepali_4569.wav|aːsˈaːməmˌaː pɾˌələjˌəkaːlˈɪːn dɾˈɪʃjə ɟətˈaːtətˌɛː dˈeːkʰɪjˌoː|0
+data/audio_24k/nepali_7417.wav|haːmˈɪːleː sˈuɾu ɡəɾˈeːkoː nˈʌjã mˈaːrrkeːʈˌɪŋ ˌəbʰɪjˈaːnəlˌeː dʰˈeːɾɛː cˈaːsoː ʊtpˈʌnnˌə ɡˈʌrrdaː hˈaːmi ʊtsˈaːhɪt bʰˈʌjɔ̃|0
+data/audio_24k/nepali_18901.wav|sˈaːɪkˌəl pˈʌsəlˌəmaː pɾəwˈeːʃ ɡəɾˈeːkoː pˈãc mˌɪneːʈəbʰˈɪtɾɛː mˈeːɾoː bˌəɟeːʈəbʰˈɪtɾə əʈˈaːʊnˌeː jˈʌstoː ʊtkɾˈɪʂʈˌə bˈaːɪkˌə bʰˈeːʈneː ˈaːʃaː mˈɛːleː ɡəɾˈeːkɛː tʰˈɪɪnˌʌ̃|0
+data/audio_24k/nepali_22611.wav|ɖˈɪnəɾˌə bupʰˈeːmaː ˈeːkə naːnˈɪːleː ˈʌɟʰ ˈeːʊʈˌaː dˈʌhi wˈʌɖaː cˌaːhɪɾəhˈeːkoː tʰˈɪjoː tˈaɾə ˌʊsəlˈaːi dˌɪɪˈeːnə bˈɪcəɾˌaː tːjˈoː naːnˈɪːkoː ənuhˌaːɾˌə heːɾˈeːɾə məlˈaːi poː nəɾˈaːmɾoː lˈaːɡjoː|0
+data/audio_24k/nepali_3885.wav|bɪrrjˈaːni|0
+data/audio_24k/nepali_15392.wav|pɾˈɪjə jˈaːtɾi, tˌəpaːĩkˈoː ɾˈeːl ʈˈɪkəʈ bʰˈoːlɪkˌaː lˈaːɡɪ sˌəpʰəlˌətaːpuːrrwkˈʌ stʰˈʌɡɪt ɡˌəɾɪˈeːkoː cʰˈə tˌəpaːĩkˈoː jˈaːtɾaː sˈukʰəd ɾəhˈoːs!|0
+data/audio_24k/nepali_16591.wav|mukˈundɾə hˈɪlsə ɾaːʃʈɾˈɪːjə nɪkˈuɲɟə|0
+data/audio_24k/nepali_16144.wav|ʃjˈaːmaː əŋɡɾˈeːɟi kʰˈuːbɛː ɾˌucaːũcʰˈeː ɡˈɔːɾi pˈʌɖʰnəmˌaː mˈʌnɛː dˈɪnnˌə|0
+data/audio_24k/nepali_7095.wav|kˈʌllli|0
+data/audio_24k/nepali_14807.wav|mə tʰˈoːɾɛː nɪɾˈaːʃ mˈʌhəsˌus ɡərrdˈɛːcʰu kˈɪ ˌʌɪtɪhˈaːsɪkˌə stʰˈʌl ɾˈaːmɾoːʃˌʌ̃ɡ sənɾˈʌkʂɪt tʰɪˈeːnə ɾə ˈʌləɡ bʰəˈeːkoː tʰˈɪjoː|0
+data/audio_24k/nepali_7348.wav|pˈʌkkˌu|0
+data/audio_24k/nepali_22670.wav|jˈoː tˌəpaːĩkˈoː ʊdjˈoːɡəkˌaː pãcˈʌɟənˌaː nˈʌjã ʋjˌəktɪhˌəɾuːlˈaːi bʰˈeːʈnuʲˌu wˈaː pɾˈoːɡɾaːmˌɪŋ wˌɪʃeːʂˌəɟɲəʃˈʌ̃ɡ səmpˈʌrrkə ɾˈaːkʰnuʲˌu ɟˈʌstoː kˈuɾaː hˈunˈə sˈʌkcʰə|0
+data/audio_24k/nepali_22177.wav|kˈeː tˌəpaːĩlˈeː jˈoː wˈʌrrʂə ˈʌrrɟun pˌuɾəskˈaːɾəkˌaː wˌɪɟeːtˈaːhəɾˌuː kˈoː hˈun bʰˈʌnnˌeː sˈunnˌubʰəjˌoː?|0
+data/audio_24k/nepali_25743.wav|ʌbˈə tˈə mˈɛːleː tˌəpaːĩlˈaːi wˈʌrrʂəbʰˌəɾɪ pəɖʰˈeːɾə pˈʌcʰɪkˌaː lˈaːɡɪ pˈaːʈʰ sˌɪkɪɾˈaːkʰnuʲˌu bʰˈʌndaː məlˈaːi ɡˈaːli ɡˌərrnuhˈunnˌə hˈoːlaː nˈɪ?|0
+data/audio_24k/nepali_11124.wav|sˈʌɾə, kɾˈɪpəjˌaː hˈaːmɾoː ɡjˌaːləɾˈɪːmaː ˌeːkəpˈʌlʈə hˈeːrrnuhˌoːlaː ɾə ʈˈɪppˌəɳi bˈaːkəsˌəmaː tˌəpaːĩkˈaː mˌəhəttwpˈuːrrɳə ʈɪppˌəɳˈɪːhəɾˌuː dˌɪnuhˈoːlaː|0
+data/audio_24k/nepali_10263.wav|sˈʌn əʈʰˈaːɾə sˈʌjə tˌeːɪsədˈeːkʰɪ əʈʰˈaːɾə sˈʌjə cʰˌəbːbɪsəsˈʌmmˌə kˌələkˈʌttˌaːkaː bˈɪsəp ɾəhˈeːkaː ɾˌeːɟɪnˈaːlɖə hˈeːbəɾˌəkaː ənusˌaːɾˌə jˈʌsəkˌoː ɾˈʌŋ spˈʌʂʈˌə ɾˈuːpəmˌaː bʰãɖˈaːmaː ɾaːkʰˈeːkoː mˌaːsuʃˈʌ̃ɡ mˌɪldoːɟˈuldoː tʰˈɪjoː|0
+data/audio_24k/nepali_23487.wav|sˈʌn dˈui həɟˈaːɾə sˈaːtəmˌaː bʰˌɪɪsɪˈoːkaː pɾˈʌmukʰ kˈaːrrjəkˌaːɾi bˈɪl ˌeːleːnəlˈaːi lˌuʈəpˈaːʈ, ɡʰˌusəkʰˈoːɾi ɾə ʂəɖɖjˈʌntɾəkˌoː ˌəbʰɪjˈoːɡəmˌaː dˈoːʂi bʰəˈeːkoː ˌəbʰɪjˈoːɡ ləɡˈaːɪjˌoː|0
+data/audio_24k/nepali_24989.wav|mə pəhˈɪljɛː mˈeːɾoː mˈʌɡəɟˌəleː jˈiː sˈʌbɛː kʰˌaːɪɾəhˈeːkoː cʰˈu ɾə mˈeːɾoː mˈukʰəmˌaː tʰˈukə ˌaːɪɾəhˈeːkoː cʰˈə|0
+data/audio_24k/nepali_24903.wav|tːjˈʌsəkˌoː kˈeːhi sˈʌməjˌəpəcʰˌɪ ˈeːʊʈˌaː wɪwˈaːhəmˌaː ɾˈʌɡʰulˌeː ɡˌaːjətɾɪːlˈaːi bʰˈeːʈnəˌəɡʰɪ wɪwˈaːhə ɡˈʌrrnə caːhˈeːkoː tˌaːɾaːlˈaːi bʰˈeːʈcʰə|0
+data/audio_24k/nepali_20380.wav|mˈɪtʰɪlˌaː ˈeːksəpɾˌeːs|0
+data/audio_24k/nepali_22103.wav|tˌəpaːĩlˈeː bʰˈʌrrkʰəɾˌɛː ˌeːmbulˈeːnsəmˌaː ˈaːɪsˌɪju suwˈɪdʰaː cʰˈə bʰˈʌnnˌubʰəjˌoː|0
+data/audio_24k/nepali_5485.wav|bʰˈɪttˌeː ɡʰˈʌɖi|0
+data/audio_24k/nepali_17168.wav|ɟˈun dˈui həɟˈaːɾə əʈʰˈaːɾəmˌaː, ɟjˈoːtɪlˌeː ɟjˈoːtɪlˌeː kəlˈʌrrsə ʈɪbʰˈɪːmaː pɾəsˈaːɾɪt hˈuneː baːlˈaːɟi ʈˌeːlɪpʰˈɪlmsəkˌoː sˈoː nˈaːɡɪn tˈɪnəmˌaː bˈeːlaː sˌeːhəɡˌələlˈaːi mˈukʰjə mˌəhɪlˈaːkoː bʰˌumɪkˈaːmaː ˌʊtaːɾˈeːkaː tʰˈɪeː|0
+data/audio_24k/nepali_9153.wav|mˈɛːleː tˈə jˈoː ɡɾˈɪhə seːwˈaːmaː kˈunɛː ˈʌɖcən ʊtpˈʌnnˌə hˈuncʰə bʰˈʌnnˌeː soːcˈeːkɛː tʰˈɪɪnˌʌ̃ sˈaːhɾɛː dˈɪkkˌə lˌaːɡɪɾəhˈeːkoː cʰˈə|0
+data/audio_24k/nepali_23665.wav|hoː, sˈʌbɛː mənˈoːnəjˌən ɾə mˌətədˈaːn ˈeːkə mˈʌhɪnˌaː ˌəɡʰɪdˈeːkʰɪ nˈɛː cˌəlɪɾəhˈeːkoː cʰˈə|0
+data/audio_24k/nepali_8840.wav|hoː, tːjˌəsɛːkˈaːɾəɳ mˈɛːleː aːɟˈəː ˈeːʊʈˌaː klˈaːs bˌoːlaːˈeːki hˈũ|0
+data/audio_24k/nepali_4347.wav|ˈoːhə ʈʰˈɪkə cʰˈə, ˈʌhɪlˌeː mˈɛːleː bˈuɟʰẽ|0
+data/audio_24k/nepali_1901.wav|məlˈaːi tˈə wɪʃwˈaːsɛː laːɡˈeːkoː cʰˈɛːnə kˈɪ təpˈaːĩ ˈeːkə wˌərrʂədˈeːkʰɪ nˌəsaːmˈuktə hˌunuhˈuncʰə! jˈoː ˈeːʊʈˌaː lˈaːmoː ˈʌnɪ kˈʌʈʰɪn jˈaːtɾaː ɾˈʌhjoː, tˈaɾə tˌəpaːĩlˈeː jˌəsəlˈaːi pˈaːɾə ɡˈʌrrnubʰˌəjoː!|0
+data/audio_24k/nepali_19270.wav|meːɡʰˈaːləjˌəkoː lˈʌɡəbʰˌəɡ sˈaːt həɟˈaːɾə cʰˈə sˈʌjə tˈeːttˌɪs kɪlˈoːmɪʈˌəɾə sˈʌɖəkˌə səɲɟˈaːl cʰˈə, ɟˌəsəmˈʌdʰjeː tˈɪn həɟˈaːɾə cʰˈə sˈʌjə ˌeːkaːnˈʌbːbeː kɪlˈoːmɪʈˌəɾə bljˈaːkə ʈˈʌp ɾə bãkˈiː tˈɪn həɟˈaːɾə nˈɔː sˈʌjə bəjˈaːlɪs kɪlˈoːmɪʈˌəɾə ɡɾeːbʰˈeːl lˌəɡaːɪˈeːkoː cʰˈə|0
+data/audio_24k/nepali_27387.wav|ˈʊ bãdˈʌɾəkˌoː pˈʌcʰɪpˌəcʰɪ kˈudjoː|0
+data/audio_24k/nepali_7712.wav|ˈaːhə! jˈoː tːjˈʌstoː ɡʰˈaːtəkˌə ˈʌʊdjoːɡˌɪkə əbʰjˌaːsəhˌəɾuːbˈaːʈ ɾˈaːhət hoː|0
+data/audio_24k/nepali_16477.wav|ərrkˈaːkoː ˈaːcəɾˌəɳəkˌoː wɪcˈaːɾə ɡˈʌrrnə njˌaːjaːdʰˈɪːʃ hˈunˈə kʰˈoːɟneːlˌeː ˌeːkətˈʌrrpʰaː wɪcˈaːɾə ɡərjˈoː bʰˈʌneː tːjˈoː əwˈɪcaːɾˌə hˈunˈə ɟˈaːncʰə|0
+data/audio_24k/nepali_21258.wav|jˈiː mˌoːʈəɾəcˈaːləkˌəhəɾˌuː pˈʌnɪ, sˈʌɖəkˌəkoː ɡˈʌlət sˈaːɪɖˌəmaː ɡˈaːɖi cˌəlaːũcʰˈʌn ˈʌnɪ məlˈaːi nˈɛː poː hˈʌrrnə dˈɪncʰən kˈʌmti ɾˈɪs ʊʈʰdˈɛːnə!|0
+data/audio_24k/nepali_7072.wav|tˈaɾə wˈaːsənˌaː ɾə wˌɪlaːsˌɪtaːdˈeːkʰɪ tːjˈoː koːsˈɔːn ʈˈaːɖʰaː ɾəhˈʌncʰə|0
+data/audio_24k/nepali_7500.wav|mə aːɟˈəː tˌəpaːĩkˈaː lˈaːɡɪ bjˈaːŋkə kʰˈaːtaː kʰˈoːlnə sˈʌkneː cʰˈuɪnˌʌ̃ hˌaːmɪːlˈaːi wɪʃˈeːʂ kˌaːɡəɟˈaːtəhˌəɾuː caːhˈɪncʰə ɟˈun hˈaːl cʰuʈˈeːkaː cʰˈʌn kˈunɛː pˈʌnɪ ˌəsuwˈɪdʰaːkˌaː lˈaːɡɪ mə mˈaːpʰi mˈaːɡcʰu|0
+data/audio_24k/nepali_3789.wav|skˈɪl ˈɪnɖɪjˌaː|0
+data/audio_24k/nepali_14115.wav|mə pˈʌnɪ ʈʰˈɪkɛː cʰˈu kˈeː cˌəlɪɾəhˈeːkoː cʰˈə?|0
+data/audio_24k/nepali_25004.wav|sˈʌbɛː kʰˌeːləhəɾˈuːkoː ʊddˈeːʃjə pɾˌəjoːɡˌəkərrtaːlˈaːi bãdʰˈeːɾə ɾˈaːkʰnuʲˌu ˈʌnɪ ˌʊnɪːhˌəɾuːlˈaːi lˈʌt ləɡˈaːʊnˌu hoː bʰˈʌnnˌeː məlˈaːi ɾˈaːmɾəɾˌiː tʰˈaːhaː cʰˈə, tːjəsˈɛːleː mə əhˈɪljɛː jˌəsəlˈaːi kʰˈeːlnə cʰˈoːɖdɛːcʰˌu|0
+data/audio_24k/nepali_18770.wav|məlˈaːi tˈə loːtʰˈʌrrkeː dˈeːkʰneː bˈɪttˌɪkɛː ɖʰˈuŋɡaː hˈaːnnˌə mˌənəlˈaːɡcʰə hˈɔː kˈʌstoː ɡʰˌɪnəlˈaːɡdoː ɟˈaːnəwˌəɾə!|0
+data/audio_24k/nepali_20442.wav|jˈʌdɪ ʊnˈɪːhəɾˌuː wˈɪttˌɪːjə kˌəmpənˈɪːkaː lˈaːɡɪ kˈaːmə ɡˈʌrrcʰən ɾə kˈʌmɪsˌənəkˌaː aːdʰˈaːɾəmˌaː ˈaːpʰːnoː ˈaːjə ˈaːrrɟən ɡˈʌrrcʰən bʰˈʌneː wˈɪttˌɪːjə sˌəlllaːhˌəkaːɾˌəhəɾuːlˈaːi pɾˈaːjə dəlˈaːl wˈaː ɖˈɪləɾˌə bʰənˈɪncʰə|0
+data/audio_24k/nepali_1588.wav|ɡˈaːɟəɾˌəkoː hˌələwˈaː|0
+data/audio_24k/nepali_17818.wav|tːjˈʌhã kʰˈaːtaː wˈɪwəɾˌəɳ wɪkˈʌlpə cʰˈə, ɟˈʌsəlˌeː tˌəpaːĩlˈaːi puːrrwkˈaː lˌeːnədˈeːnəhˌəɾuː hˈeːrrneː ˈʌwəsˌəɾə dˈɪncʰə|0
+data/audio_24k/nepali_21849.wav|ˈʊnəlˌeː sˌəpʰəlˌətaːpuːrrwkˈʌ ˈaːpʰːnoː ʋjaːpˈaːɾɪkˌə ˈʊpəkˌəɾəɳ ɾˈɪɳ tˈɪrrneː ɾə ˈʌrrkoː ʃˈaːkʰaː kˈaːrrjaːlˌəjə kʰoːlˈeːpəcʰˌɪ ˈʊdjəmˌiː cˈʌmkɪlˌoː bʰˈʌɪn|0
+data/audio_24k/nepali_24883.wav|nˈeːllloːɾˌə|0
+data/audio_24k/nepali_25665.wav|kˈɪn kɾˈɪʂɳə swjˈʌmleː jˈoː ɡʰˈoːʂəɳˌaː ɡˌərrnubʰəˈeːnə?|0
+data/audio_24k/nepali_16427.wav|jˈʌsəlˌeː tˌəpaːĩlˈaːi wɪʃwwˈɪdjaːlˌəjəkˌoː cʰˈeːʊmˌɛː purjˈaːũcʰˈə|0
+data/audio_24k/nepali_16845.wav|dəɾˈaːɟ ɾə ʌɪnˈaːhəɾˌuː nˈɪ?|0
+data/audio_24k/nepali_17574.wav|dʰˈeːɾɛː dʰˈeːɾɛː dʰˌənjəwˈaːd, ˈaːmaː! məlˈaːi jˈoː kˈʌpəɖˌaː kˈɪnɪdˌɪnuʲˌu bʰˌəeːkˈoːmaː, məlˈaːi jˈoː sˈaːhɾɛː mˌənəpərjˈoː|0
+data/audio_24k/nepali_7600.wav|ʃɛːlˈɪːkaː wˈɪʂəjˌəmaː jˈʌsəlˌeː neːpˈaːli sˌaːhɪtːjəkˈaːɾəkˌaː sˈʌmmˌukʰ ˈeːʊʈˌaː nˈʌjã dɾˈɪʂʈˌɪkoːɳ ʊpˈʌstʰɪt ɡˈʌrrcʰə ˈʌʊ aːʃʃcˈʌrrjə cʰˈɛːnə, jˈʌsəlˌeː lˈeːkʰəkˌəkaː haːtˈɛːmaː pˌəɾɪpəkwtˈaː pɾˈaːptə ɡəɾˈoːs|0
+data/audio_24k/nepali_6692.wav|dʰˌɪɾubʰˈaːi əmbˈaːni|0
+data/audio_24k/nepali_11841.wav|cˈʌmbəl ˈeːksəpɾˌeːs|0
+data/audio_24k/nepali_516.wav|bˌɪɟulˈɪːkoː səmˈaːn doːkˈaːnəlˌeː məlˈaːi tʰˈoːkə kˌɪnəmˈeːləkˌaː lˈaːɡɪ cʰˈuʈ dɪˈeːɾə wˌəpʰaːdˈaːɾə ɡɾˈaːhəkˌə bʰəˈeːkoː ʃɾˈeːjə nˌədĩdˈaː məlˈaːi ɾˈɪs ˈʊʈʰjoː|0
+data/audio_24k/nepali_9575.wav|ɟˈʌb ɡɾˌaːhəkˌəhəɾˈuːleː hˈaːmɾaː kˌərrməcˌaːɾɪːhəɾˈuːkoː wˌɪʃeːʂˌəɟɲətaːlˈaːi məhˈʌttw dĩdˈɛːnən ɾə ˌʊnɪːhˌəɾuːlˈaːi nɪɾˈʌntəɾˌə pɾˈʌʃnə ɡˈʌrrcʰən, tːjˈoː nˈɪkɛː nˌɪɾutsˈaːhɪt ɡˈʌrrneː kˈɪsɪmˌəkoː hũdˈʌcʰə|0
+data/audio_24k/nepali_26351.wav|ˈʌrrɖəɾˌəkoː ˈʌntɪmˌə pˌəɾɪɳˈaːməlˌeː məlˈaːi wɪɾˈʌktə bʰəˈeːkoː ˌəwəstʰˈaːmaː cʰˈoːɖɪdˌɪjoː mə jˈʌstoː poːˈɪnʈəmˌaː cʰˈu ɟˈʌhã mə mˈeːɾoː bʰˈaːnsaːmˌaː bˈʌsnə pˈʌnɪ sˈʌkdɪnˌʌ̃|0
+data/audio_24k/nepali_17097.wav|məhˈaːʃəjˌaː, hˌaːmɪːʃˈʌ̃ɡ wˌɪkəlˈaːŋɡəhˌəɾuːkˌaː lˈaːɡɪ aːɾˈʌkʂɪt ˈaːsənˌəhəɾˌuː cʰˈʌn|0
+data/audio_24k/nepali_18720.wav|cʰˈʌttˌɪːsəɡˌəɖʰ ˈeːksəpɾˌeːs|0
+data/audio_24k/nepali_397.wav|ɡˈaːntoːkˌə ʊpˈʌstʰɪt sˈɪkkˌɪmə ɾˈaːɟjə kˈaːnunˌiː seːwˈaː pɾˈaːdʰɪkˌəɾəɳ pˈʌɾɪsˌəɾəmˌaː pˈʌnɪ aːɟˈəː ɡˌəɳətˈʌntɾə dˈɪwəs mənˈaːɪjˌoː|0
+data/audio_24k/nepali_11285.wav|ɾaːsˈɪːpuɾˌəmə kɾˈɪʂɳəswˈaːmi lˈʌkʂməɳ ˈeːkəɟˌənaː bʰˌaːɾətˈɪːjə kˌaːrrʈunˈɪsʈə, cˌɪtɾəkˈaːɾə, ɾə hˈaːsjəkˌaːɾə tʰˈɪeː|0
+data/audio_24k/nepali_3189.wav|ɡˈʌt cˈɔːbɪs ɡʰənʈˈaːmaː cʰəpˈʌnnˌə hˌəɟaːɾˌəɟənaːbʰˈʌndaː ˈʌdʰɪkˌə sˈʌŋkɾəmˌɪt mˈaːnɪs ʈʰˈɪkə bʰˈʌeː|0
+data/audio_24k/nepali_11677.wav|ɪndˈɔːɾə, mˈʌksi pːjaːsˈeːnɟəɾˌə|0
+data/audio_24k/nepali_5875.wav|cˈɪʊɾˌiː|0
+data/audio_24k/nepali_11398.wav|sˈʌtɾə, ʃˈuːnjə cʰˈə, ˈʊnnˌaːɪs sˈʌjə nəwˈaːsi|0
+data/audio_24k/nepali_20665.wav|lˈʌbʰ ˈɪn sˌɪməlˌaːbaːhˈeːkə, sˌaːdʰənaːlˈaːi pɾəʃˈʌnsɪt nɪrrdˈeːʃəkˌə wˈɪməl ɾˈoːjəlˌeː bʰˌaːɾətˈɪːjə lˌoːkətˌəntɾəmˈaːtʰɪkˌoː ʋjəŋɡjˈaːtməkˌə cˌələcˈɪtɾə pˈaːɾəkʰˌəkaː lˈaːɡɪ ənubˌəndʰˌɪt ɡəɾˈeːkaː tʰˈɪeː|0
+data/audio_24k/nepali_13670.wav|ɪklˈʌrrksə sərrwˈɪseːɟ ˈeːləʈˌɪɖi|0
+data/audio_24k/nepali_26772.wav|həɾˈeːkə pˌaːɪlˈaːmaː ˈaːpʰːnoː bˈaːʈoː ɡumˈaːʊnˌeː kˈʌtʰaː|0
+data/audio_24k/nepali_14355.wav|tʰərrmˈeːksə ˈeːləʈˌɪɖi|0
+data/audio_24k/nepali_9544.wav|ˈoːmə dˈaːɾə bˈiː dˈaːɾə sˈʌn ˈʊnnˌaːɪs ˌəʈʰaːsˈɪːkoː kˈʌməl swɾˈuːpədːwˈaːɾaː nɪrrdˈeːʃɪt bʰˌaːɾətˈɪːjə hˈɪndi bʰaːʂˈaːkoː ʊttˌəɾəˌaːdʰunˌɪkətaːwˈaːdi dʰˈaːɾəkˌoː pʰˈɪlmə hoː ɟˈʌsəmˌaː ˈʌnɪtˌaː kʌ̃wˈʌɾə, aːdˈɪtːjə lˈʌkʰɪjˌaː ɾə ɡˈoːpi dˌeːsaːˈɪːkoː ˈʌbʰɪnˌəjə cʰˈə|0
+data/audio_24k/nepali_25652.wav|wˈaːhə! təpˈaːĩ bɪhˈaːn ˈeːʊʈˌaː cˈʌɾəɳ ˈʌnɪ sˈãɟʰ ˈʌrrkoː cˈʌɾəɳ kˈaːmə ɡˌərrnuhˈuncʰə! kˈeː təpˈaːĩ kəhˈɪljɛː aːɾˈaːmə ɡˌərrnuhˈunnˌə?|0
+data/audio_24k/nepali_19735.wav|məlˈaːi dʰˌənjəwˈaːd bʰˈʌnnˌuʲu pərrdˈɛːnə|0
+data/audio_24k/nepali_14163.wav|tːjəsˈoːbʰəˌeː saːmˈaːnjə wɛːkˈʌlpɪkˌə cʰˈə kɾˈeːɖɪʈˌəkaː lˈaːɡɪ hoː, hˈoinˌə?|0
+data/audio_24k/nepali_14548.wav|stˈʌnəkˌoː mˈunʈoː|0
+data/audio_24k/nepali_10579.wav|tˈɪnəkˌoː jˈʌstoː saːmˈaːɟɪkˌə ˈʌnɪ pˌəɾəhɪtˈɛːʂi ɟˈɪːwən kˈaːrrjə ɾˈuːpəmˌaː nˌəɟʰəlkˈeːkoː bʰˈʌeː ʃˈeːkʰəɾˌə ɟˈʌstaː pˈaːtɾə bʰɾˈʌməɾˌəmaː nˈɪskənˌeː tʰɪˈeːnən|0
+data/audio_24k/nepali_3595.wav|lˌoːbʰɪːpˈaːpi|0
+data/audio_24k/nepali_14433.wav|məlˈaːi pˈaːltu ɟənˈaːwəɾˌə pˈaːlnə sˈʌkɪnˌeː ɡʰˈʌɾə caːhˈɪncʰə bʰənˈeːɾə kˌətɪpˈʌlʈə bʰˌənɪsəkˈeːkoː cʰˈu tˈaɾə ɟˈʌtɪ pˈʌnɪ dəlˈaːləlˌeː ɡʰˈʌɾə deːkʰˈaːjoː tˈiː sˈʌbɛː ɡʰˈʌɾəmˌaː ɟənˈaːwəɾˌə pˈaːlnə nəpˈaːɪnˌeː deːkʰˈeːɾə mə tˈə ɾˈɪsəlˌeː ɾˈɪnɪnˌɪni hˈunˈə laːɡˈeːkoː cʰˈu tʰˈaːhaː cʰˈɛːnə ˈʊsəlˌeː mˈeːɾaː ˌaːwəʃjˌəkətaːbˈaːɾeː kˈunɛː dʰjˈaːn pˈʌnɪ dɪˈeːkoː cʰˈə kˈɪ cʰˈɛːnə|0
+data/audio_24k/nepali_22761.wav|ˌərrkoːpˈʌlʈə mˌətədˈaːnəkˌaː lˈaːɡɪ ˌaːũdˈaː mˈɛːleː kˈun kˈun kˌaːɡəɟəpˈʌtɾə lɪˈeːɾə ˈaːʊnˌeː bʰənˈeːɾə mə kˌəhãbˈaːʈ ɟˈaːnnˌə sˈʌkcʰu?|0
+data/audio_24k/nepali_11067.wav|kʰˈaːsəmˌaː sˌəɾəkˈaːɾi skˌuləhəɾˈuːmaː kˈeː kuɾˈaːkoː əbʰˈaːwə cʰˈə?|0
+data/audio_24k/nepali_12111.wav|mˈuːrrtɪ ˌeːcəˌeːsəbɪsˈɪːkoː kˌərrpoːɾˈeːʈ bˈoːrrɖəkˌaː ˈeːkəɟˌənaː swtˈʌntɾə nɪrrdˈeːʃəkˌə hˈun ˈʌnɪ ɖˌɪbɪˈeːs bjˈaːŋkə, jˈunɪlˌɪbʰəɾˌə, ˌaːɪsˌɪaːˌɪsɪˈaːi ɾə ˌeːnəɖˌɪʈɪbʰˈɪːkaː bˈoːrrɖəhˌəɾuːmˌaː nɪrrdˈeːʃəkˌə bʰˌəɪsəkˈeːkaː cʰˈʌn|0
+data/audio_24k/nepali_6904.wav|nˈɪɾə ɾˈʌŋ|0
+data/audio_24k/nepali_10362.wav|tˌəpaːĩkˈoː aːmˈaːleː kˈeː kˈeː pˌəkaːˌʊnuhˈuncʰə?|0
+data/audio_24k/nepali_16155.wav|ˈʊnnˌaːɪs, ʃˈuːnjə tˈɪn, ˈʊnnˌaːɪs sˈʌjə ˈeːkkˌaːɪs|0
+data/audio_24k/nepali_20913.wav|jˈoː kˈunɛː poːrrnˈoːɡɾaːpʰˌɪkə pʰˈɪlmə hˈoinˌə ɾə sˈeːnsəɾˌə bˈoːrrɖəbˌaːʈ bˈɪnaː kˈunɛː kˌəʈɔːtˈɪːkoː ˈeː pɾˌəmaːɳəpˈʌtɾə pˌaːũcʰˈə bʰˈʌnnˌeː ˈʊni ˈaːʃaː ɡˈʌrrcʰən|0
+data/audio_24k/nepali_22402.wav|əkʈˈoːbəɾˌə sˈaːt, dˈui həɟˈaːɾə bˈɪsəmˌaː, ˈʊni bʰˌaːɟəpˈaːkoː ɾaːʃʈɾˈɪːjə kˈaːrrjəkˌaːɾi pˌəɾɪʂˈʌdkaː sədˈʌsjəkˌaː ɾˈuːpəmˌaː nɪrrwˈaːcɪt bʰˈʌeː ɟˈun bʰˈaːɾətˌəmaː bʰˌaːɟəpˈaːkoː sərrwˈoːccˌə səɲcˈaːləkˌə nɪkˈaːjə hoː|0
+data/audio_24k/nepali_1937.wav|cˌɪtucˈaːŋeː|0
+data/audio_24k/nepali_8079.wav|jˈʌsɛː kɾˈʌməmˌaː mˌənɪpˈaːl wɪʃwwˈɪdjaːlˌəjəkˌaː kˈuləpˌətɪ lˌeːpʰʈɪnˈeːnʈə ɟˈeːnəɾˌəl ɖˈaːkʈəɾˌə ˈeːmə ɖˈiː bʰˈeːŋkəʈˌeːsəlˌeː mˌukʰjəməntɾˈɪːsɪt ˌʊhãkˈoː kˈaːrrjaːlˌəjəmˌaː bʰˈeːʈ ɡˈʌrrnubʰˌəjoː|0
+data/audio_24k/nepali_11082.wav|jˈoː sˈunəkˌoː sˈaːŋloːmˌaː dˈaːɡ laːɡˈeːkoː cʰˈə ˈʌnɪ təpˈaːĩ jˌəsəlˈaːi pɾaːmˈaːɳɪkˌə bʰˈʌndɛː hˌunuhˈuncʰə ? mə jˈʌhã nˈʌkkˌəli ɡˈʌɾəɡˌəhənˌaː lˈɪn aːˈeːkoː hˈoinˌə|0
+data/audio_24k/nepali_23118.wav|mə ˌaːdʰɪkˈaːɾɪkˌə ɾˈuːpəmˌaː kˈʌɾəkˌoː sˈɪʈ bənˈaːʊnˌeː jˌoːɟənˈaːmaː tʰˈɪẽ tˈaɾə tːjˈʌsəpˌəcʰɪ jˈʌsəkˌoː ˈʊlʈaː sˈoːcẽ|0
+data/audio_24k/nepali_14202.wav|kˌəmpənˈɪːleː nˈaːpʰaː kˌəmaːˈeːtaː pˈʌnɪ jˈʌs wˈʌrrʂə mˈeːɾoː wˈaːrrʂɪkˌə bˈoːnəsˌəmaː aːˈeːkoː kəmˈɪːkoː baːɾˈeːmaː mə wˈaːstəwˌəmɛː kʰˈɪnnˌə cʰˈu|0
+data/audio_24k/nepali_27048.wav|ˈeːkə cʰˈɪnəpˌəcʰɪ lˌəlɪtəsˈɪŋhə cʰˈaːtaː cːjaːpˈeːɾə pʰˈeːɾɪ ɡʰˌəɾəbˈaːʈ bˈaːhɪɾˌə nˈɪskeː ˈʌʊ mˌɛːnaːdeːwˈiː ɾə wɪːɳˈaːleː aːpˈʌstəmˌaː mukʰˈaːmukʰ ɡˈʌɾeː|0
+data/audio_24k/nepali_15242.wav|mə mˈeːɾaː baːbˈaːkaː nˈɪmtɪ ɟˌaːnəkˈaːɾi lˌɪɪɾəhˈeːkoː cʰˈu|0
+data/audio_24k/nepali_26036.wav|əɡʰˈɪllloː sˈaːl lˌəɡaːtˈaːɾə pˈãc wˈʌrrʂəkˌoː pədˈoːnnˌətɪkˌaː lˈaːɡɪ məlˈaːi beːwˈaːstaː ɡˌəɾĩdˈaː mə tˈə ɾˈɪsəlˌeː ˈaːɡoː bʰəˈeːkoː tʰˈɪẽ|0
+data/audio_24k/nepali_14958.wav|ɡleːksˈoːsmɪtʰˌəklaːˌɪn pʰˌərrmaːsjˌuʈɪkˈʌlsə ˈeːləʈˌɪɖi|0
+data/audio_24k/nepali_14331.wav|ˈaːkɾaːmˌəkə ʈoːlˈɪːleː kʰˈeːl sˈuɾu ɡˈʌrrnuʲˌu pˈʌrrneː sˈʌməjˌəkoː mˈaːtɾaː dˌeːkʰaːʊnˈaːkaː lˈaːɡɪ cʰˈuʈʈˌɛː plˈeː ɡʰˈʌɖi pɾəjˈoːɡ ɡəɾˈɪncʰə|0
+data/audio_24k/nepali_9040.wav|wɪːɳˈaːkoː ɡaːlˈaːmaː saːdʰˈaːɾəɳ ˈeːʊʈˌaː cˈoːʈ ɾə kˌuhɪnˈaːmaː ˈʌlɪ ˈʌlɪ cˈoːʈ laːɡˈeːcʰən|0
+data/audio_24k/nepali_19343.wav|ˈʊttˌəɾə bˌəŋɡaːləbˈaːʈ pɾˈaːptə ɾˌɪrrpoːʈˌəənusˌaːɾˌə ˈʊttˌəɾə bəŋɡˈaːl mˈeːɖɪkˌəl kaːlˈeːɟ ˈeːwəm ˌəspətˈaːləmˌaː ɖˈaːkʈəɾˌəhəɾˌuːkoː hˌəɖətˈaːləkˌaː kˈaːɾəɳ wˈɪɡət cˈɔːbɪs ɡʰənʈˈaːkoː ˈʌwədʰˌɪmaː pˈʌndɾəɟˌənaː ɾˌoːɡɪːhəɾˈuːkoː mɾˈɪtːju bʰəˈeːkoː cʰˈə jˈʌdʰjəpˌɪ jˈʌs ãkˈʌɖaːkˌoː ˌaːdʰɪkˈaːɾɪkˌə pˈuʂʈˌɪ bʰˈʌneː ˌəɟʰəsˈʌmmˌə ɡˌəɾɪˈeːkoː cʰˈɛːnə|0
+data/audio_24k/nepali_4984.wav|mutɾˈaːʃəjˌə|0
+data/audio_24k/nepali_15172.wav|ˌəntəɾˈɪkʂə jˈaːtɾɪːlˌaːi ˌaːɪˌeːsəˈeːsəmˌaː pəʈʰˈaːʊnˌeː dɪʃˈaːmaː nˌaːsaːʃʌ̃ɡˈʌkoː sˌaːɟʰeːdaːɾˈɪːkoː ɡʰˈoːʂəɳˌaː ɡˈʌrrdaː mə cˈʌkɪt bʰˈʌẽ!|0
+data/audio_24k/nepali_25673.wav|bʰˈaːɾətˌəmaː stʰaːnˈɪːjə sˌaːhuːkˌaːɾəhəɾˈuːleː mˌaːnəwˈɪːjə bʰˈaːwənˌaː bɪnˈaːkaː ɟˈʌstaː ˈaːkɾaːmˌəkə sˈʌŋkəlˌən ɾˌəɳənˈɪːtɪhˌəɾuː pɾəjˈoːɡ ɡˈʌrrcʰən nˈɪ məlˈaːi tˈə tˈiː sˈʌhən nˈɛː hũdˈɛːnə|0
+data/audio_24k/nepali_6880.wav|tːjˈʌsoː bʰˈʌeː jˈoː swˈaːstʰə suwˈɪdʰaːkˌaː lˈaːɡɪ ˈeːʊʈˌaː səmˈʌɡɾə dɾˈɪʂʈˌɪkoːɳ hoː|0
+data/audio_24k/nepali_13195.wav|eːˈaːɪsˌɪʈɪˌiː swˈɪːkɾˈɪt bʰəˈeːkaː sˈʌbɛː sˌəɾəkˈaːɾi səhˈaːjətˌaː pɾˈaːptə sˌənstʰaːnˌəhəɾˈuːkoː sˈuːci dˌeːkʰaːˌʊnuhˈoːs|0
+data/audio_24k/nepali_26786.wav|tːjˈʌs ɖɾˈaːɪbʰˌəɾəlˌeː cʰˈə mˌəhɪnaːsˈʌmmˌə ˈaːpʰːnoː kəpˈaːl dʰuˈeːkoː tʰɪˈeːnə ˈʌnɪ ˈʊnəkˌoː ʈˌaːʊkˈoːmaː ɟʰĩɡˈaːhəɾˌuː tʰˈɪeː|0
+data/audio_24k/nepali_11018.wav|pɾˌədərrʃənˈɪːmaː ɾˌaːkʰɪˈeːkaː kˌəlaːkɾˈɪtɪhˌəɾuːkˌoː dˈaːjəɾˌaː ˈʌnɪ wɪwˈɪdʰətˌaːleː məlˈaːi sˈãccˌɛː ˈaːʃʃcərrjˌəcəkˌɪt bənˈaːjoː|0
+data/audio_24k/nepali_10957.wav|tːjəsˈɛːleː ʈɾˈʌsʈəlˌeː dˈʌrrʃənˌəməkˌaː lˈaːɡɪ ˌənəlˈaːɪn bˈukɪŋ pəɲɟˈɪːkəɾˌəɳ ɡəɾˈeːɾə pˈʌrrjəʈˌəkə aːwˈaːɡəmˌənəlˌaːi nˈɪjəmˌɪt ɡˈʌrrcʰə|0
+data/audio_24k/nepali_22326.wav|mˈɛːleː mˈeːɾoː ˈaːjəlˌeː ˈaːpʰːnoː kˌəɾəhəɾˈuːmaː jˈʌtɪ dʰˈeːɾɛː pɾəbʰˈaːwə pˈaːrrcʰə bʰˈʌnnˌeː soːcˈeːkɛː tʰˈɪɪnˌʌ̃|0
+data/audio_24k/nepali_7260.wav|mə jˈoː kˈeːkəkˌoː wˌaːstəwˈɪkə mˈuːljəbʰˌəndaː ˈeːkə pˈɛːsaː pˈʌnɪ bˈʌɖʰi tˈɪrrneː cʰˈuɪnˌʌ̃! jˈaːd ɾˈaːkʰnuhˌoːlaː!|0
+data/audio_24k/nepali_10781.wav|kˈeː mə nˈʌjã dˈɪllli ɾeːlwˈeː sʈˌeːsənəbˈaːʈ ɡʰˈʌɾə ɟˈaːn ɟˌətɪsˈʌkdoː cãɖˈoː ˈeːʊʈˌaː ʊbˈeːɾə pˈaːʊn sˈʌkcʰu|0
+data/audio_24k/nepali_7672.wav|lˌoːkəmˈaːnjə tˈɪləkˌə ʈˈʌrrmɪnˌəs, kˌoːcubʰˈeːli ˈeːksəpɾˌeːs|0
+data/audio_24k/nepali_12230.wav|kˈeː tˌəpaːĩlˈeː dʰˈeːɾɛː jˈaːtɾaː ɡˌərrnubʰəˈeːkoː cʰˈə?|0
+data/audio_24k/nepali_17529.wav|lˈaːrrsən ˈeːnɖə ʈˈubɾoː lˌɪmɪʈˈeːɖ|0
+data/audio_24k/nepali_23256.wav|hˈaːmi jˌəsəlˈaːi ənusˌəɾˌəɳ ɡərrnˈeːcʰɔ̃, sˈʌɾə|0
+data/audio_24k/nepali_12887.wav|ˈʌrrkoː tˈʌhə hˌəʈaːɪˈeːpəcʰˌɪ, kˈeːhi loːkˈʌpɾɪjˌə kˌəlaːhəɾˈuːmaː pɾəʃˈɪkʂəkˌəhəɾˌuː tʰˈɪeː ɟˈʌsəlˌeː jˈiː ɟuɟˈutsu ʋjˌutpənnˌəmˈʌdʰjeː ˈeːkəkˌoː ˈʌdʰjəjˌən ɡˈʌɾeː ˈʌnɪ pəcʰˈaːɖɪ ˌʊnɪːhəɾˈuːkoː ˈaːpʰːnɛː ʋjˌutpənnˌəhəɾuːlˈaːi pɾˌətɪspərrdʰˈaːmaː sˈʌpʰəl ɡəɾˈaːeː|0
+data/audio_24k/nepali_20101.wav|mə bɪˈeːsəsˌiː kˈʌmpːjuʈˌəɾə wɪɟɲˈaːnəkˌoː cʰˈaːtɾaː hˈũ ɾə kˈʌmpːjuʈˌəɾə ˌənupɾˌəjˌoːɡəmˈaː snˌaːtəkˈoːttˌəɾə hˈũ|0
+data/audio_24k/nepali_21822.wav|mˌoːhənəlˈaːi ɡˌəmbʰɪːɾəbʰˈaːwəlˌeː nˌəməskˈaːɾə ɡˈʌɾi ˈʌʊ səɾˈaːsəɾˌə bʰˈɪtɾə koːʈʰˈaːmaː ɡˈʌi|0
+data/audio_24k/nepali_5508.wav|neːbʰˈaːɾoː|0
+data/audio_24k/nepali_1190.wav|hˌəbɪbəɡˈʌɲɟə, ɟˈʌbəlˌəpuɾˌə ɟˈaːn ʃətˈaːbdi ˈeːksəpɾˌeːs|0
+data/audio_24k/nepali_8957.wav|təpˈaːĩ nˌeːʈəwˈʌrrkɪŋ kˈaːrrjəkɾˌəməmˌaː ɟãdˈaː sˈʌpʰaː sˈuɡɡʰəɾˌə ɾə ʃˈaːntə dˌeːkʰɪnuhˈoːs ˈʌnɪ mˈaːnɪsˌəhəɾˌuː tˌəpaːĩlˈaːi bʰˈeːʈnə sˈʌhəɟ ənubʰˌəwˌə ɡərrnˈeːcʰən|0
+data/audio_24k/nepali_8218.wav|cɪjˈaːkaː tʰˌɛːlaːhəɾˈuːkoː bˈaːkəs jˈʌtɪ ˈaːdʰunˌɪkə ʃɛːlˈɪːmaː pːjˈaːkɪŋ ɡˈʌrrnə sˌəkɪnˈeːcʰə kˈɪ jˈoː nˈɪkɛː məhˈʌŋɡoː ˌʊpəhˈaːɾə ɟˈʌstɛː dˈeːkʰɪnˌeː cʰˈə bʰənˈeːɾə mˈɛːleː kəhˈɪljɛː kˈʌlpənˌaː pˈʌnɪ ɡəɾˈeːkɛː tʰˈɪɪnˌʌ̃|0
+data/audio_24k/nepali_11902.wav|kˈʌmə wˈʌrrʂaː hˈuneː hũdˈaː jˌəhãkˈoː ɟˌələwˈaːju saːmˈaːnjətˌəjaː sˈukʰkʰˌaː hˈuncʰə|0
+data/audio_24k/nepali_19927.wav|jˈiː jˌoːɟənˌaːhəɾˈuːkaː lˈaːɡɪ mə kˈʌsəɾˌiː sˈaːɪn ˈɪn ɡˈʌrrnə sˈʌkcʰu?|0
+data/audio_24k/nepali_24018.wav|wɾˈɪʂəbʰˌaːwətˌiː|0
+data/audio_24k/nepali_17355.wav|hˈaːmi bʰˌəɡnaːwˌəʃeːʂˌəhəɾˌuːmaːɟʰəbˈaːʈ hĩɖdˈɛː ɡˈʌrrdaː ɡˈaːɪɖˌəleː cˈoːl wˈʌnʃəkˌoː ɡˌɔːɾəwəʃˈaːli wˈɪɡətˌəkoː wˈʌrrɳən ɡˌəɾɪɾˌəhʌ̃dˈaː ˈʊ nˈɪkɛː ʊtsˈaːhɪt dˌeːkʰɪˌɪɾəhˈeːkoː tʰˈɪjoː|0
+data/audio_24k/nepali_26118.wav|mˈeːɾaː pˈuːrrw sˈʌkɾɪjˌə aːpʰˈʌntəlˌeː ˈaːpʰːnaː wˈʌɾɪpˌəɾɪkˌoː sənsˈaːɾə nˈɛː ˌələɟˈaːɪmˌəɾəkˌaː kˈaːɾəɳ bɪrrsˈeːcʰən bʰˈʌnnˌeː kuɾˈaːleː məlˈaːi nˈɪkɛː tɾˈaːsəd stʰˈɪtɪmˌaː ljˌaːɪdɪˈeːkoː cʰˈə nˈɪ|0
+data/audio_24k/nepali_4156.wav|bʰɾˈʌməɾˌəmaː ˈʊnəkˌoː ɾˈʌcənˌaː ˌənupɾˌaːsˌəlˈeː bʰˌəɾɪˈeːkoː cʰˈə|0
+data/audio_24k/nepali_16674.wav|spˌaːɪɖˌəɾəmmjˈaːn cˌələcˈɪtɾəkˌoː səŋɡˈɪːt jˈʌtɪ ʊtsˈaːhəɟˌənəkˌə tʰˈɪjoː kˈɪ jˈʌsəlˌeː tˈə mˈeːɾoː muhˈaːɾəmˌaː pˈʌnɪ muskˈaːn ɟʰəlkˈaːɪdˌɪjoː nˈɪ|0
+data/audio_24k/nepali_19613.wav|dˌuːtaːwˈaːsəmˌaː bʰɪsˈaːkaː lˈaːɡɪ pˌəʈʰaːɪˈeːkoː mˌəhəttwpˈuːrrɳə kˌaːɡəɟˈaːt sˈʌməjˌəmɛː nˌəpuɡˈeːpəcʰˌɪ mə tˈə stˈʌbdʰə bˈʌnẽ|0
+data/audio_24k/nepali_19912.wav|sˈãccˌɛː bʰˈʌnnˌuʲu hoː bʰˈʌneː, jˌəhãkˈaː pɾˈaːjəɟˌəsoː tˌəɾəkˈaːɾi ɾə pʰˌələpʰˌuləhəɾˈuːmaː pˌətɾɛːpˈʌtɾə kˌɪːʈənˈaːʃəkˌə ɾə kɾˈɪtɾɪmˌə ɾˈʌŋəhˌəɾuː lˌəɡaːɪˈeːkaː hˈuncʰən|0
+data/audio_24k/nepali_7337.wav|kˈeː təpˈaːĩ hˈaːmɾoː mˈeːnuʲˌu hˈeːrrnə cˌaːhənuhˈuncʰə?|0
+data/audio_24k/nepali_20482.wav|mˈɛːleː nˈʌjã swˈaːstʰjˌə kˈeːndɾə hˈeːɾẽ ɾə jˈʌsəmˌaː bʰəˈeːkaː suwˈɪdʰaː ɾə jˈʌsəkˌoː sˌəpʰaːɪbˈaːʈ mə pɾˌəbʰaːwˈɪt bʰˈʌẽ|0
+data/audio_24k/nepali_22365.wav|ˈoːhə! jˈʌsəlˌeː məlˈaːi jˈaːd dɪlˈaːjoː, haːmˈɪːleː saːhˈɪtːjɪkˌə coːɾˈɪːkaː lˈaːɡɪ ɟˈãc ɡˌərrnupˈʌrrcʰə|0
+data/audio_24k/nepali_12627.wav|bˈʌs sˈaːhɾɛː ˌaːɾaːmədˈaːjəkˌə tʰˈɪjoː ˈʌnɪ mə dˈui ɡʰənʈˈaːmaː pˈuɡẽ|0
+data/audio_24k/nepali_8528.wav|ʃˈeːkʰəɾˌə mˈɔːn ɾˈʌhjoː|0
+data/audio_24k/nepali_4393.wav|keːdˈaːɾə ɡˈuɾuŋ|0
+data/audio_24k/nepali_26003.wav|bˌɪɾaːlˈoːleː ɾˌɪsaːˈeːkoː bˈeːlaː ˈaːpʰːnoː pˈuccʰəɾˌə lˌukaːũcʰˈə|0
+data/audio_24k/nepali_10256.wav|kãsˈɛː neːɾˈoːljaːkˌə pˈeːnʈsə ˈeːləʈˌɪɖi|0
+data/audio_24k/nepali_16721.wav|kˈɪŋ kˈoːbɾaː|0
+data/audio_24k/nepali_2561.wav|təpˈaːĩ ˌəsaːˌɪnəmˈeːnʈəhˌəɾuːmˌaː hətˈaːɾə ɡˌərrnuhˈoːs bʰˈʌnnˌeː mə cəhˈaːnnˌʌ̃|0
+data/audio_24k/nepali_23000.wav|pətˈʌɲɟəlˌɪkoː jˈoːɡ sˈuːtɾəkˌaː pãcˈʌwəʈˌaː jˈʌmə, nɪɾˈoːdʰəhˌəɾuː, ɟˈɛːnə dʰˈʌrrməkˌaː pãcˈʌwəʈˌaː pɾˈʌmukʰ pɾˌətɪɟɲˈaːhəɾˌuː ɟˈʌstɛː cʰˈʌn, ɟˈʌsəlˌeː jˈiː pˌəɾəmpˌəɾaːhˌəɾuːmˈaːɟʰəkˌoː ˈʌntəɾˌə nˌɪʂeːcˌənəlˈaːi səŋkˈeːt ɡˈʌrrdəcʰˌən|0
+data/audio_24k/nepali_14058.wav|mˌoːtɪbˈɪndu ˈaːnʃɪkˌə wˈaː pˈuːrrɳə, stʰˈaːji wˈaː bˈʌɖʰneː, kˈʌɖaː wˈaː nˈʌɾəmˌə hˈunˈə sˈʌkcʰə|0
+data/audio_24k/nepali_24370.wav|məhˈaːnəɡˌəɾə ɡˈaːs ˈeːləʈˌɪɖi|0
+data/audio_24k/nepali_6974.wav|kˈunɛː dˈeːʃəlˌeː ˌərrkoːlˈaːi hˌətɪjˈaːɾə dɪˈeːɾə jˈudːdʰə ɡˈʌrrnə pɾˈoːtsaːhˌɪt ɡˈʌrrcʰə bʰˈʌneː jˈoː ɡʰɾˈɪɳɪt kˈaːmə hoː|0
+data/audio_24k/nepali_2408.wav|jˈoː kˈun plˌeːʈəpʰˈaːrrməmˌaː ˌaːũcʰˈə,kˈeː təpˈaːĩ məlˈaːi tːjˈoː pˈʌnɪ bətˈaːɪdˌɪn sˌəknuhˈuncʰə?|0
+data/audio_24k/nepali_23941.wav|hˈaːmi keːɾˈaːkoː bˈoːʈəmˌaː bãsˈʌkoː bʰˈaːʈaː bãdʰcʰˈɔ̃|0
+data/audio_24k/nepali_26851.wav|cˌələcˈɪtɾə nɪrrdˈeːʃəkˌə hɾˈɪʂɪkˌeːʃ mˌukʰərrɟɪːlˈaːi kˌɪʃoːɾəlˈaːi bʰeːʈˈeːɾə jˈʌs pˌəɾɪjˌoːɟənaːbˈaːɾeː cʰˈʌləpʰˌəl ɡˈʌrrnə bʰˌənɪˈeːkoː tʰˈɪjoː|0
+data/audio_24k/nepali_22636.wav|bˈɪkɾi ɾə lˈaːbʰ ˈʌwədʰˌɪkoː aːdʰˈaːɾəmˌaː, kˈʌɾəhˌəɾuː ˌəlpəkˈaːlɪkˌə wˈaː lˈaːmoː ˌəwədʰˌɪhəɾˈuːmaː wɪbʰˈaːɟɪt cʰˈʌn|0
+data/audio_24k/nepali_6239.wav|tːjˈʌhã pˈuɡnəkˌaː lˈaːɡɪ kˈʌtɪ sˈʌməjˌə lˈaːɡlaː|0
+data/audio_24k/nepali_17309.wav|hˌɛːdəɾˌaːbaːdˈʌstʰɪt ɾˈaːʂʈɾˌɪːjə ɡɾaːmˈɪːɳ wɪkˈaːs ˈʌnɪ pəɲcˈaːjətˌiː ɾˈaːɟ sənstʰˈaːnəlˌeː sˈʌtət ˌaːɟɪːwˈɪkaː ˈʌnɪ ɟˌələwˈaːju pˌəɾɪwˈʌrrtənˌəkaː pɾˌəbʰaːwˌəhəɾuːlˈaːi nɪjˈʌntɾəɳˌəmaː ɾˈaːkʰneː wˈɪʂəjˌəmaː ˈeːʊʈˌaː pɾəʃˈɪkʂəɳ kˈaːrrjəkɾˌəmə sˈuɾu ɡəɾˈeːkoː cʰˈə|0
+data/audio_24k/nepali_8023.wav|ɟˈeː hˈoːs, jˈʌtɪ lˈaːmoː sˈʌməjˌəpəcʰˌɪ tˌəpaːĩlˈaːi bʰeːʈˈeːɾə ɾˈaːmɾoː lˈaːɡjoː|0
+data/audio_24k/nepali_26027.wav|ˈʊnəkˌoː bʰˌuːmɪkˈaːkaː lˈaːɡɪ, mˌukʰərrɟˈɪːleː ˌɪɟəɾˈaːjəlˌiː seːnˈaːkaː lˈaːɡɪ wˈɪkəsˌɪt sˈʌɖəkˌə ləɖˈaːĩ, ˈaːtməɾˌəkʂaː pɾəɳˈaːli kɾˈʌbʰ məɡˈaːmaː tˈaːlɪmˌə lˈɪɪn|0
+data/audio_24k/nepali_17021.wav|lˈʌnɖən hˈɪtʰɾoː wˌɪmaːnˈʌstʰəlˌəkoː ɾˌeːkʰədˈeːkʰ sˈaːhɾɛː kʰəɾˈaːb cʰˈə ɟˈʌb mə suɾˈuŋɡəhˌəɾuː hũdˈɛː ˈeːʊʈˌaː ʈˌərrmɪnˌələbˈaːʈ ˌərrkoːtˈʌrrpʰə ɟˈaːncʰu, sˌuɾuŋɡˌəhəɾuːbˈaːʈ durrɡˈʌndʰə ˌaːũcʰˈə|0
+data/audio_24k/nepali_3548.wav|jˈiː bʰəjˈaːnəkˌə ɡʰˌəʈənˈaːhəɾˌuː ɾˈustəmˌə əlˈɪːkoː tˈaːɾɪkʰ ˈeː hˈɪndi, ˈʌbdul kˈʌɾɪmˌəkoː bəjˈaːn ˈeː wˈaːkəˌiː ɾə aːnˈʌndə ɾˈaːmə mˈukʰəlˌɪsəkˌoː tˈaːɟəkˌɪɾaː ɟˈʌstaː sˌəməkaːlˈɪːn ˌɪtɪhˌaːsəhəɾˈuːmaː ˈʌbʰɪlˌɪkʰɪt ɡˌəɾɪˈeːkaː tʰˈɪeː|0
+data/audio_24k/nepali_1427.wav|tˌəpaːĩlˈeː cˈaːhənˌu bʰəˈeːkoː sʈˈeːsən cunnˌuhˈoːs|0
+data/audio_24k/nepali_25997.wav|aːɟˈəː ˈʊni cʰˈuʈʈˌɪːmaː tʰˈɪeː bʰənˈeːɾə məlˈaːi ɟˌaːnəkˈaːɾi nˌədɪˈeːkaː peːsˈeːwəɾˌəkoː lˌaːpəɾəwˈaːhɪːpɾˌətɪ məlˈaːi ɾˈɪs ʊʈʰˈeːkoː cʰˈə|0
+data/audio_24k/nepali_1087.wav|ˌʊnɪːhˌəɾuːʃˈʌ̃ɡ lˈaːkʰɔ̃ kəɾˈoːɖɔ̃ ɖˈʌləɾˌəkaː ˌənubˌəndʰˈə, ənumˌoːdˌən ɾə ˌəbʰɪjˈaːnəhˌəɾuː hˈunˈə sˈʌkcʰən|0
+data/audio_24k/nepali_14160.wav|kˈaːləkˌaː mˈeːl|0
+data/audio_24k/nepali_24335.wav|sˈʌɾə, kˈuɾaː kˈeː hoː bʰˈʌneː, hˈaːmɾoː kəlˈeːɟ ˈʊtsəwˌə wˈɪɡət dˈui wˌərrʂədˈeːkʰɪ kˈoːbʰɪɖˌəkaː mˌaːmɪlˌaːhəɾˈuːkaː kˈaːɾəɳ ɾˈʌddˌə ɡˌəɾɪˈeːkoː tʰˈɪjoː bʰˈʌnnˌeː tˌəpaːĩlˈaːi tʰˈaːhɛː cʰˈə|0
+data/audio_24k/nepali_2943.wav|tɾˌuʈɪpˈuːrrɳə bʰˈeːlbʰəlˌeː ɡˈʌrrdaː ɡjˈaːsəkˌoː aːpˈuːrrtɪ ˌəwəɾˈudːdʰə bʰəˈeːkoː kˈaːɾəɳ hˈaːmi bʰˈoːkɛː bˈʌsjɔ̃|0
+data/audio_24k/nepali_15554.wav|ɾeːdːwˈaːɾaː sˈɪrrɟənˌaː ɡˌəɾɪˈeːkaː loːkˈʌpɾɪjˌə pˈaːtɾəhˌəɾuːmˌaː pʰˈeːluɖˌaː dˈə slˈeːtʰ, pɾˈaːdʰjaːpˌəkə sˈoːŋkuː wˈɛːɟɲaːnˌɪkə, kˌətʰaːwˈaːcəkˌə tˈaːɾɪɳˌiː kʰˈuɾoː ɾə ˌʊpənjˌaːsəkˈaːɾə lˌaːləmˈoːhən ɡˈaːŋɡulˌiː pˈʌrrcʰən|0
+data/audio_24k/nepali_9651.wav|wˈɪːɳaː sˈaːhɾɛː cˈɪntɪt cʰˈə|0
+data/audio_24k/nepali_20661.wav|mɔːrrjˈoːttˌəɾə jˈuɡəmˌaː, sˌaːtəwˈaːhənˌəhəɾˌuːleː ɖˈeːkkˌən kʂˈeːtɾəmˌaː ʃˈaːntɪ stʰˈaːpənˌaː ɡˈʌɾeː ɾə wɪdˈeːʃi ˈaːkɾəmˌəɳəkˌaːɾɪːhˌəɾuːkˌoː ˈaːkɾəmˌəɳəkˌoː pɾˌətɪɾˈoːdʰ ɡˈʌɾeː|0
+data/audio_24k/nepali_10152.wav|mˈeːɾoː sʈˈaːrrʈəˌəpəlˌeː ˈʊdjəmˌə pũɟˈɪːpətˌɪbaːʈ pərrjˈaːptə ləɡˈaːni pɾˈaːptə ɡəɾˈeːpəcʰˌɪ mə aːnˈʌndəkˌoː ˌəwəstʰˈaːmaː tʰˈɪẽ|0
+data/audio_24k/nepali_23269.wav|ɟˌəhaːɟˌəkərrmˈɪːhəɾˌuː ˈʌɟʰɛː ɟəhˈaːɟəmˌaː cʰˈʌn ɾə ʊnˈɪːhəɾˌuː ʈʰˈɪkə cʰˈʌn bʰˈʌni ɖˌəbljuˌeːpʰəpˈɪːleː wɪʃwˈaːs ɡˈʌrrcʰə|0
+data/audio_24k/nepali_12146.wav|tˈʌɾuɳˌiː ʃˈeːkʰəɾˌəki aːmˈaːsɪt kˈeːhi kˈuɾaː ɡˈʌrrnə lˈaːɡɪɾˌəhɪtʰˌiː kˈuɾaː ɡˈʌrrdaː ɡˈʌrrdɛː ʃˌeːkʰəɾəpˈʌʈʈˌɪ mˈukʰ pʰərrkˈaːi|0
+data/audio_24k/nepali_23589.wav|ʃˈeːkʰəɾˌəkaː swˈaːrrtʰə ˈʌʊ kˌaːmənˈaːleː tːjˈaːɡ ˈʌʊ sˈʌɲjəmˌəsɪt ʈʰˈaːũ sˌaːʈɪsəkˈeːkaː tʰˈɪeː|0
+data/audio_24k/nepali_8246.wav|ɾaːlˈaːŋ|0
+data/audio_24k/nepali_7834.wav|sˌəməʃɪːtˈoːʂɳə maːtʰˈɪllloː paːhˈaːɖi ɟˈʌŋɡəlˌəkoː pˈʌʈʈˌɪːmaː dʰˈeːɾɛː pɾəɟˈaːtɪkˌaː ɾˈukʰ, ʈʰˈulaː ɾə sˈaːnaː stˌənədʰˈaːɾi ɟˈɪːwə, sˌəɾɪːsɾˈɪp ˈʌnɪ kɪɾˈaːhəɾˌuː paːˈɪncʰən|0
+data/audio_24k/nepali_27563.wav|wˈaːstəwˌəmaː ˌʊnɪːhəɾˈuːleː ʈʰˈaːũ pˌəɾɪwˈʌrrtən ɡˌərrnupˈʌrrcʰə|0
+data/audio_24k/nepali_10615.wav|mə tˌəpaːĩlˈeː jˈoː sˌuːcɪːbˈaːʈ wˈʌstu hˌəʈaːˌʊnuhˈoːs bʰˈʌnnˌeː caːhˈʌncʰu|0
+data/audio_24k/nepali_25096.wav|wɪdʰˈaːnəsˌəbʰaː cunˈaːwəkˌoː tˌəjaːɾˈɪːkoː mˈʌdʰjənˌəɟəɾˌə aːɟˈəː ˈʊttˌəɾə dɪnˈaːɟəpˌuɾə ɟɪlllˈaːkaː kˈʌtɪpˌəjə stʰˌaːnəhəɾˈuːmaː kˈeːndɾɪːjˌə səʃˈʌstɾə bˈʌləkˌaː ɟəwˈaːnəhˌəɾuːlˌeː bˌɪhaːnədˈeːkʰɪ nˈɛː ɾˈuʈ mˈaːrrcə sˈuɾu ɡəɾˈeːkaː cʰˈʌn|0
+data/audio_24k/nepali_12654.wav|kˈeː jˌəsəlˈaːi mˈɪtʰɪlˌaː cˌɪtɾəkˈaːɾi pˈʌnɪ bʰənˈɪncʰə?|0
+data/audio_24k/nepali_17510.wav|pˌətɾɪkˈaːleː ʈˌoːjoːʈˈaːkaː kˈaːrrjəkˌaːɾi ˌʊpaːdʰjˈʌkʂə mˈɪtsuˌoː kˌɪnoːsˌɪtaːlˈaːi ʊdːdʰɾˈɪt ɡˈʌrrdɛː bʰənˈeːkoː cʰˈə, ɟˌaːpaːnəbˈaːhɪɾˌə, hˈaːmi ˈaːpʰːnaː kˌərrməcˌaːɾɪːhəɾˈuːkoː ɾˌoːɟəɡˈaːɾi ɟoːɡˈaːʊn hˌəɾəsˈʌmbʰəwˌə pɾəjˈaːs ɡˈʌrrnə caːhˈʌncʰɔ̃|0
+data/audio_24k/nepali_9073.wav|tˈiː ɡˌunɖaːhəɾˈuːleː tˈə pˈʌsəl mˌaːlɪkˌəhəɾuːbˈaːʈ pˈɛːsaː nɪkˈaːlnə lˌəɡaːũdˈɛː səbˈɛːtɪɾˌə ɡʰumˈeːɾə bəɟˈaːɾəbʰˌəɾɪ aːtˈʌŋkə mˈʌccˌaːjoː nˈɪ|0
+data/audio_24k/nepali_27517.wav|ˈeːʊʈˌaː ɡˌuɟəɾˈaːtiɾ rjˈaːp ɡˈɪːt pˈuːrrɳətˌəjaː kʰaːmˈoːʃ ʃˌaːhədːwˈaːɾaː lˌeːkʰɪˈeːkoː ɾə ɾˈʌcənˌaː ɡˌəɾɪˈeːkoː tʰˈɪjoː, ɟˈun pʰˈɪlməmˌaː cʰˈə tˈaɾə sˌaːʊnɖəʈrrjˈaːkəmˌaː cʰˈɛːnə|0
+data/audio_24k/nepali_19736.wav|kˈunɛː pˈʌnɪ sˌəmudˈaːjə nˈɪrrmɪt səndˈʌrrbʰəkˌaː ɾˈuːpəmˌaː, wˌɪkɪpˌɪɖɪjˈaːkoː sˌaːməɡɾˈɪːmaː tɾˈuʈi hˈuneː səmbʰˈaːwənˌaː ɾəhˈʌncʰə, kɾˈɪpəjˌaː dʰeːɾˈɛːwəʈˌaː sɾˌoːtəhˌəɾuːʃˈʌ̃ɡ tˌəpaːĩkˈaː tˈʌtʰjˌəhəɾˌuː ɟˈãc ɡˌərrnuhˈoːs ɾə tʰˈʌp ɟˌaːnəkaːɾˈɪːkaː lˈaːɡɪ hˈaːmɾoː əswˈɪːkəɾˌəɳ pˌəɖʰnuhˈoːs|0
+data/audio_24k/nepali_2153.wav|dˈɔːtəɾˌiː|0
+data/audio_24k/nepali_21108.wav|tˈaɾə, təpˈaːĩ kˈeːwəl səŋɡʰˈɪːjə sˌəɾəkˌaːɾədːwˈaːɾaː sˈɪːmɪt ˈeːʊʈˌaː nˈɪʃʃcɪt ɾˈʌkəmˌə ɾˈaːkʰnə sˌəknuhˈuncʰə|0
+data/audio_24k/nepali_99.wav|ˈʊnəkˌoː kˈeːndɾɪːjˌə wˌɪcaːɾˌəhəɾuːmˈʌdʰjeː ˈeːʊʈˌaː sˌəŋkəɾˈɪːkəɾˌəɳ hoː, ɟˈʌsəlˌeː ˌeːɖəwˈʌrrɖə sˈeːɖəkˌoː kˌaːməbˈaːʈ pɾˈeːɾəɳˌaː lˈɪi, bˌəhusaːnskɾˈɪtɪkˌətaːbˌaːʈ nˈʌjã saːnskɾˈɪtɪkˌə ɾˌuːpəhəɾˈuːkoː ˌʊdəjəlˈaːi wˈʌrrɳən ɡˈʌrrdəcʰˌə|0
+data/audio_24k/nepali_25831.wav|kɾˈɪʂɳədˌeːwə ɾˈaːjə aːpʰˈɛːleː ʃɾˈiː wˈɛːʂɳəwˌə sˌəmpɾədˈaːjəmˌaː ˌʌʊpəcˈaːɾɪkˌə ɾˈuːpəmˌaː dˈɪːkʂaː lɪˈeːkaː tʰˈɪeː|0
+data/audio_24k/nepali_428.wav|tˌəpaːĩkˈoː ˈaːjə wˈɪwəɾˌəɳəmˌaː ɾəhˈeːkoː sˈʌŋkʰjaː cɪntˈaːɟənˌəkə cʰˈə, ˈʌnɪ jˈʌsəlˌeː ˈʌsəhˌəɟ stʰˈɪtɪ ʊtpˈʌnnˌə ɡˌəɾɪɾəhˈeːkoː cʰˈə|0
+data/audio_24k/nepali_17068.wav|pɾˈaːjəh tˈɪːwɾˈʌ ɟʰɪmkˈaːɪkˌaː kˈaːɾəɳ lˈʌkʂəɳˌəhəɾˌuː ˈʌɟʰ bˈɪɡɾən sˈʌkcʰən|0
+data/audio_24k/nepali_21003.wav|kˈuseː ɔ̃sˈiː|0
+data/audio_24k/nepali_15727.wav|cˌaːɾəmɪnˈaːɾə|0
+data/audio_24k/nepali_15053.wav|jˈiː ɡɾˌaːhəkˌəhəɾˈuːleː ˈaːpʰːnoː kˌɪnəmˈeːl ˌənubʰˌəwˌəkˈaː baːɾˈeːmaː pɾətˈɪkɾɪjˌaː nˌədĩdˈaː sˈaːhɾɛː dˈukʰˌə lˈaːɡcʰə kˌəməsˈeːkəmˌə ˌʊnɪːhəɾˈuːkɛː lˈaːɡɪ kˈeːhi sudʰˈaːɾə tˈə ɡˈʌrrnə səkˈɪntʰjˌoː!|0
+data/audio_24k/nepali_11378.wav|mˈɛːleː bʰˈoːlɪkˌaː lˈaːɡɪ kˈeː kˈʌstaː ɾˌɪmaːˈɪnɖəɾˌəhəɾˌuː sˈeːʈ ɡəɾˈeːkoː tʰˈɪẽ?|0
+data/audio_24k/nepali_17744.wav|mə məhˈeːʃ pɾˈʌdɪp hˈũ, ɾə mə swˈaːstʰjˌə pˌətɾɪkˈaːkoː tˌərrpʰəbˈaːʈ bˌoːlɪɾəhˈeːkoː cʰˈu|0
+data/audio_24k/nepali_17765.wav|ˌəhəmˌədaːbˈaːd|0
+data/audio_24k/nepali_11961.wav|məlˈaːi tːjˈʌsəmˌaː ʈʰˈuloː səmˈʌsjaː bʰˌəɪɾəhˈeːkoː cʰˈə|0
+data/audio_24k/nepali_505.wav|ʃɾˌɪːnɪwˈaːs ɾaːmˈaːnuɟˌən|0
+data/audio_24k/nepali_19093.wav|dˈeːoː|0
+data/audio_24k/nepali_20507.wav|pˈaːɾɪ, ˈʌtɪ pˈaːɾɪ ˌɪːɾaːwədˈɪːkaː kɪnˈaːɾəmˌaː sˈeːtaː ɟˈʌŋɡəlˌiː pʰˈuːl pʰulˈeːkaː cʰˈʌn, ɟˈʌŋɡəlˌɛː ɖʰˌəkəmˈʌkkˌə paːɾˈeːɾə paːnˈɪːmaː ɡʰˈaːməkˌoː ʈˈʌkə laːɡˈeːɾə mənˈoːhəɾˌə ʈˈʌləkˌə sɾˈɪɟən bʰˌəɪɾəhˈeːcʰə, ãkʰˈɛː tˈɪɾɪmˌɪɾɪ pˈaːɾɪdˌɪneː ɡˈʌɾi|0
+data/audio_24k/nepali_20676.wav|ɡʰˈʌʈənˌaː bˌɪhɪbˈaːɾə ɾˈaːtɪkˌoː hoː|0
+data/audio_24k/nepali_11582.wav|tɪmˈɪːleː sˈaːt, cʰˈə, pˈãc ˌətʰəwˈaː cˈaːɾəwˌəʈaː ɡɾˈʌhəɳ ɡˈʌrrnə sˈʌkcʰɔː|0
+data/audio_24k/nepali_26603.wav|ˌəcaːnˌəkəmˈaːɾə ˌəməɾəkˈʌnʈəkˌə baːjˈoːspʰɪjˌəɾə ɾɪɟˈʌrrbhə tˈɪn lˈaːkʰ tɪɾˈaːsi həɟˈaːɾə pˈãc sˈʌjə ˌeːkaːˈʊnnˌə hˈeːkʈəɾˌəkoː kˈul kʂˈeːtɾəpʰˌələʃˌʌ̃ɡ jˌuneːskoːdːwˈaːɾaː mˌaːnjətaːpɾˈaːptə baːjˈoːspʰɪjˌəɾə ɾɪɟˈʌrrbhə hoː|0
+data/audio_24k/nepali_19886.wav|wˈʌɾədʰˌaː|0
+data/audio_24k/nepali_5456.wav|mˈoːhən ʈʰˈuːloː bʰˌaːwənˈaːmaː pərjˈoː|0
+data/audio_24k/nepali_6032.wav|cʰˌələmətʰˈaːŋ|0
+data/audio_24k/nepali_25191.wav|kˈɪnəbʰˌəneː jˈʌs jˈuɡəmˌaː jˈaːɟɲɪkˌə bɾˈaːhməɳ cʰˈɛːnən|0
+data/audio_24k/nepali_5627.wav|kʰˈɛː, məlˈaːi tʰˈaːhaː cʰˈɛːnə kˈeː bʰˈʌnnˌeː|0
+data/audio_24k/nepali_626.wav|ˈoːhə, ˌaːũdˈaː mˈɛːleː jˈoː kˈuɾaː bˈuɟʰnə ɟˈʌɾuɾˌiː tʰˈɪjoː|0
+data/audio_24k/nepali_21039.wav|tˌəpaːĩlˈeː kˈʌsəɾˌiː ˈʊnəkˌoː ˈaːɪɖˌiː pˈaːʊnˌubʰəjˌoː?|0
+data/audio_24k/nepali_21691.wav|cəɳɖˈɪːɡəɖʰ, əmɾˈɪtəsˌəɾə ˈɪnʈəɾˌəsɪʈˌiː ˈeːksəpɾˌeːs|0
+data/audio_24k/nepali_25697.wav|sˈʌtəlˌəɟ|0
+data/audio_24k/nepali_12845.wav|jˈʌdɪ aːɟˈəː mˈeːɾoː kˈunɛː ʋjaːpˈaːɾə bʰˈʌjˈenə ˈʌnɪ pˈɛːsaː kəmˈaːʊn sˌəkɪˈeːnə bʰˈʌneː tˈə mˈeːɾoː pˌəɾɪwˈaːɾə bʰoːkˈɛːleː mˈʌrrcʰə|0
+data/audio_24k/nepali_24815.wav|neːpˈaːli|0
+data/audio_24k/nepali_5720.wav|ɾˌaːɟəɡɾˈɪhə ˈeːksəpɾˌeːs|0
+data/audio_24k/nepali_14293.wav|mˈukʰjə səhˈaːjəkˌə nədˈɪːhəɾˌuː bˈɛːnə, bˌaːɳəɡˈʌŋɡaː, lˈuni ɾə ʊhˈaːl hˈun|0
+data/audio_24k/nepali_24980.wav|sɪjˈaːlədˌəhə sʈˈeːʃənˌəmaː bəsnˈeːt ɾə mˈaːjaː tˌɪnɪːhˌəɾuːlˈaːi wˈɪdaː ɡˈʌrrnə ɡˈʌeː pɾˈʌtʰəmˌə ɡʰˈʌɳʈi lˈaːɡjoː|0
+data/audio_24k/nepali_15232.wav|ˈaːʃaː ɡˈʌɾɔ̃ tːjˌətɪbˈeːlaː mˈaːnɪsˌəhəɾˌuː ˌaːũdˈɛːnən bʰˈʌnnˌeː hˈoinˌə|0
+data/audio_24k/nepali_6245.wav|sˌəsʈeːnˈeːbəl pʰˌaːɪnˈaːnsə skˈɪmə|0
+data/audio_24k/nepali_24447.wav|dˈui ˌaːɳəwˈɪkə kʂˈʌmətˌaː bʰəˈeːkaː dˌeːʃəhəɾˈuːbɪc jˈudːdʰəkˌoː kʰˈʌtəɾˌaː ɾə ˌaːɳəwˈɪkə ˌaːdaːnˌəpɾədˈaːnəkˌoː səmbʰˈaːwənˌaː bˈʌɖʰdɛː ɟãdˈaː, ˌəntərrɾˈaːʂʈɾˌɪjə kˌuːʈənˈɪːtɪkˌə mˌədʰjəstʰətˈaːleː stʰˌɪtɪlˈaːi mˈʌttʰəɾˌə ɡˈʌrrnə dʰjˈaːn kˈeːndɾɪt ɡərjˈoː|0
+data/audio_24k/nepali_24942.wav|sˌɪŋhəlˈaːi sˌɪkʰəhˌəɾuːlˈaːi ˌeːkətaːbˈʌdːdʰə ɡˈʌrrneː ɾə səmɾˈɪdːdʰə sˈɪkʰ saːmɾˈaːɟjəkˌoː stʰˈaːpənˌaː kˈaːrrjəkˌaː lˈaːɡɪ smˈʌɾəɳ ɡəɾˈɪncʰə|0
+data/audio_24k/nepali_15263.wav|hɪmˈaːləjˌə|0
+data/audio_24k/nepali_26622.wav|jˈoː hˈaːmɾoː ãkʰˈaːkaː lˈaːɡɪ ˈeːʊʈˌaː bʰˈʌwjˈə dɾˈɪʂjə hˌunupˈʌrrcʰə|0
+data/audio_24k/nepali_8094.wav|ˌeːməˌaːɾəˈeːpʰ ˈeːləʈˌɪɖi|0
+data/audio_24k/nepali_15330.wav|mˈɛːleː ˌəhɪleːsˈʌmmˌə mˌətədˈaːn ɡəɾˈeːkoː cʰˈuɪnˌʌ̃|0
+data/audio_24k/nepali_10146.wav|pɾˈaːɡəmˌaː kʰˌɪcɪˈeːkaː ˈʌnjə cˈeːkə pʰˌɪlməhəɾˈuːmaː ˈeːmpʈɪɟ, eːmˈeːɖɪjˌəs ɾə dˈə pʰˈɪpʰtʰə hˌərrsəmmjˈaːn ˈɪɟ pʰˈɪjəɾˌə saːmˈeːl cʰˈʌn|0
+data/audio_24k/nepali_2157.wav|ˈʊni sˈʌhəɾˌə pˈʌnɪ hˈeːrrnə caːhˈʌncʰən, kˈunɛː pɾəkˈaːɾəlˌeː|0
+data/audio_24k/nepali_19762.wav|wəjˈʌskə kʰaːtˈaːkoː tˌulənˈaːmaː naːbˈaːlɪɡˌəkoː kʰaːtˈaːkaː lˈaːɡɪ ˌʊpəlˈʌbdʰə wɪwˈɪdʰ suwˈɪdʰaːhˌəɾuː deːkʰˈeːɾə mə cˈʌkɪt bʰˈʌẽ jˈʌsəlˌeː məlˈaːi pʰˈeːɾɪ bˈʌccˌaː bˈʌnnˌeː ˈɪccʰaː dɪlˈaːjoː|0
+data/audio_24k/nepali_15393.wav|jˈʌs sˈaːɪʈˌəkoː sˈʌhəmˌətɪ hoː, njˈaːnoː, maːjˈaːlu, ɾə mˈɪʈʰoː tˈaɾə wˈaːkkˌə pˈaːrrneː cʰˈɛːnə, dˈə lˌəncəbˈʌksə pˈʌhɪlˌoː pˈʌʈəkˌəkaː nɪrrdˈeːʃəkˌə ɾɪtˈeːʃ bətɾˈaːkoː cˈʌtuɾˌə mˌənoːɾˈʌɲɟəkˌə hoː|0
+data/audio_24k/nepali_4739.wav|ʈʰˈɪkə cʰˈə, tˌəpaːĩlˈeː jˈoː sˈʌhi ɡˌərrnuhˈuncʰə bʰˈʌni sunˈɪʃʃcɪt ɡˌərrnuhˈoːs mə pʰˈeːɾɪ jˌəsəlˈaːi səmhˈaːlnə mˈeːɾoː sˈʌməjˌə ˌətʰəwˈaː pˈɛːsaː bərrbˈaːd ɡˈʌrrnə caːhˈʌnnˌʌ̃ hˈɛː|0
+data/audio_24k/nepali_25808.wav|mˈeːɾoː ʊttˌəɾaːkʰˈʌɳɖə ɡɾaːmˈɪːɳ bjˈaːŋkə kʰˈaːtaː ˈeːkə, ˈeːkə, tˈɪn, nˈɔː, dˈui, cʰˈə, sˈaːt, cˈaːɾə, cʰˈʌleː jˈoːnoː ˌeːsəbˌɪaːɪːlˈaːi səmˈʌrrtʰən ɡˈʌrrcʰə kˈɪ ɡərrdˈɛːnə, ɟˈãc ɡˈʌrrnə sˌəknuhˈuncʰə?|0
+data/audio_24k/nepali_22826.wav|tˈaɾə ˈʊni nɪrrdˈoːʂ cʰˈɪn kˈɪnəkˌɪ ˈʊnəlˌeː məhˈeːndɾəkˌoː kəlˈeːɟəkˌoː dˈɪnəkˌoː mˈɪʈʰoː bˌədəlˈaːkaː ɾˈuːpəmˌaː ˌʊnɪːʃˈʌ̃ɡ ʈʰˈʌʈʈˌaː ɡˈʌrrcʰɪn|0
+data/audio_24k/nepali_20957.wav|mˌəlaːɪːcˈaːhĩ pˈʌkkˌɛː dʰˈeːɾɛː səmˈʌsjaː bʰˌəɪɾəhˈeːkoː cʰˈə|0
+data/audio_24k/nepali_10423.wav|swrrɳˈəɾeːkʰˌaː ˈeːksəpɾˌeːs|0
+data/audio_24k/nepali_2388.wav|dˈaːdəɾˌə sˈeːnʈɾəl, ɟˈʌlnə ɟˈʌn ʃətˈaːbdi ˈeːksəpɾˌeːs|0
+data/audio_24k/nepali_13415.wav|ɟˈeː hˈoːs, kˈeː ɡˈaːjən tˌəpaːĩkˈoː sˈoːkʰ hoː?|0
+data/audio_24k/nepali_6952.wav|ɡˈʌlpʰə pɾˌətɪjˌoːɡɪtˈaːmaː mˌəhəttwpˈuːrrɳə cˈʌɾəɳˌəkoː sˈaːmənˌaː ɡˈʌrrdaː ɾˈʌhɪmˌə tˌənaːwəɡɾˈʌstə bʰˈʌeː|0
+data/audio_24k/nepali_26147.wav|sˌəntɾaːɡaːcʰˈɪːmaː ˈeːʊʈˌaː ɾˌeːləwˈeː sʈˈeːsən cʰˈə ɟˈʌsəlˌeː dˈʌkʂɪɳ puːrrwˈiː ɾˌeːləwˈeːkaː lˈaːɡɪ ˈeːʊʈˌaː ɾˌeːləwˈeː ɟˈʌŋksən tˈʌtʰaː ʈˈʌrrmɪnˌəsəkˌaː ɾˈuːpəmˌaː kˈaːmə ɡˈʌrrdəcʰˌə|0
+data/audio_24k/nepali_23290.wav|ʃˈaːntɪ swɾˈuːp bʰˌəʈənˈaːɡəɾˌə|0
+data/audio_24k/nepali_23583.wav|tːjˈʌsəlˌeː wˌaːʂpənˈeːtɾəlˌeː kˈunɛː tˈʌwəɾˌəleː pˈʌtɾə pˈʌɖʰi|0
+data/audio_24k/nepali_27113.wav|ʊnˈɪːhəɾˌuː hˈaːmɾoː ˌənuɾˌoːdʰˌəlaːˈiː kˈaːnəmˌaː tˈeːl haːlˈeːɾə bˌəseːɟˈʌstoː lˈaːɡcʰə|0
+data/audio_24k/nepali_5597.wav|sˈundəɾˌəmə klˈeːʈən ˈeːləʈˌɪɖi|0
+data/audio_24k/nepali_25557.wav|sˈɪkkˌɪmə kɾˈaːntɪkˌaːɾi mˈoːrrcaː pˈaːrrʈɪːlˌeː aːɟˈəː pˈuːrrw sˈɪkkˌɪməkˌoː ɾaːnˈɪːpul nˈʌɟɪkˌɛː sˈʌɾəmˌəsaː bˌəɡɛ̃cˈaːmaː pˈaːrrʈɪːmˌaː saːmˈeːl hˈuneː kˈaːrrjəkɾˌəmə aːjˈoːɟɪt ɡərjˈoː|0
+data/audio_24k/nepali_23112.wav|stˈʌn|0
+data/audio_24k/nepali_5843.wav|ˈʌhoː, təpˈaːĩ pʰˈeːɾɪ tˌaːlɪkˈaːkɛː baːɾˈeːmaː sˈoːdʰdɛː hˌunuhˈuncʰə! məlˈaːi tˈə wɪʃwˈaːsɛː laːɡˈeːn hˈɔː|0
+data/audio_24k/nepali_17957.wav|kˌoːɪmbaːʈˈoːɾə|0
+data/audio_24k/nepali_2579.wav|mˈeːɾaː ˌaːmaːbˈaːbulˌeː məlˈaːi səmɟʰˈɔːtaː ɡˈʌrrnə bˈaːdʰjə ɡəɾˈaːʊn mˈeːɾoː wɪʃwˈaːs pɾəjˈoːɡ ɡˈʌrrcʰən bʰˈʌnnˌeː wɪʃwˈaːsɛː laːɡˈeːkoː cʰˈɛːnə jˈoː mˈeːɾoː ɡˌoːpənˌɪːjətˈaːkoː ɡʰˈoːɾə ʊlllˈʌŋɡʰən hoː|0
+data/audio_24k/nepali_9851.wav|ɡˌoːləkˈoːɳɖaː kˈɪlllaː|0
+data/audio_24k/nepali_8238.wav|kʰˈoːp ˌəbʰɪjˈaːn, hˈʌm, wˌəɖəɡˈaːũ ɡãˈʊkoː|0
+data/audio_24k/nepali_13804.wav|tˈʌmɪl|0
+data/audio_24k/nepali_13903.wav|mˈeːɾoː kːjˈaːpɪʈˌəl smˈʌl pʰˌaːɪnˈaːnsə bjˈaːŋkə kʰaːtˈaːkoː bjaːlˈeːnsə kˈʌtɪ cʰˈə?|0
+data/audio_24k/nepali_19669.wav|wˈɪːɳaː ɾə ʃˈeːkʰəɾˌə mˈeːɾaː ɟˌɪːwənəsˈʌmbəl hˈun|0
+data/audio_24k/nepali_4037.wav|ɾˈaːŋkaː|0
+data/audio_24k/nepali_3396.wav|mˈeːɾi saːtʰˈɪːki cʰˈoːɾi ˈaːpʰːni hˌəɟuɾˌəaːmˈaːkoː ɟˈʌnmədˌɪnəmˌaː ɡˈɪːt ɡaːˈeːɾə ɾˌoːɪɾəhˈeːki tʰˈɪɪn kˈɪnəbʰˌəneː ˌʊnəlˈaːi lˈaːɡjoː kˈɪ ˈʊnəlˌeː nəɾˈaːmɾoː ɡaːˈeːki cʰˈɪn|0
+data/audio_24k/nepali_15362.wav|ˈoːhə, mˈɛːleː tːjˈʌstoː ˈaːʃaː ɡəɾˈeːkoː tʰˈɪɪnˌʌ̃ haːmˈɪːleː ɡʰˈʌɾəmˌaː tːjˈʌstoː ʋjˌəwəhˈaːɾə jˈaːd ɡəɾˈeːkaː cʰˈɛːnɔ̃|0
+data/audio_24k/nepali_21073.wav|ʃɾˌɪːhəɾˌɪkoːʈaːbˈaːʈ cˌəndɾəjˈaːn tˈɪn mˈɪsən ʊɖˈeːkoː dˈeːkʰdaː hˈaːmi ɡˈɔːɾəwˌəleː bʰˌəɾɪˈeːkaː tʰˈɪjɔ̃|0
+data/audio_24k/nepali_16795.wav|kʰɛ̃ɟˈʌɖi|0
+data/audio_24k/nepali_8051.wav|ɡʰˈʌʈdoː kˌərrpoːɾˈeːʈ lˈaːbʰəlˌeː məlˈaːi cɪntˈaːmaː pˌaːɾɪɾəhˈeːkoː cʰˈə kˈɪnəbʰˌəneː wɪʃˈeːʂ ɡˈʌɾi mˈɛːleː nˈɛː bˈoːnəs tˌɪrrnupərrnˈeːcʰə|0
+data/audio_24k/nepali_5598.wav|lˈʌkʰənˌəʊ mˈeːl|0
+data/audio_24k/nepali_7998.wav|ɟˌɛːnəhəɾˈuːleː pɾˈaːjəh ˌʊpəwˈaːs bəsˈeːɾə pɾˈaːrrtʰənˌaː wˈaː mˈʌnən ɡəɾˈeːɾə ˈaːpʰːnoː aːdʰjˈaːtmɪkˌətaːkˌoː stˈʌɾə bˌəɖʰaːũcʰˈʌn|0
+data/audio_24k/nepali_1450.wav|mˈɪli ʃˈaːhi dˌəɾəbˈaːɾəmˌaː ɟˈaːncʰə ɾə ənuʃˌaːsˌən ˈʊnmukʰ ɾˈaːni, nˈɪrrməlˌaː deːwˈiː ɾˌaːʈʰɔːɾəlˈaːi bʰˈeːʈcʰə, ɟˈoː mɪlˈɪːkoː ʊtsˈaːhə ɾə ənˈaːɖi deːkʰˈeːɾə cʰˈʌkkˌə pərrdˈɛːnən|0
+data/audio_24k/nepali_20243.wav|ˈʊni lˌəɡaːtˈaːɾə ˈaːpʰːnoː kˈʌɾɪˌəɾəmˌaː ˌəbʰɪnˈeːtaː pɾˌeːmənˈaːtʰ, pɾˈaːɳ, pɾˈeːmə cˈoːpəɖˌaː, kˈaːmɪnˌiː kˈɔːʃəl ɾə hˈeːmaː mˌaːlɪnɪːʃˈʌ̃ɡ kˈaːmə ɡˈʌrrnə mˈʌn pˌəɾaːũtʰˈeː|0
+data/audio_24k/nepali_26561.wav|mˈɛːleː sˌəhəkˈaːrrjə ɡˌərrnupˈʌrrneː ʋjˈʌktɪlˌeː məʃˈʌ̃ɡ sˌəhəjˈoːɡ nˌəɡəɾˈeːkoː hũdˈaː məlˈaːi ɾˈɪs ʊʈʰˈeːkoː cʰˈə|0
+data/audio_24k/nepali_14775.wav|jˈʌdɪ təpˈaːĩ bˈʌs səmˈaːtnə cˌaːhənuhˈuncʰə bʰˈʌneː tˌəpaːĩlˈeː ˈʌlɪkˌə cʰˈɪʈoː ɡˌərrnupˈʌrrcʰə|0
+data/audio_24k/nepali_573.wav|mˌaːləwˈaː ˈeːksəpɾˌeːs|0
+data/audio_24k/nepali_14471.wav|cãdˈiː|0
+data/audio_24k/nepali_16801.wav|ˌaːɟəbʰˈoːlɪ kˈʌɾə bʰˈʌrrnə dʰˈeːɾɛː sˈʌɟɪlˌoː cʰˈə|0
+data/audio_24k/nepali_8200.wav|sˈʌpʰdəɾˌəɟəŋ ʈˈʌmbə kˈʌhã əwˈʌstʰɪt cʰˈə|0
+data/audio_24k/nepali_26308.wav|ɾəksˈɪːkoː kˌulətəbˈaːʈ mˈuktə bʰəˈeːtaː pˈʌnɪ ˌaːtmaːwˈɪhɪːn səmˈaːɟəlˌeː ɾəksˈɪːkoː kˈulətˌəmaː pʰˌəseːkˌaːhəɾuːlˈaːi kuwjˈʌwəhˌaːɾə ɡəɾˈeːkoː deːkʰˈeːɾə məlˈaːi sˈaːhɾɛː dˈukʰˌə laːɡˈeːkoː tʰˈɪjoː|0
+data/audio_24k/nepali_11915.wav|jˈʌsəkˌoː pˌəɾɪɳˈaːmə jˈoː ɾˈʌhjoː kˈɪ bəŋɡˈaːləmˌaː nɪwˈeːʃəkˌaː nˈɪmtɪ ɟˈun pɾəstˈaːwə pɾˈaːptə bʰˌəɪɾəhˈeːkoː cʰˈə, tːjˈoː ˌəpɾətːjˈaːʃɪt cʰˈə|0
+data/audio_24k/nepali_14826.wav|wˌɪdjaːrrtʰˌɪːhəɾˈuːpɾətˌɪ ʃˈɪkʂəkˌəkoː ˌəpəmˈaːnəɟˌənəkˌə mˌənoːwɾˈɪttˌɪ sˈãccˌɛː ɡʰˌɪnəlˈaːɡdoː cʰˈə|0
+data/audio_24k/nepali_5804.wav|ˈɪnɖɪjˌən ɾˌeːləwˈeː pʰˌaːɪnˈaːnsə kˌərrpoːɾˈeːsən ˈeːləʈˌɪɖi|0
+data/audio_24k/nepali_19195.wav|kːjˈaːɾəmˌə, lˈuɖoː ˌətʰəwˈaː pˈʌcɪsˌiː ˈʌnɪ sˈãp ɾə sĩɖʰˈiː ˌətʰəwˈaː ɟɲˈaːn cˈɔːpəɾˌəkoː ʊtpˈʌttˌɪ bʰˈaːɾətˌəmaː bʰəˈeːkoː hoː bʰˈʌni pˈʌttˌaː lˌəɡaːɪˈeːkoː cʰˈə|0
+data/audio_24k/nepali_16887.wav|ˈʌʊsətˌəmaː, ˌədʰɪkˈaːnʃ mˈaːnɪsˌəhəɾˌuː dˈui ɾə cˈaːɾə mˈaːɪl pɾˌətɪɡʰˈʌnʈaː bˈɪcəkˌoː ɡˈʌtɪmˌaː hĩɖcʰˈən|0
+data/audio_24k/nepali_23461.wav|ʈrrjˈaːkɪŋ ˈaːɪɖˌiː dˈuɪ, cˈaːɾə, nˈɔː, pˈãc, sˈaːt, sˈaːt, pˈãc, ˈeːkə, ˈeːkə, cˈaːɾə bʰəˈeːkoː mˈeːɾoː ˌɪpɪˈeːpʰəˌoː daːwˈɪːkoː stʰˈɪtɪ kˈeː cʰˈə?|0
+data/audio_24k/nepali_23029.wav|cɪkˈɪtsəkˌə ɾə ˈʌnjə cɪkˈɪtsaː ʋjˌəwəsaːjˈɪːhəɾˌuː ˌʊpəlˈʌbdʰə hunˈeːcʰən|0
+data/audio_24k/nepali_22372.wav|jˈoː kˈun ˈɪd hoː?|0
+data/audio_24k/nepali_15113.wav|hˌəɖətˈaːləmˌaː dʰˈeːɾɛː bˈaːhɪɾˌəkaː ʋjˈʌktɪhˌəɾuː pˈʌnɪ saːmˈeːl cʰˈʌn bʰˈʌnnˌeː sˈuʃɾi bjˌaːnərrɟˈɪːkaː ˌaːɾoːpˌəhəɾuːlˈaːi pˈʌnɪ ɖˈaːkʈəɾˌəhəɾˌuːleː ɾˈʌdːdʰə ɡˌəɾɪdɪˈeːkaː cʰˈʌn|0
+data/audio_24k/nepali_16583.wav|sˈʌn sˈʌtɾə sˈʌjə ˌeːkaːˈʊnnˌəmaː sˌukʰəɾˌuŋəpʰˈaːkaː cʰˈoːɾaː sˌuneːnəpʰˈaːleː ɡˌəɖʰəɡˈaːũ dˌəɾəbˈaːɾə ɾə tːjˌəsətˈʌrrpʰə ɟˈaːneː cˌɪnaːˈɪːkoː ɖʰˈoːkaː wˈʌɾɪpˌəɾɪ lˈʌɡəbʰˌəɡ pˈãc kɪlˈoːmɪʈˌəɾə lˈaːmoː ĩʈˈaːkoː pərrkʰˈaːl nɪrrmˈaːɳ ɡəɾˈeːkaː tʰˈɪeː|0
+data/audio_24k/nepali_19012.wav|jˈoː bʰˈaːɾətˌəkoː nˈaːdɪjˌaː ɟɪlllˈaːkoː mˌaːɟɪdɪjˈaːnəɟˌɪkɛː dˈuɪʈˌaː nˈʌdi, ɪcʰˈaːmətˌiː ɾə cˈurrni sˈɪrrɟənˌaː ɡˈʌrrdɛː dˈui bʰˈaːɡəmˌaː wɪbʰˈʌktə hˈuncʰə|0
+data/audio_24k/nepali_15333.wav|həmpˈɪːkaː smˌaːɾəkˌəhəɾˈuːkoː wˈaːstukˌəlaːkˌaː ətːjˈʌntə mɪhˈɪːn wˈɪwəɾˌəɳəhˌəɾuː nˈɪkɛː ɟˈʌʈɪl ɾə wˌɪsməjəkˈaːɾi cʰˈʌn nˈɪ mə tˈə əwˈaːkə bˈʌnẽ kˈʌstoː kʰˈusi lˈaːɡjoː deːkʰˈeːɾə|0
+data/audio_24k/nepali_20371.wav|cʰˈʌbːbɪs ɟulˈaːi, ˈʊnnˌaːɪs sˈʌjə bəhˈʌttˌəɾəmˌaː, kulˈɪːkaː lˈaːɡɪ sˈʌhə ˌəbʰɪnˈeːtaː punˈɪːt ɪssˌəɾəʃˈʌ̃ɡ lˌəɖaːĩkˈoː dɾˈɪʃjə cʰaːjˈaːŋkənˌəkoː kɾˈʌməmˌaː, bəccˌənəlˈaːi pˈeːʈəkˌoː ˈaːndɾaːmˌaː lˈʌɡəbʰˌəɡ pɾˌaːɳəɡʰˈaːtəkˌə cˈoːʈ laːɡˈeːkoː tʰˈɪjoː|0
+data/audio_24k/nepali_20091.wav|ɡɔːɾˈɪːkaː sukˈoːməl bˈaːhu!|0
+data/audio_24k/nepali_23372.wav|jˈoː bˌɪɾaːmˈɪːkoː ˈoːcʰjaːnˌəkoː ˌətɪɾˈɪktə ʃˈuːlkə lˈaːɡneːbˌaːɾeː swˈaːstʰjˌə kˌeːndɾədːwˈaːɾaː məlˈaːi puːrrwsˈuːcənˌaː nˌədɪɪˈeːkoː kˈaːɾəɳ jˈʌs ɡʰˈʌɾi məlˈaːi nˈɪkkˌɛː ɟˈʌŋ cˌəlɪɾəhˈeːkoː cʰˈə|0
+data/audio_24k/nepali_19952.wav|ɡˌoːwətʰˈaːmi ˈeːksəpɾˌeːs|0
+data/audio_24k/nepali_6049.wav|ˈʌbdul ɾˈʌhɪmˌəkoː ɟˈʌnmə dɪlllˈɪːmaː bʰəˈeːkoː tʰˈɪjoː, bɛːɾˈaːmə kʰˈaːnəkˌaː cʰˈoːɾaː, ˈʌkəbˌəɾəkˌaː bʰˌəɾəpˈʌrrdoː ˌəbʰɪbʰˈaːwəkˌə ɾə sənɾˈʌkʂəkˌəkaː ɾˈuːpəmˌaː ʈˈʌrrkɪkˌə wˈʌnʃəkˌaː tʰˈɪeː|0
+data/audio_24k/nepali_20532.wav|ɡˌoːʈʰaːlˈaːkaː sˈukʰə dˈuhkʰˌəkoː wɪcˈaːɾə ɡˈʌrrcʰə|0
+data/audio_24k/nepali_11574.wav|hˌaːtʰəwˈeː kˈeːbəl ˈeːnɖə ɖaːʈˈaːkəmˌə lˌɪmɪʈˈeːɖ|0
+data/audio_24k/nepali_21251.wav|mˈuːljə ɡʰˈʌʈdaː hˈaːmɾoː lˈaːbʰəmˌaː nˌəkaːɾˈaːtməkˌə ˈʌsəɾˌə pˈʌrrneː sˌəmbʰaːwˌənaːbˈaːɾeː mə cˈɪntɪt cʰˈu|0
+data/audio_24k/nepali_26491.wav|tˈaɾə mə tːjˈoː pɾˈeːmə tːjˈoː bʰˈʌktɪkˌoː ˈʌlɪkˌətaː pˈʌnɪ jˈoːɡjə cʰˈɛːnə|0
+data/audio_24k/nepali_21836.wav|ˌəhɪleːsˈʌmmˌə pɾətːjˈeːkə dˈeːʃəmˌaː ˌəntərrɾˈaːʂʈɾˌɪjə cˈɪjaː dˈɪwəs mˌənaːˈɪncʰə|0
+data/audio_24k/nepali_16004.wav|təpˈaːĩ ˌaːpʰɛːʃˈʌ̃ɡ ʈʰˈʌʈʈˌaː ɡˈʌrrnə sˌəknuhˈuncʰə tˈaɾə sˈeːjəɾˌə bəɟˈaːɾəkˌoː əwˈʌstʰaː jˈʌtɪ ɡəmbʰˈɪːɾə hũdˈaː təpˈaːĩ mˈeːɾoː kʰˌərrcəbˈaːɾeː nˌəɟɪskˌɪnuhˈoːs hˈɛː|0
+data/audio_24k/nepali_6202.wav|jˈoː hɪmˈaːcəl pɾədˈeːʃəmˌaː ʊtpˈʌnnˌə hˈuncʰə ɾə jˈʌsəkˌoː ləmbˈaːɪ dˈui həɟˈaːɾə pˈãc sˈʌjə pˈʌccˌɪs kɪlˈoːmɪʈˌəɾə cʰˈə ɟˈun bʰˈaːɾətˌəkaː cˈɔːdʰ wˌəʈaːbʰˈʌndaː ˈʌdʰɪkˌə mˈukʰjə sˌəhəɾˌəhəɾuːbˈaːʈ bˈʌɡcʰə|0
+data/audio_24k/nepali_5705.wav|mə kˈuɾɪjˌəɾə kˌəmpənˈɪːkoː bʰuktˈaːni pɾˌəkɾɪjaːbˈaːʈ sˈãccˌɛː səntˈuʂʈˌə cʰˈu jˈoː sˈɪdʰaː ɾə pˈuɾaː ɡˈʌrrnə sˈʌɟɪlˌoː tʰˈɪjoː|0
+data/audio_24k/nepali_14666.wav|tˌɪnɪːhəɾˈuːleː məlˈaːi bʰãcˈɪeːkˌoː sˈaːwəɾˌə bʰəˈeːkoː kˈoːʈʰaː dˈɪeː ˈʌnɪ mˈɛːleː ɾˌɪsaːˈeːɾə ɡunˈaːsoː ɡˈʌrrdaː jˌəsəlˈaːi pˌəɾɪwˈʌrrtən ɡəɾˈeːnən|0
+data/audio_24k/nepali_1103.wav|jˈʌdjəpˌɪ, jˈoː nˈʌkkˌəli bəɟˈaːɾəlˌeː dʰeːɾˈɛːɟəsˌoː cˈɪnɪjˌã dˌərrʃəkˌəhəɾuːlˈaːi tʰɾˈiː ˌɪɖɪjˌəʈsəʃˈʌ̃ɡ pˈʌɾɪcˌəjə ɡˌəɾaːˈeːkoː tʰˈɪjoː, ɟˈʌsəlˌeː jˌəsəlˈaːi dˈeːʃəmˌaː ˈeːkədˌəmɛː pɾˈʌcəlˌɪt bənˈaːjoː|0
+data/audio_24k/nepali_23235.wav|jˈuwəkˌəkoː ˈʊttˌəɾəkˌoː ˈaːʃaː nˈʌɡəɾˌiː mˈoːʈoː mˈaːnɪsˌəleː bʰˈʌnjoː, "tːjˈʌhi tˈə mə ˌəɡʰɪdˈeːkʰɪ cʰˈʌkkˌə pˌəɾɪɾəhˈeːcʰu|0
+data/audio_24k/nepali_13559.wav|ɡˈʌhɪɾˌoː ˈʌlsəɾˌə sʈɾˌoːmaːbʰˈɪtɾə wˈaː mˈaːrrpʰət pʰɛːlˈɪncʰə ɾə jˈʌsəlˌeː ɡəmbʰˈɪːɾə cˌoːʈəɡɾˈʌstə wˈaː kˌərrɳɪkˈaːmaː cʰˈɪdɾə hˈunˈə sˈʌkcʰə|0
+data/audio_24k/nepali_11753.wav|ɡˈoːləsˌɪməl|0
+data/audio_24k/nepali_2393.wav|məlˈaːi tˈə əhˈɪljɛː pˈɪɟɟˌaː cˈaːkʰnə mˈʌn lˈaːɡjoː|0
+data/audio_24k/nepali_1388.wav|hoː, tˌəpaːĩlˈeː kʰaːnˈɪːkaː həɟˈaːɾɔ̃ mˈʌɟədˌuɾə mˌərrməspˈʌrrʃi ˌəwəstʰˈaːmaː kˈaːmə ɡˌəɾɪɾəhˈeːkoː dˈeːkʰnə sˌəknuhˈuncʰə|0
+data/audio_24k/nepali_7685.wav|ˌənɖəɾəwˈuɖəlˌeː kˈʌtʰɪt ɾˈuːpəmˌaː ˌəpaːrrʈəmˈeːnʈə kəmplˈeːksəmˌaː stʰˈaːpənˌaː ɡˌəɾɪˈeːkoː sˈuːcənˌaː cˌeːkəpoːˈɪnʈəmˌaː kˈaːnun kˌaːrrjaːnwjˈʌnəkˌərrtaːlˌaːi səndˈeːhətˌɪɾə lɪˈeːɾə ɡˈʌjoː|0
+data/audio_24k/nepali_5523.wav|tːjˈoː ˈaːsənˌəmaː bˈʌs|0
+data/audio_24k/nepali_6440.wav|jˈoː hoːʈˈeːləkˌoː swˈɪmɪŋ pˈuləkˌoː səpʰˈaːɪkˌoː tˈə kˈeː kˈuɾaː ɡˈʌrrneː, ɡʰˈɪnɛː laːɡˈeːɾə ˌaːũcʰˈə kˈɪnəkˌɪ ˌʊnɪːhəɾˈuːleː tˈə pˈʌndʰɾə dˈɪnəmˌaː ˈeːkəpˌəʈəkˌə poː jˈʌsəkˌoː səpʰˈaːɪ ɡˈʌrrdaː ɾəhˈeːcʰən|0
+data/audio_24k/nepali_24492.wav|məlˈaːi jˈoː pʰˈɪlmə hˈeːrrnə nˈɪkɛː ɖˈʌɾə lˈaːɡcʰə jˈʌsəmˌaː dʰˈeːɾɛː ɖˌaːɪnˈɪːhəɾˌuː, bʰˈutəhˌəɾuː ɾə ɖˌəɾəlˈaːɡdaː ɟənˈaːwəɾˌəhəɾˌuː cʰˈʌn|0
+data/audio_24k/nepali_9736.wav|ʌbˈə ˌərrkoːlˈaːi kʰˈoːɟ, pˈʌppˌuleː bʰˈʌnjoː|0
+data/audio_24k/nepali_16110.wav|kˌumbʰəkˈoːɳəmˌəmaː pˈʌrrw mənˈaːʊn dˈeːʃəkˌaː wɪbʰˈɪnnˌə bʰˌaːɡəbˈaːʈ mˈaːnɪsˌəhəɾˌuː ˈaːʊnˌeː ɡˈʌrrdəcʰˌən|0
+data/audio_24k/nepali_20473.wav|mˈɛːleː bˈoːlnə dˈɪɪnˌʌ̃ tˌəpaːĩkˈoː aːɾˈoːpəlˌeː mə tˈə əcˈʌmbʰɪt bʰˈʌẽ kʰˈaːsəmˌaː mˈɛːleː tˌəpaːĩlˈaːi ˈaːpʰːnoː kˈuɾaː ɾˈaːkʰneː pərrjˈaːptə mˈɔːkaː dɪˈeːkɛː hoː nˈɪ|0
+data/audio_24k/nepali_9635.wav|ɟˈaːtɾaː|0
+data/audio_24k/nepali_4143.wav|kˈʌtʰaː dˈʌs wˈʌrrʂəˌəɡʰɪ ɡʰəʈˈeːkaː ɡʰˌəʈənˈaːhəɾˌuː wˈʌrrɳən ɡˈʌrrnə puːrrwdˈɪptɪmˌaː ɟˈaːncʰə|0
+data/audio_24k/nepali_21823.wav|tˌɪnəlˈaːi durrdˈɛːwəkˌoː pɾəkˈoːpəlˌeː nɪɾˈaːʃ pˈaːrrnə səkˈeːn|0
+data/audio_24k/nepali_11387.wav|pɾəʃˈɪkʂəkˌəkoː kʰˈeːləkˌudəkˌoː bʰˌaːwənˈaːmaː kˈʌmi sˈaːhɾɛː nˌɪɾaːʃˈaːɟənˌəkə cʰˈə|0
+data/audio_24k/nepali_17670.wav|dˈʌs, ʃˈuːnjə cˈaːɾə, ʃˈuːnjə ʃˈuːnjə|0
+data/audio_24k/nepali_22811.wav|swˈaːmɪːlˌeː kˈʌɾuɳ swɾˈʌmaː bʰˈʌnjoː, "ˈeːkə dˈɪn jˈʌhi ʈˈaːɪɡˌəɾə hˈɪləmˌaː hˈaːmi dˈuɪkˌoː pɾˈeːmə pɾəbʰˈaːt bʰəˈeːtʰjˌoː sˈʌmɟʰənˌaː cʰˈə tˌɪmɪːlˈaːi tːjˈʌs ʃˈubʰ dˈɪnəkˌoː pɾˈɪjeː!|0
+data/audio_24k/nepali_6390.wav|bʰˈaːɡəlˌəpuɾˌə, lˌoːkəmˈaːnjə tˈɪləkˌə ʈˈʌrrmɪnˌəs sˌupəɾəpʰˈaːsʈə ˈeːksəpɾˌeːs|0
+data/audio_24k/nepali_9169.wav|pˌəɾəʃuɾˈaːmə bəsnˈeːtəkˌaː ˈʌɡʰɪ ˌʊbʰɪˈeːɾə tːjˈʌsəlˌeː pɾəɳˈaːmə ɡərjˈoː|0
+data/audio_24k/nepali_7790.wav|mˌaːnɪsˌəhəɾˈuːkoː sˈʌŋkʰjaː kɾˈʌməʃˌəh bˈʌɖʰnə lˈaːɡjoː|0
+data/audio_24k/nepali_22763.wav|tˌəpaːĩkˈoː bʰənˈaːɪkˌoː ˈʌrrtʰə kˈeː hoː? kˈeː ˈʊni pʰˈeːɾɪ hˈĩɖnˈə sˈʌktɪnˌən?|0
+data/audio_24k/nepali_27151.wav|kɾˈɪpəjˌaː ɖˈoːn mˈoːnʈeː kːjˌaːlɪpʰˈoːrrnɪjˌaː baːdˈaːməkˌoː ˈaːpʰːnoː ˈʌrrɖəɾˌə pˌəɾɪwˈʌrrtən ɡˌərrnuhˈoːs kˈɪnəbʰˌəneː jˈoː sˌɪdːdʰɪˈeːkoː cʰˈə|0
+data/audio_24k/nepali_20887.wav|mˌumbəˈɪːkaː nˌəɟɪkˈɛːkaː pˌaːhaːɖˌəhəɾˈuːmaː jˈʌstaː sˈundəɾˌə pˌədəjˈaːtɾaː mˈaːrrɡəhˌəɾuː hoːlˈaːn bʰˈʌnnˌeː tˈə mˈɛːleː kəhˈɪljɛː ənumˌaːn ɡəɾˈeːkɛː tʰˈɪɪnˌʌ̃|0
+data/audio_24k/nepali_14816.wav|waːɾˈaːɳəsˌiː|0
+data/audio_24k/nepali_6535.wav|kˈumudˌɪni|0
+data/audio_24k/nepali_17655.wav|kˈʌmə səmˈʌɡɾə tˈɔːl bʰənˈeːkoː dʰˈeːɾɛː ɡʰˌəʈaːɪˈeːkoː ˌənɖəɾəwˈaːʈəɾˌə pɾˌoːpʰaːˌɪləʃˈʌ̃ɡ kˈʌmə ɡˌəɾɪˈeːkoː pɾaːɾˈuːp hoː|0
+data/audio_24k/nepali_24131.wav|tˌəpaːĩkˈoː ənumˌaːnˌɪt aːwˈʌʃjəkˌətaː kˈʌtɪ cʰˈə?|0
+data/audio_24k/nepali_22540.wav|ˈʌʊʈʰoː|0
+data/audio_24k/nepali_5528.wav|mə ˈʌsəl ɡˌuɳəwˈʌttˌaːkaː ˈeːkɾɪlˌɪkə ɾˈʌŋəhˌəɾuː caːhˈʌncʰu|0
+data/audio_24k/nepali_26660.wav|jˈoː sˌaːmmjəwˈaːd hoː bʰˈʌni tˌəpaːˈɪːn bʰənnˌuhˈuncʰə bʰˈʌneː mə kˈeːhi bʰˈʌndɪnˌʌ̃|0
+data/audio_24k/nepali_4246.wav|bˈeːʈi bəcˈaːoː, bˈeːʈi pəɖʰˈaːoː jˈoːɟənˌaː|0
+data/audio_24k/nepali_16597.wav|tˈaɾə ˈʌɾuː kuɾˈaːmaː bʰˈʌneː tːjˌəsəlˈaːi ɾˈʌttˌɪbʰəɾˌə pˈʌnɪ cˈaːhə cʰˈɛːnə|0
+data/audio_24k/nepali_21392.wav|ˈʊnəlˌeː kˈʌŋɡən, ɾɪwˈaːɟ, ɟˈɪndəɡˌiː, bˈeːɾəhˌəmə, ˈʌrrcənˌaː ɾə dˈoː lˌəɖəkɪːjˈaːmmaː mˈaːlaː sɪnhˈaːkoː wˌɪpəɾˈɪːt ˈʌbʰɪnˌəjə ɡˈʌɾeː|0
+data/audio_24k/nepali_15665.wav|ɾˈaːɟjəkˌoː dˈʌkʂɪɳˌiː bʰˈaːɡəmˌaː pˈʌnɪ jˈʌs ˈʌwədʰˌɪmaː wərrʂˈaːkoː kɾˈʌmə ɟˈaːɾi ɾˌəhənˈeːcʰə|0
+data/audio_24k/nepali_9512.wav|jˈʌsəˌəɡʰɪ ɟˈɪlllaː pɾəʃˈaːsənˌɪkə kˈeːndɾə mˈʌŋɡən ɾə ɟɪlllˈaːkaː sˈʌbɛː sˌəɾəkˈaːɾi kˌaːrrjaːlˌəjəhˌəɾuːdːwˈaːɾaː pɾətːjˈeːkə mˌəhɪːnˈaːkoː pˈʌhɪlˌoː ʃˌənɪwˈaːɾə swccʰˈətaː ˌəbʰɪjˈaːn dˈɪwəsˌəkaː ɾˈuːpəmˌaː kˈaːmə ɡəɾˈɪntʰjˌoː|0
+data/audio_24k/nepali_8037.wav|hˌɪsaːbˌəkɪtˈaːbəkˌaː bˈɪcəmˌaː, haːmˈɪːleː ˈeːʊʈˌaː ɾˌəɳənˈɪːtɪ pˈʌttˌaː ləɡˈaːjɔ̃ ɟˈʌsəlˌeː hˈaːmɾoː wˌaːleːʈəlˈaːi kˈʌɾə buɟʰˈaːʊnˌeː sˈʌməjˌəmaː kʰˈusi tˌuljaːʊnˈeːcʰə!|0
+data/audio_24k/nepali_21859.wav|maːrrkˈʌɳɖə tˈʌmɪl nˈaːɖu|0
+data/audio_24k/nepali_22157.wav|jˈʌdɪ təpˈaːĩ ˈeːkəɟˌənaː wˌəkɪləʃˈʌ̃ɡ bʰˈeːʈnəˌəɡʰɪ tˌəpaːĩkˈaː sˈʌbɛː swˈaːstʰjˌə tˈʌtʰjˌəhəɾˌuː pɾˈaːptə ɡˈʌrrnə ˌəsəmˈʌrrtʰə hˌunuhˈuntʰjˌoː bʰˈʌneː, təpˈaːĩ tˈiː sˌəbɛːlˈaːi pɾˈaːptə ɡˈʌrrnə ʌbˈə sˈʌkʂəmˌə hˌunuhunˈeːcʰə|0
+data/audio_24k/nepali_17267.wav|dˌəmənəɡˈʌŋɡaː|0
+data/audio_24k/nepali_26841.wav|ɡˈʌhũ, cˈaːməl ɾə ɟɔːɟˈʌstaː kʰaːdjˈaːnnˌə bˈaːli ˈʌnɪ kəpˈaːs, nˈɪl ɾə ˌəpʰɪməɟˈʌstaː ɡˈɛːɾə kʰˈaːdjə nˈʌɡəd baːlˈɪːsəhˌɪt wɪwˈɪdʰ pɾəkˈaːɾəkˌaː baːlˈɪːhəɾˌuː ˌʊbɟaːˈɪntʰeː|0
+data/audio_24k/nepali_11257.wav|nˈʌjã bəɟˈaːɾə|0
+data/audio_24k/nepali_13950.wav|ɡˈʌrrbhə ˈeːksəpɾˌeːs|0
+data/audio_24k/nepali_2316.wav|bʰˈaːɾətˌəkoː sənwˈɪdʰaːnˌəkoː cʰˈɛːʈɔ̃ ˌənusˌuːcˌɪːəntərrɡˈʌt səɲcˈaːlɪt swˌaːjˈʌttˌə ɟˈɪlllaː pˈʌɾɪʂˌədəhˌəɾuː mˈoːʈaː ˈʌkʂəɾˌəmaː dˌeːkʰaːɪˈeːkaː cʰˈʌn|0
+data/audio_24k/nepali_19032.wav|mə jˈʌhã ˈaːpʰːnoː sˈʌməjˌə bərrbˈaːd ɡˈʌrrnə aːˈeːkoː hˈoinˌə! mə jˈʌhã jˈoː bʰˈuːmɪkˌaː lˈɪn aːˈeːkoː hˈũ|0
+data/audio_24k/nepali_9812.wav|kˈeː tːjˈʌhã pˌɪnəkˈoːɖ pˈãc ʃˈuːnjə ʃˈuːnjə cˈaːɾə dˈui ʃˈuːnjə bʰəˈeːkoː kʂˈeːtɾə nˈʌɟɪkˌɛː kˈunɛː ˌɪeːsəˈaːɪsˌiː kˈeːndɾə pɾəkˈaːɾə jˌuʈɪˈaːi cʰˈə?|0
+data/audio_24k/nepali_17851.wav|ɡɾˈaːhəkˌəkaː ɡˌunaːsˈoːhəɾˌuː sˈundɛː ɡˈʌrrdaː mˈeːɾoː dʰˈɛːrrjə nˌəɡumˈoːs ɾə kˈuɾaː ˈʌɟʰ nˌəbɪɡɾˈoːs bʰənˈeːɾə mə tɾˈʌstə hˈunˈə tʰˈaːlcʰu|0
+data/audio_24k/nepali_19301.wav|stʰaːnˈɪːjə ʃɾˌɪːləŋkˈaːli kʰaːnˈaːmaː ɟˈun ɡˈʌɟəbˌəkoː swˈaːd səɲjˈoːɟən tʰˈɪjoː nˈɪ tːjˈoː tˈə mˈɛːleː əpˈeːkʂaː ɡəɾˈeːkɛː tʰˈɪɪnˌʌ̃|0
+data/audio_24k/nepali_18320.wav|tːjˈʌhã pʰˈaːɾəmˌə cʰˈə bʰˈʌnnˌeː ˈeːʊʈˌaː pʰˈaːɾəmˌə cʰˈə|0
+data/audio_24k/nepali_2805.wav|kˈeː təpˈaːĩ məlˈaːi jˈoː kˈuɾaː buɟʰˈaːʊn sˌəknuhˈuncʰə?|0
+data/audio_24k/nepali_21171.wav|ɾəŋɡˈuːn ɡəˈeːɾə ɾˈʌkəmˌə ɾˈʌkəmˌəkaː ɟˈɪnɪs, ˈʌdbʰut mˈaːl ljaːˈeːɾə wˌəɾəpˈʌkʂəkˌaː mˌaːnɪsəlˈaːi dˈʌŋɡə pˈaːrrneː ɾˌəɡʰuwˈɪːɾəlˌeː nˈɪʃʃcɪt ɡˈʌjoː|0
+data/audio_24k/nepali_22910.wav|ˌʊhãlˈeː bʰˈʌnnˌubʰəjˌoː, bʰˈaːɾət ˈeːʊʈˌaː jˈʌstoː stʰˈʌl hoː ɟˈʌsəmˌaː jˈiː sˈʌbɛː wˌɪʃeːʂətˈaːhəɾˌuː ˌʊpəlˈʌbdʰə cʰˈʌn|0
+data/audio_24k/nepali_18985.wav|mˌuslɪmˌəhəɾˈuːleː ˈaːpʰːnɛː kˈɪsɪmˌəkoː sənnskɾˈɪtɪ pɾˈʌstut ɡˈʌɾeː|0
+data/audio_24k/nepali_3589.wav|jˈoː pɾətːjˈeːkə mˈaːnɪsˌəkoː wˌɪːɾətaːpˈuːrrɳə kˈaːrrjə ɡˈʌrrneː pɾəwɾˈɪttˌɪ ɾə aːɡˈaːmi sˈʌməjˌəkaː lˈaːɡɪ ˌʊsəlˈaːi smˈʌɾəɳˌəmaː ɾˈaːkʰnaːkˌaː lˈaːɡɪ kˈeːhi ɡˌəɾɪɾˈaːkʰneː ˈʊsəkˌoː ɟˌənməɟˈaːt aːwˈʌʃjəkˌətaː ɾə ɪccʰˈaːkoː pɾətˈɪːkə pˈʌnɪ hoː|0
+data/audio_24k/nepali_10505.wav|ɡʰˈaːmə ɟʰulkˈeːkoː tˈaː hˈaːmɾɛː ãɡˈʌnəbˌaːʈ pˈʌnɪ tˈaː deːkʰˈɪncʰə nˈɪ!|0
+data/audio_24k/nepali_20606.wav|ʃˈuːnjə ˈaːʈʰ, ʃˈuːnjə dˈui, sˌəntaːˈʊnnˌə|0
+data/audio_24k/nepali_14234.wav|ˈʊ ɡˌaːɪːʃʌ̃ɡˈɛː ɡʰˈʌɾə pʰˈʌrrkɪjˌoː|0
+data/audio_24k/nepali_2168.wav|pwˈaːl bˌaːjãtˈɪɾə ɟʰukˈeːkoː kʰˈʌɳɖəmˌaː pwˈaːləlˌaːi ɖˌəɡəlˈeːɡ lˈeːpʰʈə ˈʌnɪ dˌaːjãtˈɪɾə ɟʰukˈeːkoː kʰˈʌɳɖəmˌaː ɖˌəɡəlˈeːɡ ɾˈaːɪʈ bʰənˈɪncʰə|0
+data/audio_24k/nepali_6.wav|dʰˌənjəwˈaːd, pˈʌɖʰnə mˈʌn pəɾˈaːʊnˌeː wɪdjˈaːrrtʰɪːhˌəɾuːkˌaː lˈaːɡɪ jˈoː ˈeːʊʈˌaː ˈʊttˌəmə wɪkˈʌlpə hoː bʰˈʌnnˌeː mˈɛːleː sunˈeːkoː cʰˈu|0
+data/audio_24k/nepali_12099.wav|ɡˈaːnaː kˈʌstoː cʰˈə?|0
+data/audio_24k/nepali_8030.wav|dˈeːʊkˌiː|0
+data/audio_24k/nepali_24243.wav|mə sˈʌməjˌəmaː bˈʌs sʈˈeːsən pˈuɡnə sˈʌkɪnˌʌ̃ ˈʌnɪ bˈʌs cʰuʈˈaːẽ|0
+data/audio_24k/nepali_5155.wav|mə kˈʌhã ɟˈaːn lˌaːɡɪɾəhˈeːkoː tʰˈɪẽ ɟˈaːndɪnˌətʰeːn|0
+data/audio_24k/nepali_27178.wav|mə aːʃˈɪːʂ dˈɪncʰu, tˈɪmi ɟˈʌstaː pˌəɾəduhkʰˌəkˈaːtəɾˌə həɟˈaːɾə həɟˈaːɾə səntˈaːnəlˌeː bʰˈaːɾətˌəmaː ɟˈʌnmə lˈɪʊn|0
+data/audio_24k/nepali_1453.wav|ɾˈutʰ sʈɾˈaːŋɡə ˈaːrrmsə ˈʌpʰ dˈə mˈaː ˌeːpɪsˈoːɖəmˌaː ˈeːkə wɪʃˈaːl mˈʌhɪlˌaː bˌəɖɪbˈɪlɖəɾˌəkaː ɾˈuːpəmˌaː dˈeːkʰaː pˈʌrrcʰɪn, ɟˈʌsəlˌeː bʰaːɾˈoːttˌoːlənˌəmaː lˈaːɡneː mˈaːrrɟəlˌaːi sʈeːɾˈoːɪɖˌəhəɾˌuː pɾəjˈoːɡ ɡˈʌrrnə səlllˈaːhə dˈɪncʰə|0
+data/audio_24k/nepali_19239.wav|təpˈaːĩ ˈeːp wˈaː sˈaːɪʈˌəmaː ˈaːpʰːnaː ˈʌrrɖəɾˌəhəɾˌuː hˈeːrrnə sˌəknuhunˈeːcʰə ɾə tːjˈʌhã ˈʌrrɖəɾˌəhəɾˌuː ʈrrjˈaːkə ɡˈʌrrnə sˌəknuhunˈeːcʰə|0
+data/audio_24k/nepali_11765.wav|jˈoː pʰˈɪlmə bʰˈaːɡəwˌətʰəɾˌəkoː wˈʌrrʂəmˌaː lˌəɡaːtˈaːɾə dˈoːsɾoː hˈɪʈ tʰˈɪjoː ɾə cɪntˈaːməɳˌɪleː bˌənaːˈeːkoː ɾeːkˈʌrrɖə tˈoːɖɖjoː|0
+data/audio_24k/nepali_8113.wav|ɟˈʌlnə ɟˈaːn ʃətˈaːbdi ˈeːksəpɾˌeːs|0
+data/audio_24k/nepali_3792.wav|kɾˈɪʂɳaː ˈʌʊɾə kˈʌnʃ ɾˌɪlaːjˈʌnsə ˌɪnʈəɾˌəʈeːnˌəmeːnʈədːwˈaːɾaː nˈɪrrmɪt ɾə wˈɪtəɾˌəɳ ɡˌəɾɪˈeːkoː dˈui həɟˈaːɾə bˈaːhɾəkˌoː hˈɪndi pʰljˈaːs ˌeːnɪmeːʈˈeːɖ pʰˈɪlmə hoː|0
+data/audio_24k/nepali_274.wav|ɡoːwˈɪndə pˈʌʃu wɪhˈaːɾə wˌənjəɟˈʌntu ˌəbʰəjaːɾˈʌɳjə|0
+data/audio_24k/nepali_2362.wav|jˌəsəpˈaːlɪ bˈʌksaː ʈˈaːɪɡˌəɾə ɾɪɟˈʌrrbʰəmˌaː aːɡˈaːmi wˈʌrrʂə cʰˈə ɟˌənəwˌəɾɪːdˈeːkʰɪ wˈɪʃw ˈʊtsəwˌə mˌənaːɪnˈeːcʰə|0
+data/audio_24k/nepali_14582.wav|ɡˈaːndʰɪːdʰˌaːmə, kaːmˈʌkʰjaː ˈeːksəpɾˌeːs|0
+data/audio_24k/nepali_9441.wav|pˈʌʃʃcɪmˌə bəŋɡˈaːləmˌaː koːɾˈoːnaː sˈʌŋkɾəmˌəɳəkˌoː mˈaːmɪlˌaː ˈeːkə mˌəhɪnaːsˈʌmmˌə bəɖʰˈeːpəcʰˌɪ ɡˈʌt cˈɔːbɪs ɡʰənʈˈaːmaː jˈʌsəmˌaː ɡɪɾˈaːwəʈ dˈʌrrtaː ɡˌəɾɪˈeːkoː cʰˈə|0
+data/audio_24k/nepali_20968.wav|mˌaːcʰaːkˈuɳɖə ɟˌələwˈɪdjut aːjˈoːɟənˌaː ɖˈuɖumˌaː cʰˈʌhəɾˌaː nˈʌɟɪkˌɛː əwˈʌstʰɪt cʰˈə|0
+data/audio_24k/nepali_24693.wav|ˈʊnəlˌeː pˌətɾəkˌaːɾəhˌəɾuːlˈaːi bʰˈʌneː, ˌʊpəɾˈaːʂʈɾˌəpətˌɪ cˈeːni ɾə ˈʊnəkˌoː pˌəɾɪwˈaːɾəlˌeː jˈoː hˈʌptaː bʰˈoːɡnuʲˌu pəɾˈeːkoː sˈʌbɛː kˈuɾaː lˈaːɡɪ mˈeːɾoː pˌəɾɪwˈaːɾə ɾə mə ɡˈʌhɪɾˌoː ɾˈuːpəmˌaː dˈukʰi cʰˈɔ̃|0
+data/audio_24k/nepali_17052.wav|ʌbˈə ˌʊnɪːhəɾˈuːleː ˈaːpʰːnoː ɟˈʌnətˌaː ˌətʰəwˈaː hˈaːmɾoː wˌɪkaːsəlˈaːi pɾˈaːtʰəmˌɪkətˌaː dˈɪneː sˈʌməjˌə aːˈeːkoː cʰˈə|0
+data/audio_24k/nepali_6778.wav|ɡˈaːi ɟˈaːtɾaː|0
+data/audio_24k/nepali_14550.wav|pˈuɳeː, kaːmˈʌkʰjaː suwˈɪdʰaː spˈeːsəl ˈeːksəpɾˌeːs|0
+data/audio_24k/nepali_14073.wav|hˈoːmə pʰˈʌrrsʈə pʰˌaːɪnˈaːnsə kˈʌmpənˌiː ˈɪnɖɪjˌaː ˈeːləʈˌɪɖi|0
+data/audio_24k/nepali_10017.wav|mə ʃˈʌljə cɪkˈɪtsaː pɾˌəkɾɪjˈaːkaː lˈaːɡɪ mˈeːɾoː ɾˈʌktəkˌoː pɾəkˈaːɾə mˈɪlcʰə kˈɪ mɪldˈɛːnə bʰənˈeːɾə sˈãccˌɛː cˈɪntɪt cʰˈu kˈeː swˈaːstʰjˌə kˈeːndɾəʃˌʌ̃ɡ mˈeːɾoː ˌʊpəcˈaːɾəkˌaː lˈaːɡɪ ˈʊcɪt sɾˈoːt sˈaːdʰən cʰˈə?|0
+data/audio_24k/nepali_905.wav|sˈoːbʰəɾˌɪɡən ɡˈoːlɖə bˈoːnɖə skˈɪmə|0
+data/audio_24k/nepali_4003.wav|ɟˌəbədˈeːkʰɪ mˈɛːleː mˈeːɾoː pʰˈoːnəmˌaː bjˈaːŋkə ˈeːplɪkˌeːsən ɾˈaːkʰẽ, mˈɛːleː kˈunɛː sˈaːnoː sˌəməsjˈaːkaː lˈaːɡɪ kəhˈɪljɛː bjˈaːŋkə ɟˈaːnuʲˌu pəɾˈeːn|0
+data/audio_24k/nepali_4867.wav|ʃˈeːkʰəɾˌə ɾə tˈɪmɾoː bˈɪheː ɡˈʌɾɪdˌɪnə pˈaːeː mə kˈʌtɪ sˈukʰi hˈuneː tʰˈɪẽ|0
+data/audio_24k/nepali_22806.wav|tˈiː cˌaːɾɛːɟˌənaːlˈaːi sˌɪləɡəɖʰˈɪːkoː koːɾˈoːnaː ˌəspətˈaːləmˌaː pˌəʈʰaːɪˈeːkoː cʰˈə|0
+data/audio_24k/nepali_2084.wav|bʰəʈˈɪnɖaː, ɟˈʌmmˌu təwˈiː ˈeːksəpɾˌeːs, bʰˈaːjaː ɾˈaːɟəpˌuɾaː|0
+data/audio_24k/nepali_15148.wav|kˈeː bˈusʈə ɖɾˈɪŋkə pˈaːʊɖˌəɾəmˌaː kˈunɛː ˈʌpʰəɾˌə cʰˈə?|0
+data/audio_24k/nepali_6267.wav|ˈeːkə cʰˈɪnəpˌəcʰɪ duwˈɛː mˈɪtɾə bˈaːhɪɾˌə nˈɪskeː ˈʌʊ bˌərrcəhˌɪləpˈʌʈʈˌɪ ɖˈulnə bʰˈʌni hˈɪɳɖeː|0
+data/audio_24k/nepali_20892.wav|hˈaːmi nˈɪjəmˌɪt ɾˈuːpəmˌaː wˌaːtaːnukˈuːlən cˌəlaːˈeːkoː kˌuɾaːlˈaːi səmɟʰˈeːɾə jˈʌs mˈʌhɪnˌaː hˈaːmɾoː bˌɪɟulˈɪːkoː bˈɪl kˈʌtɪ ˈaːʊlˌaː bʰənˈeːɾə mə ɖˌəɾaːũdˈɛː cʰˈu|0
+data/audio_24k/nepali_20987.wav|moːbˈaːɪl pʰˌoːnəlˈaːi dʰˈeːɾɛː pˈʌʈəkˌə cˈaːrrɟə ɡˈʌɾɪɾˌəhənˌu hũdˈɛːnə hˈɛː bjˈaːʈɾi poː kʰəɾˈaːb hˈuncʰə nˈɪ!|0
+data/audio_24k/nepali_3410.wav|saːmˈaːnjə mˌənoːɾˈʌɲɟənˌəkoː ɾˈuːpəmˌaː əlˈʌɡɡˌə ɾˈaːkʰnuʲˌu hˈoinˌə tˈaɾə jˈiː kˌəlaːkɾˈɪtɪhˌəɾuː səmmˈaːn ˈʌnɪ pɾˌəʃənsˈaːkaː jˈoːɡjə cʰˈʌn|0
+data/audio_24k/nepali_21626.wav|wɪʃˈeːʂ ɡˈʌɾi, hˈaːmɾoː dˈeːʃəkˌaː wɪbʰˈɪnnˌə pˌəhɪɾˌənəhəɾˈuːkoː pɾˌətɪnɪdʰˈɪtw sˈãccˌɛː ˈaːʃʃcərrjˌəɟənˌəkə tʰˈɪjoː|0
+data/audio_24k/nepali_4170.wav|jˈoː tˈə kˈʌsɛː pˈʌnɪ mˈaːnnˌə sˌəkĩdˈɛːnə nˈɪ! mˈɛːleː pɾˈɪmɪjˌəmə ɖˈeːlɪbʰˌəɾi seːwˈaːkaː lˈaːɡɪ pˈɛːsaː tˈɪɾẽ, tˈɛːpənˌɪ mˈeːɾoː pːjaːkˈeːɟ ˈʌɟʰɛː hˌəɾaːˌɪɾəhˈeːkoː cʰˈə!|0
+data/audio_24k/nepali_15097.wav|oːʈˈaːɪʈˌɪs mˌɪɖɪjaːlˈaːi nɪjˈʌntɾəɳ ɡˈʌrrnə ˈeːnʈɪbˌaːjoːʈˌɪkəkˌoː pɾəjˈoːɡ ɡəɾˈɪncʰə ɾə ˈʌnjə wɪkˈʌlpəmˌaː wɪstɾˈɪt mˌɪɾɪŋɡoːʈˈoːmi ˌətʰəwˈaː ʈɪmpˈeːnɪkˌə ɟʰɪlllˈɪːmaː cˈɪɾaː pˈaːrrneː ˌəpəɾˈeːsən wˈaː bˌɪɾaːmˈɪːleː sudʰˈaːɾə ɡəɾˈeːn bʰˈʌneː əsˈʌŋkucˌən sˌəmaːwˈeːʃ cʰˈə|0
+data/audio_24k/nepali_1448.wav|sˈʌn ˈʊnnˌaːɪs sˈʌjə sˌəntaːnˈʌbːbeː tˈaːkaː ˈeːʊʈˌaː kʰˈeːləmˌaː ɡjˈaːɾi kˈaːspaːɾˌoːbʰəlˌaːi pəɾˈaːɟɪt ɡˈʌrrdɛː ɖˈɪp blˈuː wˈɪʃw cːjˈaːmpɪjˌənəlˌaːi həɾˈaːʊnˌeː pˈʌhɪlˌoː kˈʌmpːjuʈˌəɾə bˈʌnjoː|0
+data/audio_24k/nepali_25777.wav|kɾˈɪpəjˌaː bʰˈoːljumˌəlaːˌiː nɪjˈʌntɾəɳ ɡˌərrnuhˈoːs|0
+data/audio_24k/nepali_7768.wav|ˈeːpʰ. pʰljˈaːʈ sʈˈʌkəkˌoː mˈuːljə kˈʌtɪ hˈuncʰə|0
+data/audio_24k/nepali_23416.wav|wˈɪtəɾˌəɳ|0
+data/audio_24k/nepali_2142.wav|hˈʌɟuɾˌə, jˈoː cãdˈʌni cˈɔːkəmˌaː əwˈʌstʰɪt cʰˈə|0
+data/audio_24k/nepali_9253.wav|puːrrwˈɪːjə ɡəŋɡˈaːhəɾˌuː kˈʌlaː ˈʌnɪ wˈaːstukˌəlaːkˌaː sənɾˈʌkʂəkˌə tʰˈɪeː|0
+data/audio_24k/nepali_27035.wav|ˌeːnəoːˈeːeː bˈaːhɾə ɾə ˌeːnəoːˈeːeː əʈʰˈaːhɾə ʊpˈʌɡɾəhˌəkoː pəcʰˈɪllloː təswˈɪːɾəmˌaː bˈoːrrnɪjˌoːmaː ˈeːkə sˈʌjə sˈaːt ɾə sumˈaːtɾaːmˌaː nəwˈaːsɪːwˌəʈaː həʈˈʌspəʈ ɾəhˈeːkaː cʰˈʌn|0
+data/audio_24k/nepali_13548.wav|ənˈeːkə dˈɪn bˈɪtɪsˌəkeː|0
+data/audio_24k/nepali_13202.wav|pɾˈʌtːjəjˌə swˈɪːkaːɾˌə ɡˈʌrrneː kˈeːhi ˈʌnjə sˌəŋɟɲaːhəɾˈuːleː pˈʌnɪ jˈoː ˌʊpəsˈʌrrɡəkˌoː sˈʌʈʈˌaː lˈɪn sˈʌkcʰən|0
+data/audio_24k/nepali_27670.wav|dˌeːwəlˈaːi mˈaːrrcə ˈʊnnˌaːɪs sˈʌjə paːsˈɪːmaː pˈun kəptˈaːn nɪjˈuktə ɡˈʌɾɪjˌoː ɾə ˈʊnəlˌeː sˈʌn ˈʊnnˌaːɪs sˈʌjə cʰˌəjaːsˈɪːmaː ɪŋljˈaːnɖəmˌaːtʰɪ ʈˈeːsʈə ʃɾˈɪŋkʰəlˌaːkoː ɟˈɪtəmˌaː bʰˌaːɾətəlˈaːi mˈaːrrɡənˌɪrrdeːʃ ɡˈʌɾeː|0
+data/audio_24k/nepali_24846.wav|ˌaːɾəˌeːcəˈaːim mjˌaːɡənˈeːsʈɪjˌaː ˈɪnɖɪjˌaː ˈeːləʈˌɪɖi|0
+data/audio_24k/nepali_10867.wav|jˈoː ˌʊʂɳəkˌəʈɪbəndʰˈɪːjə wˈʌrrʂaː bˈanˈə cʰˌeːʊcʰˈaːʊkˌaː bʰˌuːbʰaːɡˌəhəɾuːbˈaːʈ ˈʌləɡ bʰˈʌeː tˈaːpənˌɪ ˈaːʃʃcərrjˌəɟənˌəkə ɾˈuːpəmˌaː pˈʌʃu ɟˌənəɟˈɪːwənˌəkoː wɪwˈɪdʰətˌaːleː səmɾˈɪdːdʰə cʰˈə|0
+data/audio_24k/nepali_21707.wav|ˌʊnɪːhəɾˈuːleː mˈɛːleː mˈeːɾoː ˌeːkaːˈʊnʈə sˌaːtʰɪːhˌəɾuːʃˈʌ̃ɡ sˈaːɟʰaː ɡˌəɾɪɾəhˈeːkoː cʰˈu bʰˈʌnnˌeː tʰˈaːhaː pˌaːeːkˈaːleː jˈoː ˌəwəɾˈudːdʰə bʰˈʌjoː nˈɪ|0
+data/audio_24k/nepali_14329.wav|wˌaːsudˈeːwən bʰˈaːskəɾˌən sˈʌn ˈʊnnˌaːɪs sˈʌjə ˈʌssˌɪːkoː mˈʌskoː oːlˈʌmpɪkˌəmaː swrrɳˈə pˈʌdəkˌə ɟˈɪtneː bʰˌaːɾətˈɪːjə ʈoːlˈɪːkaː kəptˈaːn tʰˈɪeː|0
+data/audio_24k/nepali_15189.wav|sɪtˈaːɾə|0
+data/audio_24k/nepali_17013.wav|kˈʌməlˌaː|0
+data/audio_24k/nepali_20747.wav|kərrnˈaːl|0
+data/audio_24k/nepali_8999.wav|ɾˈaːɟjəkˌoː ˈoːkə ɡɾˈoːbʰ skˈul wˈɪʃw sˈʌmpədˌaː kʂˈeːtɾəhˌəɾuːkˌaː lˈaːɡɪ əstʰˈaːji suːcˈɪːmaː cʰˈə|0
+data/audio_24k/nepali_6427.wav|ɾaːʃʈɾˈɪːjə sˌəŋɡɾəhˌaːləjəʃˈʌ̃ɡ bʰˈʌwjˈə pɔːɾˈaːɳɪkˌə jˈuɡəkˌaː wɪwˈɪdʰ sˌaːməɡɾˈɪːhəɾˌuː cʰˈʌn|0
+data/audio_24k/nepali_19003.wav|mˌukʰeːnɪːlˈaːi nəmˈʌsteː ɡərjˈoː|0
+data/audio_24k/nepali_16495.wav|məlˈaːi tˈə jˈoː sˌəpʰʈəwˈeːjəɾˌəkoː ɡˌuɳəstˌəɾəʃˈʌ̃ɡ wˈaːkkˌə lˌaːɡɪsˈʌkːjoː hˈɔː ˈeːkəcʰˌɪn cəlˈaːʊnˌeː bˈɪttˌɪkɛː krrjˈaːs bʰˌəɪhˈaːlcʰə|0
+data/audio_24k/nepali_1791.wav|ˈʊnəlˌeː ɾˌaːɟəkumˈaːɾə kʰˌurrɾəməlˈaːi kˈaːndaːhˌaːɾətˌɪɾə ˈʌɡʰɪ bˈʌɖʰnə aːdˈeːʃ dˈɪeː, tˈaɾə ˈʊnəlˌeː tːjˈʌsoː ɡˈʌrrnə əswˈɪːkaːɾˌə ɡˈʌɾeː|0
+data/audio_24k/nepali_12678.wav|kˈeːmpʈi pʰˌəlsəlˈaːi bɾˈɪʈɪs ˌədʰɪkˈaːɾi ɟˈoːn mˌeːkɪnˌənədːwˈaːɾaː sˈʌn əʈʰˈaːɾə sˈʌjə pɛ̃tˈɪsəmˌaː ˈeːʊʈˌaː pˌərrjəʈəkˈɪːjə ɡˌəntəwjˈʌkaː ɾˈuːpəmˌaː wˈɪkəsˌɪt ɡˌəɾɪˈeːkoː tʰˈɪjoː|0
+data/audio_24k/nepali_14321.wav|bʰˈaːɾətˌəmaː kəsˈɛːleː pɾətːjˈeːkə pˈʌʈəkˌə aːɾˈʌkʂəɳˌəkaː baːɾˈeːmaː kˈuɾaː ɡˈʌrrdaː məlˈaːi ɾˈɪs ˈʊʈʰcʰə|0
+data/audio_24k/nepali_22650.wav|kˈeː tˌəpaːĩcˈʌndɾəwindˌu ˌeːaːˌɪsɪʈˌɪɪːdːwˈaːɾaː ənumˌoːdˌɪt sˈʌbɛː sˌəɾəkˈaːɾi sˌənstʰaːnˌəhəɾˈuːkoː sˈuːci nɪkˈaːlnə sˌəknuhˈuncʰə?|0
+data/audio_24k/nepali_3525.wav|məlˈaːi sˈʌbɛː pɾəkˈaːɾəkˌaː pˈɪɟɟˌaː pˌəɾɪkˈaːɾə dˌeːkʰaːˌʊnuhˈoːs|0
+data/audio_24k/nepali_15645.wav|bˈɪc kˈoːrrpʰəbˌələkˌaː lˈaːɡɪ, kʰˈeːləkˌaː nˈɪjəmˌəhəɾˌuː nˈɪjəmˌɪt kˈoːrrpʰəbˌələkˌaː bʰˈʌndaː ˈʌlɪkˌə pʰˈʌɾəkˌə hˈuncʰən|0
+data/audio_24k/nepali_15035.wav|bʰoːpˈaːl, ɟˈoːdʰəpˌuɾə pːjaːsˈeːnɟəɾˌə|0
+data/audio_24k/nepali_25292.wav|mə mˈeːɾoː ˌaːmaːbˌaːbaːlˈaːi ɡʰˌuĩcˈoːmaː pˈaːrrnə caːhˈʌnnˌʌ̃|0
+data/audio_24k/nepali_26696.wav|pʰˈɪlmə lˌəwəlɪːbˈaːʈ sˌuɾuwˈaːt ɡəɾˈeːki saːnwˈiː ˈʊnəkˌoː sˌəhəkˌəlaːkˈaːɾə tʰˈɪɪn|0
+data/audio_24k/nepali_15865.wav|mˈaːdəl|0
+data/audio_24k/nepali_19051.wav|kˈunɛː pˈʌnɪ ɖˈɪləɾˌəsɪpˌəleː jˌəsəlˈaːi ənumˌətˌɪ dɪnˈeːcʰə ɾə ˈaːpʰːnoː nˈɪɟi kˈaːɾə bˈeːcneː kˈunɛː pˈʌnɪ ʋjˈʌktɪlˌeː tːjˈʌsɛː ɡˌərrnupˈʌrrcʰə|0
+data/audio_24k/nepali_17907.wav|məlˈaːi jˈoː ɾˌeːsʈuɾˈeːnʈəmˌaː pɾəwˈeːʃ ɡˈʌrrnə nˈɪkɛː ɖˈʌɾə lˈaːɡcʰə jˈoː bʰˈʌwən ˈʌnɪ jˌəhãkˈaː mˈaːnɪsˌəhəɾˌuː ɖˌəɾəlˈaːɡdaː deːkʰˈɪncʰən|0
+data/audio_24k/nepali_9892.wav|tˌəpaːĩlˈeː tːjˈʌhã cʰˌaːtɾəwɾˈɪttˌɪkaː lˈaːɡɪ aːwˈeːdən ɡˈʌrrnə sˌəknuhˈuncʰə|0
+data/audio_24k/nepali_18228.wav|tˈuŋɡə|0
+data/audio_24k/nepali_24494.wav|wəkˈaːlətˌiː pəɾˈɪːkʂaː tːjˈʌhi wˈʌrrʂə ʃˈeːʂ hˈuneː tʰˈɪjoː|0
+data/audio_24k/nepali_27636.wav|ˈʊnəlˌeː mˌəstəɾˈaːməkˌoː cʰˈʌdmə nˈaːmə ˌəpənˈaːeː ɾə saːrrwɟˈʌnɪkˌə ɾˈuːpəmˌaː nɪʂˈeːdʰɪt ˌʊpənjˈaːs ʃɾˈɪŋkʰəlˌaːhəɾˌuː mˈʌntʰən ɡˈʌɾeː, ɟˈun sˌəbɛːbʰˈʌndaː dʰˈeːɾɛː bˈɪkɾi hˈuneː pˈustəkˌə bˈʌnnˌə pˈuɡdəcʰˌə|0
+data/audio_24k/nepali_25266.wav|lˈaːmoː sˌəməjədˈeːkʰɪ mˈuɡəl səmɾˈaːʈəkˌoː ˌəkʰtɪjˌaːɾəlˈaːi ɡˌəmbʰɪːɾətˈaːkaː sˈaːtʰ lˈɪn bˈʌndə ɡəɾˈeːkaː əŋɡɾˈeːɟəhˌəɾuː ɟˈʌpʰəɾˌəkoː jˈudːdʰəkˌoː aːhwˈaːnəlˌaːi ˈaːmə ɟˌənətˈaːleː kˈʌsəɾˌiː pɾətˈɪkɾɪjˌaː dˈɪeː bʰˈʌnnˌeː deːkʰˈeːɾə cʰˈʌkkˌə pˈʌɾeː|0
+data/audio_24k/nepali_14304.wav|pʰˌuləpˈaːti|0
+data/audio_24k/nepali_17190.wav|dˈuɪ sˈãɟʰ bʰˈaːt kʰˈaːneː baːhˈeːkə jˈɪnəkˌaː ɟˈɪːwənˌəkoː ˈʌɾuː ʊddˈeːʃjə kˈeːhi cʰˈɛːnə|0
+data/audio_24k/nepali_20104.wav|hˈaːʊɖˌaː, bˈaːɾəbˌɪl ɟˈaːn ʃətˈaːbdi ˈeːksəpɾˌeːs|0
+data/audio_24k/nepali_11365.wav|ˈaːpʰːnaː pˈʌɾəmˌə pɾˈɪjə mˈɪtɾəkˌiː cʰˌoːɾɪːlˈaːi ˈaːpʰːni mˌukʰeːnˈɪːleː jˈʌstoː pɾˈeːmə ɡəɾˈeːkoː deːkʰˈeːɾə lˌəlɪtəsˈɪŋhə ˈaːtməpɾˌəsaːdˌəkoː dˈɪːrrɡʰə nɪhʃwˈaːs tˈaːncʰən|0
+data/audio_24k/nepali_21138.wav|ˈʌrrkoː bʰˈaːɡ ɟˈun kˈʌɾə tˈɪrrnə aːwˈʌʃjəkˌə cʰˈɛːnə tːjˈoː ɡˈɛːɾə kˌəɾəjˈoːɡjə ˈaːjə hoː|0
+data/audio_24k/nepali_19890.wav|mˈoːɖəl ɾˈɪjaː pˌɪllləˈɪːki ˈaːmaː dʰˌuɾeːʃwɾˈʌ hˈun|0
+data/audio_24k/nepali_26796.wav|mˌəhaːɾˈaːʂʈɾˌə ˈeːksəpɾˌeːs|0
+data/audio_24k/nepali_19144.wav|dʰˈeːɾɛː ɟˌaːnəkˈaːɾi pɾˈʌstut ɡˌərrnəbˈaːʈ bˈʌcnə ˈaːpʰːnoː pˈʌɾɪcˌəjə ˈeːkə ˌənuccʰˌeːdˌəbʰəndˈaː kəmtˈɪːmaː ɾˈaːkʰnuhˌoːs|0
+data/audio_24k/nepali_250.wav|ɾˈudɾə wˈɪːɳaː|0
+data/audio_24k/nepali_4258.wav|dˈui ɟˈoːɖi ãkʰˈaː sˈʌdʰɛ̃ ˌeːʊʈaːbʰˈʌndaː ɾˈaːmɾaː hũdˈʌcʰən|0
+data/audio_24k/nepali_14428.wav|ˌəɾəbˈɪndə pʰˈʌrrmaː ˈeːləʈˌɪɖi|0
+data/audio_24k/nepali_1122.wav|tˈaɾə kˈeː təpˈaːĩ jˈoː sˈʌbɛː kɾˈaːrrjəkɾˌəməhˌəɾuːkˌaː lˈaːɡɪ ɡˈʌrrnə sˌəknuhˈuncʰə?|0
+data/audio_24k/nepali_3844.wav|tˈaɾə pɾˌətɪbʰˈaːleː mˈeːɾaː lˈaːɡɪ ˈaːjə ˈaːrrɟən ɡˌəɾaːˌɪɾəhˈeːkoː cʰˈɛːnə|0
+data/audio_24k/nepali_9250.wav|pˈʌhɪlˌoː pɾˈeːmə|0
+data/audio_24k/nepali_18760.wav|ɟˈeː hˈoːs, ˌʊnɪːhəɾˈuːleː jˈoː kəhˈɪljɛː ɡərrdˈɛːnən bʰˈʌnnˌeː hˌaːmɪːlˈaːi tʰˈaːhaː cʰˈə, tːjˌəsəkˈaːɾəɳ ˈaːʃaː ɡˈʌɾɪhˌənukˌoː kˈunɛː ˈʌrrtʰə cʰˈɛːnə|0
+data/audio_24k/nepali_16118.wav|ɡɔːɾˈɪːkaː kˈʌʈʰɪn ʃˈaːsənˌəleː tˈiː tʰˈʌɾətʰˌəɾi cʰˈʌn|0
+data/audio_24k/nepali_10269.wav|jˈoː ˌəntərrwˈaːtaː tˌəpaːĩbˈaːɾeː tʰˈoːɾɛː ˈʌdʰɪkˌə ɟˈaːnnˌəkaː lˈaːɡɪ ɾˌaːkʰɪˈeːkoː hoː|0
+data/audio_24k/nepali_27330.wav|pəɖʰˈaːi pɾaːɾˈʌmbhə hˈuncʰə|0
+data/audio_24k/nepali_3172.wav|hˈʌllloː, kˈeː mə kˈumbhə mˈeːlaː swˈɛːccʰɪkˌə seːwˈaːʃʌ̃ɡ kˈuɾaː ɡərrdˈɛːcʰu?|0
+data/audio_24k/nepali_15465.wav|ˌəɟəmˈeːɾə, cˈʌnɖɪɡˌəɖʰ ɡˈʌɾɪb ɾˈʌtʰ ˈeːksəpɾˌeːs|0
+data/audio_24k/nepali_12983.wav|jˈʌsəlˌeː ˈaːpʰːnoː dˈoːsɾoː həptˈaːmaː ɟəmmˌaːɟˈʌmmˌiː cˈaːɾə kəɾˈoːɖ ɾˈupɪjˌã sˈʌŋkəlˌən ɡərjˈoː, jˈʌsəkˌoː kˈul sˈʌŋkəlˌən cʰˈʌbːbɪs kəɾˈoːɖ ɾˈupɪjˌã ɟəmmˌaːɟˈʌmmˌiː pˈuɡjoː|0
+data/audio_24k/nepali_3473.wav|hˈʌwəs, jˈoː ʈʰˈɪkɛː pˈʌnɪ hoː, mə ʌbˈə bˈʌsəhˌəɾuː hˈeːrrcʰu hˈɛː tˈə|0
+data/audio_24k/nepali_1444.wav|swˈaːstʰjˌə ɾə ʃɪkʂˈaːkoː kˈaːməkˌaː lˈaːɡɪ ˈʊnəkˌoː nˈaːməkˌoː pʰˌaːʊnɖˈeːsənˌəleː bʰˈaːɾətˌəkaː wˈʌɲcɪt bˌaːləbˌaːlɪkaːlˈaːi sˌəhəjˈoːɡ pɾədˈaːn ɡˈʌrrneː dɪʃˈaːmaː kˈaːmə ɡˈʌrrcʰə|0
+data/audio_24k/nepali_22757.wav|jˈɪnəkˌaː ɟˈɪːwənˌəmaː ˈaːʃaː, aːkˈaːŋkʂaː ˌətʰəwˈaː ˌəbʰɪlˈaːʂaː pɾˈaːjə cʰˈɛːnə|0
+data/audio_24k/nepali_15951.wav|sˈaːtʰɛː tːjˈʌsəkˌoː swbʰˈaːwə cʰˈə sˈaːɾɛː sˈʌɾəl kˌeːʈaːkeːʈˈɪːkoː ɟˈʌstoː|0
+data/audio_24k/nepali_19726.wav|mə ˌɪɟɪpʈˈeːli mˌəmɪːhəɾˈuːkoː ˈeːʊʈˌaː kˈaːrrjəkɾˌəmə hˌeːɾɪɾəhˈeːkoː tʰˈɪẽ ɾə bˌaːluwˈaː mˈunɪ sˈunəlˌeː ɖʰˌaːkɪˈeːkaː mˈuːrrtɪhˌəɾuːkˌoː kʰˈoːɟ deːkʰˈeːɾə ɾoːmˈaːɲcɪt bʰˈʌẽ|0
+data/audio_24k/nepali_26768.wav|pɾəpʰˈulllɪt ɾˌeːʈɪnˈoːpːjaːtʰˌiː bʰəˈeːkoː ʋjˌəktɪlˈaːi nˈʌjã ɾˌəktəʃɾˈaːwəkˌaː sˈaːtʰɛː ɟˌələbˈɪndukˌoː kʰˈʌtəɾˌaː sˈʌdʰɛ̃ ɾəhˈʌncʰə jˈoː nˈʌjã ɾˌəktənˌəlɪːhəɾˈuːkoː ɟˈʌʈɪlˌətaː hoː|0
+data/audio_24k/nepali_22337.wav|ˈaːɪɾˌɪs nɾˈɪtːjə pɾədˈʌrrʃənˌəleː tˈə mˈeːɾoː dˈɪn nˈɛː ɾəmˈaːɪlˌoː bənˈaːɪdˌɪjoː|0
+data/audio_24k/nepali_3986.wav|kˈaːcɪɡˌuɖaː, bˈeːŋloːɾˌə sˈɪʈi ˈeːksəpɾˌeːs|0
+data/audio_24k/nepali_23447.wav|ˌɪnɟɪnɪjˈʌrrsə ˈɪnɖɪjˌaː ˈeːləʈˌɪɖi|0
+data/audio_24k/nepali_9378.wav|nˈɪhuɾˌoː|0
+data/audio_24k/nepali_20649.wav|tˈɪs wˈʌrrʂəpˌəcʰɪ mˈeːɾoː sˌaːtʰɪːlˈaːi bʰˈeːʈdaː ˈʊnəkˌoː ɾˈuːpəmˌaː aːˈeːkoː jˈʌtɪ dʰˈeːɾɛː pˌəɾɪwˈʌrrtən deːkʰˈeːɾə mə tˈə cʰˈʌkkˌə pˈʌɾẽ|0
+data/audio_24k/nepali_3694.wav|tˌəpaːĩlˈeː ˈeːkkˌaːɪs dˈɪn mˈaːtɾə aːɾˈaːmə ɡˈʌɾẽ bʰˈʌnnˌə kʰˈoːɟnubʰˌəeːkˌoː hoː? tˌəpaːĩlˈeː tˈə pɛ̃tˈaːlɪs dˌɪnəsˈʌmmˌə poː aːɾˈaːmə ɡˌərrnupˈʌrrcʰə tˈə|0
+data/audio_24k/nepali_23842.wav|ˌətəˈeːwə tːjˈoː wɪcˈaːɾə ʃˈeːkʰəɾˌəleː cʰˈɪʈʈˌɛː tːjˈaːɡɪdˌɪjoː|0
+data/audio_24k/nepali_23694.wav|ˈʌhɪlˌeː mˈeːɾoː kˌərrməcˈaːɾi sˈʌbʰaː cʰˈə|0
+data/audio_24k/nepali_22604.wav|pˈɛːsaː nɪkˈaːlneː mˈeːɾoː pˈaːloː ˌaːũdˈaː ˈʊnəlˌeː məlˈaːi ənucˌɪt tˌəɾɪkˈaːleː hˌɪrrkaːũdˈaː mˈɛːleː ʈˌeːləɾəʃˈʌ̃ɡ mˈeːɾoː dʰˈɛːrrjə ɡumˈaːẽ|0
+data/audio_24k/nepali_5910.wav|pˈaːʊ bʰˈaːɟi|0
+data/audio_24k/nepali_15109.wav|əmˈaːnət|0
+data/audio_24k/nepali_14790.wav|sˈɪp ˈʌpʰ tʰˈɪsɪjˌəsəkˌoː ʃˈaːbdɪkˌə ʊdˈaːhəɾˌəɳ ɖɪˈeːsəbʰˌiː ˈeːlbʰɪn hoː, ˈeːʊʈˌaː jˈʌstoː pˌənəɖˈubːbi ɟˈʌsəlˌeː jˈʌsəkˌoː sˈʌbɛː ˈʌŋɡəhˌəɾuː kəmtˈɪːmaː ˌeːkəpˈʌlʈə pɾˌətɪstʰˈaːpən ɡˌəɾɪˈeːkoː bʰˈʌeː tˈaːpənˌɪ ˈaːpʰːnoː pˌəhɪcˈaːn kˈaːjəmˌə ɾaːkʰˈeːkoː cʰˈə|0
+data/audio_24k/nepali_25696.wav|kˈaːn|0
+data/audio_24k/nepali_14405.wav|ʊttˌəɾˈaːjəɳˌəkaː cəŋɡˈaːhəɾˌuː wɪʃˈeːʂ hˈʌlkaː tˈɔːləkˌaː kˈaːɡəɟ ɾə bãsˈʌbaːʈ bənˈeːkaː hˈuncʰən ɾə pɾˈaːjəh mˈʌdʰjə mˌeːɾudˈʌɳɖə ɾə ˈeːkəl dʰˈʌnukˌoː sˈaːtʰ sˈʌməbʰˌuɟ aːkˈaːɾəkˌaː hˈuncʰən|0
+data/audio_24k/nepali_26235.wav|ɾˈʌskɪn bˈoːnɖə|0
+data/audio_24k/nepali_23403.wav|məndˈɪːkoː sˈʌməjˌəmaː pˈʌnɪ ˈʌʊsət ɡʰəɾˈeːluː pũɟˈɪːbaːʈ jˈiː ˌʊtpaːdˌənəhəɾˈuːkoː kəʈˈɔːti hˈuneː səmbʰˈaːwənˌaː cʰˈɛːnə|0
+data/audio_24k/nepali_8505.wav|ʊpˈeːndɾə sˈɪŋhəkˌaː ənusˌaːɾˌə bˌɪndusˈaːɾəkˌoː mɾˈɪtːju ˌɪsaːpˈuːrrw dˈui sˈʌjə tɾɪhˈʌttˌəɾəmˌaː bʰəˈeːkoː tʰˈɪjoː|0
+data/audio_24k/nepali_14897.wav|ʃɾˈɪŋɡeːɾˌiː ʃɾˌɪːnɪwˈaːs dˌɔːɖʌ̃dˈɛː ɡˌaːũmˈaː pʰˈʌrrkɪˌeː bˈaːɡʰ ɡˌupʰaːbʰˈɪtɾə pəsˈeːɾə sˈutːjoː|0
+data/audio_24k/nepali_10814.wav|kˈeːwəl kˈeːhi ɾˈaːɟjə pɾˌəjoːɡəʃˈaːlaː wˈaː sˌɪɖɪsˈɪːmaː bʰəˈeːkaː sˈʌhɪt, ˈʌnjə wˌɪʃeːʂˌəɟɲətaːpɾˈaːptə pɾˌəjoːɡˌəʃaːlˈaːhəɾˌuː, jˈoː wɪʃˈeːʂ pəɾˈɪːkʂəɳ ɡˈʌrrnə sˈʌkʂəmˌə cʰˈʌn|0
+data/audio_24k/nepali_21546.wav|ˈeːʊʈˌaː ˈʌnjə ɾˌɪrrpoːʈˌəənusˌaːɾˌə ˈʊttˌəɾə cˈɔːbɪs pˌəɾəɡənˈaːkoː kˌəməɾˌəhaːʈˈɪːmaː sˈaːɡəɾˌə dˈʌttˌaː meːmˈoːɾɪjˌəl ˌəspətˈaːləkˌaː ˈaːʈʰəɟˌənaː wəɾˈɪʂʈʰˌə ɖˈaːkʈəɾˌəleː ɟˈunɪjˌəɾə sˌəhəjˌoːɡɪːhəɾˈuːkoː səmˈʌrrtʰənˌəmaː ɾˌaːɟɪnˈaːmaː dˈɪneː nˈɪrrɳəjˌə lɪˈeːkaː cʰˈʌn|0
+data/audio_24k/nepali_3813.wav|kˈeː mə jˈoː suwˈɪdʰaː pɾəjˈoːɡ ɡəɾˈeːɾə wɪdˈeːʃəmˌaː pˈɛːsaː pəʈʰˈaːʊn sˈʌkcʰu?|0
+data/audio_24k/nepali_14151.wav|saːrrwɟˈʌnɪkˌə swˈaːstʰjˌə seːwˈaːhəɾˌuː swˈaːstʰjˌə ˈʌnɪ pˌəɾɪwˈaːɾə kəljˈaːɳ məntɾˈaːləjˌə ˌeːməˌoːeːcˌəeːpʰˌəɖəbljuːdːwˈaːɾaː wɪbʰˈɪnnˌə wˌɪbʰaːɡˌəhəɾuːmˈaːrrpʰət ʃˈaːsɪt cʰˈʌn|0
+data/audio_24k/nepali_13020.wav|ˈeːkə cʰˈɪnəpˌəcʰɪ sˈeːtoː sˈaːɾi laːˈeːki, kˈaːloː kˈeːʃ nəkˈoːɾi tːjˈʌsɛː pˌɪʈʰɪũmˈaː cʰaːɖˈeːki, cˈʌɲcəlˌaː wˌənəkˈʌnjaː ɟˈʌsti mˈaːjaː dəɡˈurrdɛː koːʈʰˈaːmaː ˈaːi ˈʌʊ ʃˌeːkʰəɾəlˈaːi deːkʰˈeːɾə tːjˈoː stˈʌmbʰɪt bʰəˈeːɾə pˈʌcʰɪ sˈʌɾi|0
+data/audio_24k/nepali_11702.wav|pˌəɖʰɪsəkˈeːɾə tːjˈʌsəlˌeː pˈunəh pˌətɾəlˈaːi kʰˈaːməmˌaː haːlˈeːɾə pˈʌɖʰdɛː ɡəɾˈeːkaː pˈustəkˌəkaː pˌətɾəbʰˈɪtɾə ɾˈaːkʰi tːjˈʌsəkˌoː ənuhˌaːɾˌə mˈʌlɪn bʰˈʌjoː|0
+data/audio_24k/nepali_2141.wav|ɟəwˈaːhəɾˌəlaːl nˈeːhəɾˌuː|0
+data/audio_24k/nepali_27658.wav|ʊsˈoːbʰəˌeː, təpˈaːĩ kˈʌstoː hˌunuhˈuncʰə?|0
+data/audio_24k/nepali_27158.wav|mə wˈaːstəwˌəmaː pəɾˈɪːkʂaːkˌoː təjˈaːɾi ɡərrdˈɛːcʰu|0
+data/audio_24k/nepali_23351.wav|ɪndˈɔːɾə, dˌeːhəɾˈaːdun ˈeːksəpɾˌeːs|0
+data/audio_24k/nepali_12739.wav|jˈiː dˈɪʃaː nˌɪrrdeːʃˌəhəɾuːlˈaːi ɟˈaːɾi ɡˈʌrrneː ʊddˌeːʃjəhəɾˈuːmaː kˌaːɾoːbˈaːɾi sˈuɡəmˌətaː, ˌʊpəbʰˈoːktaː suɾˈʌkʂaː ˈʌnɪ cˈaːləkˌə kəljˈaːɳ saːmˈeːl cʰˈʌn|0
+data/audio_24k/nepali_19636.wav|ˈeːkkˌaːɪs, eːɡʰˈaːɾə, dˈui həɟˈaːɾə nˈɔː|0
+data/audio_24k/nepali_12088.wav|wˈaːstəwˌəmaː, hˈaːmi jˈʌs wˈʌrrʂə puːrrwˈoːttˌəɾəkˌoː jˈaːtɾaː ɡˈʌrrneː jˈoːɟənˌaː bˌənaːˌɪɾəhˈeːkaː cʰˈɔ̃|0
+data/audio_24k/nepali_27244.wav|tːjˌəsəkˈaːɾəɳ mˈeːɾaː kˈeːhi ɟˌɪɟɲaːsˈaːhəɾˌuː tʰˈɪeː|0
+data/audio_24k/nepali_17090.wav|cˈeːs ʈukɾˈaːhəɾˌuː dˈui pʰˈʌɾəkˌə ɾˈʌŋ sˈeːʈəmˌaː wɪbʰˈaːɟɪt cʰˈʌn|0
+data/audio_24k/nepali_26303.wav|ˈeːʊʈˌaː mˈʌdʰjə ɡɾˈeːɖ ɖˌɪɾeːlɪˈoːɾə ˈeːkəɟˌənaː sɪkˈaːɾukˌaː lˈaːɡɪ pərrjˈaːptə cʰˈə, jˈʌdjəpˌɪ dʰˈeːɾɛː ˌʊpəjˈoːɡɪtˌaː bˈaːɪkˌə hˈʌb ɡˌɪjəɾəʃˈʌ̃ɡ susˈʌɟɟˌɪt cʰˈʌn|0
+data/audio_24k/nepali_20406.wav|jˈʌsəkˌaː sˈaːtʰɛː kãwˈʌɖ jˈaːtɾaː, kənɖˈaːli məhˈoːtsəwˌə, ɾˌaːməmˈaːn, həɾˈeːlaː mˈeːlaː, kˈɔːtʰɪɡ, nɔːcˈʌɳɖi mˈeːlaː, ɡˈɪddˌiː mˈeːlaː, ʊttˌəɾˈaːjəɳˌiː mˈeːlaː, nˌəndaːdeːwˈiː ɾˈaːɟ ɟˈaːʈ ɟˈʌstaː wɪbʰˈɪnnˌə meːlˈaːhəɾˌuː lˈaːɡneː ɡˈʌrrcʰən|0
+data/audio_24k/nepali_17436.wav|ʃˈeːkʰəɾˌəkaː mˌukʰəbˈaːʈ nɪskˈeːkaː pɾətːjˈeːkə ʃˈʌbdə tˈiː mˈuɡdʰə bʰəˈeːɾə sˈuntʰeː|0
+data/audio_24k/nepali_16003.wav|dˌeːwəlˈaːli, bʰusˈaːwəl pːjaːsˈeːnɟəɾˌə|0
+data/audio_24k/nepali_27242.wav|ɡˈoːlɖeːn ʈˈeːmpəl mˈeːl|0
+data/audio_24k/nepali_196.wav|jˈoː sˈãccˌɛː ˈeːʊʈˌaː wɪpˈʌttˌɪ hoː ɾə ˈeːʊʈˌaː swˈaːstʰjˌə sˈʌŋkəʈ hoː|0
+data/audio_24k/nepali_24821.wav|ɟˈʌb pˈʌnɪ mə ˌɪnʈeːɾənˈeːʈəmˌaː səmˈʌsjaː aːˈeːkoː ɟˌaːnəkˈaːɾi ɡˌəɾaːũcʰˈu, kəsˈɛːleː sˈʌdʰɛ̃ tuɾˈuntɛː ˈaːʊnˌeː wˈaːcaː ɡˈʌrrcʰən tˈaɾə mˈuskɪlˌəleː mˈaːtɾə kˈeːhi dˈɪnəmˌaː kˈoːhi ˌaːɪpˈuɡcʰən kˈʌstoː kʰˌeːlãcˈiː hoː jˈoː!|0
+data/audio_24k/nepali_6281.wav|bˌəŋɡəlˈoːɾəkˌaː bˌaːsɪndˌaːhəɾˈuːleː aːkˈaːʃəmˌaː ˈeːʊʈˌaː ɖʰˈoːkaː dˈeːkʰeː ˈʌɾeː! sunˈeːkoː kuɾˈaːmaː məlˈaːi wɪʃwˈaːs bʰˌəɪɾəhˈeːkoː cʰˈɛːnə!|0
+data/audio_24k/nepali_19849.wav|ˌəʃoːkəmˈɪtɾəɳ|0
+data/audio_24k/nepali_20743.wav|ɡˈɪːtəmˌaː sˈʌmɪɾˌə, sˈʌbːbɪɾˌə ˈʌhəmˌəd, mənˈoːɟ jˈaːdəwˌə ɾə sˈʌɲɟəjˌə mˈaːsumˌəkoː ʃˈʌbdə ɾəhˈeːkoː cʰˈə|0
+data/audio_24k/nepali_20615.wav|cˈunnˌaːkaː lˈaːɡɪ jˈʌsəmˌaː dʰˈeːɾɛː cʰˈʌn|0
+data/audio_24k/nepali_19819.wav|hˈʌɟuɾˌə, sˈʌɾə|0
+data/audio_24k/nepali_9119.wav|ʂˌəɖəjˈʌntɾəkˌoː ɖˈʌɾəlˌeː kʰãɖˈeː ɾˈaːwə bʰaːɡˈeːɾə seːɾˈɪŋɡəpˌəʈəmˌə pˈuɡeː|0
+data/audio_24k/nepali_2507.wav|tˌəpaːĩlˈeː hˈaːmɾoː kəlˈeːɟəkˌaː klˌəbəhəɾˈuːkaː baːɾˈeːmaː sunnˌubʰəˈeːkoː hˈoːlaː|0
+data/audio_24k/nepali_13225.wav|tˈaɾə pˈʌnɪ ˌʊpənjˈaːs, ɡəlpˈaːdɪ pəɖʰˈeːɾə ˈeːʊʈˌɛː ʈʰˌaːũmˈaː ɡʰˈʌnʈɔ̃ bˈʌsɪɾˌəhən ˌʊnəlˈaːi dˈɪkkˌə lˈaːɡdɛːnətʰjˌoː|0
+data/audio_24k/nepali_351.wav|sˈʌn ˈʊnnˌaːɪs sˈʌjə nəbːbˈeːmaː ˈʊnəlˌeː ʃˈɪwəkˌoː hˈɪndi ɾˌɪmeːkəbˈaːʈ bˈʌlɪˌʊɖəmˌaː ɖˈeːbjuː ɡˈʌɾeː|0
+data/audio_24k/nepali_11073.wav|sˈʌn əʈʰˈaːɾə sˈʌjə bˌəjəsˈʌʈʈʰˌɪːmaː, ˈeːʊʈˌaː əŋɡɾˈeːɟi ʈoːlˈɪːleː ˌəsʈɾeːlɪjˈaːkoː pˈʌhɪlˌoː bʰɾˈʌməɳ ɡərjˈoː|0
+data/audio_24k/nepali_6052.wav|mˈoːhənˌəkaː ãkʰˈaː ʋjˈʌŋɡə ɾə ɡʰɾˈɪɳaːlˌeː əŋɡˈaːɾə ɟˈʌstaː kˈaːlaː bʰˈʌeː " ˈʌʊ ʃˈeːkʰəɾˌə tˈɪmi ɾˈuːpəkˌaː kʰˈaːnɪ, wɪdjˈaːkaː nˈɪdʰɪ ˈʌʊ ʌɪʃwrrjˈʌkoː dʰˈʌni!|0
+data/audio_24k/nepali_3053.wav|mˌaːnɪsˌəhəɾˈuːleː cʰoːɖˈeːkaː kˈunɛː pˈʌnɪ pɾˈʌʃnə wˈaː ʈɪppˌəɳɪːhəɾˈuːkoː ˈʊttˌəɾə dˌɪnuhˈoːs ɾə ˌʊnɪːhˌəɾuːlˈaːi bʰɾˈʌməɳ ɡˈʌrrnə pɾˈoːtsaːhˌɪt ɡˌərrnuhˈoːs|0
+data/audio_24k/nepali_2595.wav|kˈaːrrjəkɾˌəmə pɾˌəbəndʰˌəkədːwˈaːɾaː cʰˈʌləpʰˌəl ɡˌəɾɪˈeːkaː suɾˈʌkʂaː ʊpˈaːjəhˌəɾuː mˈeːɾaː pˌaːhunˌaːhəɾˈuːkoː kəljˈaːɳəkˌaː lˈaːɡɪ ˌəpərrjˈaːptə dˌeːkʰɪˈeːkaː kˈaːɾəɳ mə nɪɾˈaːʃ bʰˈʌẽ|0
+data/audio_24k/nepali_16584.wav|ˈʌʈʈʰˌaːɪs noːbʰˈeːmbəɾˌə dˈui həɟˈaːɾə ˈʊnnˌaːɪsˌəmaː, ʈʰˌaːkəɾˈeːleː mˈʌhaː wɪkˈaːs əɡʰˈaːɖi nˈaːməkˌə nˈʌwəɡˌəʈʰɪt ɡˌəʈʰəbˈʌndʰənˌəkoː ədʰjˈʌkʂəkˌaː ɾˈuːpəmˌaː nɪrrwˈaːcɪt bʰəˈeːpəcʰˌɪ mˌəhaːɾˈaːʂʈɾˌəkoː ˈʊnnˌaːɪsˌɔ̃ mˌukʰjəməntɾˈɪːkaː ɾˈuːpəmˌaː ʃˈʌpətʰ lˈɪeː|0
+data/audio_24k/nepali_26100.wav|dˈui həɟˈaːɾəkˌoː dˈʌʃəkˌəkoː ˈʌntːjəmˌaː sənstʰˈaːkoː aːlˈoːcənˌaː ɡˈʌɾɪjˌoː|0
+data/audio_24k/nepali_20030.wav|tˈɪnəwˌəʈaː pˌəhələwˈiː, mˈʌdʰjə pʰˌaːɾəsˈɪːmaː lˌeːkʰɪˈeːkaː cʰˈʌn ɾə ˈeːʊʈˌaː, hˈʌrrʂəcˌəɾɪt sənskɾˈɪtəmˌaː cʰˈə|0
+data/audio_24k/nepali_8365.wav|tˈʌmɪl nˈaːɖu ˈeːksəpɾˌeːs|0
+data/audio_24k/nepali_12318.wav|ˈʌhoː, jˈiː bˌɪɾuwˈaːhəɾˌuːlaːˌiː hˈeːrrnuhˌoːs tˈə, sˈaːhɾɛː cʰˈɪʈoː poː ˌʊmɾɪˈeːcʰən tˈə hˈʌn hˌɪɟoːˈʌstɪ mˈaːtɾɛː bˈɪʊ ɾoːpˈeːkoː hˈoinˌə ɾə?|0
+data/audio_24k/nepali_22300.wav|mˈuːkə ˈʌpəɖʰ, dˈɪːn mˈaːnɪsˌəhəɾˌuː, ɟˈoː ˈaːpʰːnaː mˈeːhənˌətəkˌoː pəsˈɪːnaː bəɡˈaːi kʰˈaːncʰən, tˈɪnəkˌaː ɟˈɪːwənˌəmaː ˈʌlɪkˌətɪ aːnˈʌndə, kˈeːhi ˈaːʃaː, ˈʌnjə aːɾˈaːmə ˈʌʊ ɟɲˈaːnəkˌoː ɟjˈoːtɪ dˈeːkʰnə pˌaːɪjˈoːs jˈʌhi mˈeːɾoː ˈaːntəɾˌɪkə ˈɪccʰaː cʰˈə|0
+data/audio_24k/nepali_12920.wav|jˌəsəlˈaːi ˌaːkaːʃəwˈaːɳi ɾˌeːɖɪjˈoːkoː, ɖˈɪɖi njˈuɟ, pɪˈeːməˌoː ɾə sˈuːcənˌaː ˈeːwən pɾəsˈaːɾəɳ məntɾˈaːləjˌəkoː jˈuʈʈjub cːjˈaːnəlˌəmaː pˈʌnɪ pɾətːjˈʌkʂə pɾəwˈaːhɪt ɡˌəɾɪnˈeːcʰə|0
+data/audio_24k/nepali_21895.wav|ˌʊhãlˈeː kˌɪsaːnˌəhəɾuːlˈaːi jˈʌsəmˌaː ɟˈoːɖnəkˌaː nˈɪmtɪ ˈʌɪp aːdʰˈaːɾɪt kˈeːwə seːwˈaːkoː mˌaːdʰjəmədːwˈaːɾaː ʈɾˈʌkə ˈeːɡɾɪɡˌeːʈəs ɟˈʌstaː nəwˈɪːn pˈʌdːdʰətˌɪkoː pɾəjˈoːɡ ɡˈʌɾi sˌəmbʰaːwˌənaːhəɾˈuːkoː pˈʌttˌoː lˌəɡaːˌʊnəmˈaːtʰɪ ɟˈoːɖ dˈɪnubʰˌəjoː|0
+data/audio_24k/nepali_18543.wav|ɟjaːkˈɪːleː bʰˌuĩmˈaː kʰəsˈeːkoː tːjˈoː ɾˈoːʈi tuɾˈuntɛː sˌəmaːtɪhˈaːljoː ɾə ɡʰˈʌɾətˌɪɾə dˌaːʌɪːkˈaːːɾəɖˌɪjoː|0
+data/audio_24k/nepali_12490.wav|ɾəwˈɪkoː mˈɔːsəmˌəmaː dʰˈaːnəpˌəcʰɪ dˈaːl, tˈɪləhˌən ɾə sˈaːɡ sˈʌbɟi kʰˈeːti ɡəɾˈɪncʰə|0
+data/audio_24k/nepali_20034.wav|məlˈaːi kˈɪn dʰˈeːɾɛː cˈɪntaː lˈaːɡcʰə bʰənˈeːɾə mə pˈʌnɪ sˈoːccʰu|0
+data/audio_24k/nepali_23245.wav|bɾˈʌhmaː mˈʌndɪɾˌə bˌɪndusˈaːɾə nədˈɪːkoː puːrrwˈiː tˌəʈəbˈʌndʰəmˌaː, lˌɪŋɡəɾˈaːɟ mˌəndɪɾəbˈaːʈ ɟˈaːneː bˌaːjãtˈʌrrpʰəkˌoː sˈʌɖəkˌəmaː əwˈʌstʰɪt cʰˈə|0
+data/audio_24k/nepali_20464.wav|tˌəpaːĩkˈoː kʂˈeːtɾəmˌaː dʰeːɾˈɛːɟənˌaː mˌətədaːtˈaːhəɾˌuː cʰˈʌn|0
+data/audio_24k/nepali_20798.wav|wˈɛːnuʲˌu bˈʌppˌu|0
+data/audio_24k/nepali_8611.wav|ˌeːnəɾˈoːnəkˌoː neːtɾˈɪtwlˈeː tˈɪnəkˌoː ˌəsəpʰˌələtˈaːkoː ʃɾˈeːjə lˈɪn əswˈɪːkaːɾˌə ɡəɾˈeːkoː deːkʰˈeːɾə məlˈaːi poː həɾˈeːs laːɡˈeːɾə ˈaːjoː|0
+data/audio_24k/nepali_20197.wav|kˈeːhi dˌeːʃəhəɾˈuːleː pɾˈɪtʰwˈɪːkaː ˈʌdʰɪkˌə mˌəhəttwpˈuːrrɳə wˌɪʂəjˌəhəɾuːlˈaːi beːwˈaːstaː ɡˈʌrrdɛː ˌəntəɾˈɪkʂə ənwˈeːʂəɳˌəmaː jˈʌtɪ dʰˈeːɾɛː pˈɛːsaː ləɡˈaːni ɡˌəɾɪɾəhˈeːkoː deːkʰˈeːɾə məlˈaːi ɾˈɪs ˈʊʈʰcʰə|0
+data/audio_24k/nepali_19992.wav|moːhˈʌmmˌəd hˌɪdaːjˌətulllˈaːhə|0
+data/audio_24k/nepali_19318.wav|cʰɪmˈeːkəkˌoː sˈaːɪkˌəl doːkˈaːnəmˌaː mˈɛːleː mˈʌn pəɾˈaːʊnˌeː bˈaːɪkˌəhəɾˌuː bʰeːʈʈˌaːũdˈaː mə ɾoːmˈaːɲcɪt bʰˈʌẽ|0
+data/audio_24k/nepali_21924.wav|ɾˌəɳəwˈɪːɾə sˈɪŋhə|0
+data/audio_24k/nepali_27496.wav|bʰˌaːɾətˈɪːjə pʰˈuʈəbˌəl ʈoːlˈɪːleː lˌəɡaːtˈaːɾə tˈɪnəwˌəʈaː ʈɾˈʌpʰi ɟˌɪteːkˈaːmaː mə nˈɪkɛː kʰˈusi cʰˈu|0
+data/audio_24k/nepali_25842.wav|ɟũɡˈaː|0
+data/audio_24k/nepali_26770.wav|jˈoː səmˈundɾi sˌətəhəbˈaːʈ ˈeːkətˌɪs sˈʌjə mˈɪʈəɾˌəkoː ʊcˈaːɪmˌaː əwˈʌstʰɪt cʰˈə|0
+data/audio_24k/nepali_16071.wav|tˌəpaːĩlˈeː ˈaːpʰːnoː wˈaːcaː pˈuɾaː ɡəɾˈeːkɛː ˈʌsəl hˈuncʰə mə pˈuːrrɳə aːkˈaːɾəkˌoː kˌeːkəbʰˈʌndaː kˈʌmə kˈeːhi pˈʌnɪ swˈɪːkaːɾˌə ɡˈʌrrdɪnˌʌ̃|0
+data/audio_24k/nepali_11931.wav|sˈʌn əʈʰˈaːɾə sˈʌjə tˌɪnəsˈʌmmˌə, ɾˈaːɟaː ɾˌaːmədəjˈaːl sˈɪŋhəkˌoː neːtɾˈɪtwmˈaː lənɖʰˈɔːɾaː ɡˌaːũhˈʌɾuːkˌoː sˈʌŋkʰjaː sˈaːt sˈʌjə cˌɔːɾaːnˈʌbːbeː tʰˈɪjoː|0
+data/audio_24k/nepali_21748.wav|pʰˈɪlməmˌaː ˈʊnəkˌoː ˈʌbʰɪnˌəjəkˌoː tˈaːɾɪpʰ bʰˈʌjoː|0
+data/audio_24k/nepali_1475.wav|mˈeːɾoː jˈoː saːtʰˈɪːleː pˈɛːsaː cˌaːhĩdˈaː mˈaːtɾə məlˈaːi pʰˈoːn ɡˈʌrrcʰə nˈʌtɾə ˈʊsəlˌeː mˈeːɾoː cˈɪntaː nˈɛː ɡərrdˈɛːnə, məlˈaːi sˈaːhɾɛː kʰəɾˈaːb lˈaːɡcʰə|0
+data/audio_24k/nepali_121.wav|ədʰjˈʌkʂəlˌeː kˈʌmpənˌiː cəlˈaːʊnˌəkaː lˈaːɡɪ hˈaːmɾɛː jˈoːɡjə mˈaːlɪkˌəkaː sˈʌʈʈˌaː bˈaːhɪɾˌiː ʋjˌəktɪlˈaːi poː ɾˈoːɟeː hˈaːmi tˈə sˈaːhɾɛː kʰˈɪnnˌə bʰˈʌjɔ̃|0
+data/audio_24k/nepali_2694.wav|mˈumbəˌiː cˈeːnnˌəi mˈeːl|0
+data/audio_24k/nepali_19925.wav|hoː sˈʌɾə, mə lˈʌɡəbʰˌəɡ sˈʌbɛː kuɾˈaːmaː mˈeːɾoː eːkˈaːɡɾətˌaː ɡˌumaːˌɪɾəhˈeːkoː cʰˈu, ɾə mə dʰˈeːɾɛː cˈɪntɪt cʰˈu|0
+data/audio_24k/nepali_9489.wav|pˈʌʃʃcɪmˌə bəŋɡˈaːləkˌaː ˈʌnjə ʈʰˈulaː sˈʌhəɾˌə ˈʌnɪ bəɟˈaːɾəhˌəɾuː durrɡˈaːpuɾˌə, hˈaːwəɖˌaː, bˌərrdʰəmˈaːn, bˌəhəɾˈaːməpˌuɾə, ɟˌələpˈaːɪɡˌuɖi, kʰˈʌɖəɡˌəpuɾˌə ɾə cˈʌndənˌənəɡˌəɾə hˈun|0
+data/audio_24k/nepali_22018.wav|mˈeːɾoː bʰˈaːtəmˌaː ɖʰˈuŋɡaː kˈɪn cʰˈə? kˈeː tˌɪmɪːlˈaːi ˈʌnnˌə ɾˈaːmɾəɾˌiː kˈʌsəɾˌiː sˈʌpʰaː ɡˈʌrrneː bʰˈʌnnˌeː tʰˈaːhaː cʰˈɛːnə?|0
+data/audio_24k/nepali_25513.wav|wˈɪːɳaː|0
+data/audio_24k/nepali_5532.wav|ˈʊʂaː naːɾˈaːjəɳˌən|0
+data/audio_24k/nepali_5934.wav|wˈaːhə! mə mˈeːɾoː mˈoːɖɖjulˌəɾə kˈɪcən ˈʌrrɖəɾˌə cʰˈoːʈoː sˈʌməjˌəmaː pˈuɾaː bʰˌəeːkˈoːmaː cˈʌkɪt cʰˈu jˈoː jˈʌtɪ cãɖˈɛː təjˈaːɾə hunˈeːcʰə bʰˈʌnnˌeː tˈə mˈɛːleː soːcˈeːkɛː tʰˈɪɪnˌʌ̃!|0
+data/audio_24k/nepali_3047.wav|kɪɾˈaːnaː pˈʌsəlˌəmaː ˈeːkəɟˌənaː ɡɾˈaːhəkˌə mˈeːɾoː əɡˈaːɖɪ lˈaːɪnˌəmaː pˈʌsdaː məlˈaːi kˈʌmə tˈə ɾˈɪs ʊʈʰˈeːkoː hˈoinˌə|0
+data/audio_24k/nepali_13513.wav|ʊsˈoːbʰəˌeː, məlˈaːi bʰənnˌuhˈoːlaː, kˈʌŋɡənˌaː, tˌəpaːĩlˈeː kˌəhãbˈaːʈ bʰˈaːʂaː wɪɟɲˈaːnəmˌaː ˈaːpʰːnoː snˌaːtəkˈoːttˌəɾə səmpˈʌnnˌə ɡˈʌrrnubʰˌəjoː?|0
+data/audio_24k/nepali_7046.wav|ɟˈʌmmˌu|0
+data/audio_24k/nepali_3210.wav|ˈoːhə, mˈɛːleː jˌəsəbˈaːɾeː kˈʌhɪlˌeː sunˈeːkoː cʰˈuɪnˌʌ̃|0
+data/audio_24k/nepali_23973.wav|jˈoː wˌaːjəɾəlˈeːs ˌɪnʈəɾənˈeːʈ ɟəɖˈaːnəkˌoː ɡˈʌtɪlˌeː məlˈaːi tˈə cʰˈʌkkˌə paːrjˈoː|0
+data/audio_24k/nepali_8251.wav|sˌaːɾənˈaːtʰ ˈeːksəpɾˌeːs|0
+data/audio_24k/nepali_4449.wav|pəhˈɪljɛː kʰˌoːlɪˈeːkoː pːjaːkˈeːɟ pɾˈaːptə ɡˈʌrrneː wɪcˈaːɾəlˌeː nˈɛː məlˈaːi cˈɪntɪt bˌənaːũcʰˈə kˈɪnəbʰˌəneː jˈʌstoː pˈʌhɪlˌaː pˈʌnɪ bʰəˈeːkoː cʰˈə, kˈuɾɪjˌəɾəlˌeː jˈʌs wˌɪʂəjəlˈaːi tuɾˈuntɛː səmbˈoːdʰən ɡˈʌrrlaː bʰˈʌnnˌeː ˈaːʃaː ɡˈʌrrcʰu|0
+data/audio_24k/nepali_22234.wav|jˈoː ˈeːʊʈˌaː sˌəɾəkˈaːɾi wˈɪttˌə pˈoːʂɪt ənusˌəndʰˌaːn bʰˌəeːkˈaːleː, ɖˈeːʈaː wɪʃˈɪʂʈˌə mˌəntɾaːlˌəjəʃˈʌ̃ɡ ɾəhˈʌncʰə ɟˈʌsəlˌeː jˈʌsəkˌoː hˌeːɾəcˈaːhə ɡˌəɾɪɾəhˈeːkoː cʰˈə|0
+data/audio_24k/nepali_23488.wav|kˈunɛː kˈaːɾəɳˌəwəʃ tːjˈʌs dˈɪn mˈʌndɪɾˌəmaː ɡʰˌuĩcˈoː tʰɪˈeːnə|0
+data/audio_24k/nepali_17140.wav|mˈeːɾoː mˌənəpˈʌrrneː sʈˈoːɾə kʰˈoːlneː sˈʌməjˌə ɡʰˌəʈaːɪˈeːkoː cʰˈə tːjəsˈɛːleː məlˈaːi ˈʌlɪkˌə nəɾˈaːmɾoː lˌaːɡɪɾəhˈeːkoː cʰˈə|0
+data/audio_24k/nepali_24061.wav|wˈɪnətˌiː ˌərrɡaːnˈɪksə ˈeːləʈˌɪɖi|0
+data/audio_24k/nepali_9570.wav|ˌəndʰəwˈeːɡ|0
+data/audio_24k/nepali_27063.wav|mə ɟˌɪːwənəjˈaːpənˌəkaː lˈaːɡɪ kˈeːhi ɡˈʌrrnə sˌəkɪɾəhˈeːkoː cʰˈuɪnˌʌ̃|0
+data/audio_24k/nepali_14672.wav|pɾˈʌɳəwˌə, tˌəpaːĩlˈaːi jˈoː klˈʌbəlˌeː sʈʈjˈaːɡ pɾəwˈeːʃəlˌaːi ənumˌətˌɪ dˈɪncʰə bʰˈʌnnˌeː tʰˈaːhaː tʰˈɪjoː? jˈʌsəkˌoː ˈʌrrtʰə haːmˈɪːleː bʰˈɪtɾə pəsnˈaːkaː lˈaːɡɪ ˈaːpʰːnoː ɟˈoːɖi ljˈaːʊnˌu pərrdˈɛːnə!|0
+data/audio_24k/nepali_1109.wav|swdˈeːʃəkˌaː nɪɾˈʌkʂəɾˌə ɾˌəməɳˈɪːhəɾˌuː wɪdˈeːʃəmˌaː ʃˈɪkʂaː lˈaːbʰ ɡˈʌɾi pˈuɾuʂ sˌəmudˌaːjəʃˈʌ̃ɡ sˌəmaːnˌaːdʰɪkˈaːɾə kʰˈoːɟneː nˈaːɾi hˈunˈə lˈaːɡi ɾəhˈeːcʰən|0
+data/audio_24k/nepali_7503.wav|bʰˈʌlɪbˌəl pɾˌətɪjˌoːɡɪtˈaːmaː kʰˌeːlaːɖˈɪːhəɾˌuː ˈaːpʰːnaː pɾˌətɪdːwndːwˈɪːhəɾˌuːbaːʈ ɖˌəɾaːˈeːkaː ɾəhˈeːcʰən ɾə poː ɾˈaːmɾoːʃˌʌ̃ɡ nˌəkʰeːlˈeːkaː ɾəhˈeːcʰən bʰˈʌnnˌeː kˈuɾaː mˈɛːleː kʰjˈaːl ɡˈʌɾẽ|0
+data/audio_24k/nepali_6289.wav|tˌəpaːĩlˈeː ˈaːrrɟən ɡˈʌrrnə sˈʌpʰəl hˌunubʰəˈeːkaː kˌəlaːkɾˈɪtɪhˌəɾuːkˌoː wɪwˈɪdʰətˌaː deːkʰˈeːɾə mə sˈãccˌɛː pɾˌəbʰaːwˈɪt cʰˈu|0
+data/audio_24k/nepali_18386.wav|bjˈaːŋkə kˌərrməcˌaːɾɪːdːwˈaːɾaː nəɾˈaːmɾoː ʋjˌəwəhˈaːɾə ɡˌəɾɪˈeːkoː mˈeːɾoː pɾˌəsəŋɡəlˈaːi bjˈaːŋkə ˌədʰɪkaːɾˈɪːleː ɟˈʌsəɾˌiː səmhˈaːleː tːjˈoː deːkʰˈeːɾə məlˈaːi kʰˈusi lˈaːɡjoː|0
+data/audio_24k/nepali_1366.wav|tːjˈʌhi tˈə, tːjˈʌhã sˈɪːmɪt ʃɔːcˈaːləjˌəhəɾˌuː mˈaːtɾə cʰˈʌn|0
+data/audio_24k/nepali_1972.wav|təpˈaːĩ kˈun ɟˌaːnəkˈaːɾi kʰˈoːɟdɛː hˌunuhˈuncʰə, kɾˈɪpəjˌaː hˌaːmɪːlˈaːi tʰˈaːhaː dˌɪnuhˈoːlaː|0
+data/audio_24k/nepali_26760.wav|dˌəsɔ̃dˈeːkʰɪ tˈeːhɾɔ̃ ʃətˈaːbdɪːkˌaː cˈoːl ʃˌaːsəkˌəhəɾˈuːkoː ʃˌaːsənəkˈaːləmˌaː mˈʌndɪɾˌə pɾəʃˈaːsən tˈʌtʰaː bʰˈuːmɪ swˈaːmɪtwmˈaː bɾˈɪhət pˌəɾɪwˈʌrrtən bʰəˈeːkoː tʰˈɪjoː|0
+data/audio_24k/nepali_11259.wav|sˈʌŋɡəʈʰˌənəkˌoː neːtɾˈɪtwlˈeː kˈʌsəɾˌiː kˌərrməcˈaːɾi kˌəljaːɳəbʰˈʌndaː sˌeːjəɾˌədʰənˈɪːkoː nˌaːpʰaːlˈaːi pɾˈaːtʰəmˌɪkətˌaː dˈɪncʰə bʰˈʌnnˌeː kˈuɾaː nˈɪkɛː ˌəpəmˈaːnəɟˌənəkˌə hˈuncʰə|0
+data/audio_24k/nepali_25336.wav|məlˈaːi pˌaːʌɪːkˈaːːɾəɖˌən mˈʌn pˈʌrrcʰə|0
+data/audio_24k/nepali_20814.wav|tˈaɾə pʰˈeːɾɪ pˌəɾəʃuɾˈaːmə bəsnˈeːtəkˌoː sˈʌd ʋjˌəwəhˈaːɾəlˌeː ˈʊ ˈaːpʰːnoː ˈaːcəɾˌəɳəsˌɪt ˈaːpʰɛː lˈʌɟɟˌɪt pˈʌnɪ|0
+data/audio_24k/nepali_579.wav|bʰˈuwən ɡˈɔːɖaː pʰˈɪlmə nˌɪrrmaːtˌaːhəɾˈuːleː ənupɾˌaːɳˌɪt ɡˈʌrrnə caːhˈeːkoː bʰəwjˈʌtaːlˌaːi kˈʌbɟaː ɡˈʌrrnə sˈʌpʰəl bənˈeːkaː cʰˈʌn|0
+data/audio_24k/nepali_22640.wav|kˈuɾaː nˌeːpaːlˌɪːhəɾˈuːkoː ˈaːrrtʰɪkˌə əwˈʌstʰaː, tˌɪnɪːhəɾˈuːkoː dˈukʰˌə sˈukʰə lɪˈeːɾə cˌəlɪɾəhˈeːkoː cʰˈə|0
+data/audio_24k/nepali_9682.wav|skˈeːləkˌoː sˈaːtɔ̃ swɾˈʌm nɪʂˈaːdəm hoː|0
+data/audio_24k/nepali_2129.wav|sˈʌbɛː ɾaːʃʈɾˈɪːjə bjˈaːŋkəhˌəɾuːlˌeː ˈʌhɪlˌeː ʃˈuːnjə bjaːlˈeːnsə kʰaːtˈaːhəɾˌuː pɾədˈaːn ɡˈʌrrcʰən|0
+data/audio_24k/nepali_52.wav|koːcˈeːɾɪl ɾˈʌməɳ naːɾˈaːjəɳˌən|0
+data/audio_24k/nepali_2980.wav|maːjˈaːpɾətˌɪ tːjˌəsəlˈaːi dˈʌjaː lˈaːɡjoː maːjˈaːkoː səntˈʌptə kˈʌtʰɪt mˌənəlˈaːi saːntwnˈaː dˈɪneː tːjˌəsəlˈaːi pɾˈʌbəl ˈɪccʰaː bʰˈʌjoː|0
+data/audio_24k/nepali_26134.wav|mˈeːɾoː səmpˈʌrrkə sˈuːci kʰˈoːlnuhˌoːs|0
+data/audio_24k/nepali_15658.wav|bˌɪɾaːmˌɪːhəɾˈuːkoː tʰˈoːɾɛː pɾˈʌtɪʃˌətəmˌaː, pɾˌətːjaːɾˈoːpəɳ bʰəˈeːkoː kˈeːhi mˌəhɪnˈaːpəcʰˌɪ pˈoːsʈəɾˌɪjəɾˌə cːjˈaːmbəɾˌə ɪnʈɾˈaːkulˌəɾə lˈeːnsəhˌəɾuːlˌeː pˈɪsɪˌoː bənˈaːʊn sˈʌkcʰə|0
+data/audio_24k/nepali_7070.wav|ˌərrkoːpˈʌlʈə ˌaːũdˈaː mə ˌəɡʰɪbˈaːʈɛː wˌeːbəsˈaːɪʈ ɟˈãc ɡərrnˈeːcʰu|0
+data/audio_24k/nepali_10947.wav|bʰˈaːlu|0
+data/audio_24k/nepali_2907.wav|haːmˈɪːleː ˈeːkə mˌəhɪnˈaːkoː ɖʰɪlˈaːɪmˌaː pˌəɾɪjˈoːɟənˌaː sˈuɾu ɡˈʌrrdaː tˈə mə mˈeːɾoː nˈoːkəɾˌiː ɟˈaːncʰə hˈoːlaː bʰˈʌnnˌeː pˈɪɾəlˌeː tʰˈʌɾətʰˌəɾə kˌaːpĩɾˈʌheːkˌoː tʰˈɪẽ|0
+data/audio_24k/nepali_10454.wav|mə ˌaːɡəɾˈaːkoː ʈˈuɾə pːjaːkˈeːɟəhˌəɾuː kʰˈoːɟdɛːcʰˌu|0
+data/audio_24k/nepali_8337.wav|ənˈaːɾə mˌədʰumˈeːhəkˌaː lˈaːɡɪ ɾˈaːmɾoː hoː ˌətʰəwˈaː hˈoinˌə bʰˈʌnnˌeː məlˈaːi kˈʌsəɾˌiː tʰˈaːhaː hˈuncʰə?|0
+data/audio_24k/nepali_19451.wav|sˈʌbɛː ɾˈaːɟjəhˌəɾuːlˌeː ɡˌuɪsuˈaːŋ ɾˌaːɟaːlˈaːi bˌoːlaːũcʰˈʌn, tˈaɾə hˌaːnəhəɾˈuːleː tˌɪnɪːhˌəɾuːlˈaːi ˌʊnɪːhəɾˈuːkoː mˈɔːlɪkˌə nˈaːmə dˈaː jˌueːɟʰɪːdːwˈaːɾaː səmbˈoːdʰɪt ɡˈʌrrtʰeː|0
+data/audio_24k/nepali_24760.wav|cˈeːnnˌəɪːmˌaː stʰaːnˈɪːjə ʋjˈʌɲɟənˌəhəɾˌuː ˈeːkə pˈaːkə sˈaːhəsˌɪkətˌaː hoː ɟˈʌsəlˌeː məlˈaːi ˈʌɟʰ bˈʌɖʰi cˈaːhənˌaː mˈʌhəsˌus ɡˌəɾaːũcʰˈə|0
+data/audio_24k/nepali_21877.wav|mə ʋjˈʌktɪɡˌət wˈɪwəɾˌəɳəkˌoː baːɾˈeːmaː bˈʌɖʰi cˈɪntɪt cʰˈu|0
+data/audio_24k/nepali_25627.wav|ˌəpʰɪsəlˈaːi tˈaːɟaː ɾə swˌaːɡətəjˈoːɡjə ɾˈaːkʰneː sˌupəɾəbʰˈaːɪɟˌəɾəkˌoː nˈʌjã səpʰˈaːi pɾəwˈɪdʰɪlˌaːi ɡɾˈaːhəkˌəleː nˈɪkɛː pɾəʃˈʌnsaː ɡˌəɾɪɾˈʌhjoː|0
+data/audio_24k/nepali_17595.wav|məlˈaːi jˈʌs stʰˈaːnəkˌoː mˈaːlɪkˌəleː ɡˈʌt wˈʌrrʂə mˈaːsʈəɾˌəseːpʰ ɟɪtˈeːkaː tʰˈɪeː bʰˈʌnnˌeː tʰˈaːhɛː tʰɪˈeːnə!|0
+data/audio_24k/nepali_16273.wav|ʊdˈaːhəɾˌəɳəkˌaː lˈaːɡɪ, jˈʌs kʂˈeːtɾəmˌaː ˈʌʊdjoːɡˌɪkə wˌɪkaːsəlˈaːi pɾˈoːtsaːhˌən dˈɪnəkˌaː lˈaːɡɪ, bˌəŋɡəlaːdˈeːʃəkˌoː kʰˈulnaː, ɖʰˈaːkaː, sˈɪləhˌəʈ ˈaːrrtʰɪkˌə kˌəɾɪɖˈoːɾə ɾə bˌəŋɡəlaːbˈʌndʰə, ɖʰˈaːkaː, cˌəʈəɡãˈʊ, kˈʌksə bəɟˈaːɾə ˈaːrrtʰɪkˌə kˌəɾɪɖˈoːɾəkˌoː wɪkˈaːs|0
+data/audio_24k/nepali_10157.wav|bˌɪrrlaːsˈʌpʰʈə ˈeːləʈˌɪɖi|0
+data/audio_24k/nepali_15555.wav|jˈoː mˈeːɾaː lˈaːɡɪ kʰusˈɪːkoː kˈuɾoː hoː, sˈʌɾə|0
+data/audio_24k/nepali_17156.wav|mːjˈaːcəpˌəcʰɪkˌoː ˌəntərrwˈaːrrtaːmˌaː ɟˈʌsəɾˌiː tːjˈʌs ʈoːlˈɪːkaː pɾəʃˈɪkʂəkˌəleː wɪpˈʌkʂi dˈʌləkˌoː kʰˌeːlaːɖɪːmˈaːtʰɪ əbʰˈʌdɾə ʈˈɪppˌəɳi ɡˈʌɾeː, mˈeːɾoː tˈə ˌʊnɪːmˈaːtʰɪkˌoː səmmˈaːn tːjˌətɪbˈeːlɛː ʈˈuʈʈjoː|0
+data/audio_24k/nepali_18651.wav|ɟˈʌbəlˌəpuɾˌə|0
+data/audio_24k/nepali_4679.wav|kʰoːlˈaːi pʰãsˈɪːbaːʈ ɟoːɡˈaːʊnˌeː ˌʊnɪːhəɾˈuːkoː pɾəjˈaːsəmˌaː pˌəɾɪwˈaːɾə ˈeːklɛː hˈuneː cʰˈɛːnə|0
+data/audio_24k/nepali_12181.wav|sˈʌn dˈui həɟˈaːɾə dˌəsəsˈʌmmˌə, ɾˈaːmənˌəɡəɾˌə hũdˈɛː jˈaːtɾaː ɡˈʌrrneː pˌərrjəʈˌəkəhˌəɾuːlˈaːi ˈʌɟʰɛː pˈʌnɪ sˈoːleː ɾˈʌksə, ɟˈʌhã jˈoː cˌələcˈɪtɾəkˌoː dʰeːɾˈɛːɟəsˌoː cʰaːjˈaːŋkən ɡˌəɾɪˈeːkoː tʰˈɪjoː, hˈeːrrneː ˈaːɡɾəhˌə ɡəɾˈɪntʰjˌoː|0
+data/audio_24k/nepali_17710.wav|ɡˈɪːtəkˌoː ʃˈʌbdə pɾˈɪjaː pˈaːncaːl ɾə ɾˈoːhən ɡˌoːkʰəlˈeːleː leːkʰˈeːkaː cʰˈʌn|0
+data/audio_24k/nepali_25033.wav|nˈɪkkˌɪːleː ˌʊnəlˈaːi əlˈɔːkɪkˌə pɾˌaːɳɪːhəɾˈuːkoː ʊpˈʌstʰɪtˌɪ cãɖˈɛː mˈʌhəsˌus hunˈeːcʰə bʰˈʌni bˌətaːũcʰˈɪn|0
+data/audio_24k/nepali_19737.wav|ˈʌnjə suɾˈʌkʂaː ˌʊpaːjˌəhəɾˈuːmaː ʃaːɾˈɪːɾɪkˌə wˈaː saːmˈaːɟɪkˌə dˈuɾi, kwˈaːɾeːnʈˌaːɪn, kˌoːʈʰaːbʰˈɪtɾəkˌoː ʈʰˌaːũkˈoː bʰˈeːnʈɪlˌeːsən, kʰˈoːkdaː ɾə hãccʰjˈũ ɡˈʌrrdaː cʰˈoːpneː, hˈaːt dʰˈuneː ɾə nˌədʰoːɪˈeːkaː hˈaːtəhˌəɾuː ˌənuhˌaːɾˌəbˈaːʈ ʈˈaːɖʰaː ɾˈaːkʰneː sˌəmaːwˈeːʃ cʰˈʌn|0
+data/audio_24k/nepali_7591.wav|mˈoːhənˌəleː dʰˌɪːɾəkˈʌɳʈʰəlˌeː bʰˈʌnjoː, "ʃˈeːkʰəɾˌə, tˈɪmɾoː ɡˈʌtəh ɟˈɪːwənˌəkaː lˌaːɟəmˈʌrrdaː kuɾˈaːhəɾˌuː tɪmˈɪːleː swjˈʌn ɡəɾˈeːɾə mˈeːɾoː bʰˈaːɾə hˈʌluŋ ɡˈʌɾɪdˌɪjɔː|0
+data/audio_24k/nepali_10739.wav|hˈaːmi tˌəpaːĩkˈoː kˈeːkəmˌaː ˈʊtsəwˌəkaː lˈaːɡɪ pˈuːrrɳə ɾˈuːpəmˌaː ˌʊpəjˈuktə hˈuneː kˈɪsɪmˌəkoː ˈeːʊʈˌaː mˈɪʈʰoː səndˈeːʃ lˈeːkʰcʰɔ̃ hˈɛː tˈə|0
+data/audio_24k/nepali_11872.wav|ɖˈɪbɾuɡˌəɖʰ, cəɳɖˈɪːɡəɖʰ ˈeːksəpɾˌeːs|0
+data/audio_24k/nepali_22530.wav|tːjˈʌhi puɾˈaːnaː mˈaːnɪsˌəhəɾˌuː lˌəɖɪɾəhˈeːkaː cʰˈʌn|0
+data/audio_24k/nepali_16259.wav|cˌələcˈɪtɾə nˌɪrrmaːtˌaːhəɾuːlˈaːi ˈʊnəkˌoː puɾˈaːnoː saːmˈaːɟɪkˌə hjˈaːŋɡəˌaːʊʈ pˈʌnɪ dˌeːkʰaːɪˈeːkoː tʰˈɪjoː ɾə sˌaːtʰəsˈaːtʰɛː ˈʊni hˌurrkĩdˈaː kʰˈaːn mˈʌn pəɾˈaːʊnˌeː kʰaːnˈaːkaː baːɾˈeːmaː pˈʌnɪ pˈʌɾɪcˌəjə ɡˌəɾaːɪˈeːkoː tʰˈɪjoː|0
+data/audio_24k/nepali_7405.wav|ˌʊnəlˈaːi sˈɪdʰɛː ãkʰˈaːmaː hˈeːrrnuʲˌu bʰənˈeːkoː tˌəpaːĩlˈeː ʊtpˈaːd cˌaːhĩdˈɛːnə bʰənˈeːɾə pɾətːjˈʌkʂə bʰənnˌuhũdˈɛːcʰə bʰˈʌnnˌeː səŋkˈeːt hoː|0
+data/audio_24k/nepali_5135.wav|hˈaːl, ˈʌsəmˌə, meːɡʰˈaːləjˌə, mɪɟˈoːɾəmˌə ɾə tɾˌɪpuɾˈaːmaː dˈʌsəwˌəʈaː swˈaːjəttˌəʃaːsˌiː pˈʌɾɪʂˌəd cʰˈɛːʈɔ̃ ˌənusˌuːcˌɪːkˈaː aːdʰˈaːɾəmˌaː ɡˈʌʈʰən ɡˌəɾɪˈeːkaː hˈun ɾə bãkˈiː ˈʌnjə kˌaːnunˌəhəɾˈuːkoː pˌəɾɪɳˈaːməkˌaː ɾˈuːpəmˌaː ɡˈʌʈʰən bʰəˈeːkaː hˈun|0
+data/audio_24k/nepali_19234.wav|ɾˈaːjəpˌuɾə|0
+data/audio_24k/nepali_19924.wav|mˈɛːleː ɡˈʌt hˌəptaːdˈeːkʰɪ mˈukʰjə kʰˈaːdjə wˈʌstuhˌəɾuː pɾˈaːptə ɡəɾˈeːkoː cʰˈɛːnə, ənumˌaːnˌɪt pɾˈaːptɪ mˈɪtɪ kˈʌhɪlˌeː hoː?|0
+data/audio_24k/nepali_14867.wav|sˈʌn sˈʌtɾə sˈʌjə bˈaːɪsˌəmaː pˌurrnɪjˈaːkaː pʰˌɔːɟədˈaːɾə sˈɛːpʰ kʰˈaːnəlˌeː jˈʌs kɪlllˈaːkoː nɪrrmˈaːɳ ɡəɾˈeːkaː tʰˈɪeː|0
+data/audio_24k/nepali_8726.wav|kˈʌtʰaː ɾə ˌʊpənjˌaːsəbaːhˈeːkə ˈʊnəlˌeː kˈeːhi kəwˈɪtaː ɾə dʰˈeːɾɛː lˈeːkʰəhˌəɾuː pˈʌnɪ lˈeːkʰeː|0
+data/audio_24k/nepali_10372.wav|kɾˈɪpəjˌaː pʰˈeːsəbˌukəmˌaː jˈʌtɪ dʰˈeːɾɛː bˈoːɾə bʰˈʌẽ bʰˈʌni pˈoːsʈə ɡˌərrnuhˈoːs|0
+data/audio_24k/nepali_9124.wav|ˈʌɾuː tˈɪːnəɟˌənaː mˈukʰ pʰˌərrkaːˈeːɾə hˈãsnˈə tʰˈaːleː|0
+data/audio_24k/nepali_733.wav|dˌəmənəɡˈʌŋɡaː|0
+data/audio_24k/nepali_15490.wav|bəɟˈaːɾə sudʰˈaːɾəkˌoː sˌəmbʰaːwˌənaːbˈaːɾeː məlˈaːi ˈʌlɪkˌə ɖˈʌɾə lˌaːɡɪɾəhˈeːkoː cʰˈu|0
+data/audio_24k/nepali_22603.wav|ˈʊktə bˈʌmə wɪʂpʰˈoːʈəmˌaː ɡaːɖˈɪːmaː kʂˈʌtɪ ˈaːeː pˈʌnɪ mˌaːnəwˈɪːjə kʂˈʌtɪ bʰˈʌneː bʰəˈeːkoː cʰˈɛːnə|0
+data/audio_24k/nepali_22339.wav|pɾˌədʰaːnəmˈʌntɾi nəɾˈeːndɾə moːdˈɪːleː ɡˈuɾu ɡoːwˈɪndə sˌɪŋhəɟˈɪːkoː pɾəkˈaːʃ pərrwmˈaː bədʰˈaːi dˌɪnubʰəˈeːkoː cʰˈə|0
+data/audio_24k/nepali_22860.wav|wˈɪːɳaː kˌələkˈʌttˌaːmaː mˌɛːnaːdeːwˈɪːkoː nɪɾˈʌntəɾˌə sˈʌhəcˌəɾi bʰˈʌi tˈɪnəkˌaː sudʰˈaːɾəmˌaː lˈaːɡi mˌɛːnaːdeːwˈiː dʰˈeːɾəɟˌəsoː pˈʌləŋˌəmaː sˈʌməjˌə bˌɪtaːũcʰˈʌn ˈʌʊ wˈɪːɳaː cʰˈeːʊmˌaː bəsˈeːɾə ˈaːpʰːnoː pˈaːʈʰjə pˈustəkˌə pˈʌɖʰcʰeː|0
+data/audio_24k/nepali_2858.wav|pɾəʃˈɪkʂəkˌəleː ʈoːlˈɪːkoː ˌəsəpʰˌələtˈaːkoː ɟɪmmˌeːwˈaːɾi lˈɪn əswˈɪːkaːɾˌə ɡˈʌrrnuʲˌu nˈɪkɛː ɾˈɪs ˈʊʈʰneː kˈuɾaː hoː|0
+data/audio_24k/nepali_3931.wav|kˈoːjənˌaː ˈeːksəpɾˌeːs|0
+data/audio_24k/nepali_8470.wav|mˈaːskə lˌəɡaːˌʊnuhˈoːs|0
+data/audio_24k/nepali_16900.wav|suːcˈɪːmaː kˈeːcəˌəp tʰˌəpnuhˈoːs|0
+data/audio_24k/nepali_18065.wav|jˈʌs kˌəmpənˈɪːleː wˈɪttˌɪːjə kˌuɾaːhˌəɾuːmˈaːtʰɪ kˈɪn ɟɲˈaːn ɾˈaːkʰdɛːnˌə, hˈʌ̃? jˈʌhi paːɾˈaːleː hoː bʰˈʌneː tˈə kˈʌmpənˌiː ɖˈʌbcʰə tˈə|0
+data/audio_24k/nepali_27474.wav|ɾˈaːɟjəmˌaː swˈaːstʰjˌə sˈaːtʰi kˈaːrrɖə lɪˈeːɾə bˌɪɾaːmˌɪːhəɾuːlˈaːi pʰˌərrkaːɪˈeːkoː ɡʰˌəʈənˈaːpəcʰˌɪ ɾˈaːɟjə sˌəɾəkˈaːɾəlˌeː nˈɪrrɳəjˌə ɡəɾˈeːkoː cʰˈə kˈɪ nˈɪɟi ˌəspətˌaːləhəɾˈuːsəhˌɪt sˈʌbɛː ˌəspətˌaːləhəɾˈuːmaː sˌəɾəkˈaːɾəlˌeː swˈaːstʰə wɪbʰˈaːɡ bˌənaːʊnˈeːcʰə tˈaːkɪ bˌɪɾaːmˈɪːhəɾˌuː jətˈaːʊtˌɪ bʰˈʌʈkɪn nˌəpəɾˈoːs|0
+data/audio_24k/nepali_25322.wav|ɾˈeːleː ˈaːpʰːnaː sˌəhəkˈʌrrmi mˈaːɪkˌəl ˈeːnɟeːlˌoː ˈeːnʈoːnˌɪjoːnˌɪːlaːˌiː mˈʌn pˌəɾaːũtʰˈeː, tˈaɾə blˌoːəpəlˈaːi ɡʰɾˈɪɳaː ɡˈʌrrtʰeː, ɟˌəsəlˈaːi ˈʊnəlˌeː dʰˈeːɾɛː kˈʌmə ˈaːntəɾˌɪkə mˈʌntʰən bʰəˈeːkoː bʰˈʌnnˌeː mˈaːntʰeː|0
+data/audio_24k/nepali_5572.wav|mˌaːneːbʰənɟjˈaːŋ|0
+data/audio_24k/nepali_13344.wav|pʰˌɪlməpʰˈeːjəɾˌəkaː ɾˈʌcɪt ɡuptˈaːleː jˌəsəlˈaːi tˈɪn tˈaːɾaː dˈɪeː ɾə pʰˈɪlməmˌaː pˌaːɡələpˈuːrrɳə, ʈʰəʈʈˌaːpˈuːrrɳə ɾə bãdʰˈɪɾəhˌəneː bʰˌaːwəpˈuːrrɳə mˈoːɖəhˌəɾuː ɾəhˈeːkoː ʊlllˈeːkʰ ɡˈʌɾeː|0
+data/audio_24k/nepali_26212.wav|hˈaːmɾaː kˌətʰaːhˌəɾuːlˈaːi ˈaːɾəkˌeː naːɾˈaːjəɳˌəkoː mˈaːləɡˌudi ɖˌeːɟəʃˈʌ̃ɡ tˈulənˌaː ɡˌəɾĩdˈaː tˈə mə ˈʌkkˌə nˈə bˈʌkkˌə pəɾˈeːkoː cʰˈu!|0
+data/audio_24k/nepali_19865.wav|məlˈaːi pˌəɾaːmˈʌrrʃəkˌaː sˈʌməjˌəmaː mˈeːɾaː wˈɪɡətˌəkaː ˌənubʰˌəwˌəbaːɾˈeː ɟˈʌb sˈoːdʰəpˌucʰə ɡəɾˈɪncʰə nˈɪ, tːjˌətɪbˈeːlaː mə ətːjˈʌntə ˌəsəhˈaːjə ɾə nˈaːŋɡɪˌeːkoː ɟˈʌstoː ənubʰˌəwˌə poː ɡˈʌrrnə tʰˈaːlcʰu|0
+data/audio_24k/nepali_18182.wav|hˈʌɟuɾˌə, mə tˌəpaːĩlˈaːi jˈʌsəmˌaː səhˈaːjətˌaː ɡˈʌrrnə sˈʌkcʰu|0
+data/audio_24k/nepali_4480.wav|ɖˈaːkʈəɾˌəleː lˈʌkʂəɳ ɾə mˈeːɖɪkˌəl pəɾˈɪːkʂəɳ ɾɪpˈoːrrʈəkˌoː aːdʰˈaːɾəmˌaː sˈʌhi nɪdˈaːn ɡˈʌrrdaː mə stˈʌbdʰə bʰˈʌẽ!|0
+data/audio_24k/nepali_22444.wav|ˈʊni bˈʌl lɪˈeːɾə sˈaːhɾɛː cʰˈɪʈoː dɔːɖˈʌncʰən!|0
+data/audio_24k/nepali_16403.wav|həlˈeːdoː|0
+data/audio_24k/nepali_27145.wav|dˈoːhəɾˌaː|0
+data/audio_24k/nepali_20078.wav|ɟˈʌb mə kəlˈeːɟəmˌaː aːwˈeːdən dˌɪɪɾəhˈeːkoː tʰˈɪẽ, tˈiː leːkʰˈaːkaː ɡəhɾˈuŋɡaː pˈustəkˌəhəɾˌuː pˈʌɖʰneː wɪcˈaːɾəlˌeː nˈɛː məlˈaːi wˈɪcəlˌɪt bˌənaːˌɪɾəhˈeːtʰjˌoː|0
+data/audio_24k/nepali_17637.wav|wɪɟɲˈaːpənˌəkoː kˈunɛː səmˈʌsjaː cʰˈɛːnə|0
+data/audio_24k/nepali_5564.wav|bãcnˈʌmaː kˈʌtɪ ʃˈaːntɪ cˌəɾaːcˌuɾuŋɡˈɪːkaː cːjˈaːũ cːjˌaːũmˈaː kˈʌstoː mˈɪːʈʰoː ɾˈaːɡɪnˌiː, bʰʌ̃wˈʌɾaːkˌaː ɡˈuɲɟənˌəmaː kˈʌtɪ mˈʌdʰuɾˌə sˈuɾə|0
+data/audio_24k/nepali_21231.wav|mˈɛːleː ˈaːpʰːnoː ɟˈɪːwən bˈɪmaː aːwˈeːdən pʰˈaːɾəmˌəmaː dˈɪnuʲˌu pˈʌrrneː wˌɪwəɾˌəɳəhəɾˈuːkaː baːɾˈeːmaː məlˈaːi bˌətaːˌʊnuhˈoːs|0
+data/audio_24k/nepali_8757.wav|ˈoːkʰəlˌiː|0
+data/audio_24k/nepali_6741.wav|tːjˈoː bʰˈʌrrkʰəɾˌɛː tʰˌaːlɪˈeːkoː ʋjˌəwəsˈaːjəlˌeː kˈʌtɪ cʰˈɪʈoː ˌənɪʃʃcˌɪtətaːbˈaːʈ pʰˈʌɖkoː maːɾˈeːɾə ˈʌɾəbˌɔ̃ ɖˈʌləɾˌəkoː kˌəmpənˈɪːmaː pˈʌɾɪɳˌət bʰˈʌjoː bʰənˈeːɾə mə tˈə cʰˈʌkkˌə pˈʌɾẽ|0
+data/audio_24k/nepali_26163.wav|bʰˌəʈəmˈaːs|0
+data/audio_24k/nepali_13850.wav|jˈʌdjəpˌɪ, kʰˈeːləkˌud ˌədʰɪkˌaːɾɪːhəɾˈuːleː cʰˌuʈʈjaːɪˈeːkoː bəɟˈeːʈ kʰˈʌrrcə ɡˈʌrrcʰən ˈʌnɪ ˈaːpʰːnoː pˌəɾɪwˈaːɾəlˌaːi cʰˈuʈʈˌɪːmaː dˈubəˌiː lɛːɟˈaːn wˈaː ɾəmˈaːɪlˌoː ɡˈʌrrnə bˈʌɖʰi ɾˈucɪ ɾˈaːkʰcʰən|0
+data/audio_24k/nepali_7799.wav|jˈʌs kˈaːrrjaːlˌəjəmˌaː tˈə sˌəbɛːɟənˈaːkoː hˈoːsɛː ɡˌumeːɟˈʌstoː bʰəˈeːkoː cʰˈə bəɟˈaːɾə tˈʌl kʰˌəskĩdˈaː hˈaːmi səbˈɛːleː dʰˈeːɾɛː pˈɛːsaː ɡumˈaːjɔ̃ nˈɪ tˈə|0
+data/audio_24k/nepali_6362.wav|mˈaːɪkˌəl ˈeːnɟeːlˌoː ɾə mˌaːɪɾˈoːn duˈɪːɟənˌaː pɾəsˈɪdːdʰə ʃˈaːstɾɪːjˌə mˈuːrrtɪkˌaːɾə hˈun|0
+data/audio_24k/nepali_1968.wav|tːjˌəsəkˈaːɾəɳ, mə tːjˌəhãkˈoː wˈaːsəɾˌumə ˈʌnɪ cˈeːnɟɪŋ ɾˈumə suwˈɪdʰaːhˌəɾuːbˌaːɾeː kˈeːhi cˈɪntɪt cʰˈu|0
+data/audio_24k/nepali_8704.wav|jˈʌhã tˈə dʰeːɾˈɛːwəʈˌaː plˌaːʈəpʰˈʌrrməhˌəɾuː cʰˈʌn ɟˈʌstoː cʰˈə nˈɪ|0
+data/audio_24k/nepali_4580.wav|ˈeːkəɟˌənaː ɪsˈaːi mˈaːncʰeː ɪsˈaːi dʰˈʌrrmə pɾəcˈaːɾə ɡˈʌrrnə sˌeːpʰəpʰˈɪlɖə sʈˈɪl kˈʌmpənˌiː ɡˈʌjoː bʰənˈeːɾə ˈeːkəɟˌənaː mˈaːncʰeːlˌeː məlˈaːi kˈʌtʰaː bʰənˈeːkoː tʰˈɪjoː|0
+data/audio_24k/nepali_17720.wav|eːkˈaːntə ɟˈʌŋɡəlˌəmaː kəsˈɛːleː mˈeːɾoː kãdʰˈʌmaː hˈaːt ɾˈaːkʰdaː mə tˈə cʰˈʌkkˌə pˈʌɾẽ|0
+data/audio_24k/nepali_15440.wav|ˌəpəbjˈaːkəhˌəɾuː skɾɪmˈeːɟəkˌoː lˈaːɪnˌəkoː pəcʰˈaːɖɪ cʰˈoːʈoː duɾˈɪːmaː pˌəŋktɪbˈʌdːdʰə hˈuncʰən, pˌənʈəɾəlˈaːi tʰˈʌp suɾˈʌkʂaː pɾədˈaːn ɡˈʌrrdəcʰˌə|0
+data/audio_24k/nepali_24076.wav|kəljˈaːɳəɟˌiː ˌaːnəndəɟˈɪːkoː ɡˈɪːt kˈʌsəmˌeː wˈaːdeː pːjˈaːɾə wˌəpʰaːlˈaːi ˌʊnɪːdːwˈaːɾaː kʰĩcˈɪeːkˌoː tʰˈɪjoː|0
+data/audio_24k/nepali_8355.wav|bˈoːrrɟeːs kːjaːnˈoːlaː tˈeːl kʂˌətɪɡɾˈʌstə cʰˈə, mə jˌəsəlˈaːi pʰˈɪrrtaː ɡˈʌrrnə caːhˈʌncʰu|0
+data/audio_24k/nepali_23815.wav|tˈaɾə, haːmˈɪːleː kˈeː ɡˈʌrrneː hoː ɾə?|0
+data/audio_24k/nepali_6950.wav|ʃˈeːkʰəɾˌəkoː mˈʌn wɪɾˈʌktə bʰˈʌjoː|0
+data/audio_24k/nepali_3050.wav|wˈaːhə! jˈoː dʰˈeːɾɛː swˌaːdˈɪʂʈˌə cʰˈə, ˈeːkədˌəmɛː ˌəpɾətːjˈaːʃɪt məlˈaːi jˈoː mˈʌn pərjˈoː|0
+data/audio_24k/nepali_20383.wav|puːrrwˈaːɲcəl ˈeːksəpɾˌeːs|0
+data/audio_24k/nepali_14322.wav|ʌbˈə pʰˈɛːsəlˌəkoː ɟˈɪːwən lˈaːɪnˌəmaː cʰˈə ɾə ˈʊsəlˌeː ɟˌɪũdˈɛː bˈaːhɪɾˌə nˈɪskən sˈʌkneː ˈeːʊʈˌɛː ʊpˈaːjə bʰənˈeːkoː sˌaːhəsˌəpuːrrwkˈʌ ɟˈaːnuʲˌu hoː ɟˈʌhã pˈʌhɪlˌeː kˈunɛː sˈeːlsəmmjˌaːn ɡəˈeːkoː tʰɪˈeːnə|0
+data/audio_24k/nepali_27714.wav|kɾˈɪpəjˌaː, tˌəpaːĩlˈeː jˌəsəbˈaːɾeː məlˈaːi wɪstˈaːɾəmˌaː bətˈaːʊn sˌəknuhˈuncʰə?|0
+data/audio_24k/nepali_17278.wav|tˌəpaːĩlˈeː tˈɪs wˈʌrrʂeː dʰˌɪtoːlˈaːi pˈʌndʰɾə wˈʌrrʂeː dʰɪtˈoːmaː pˌunərrwˈɪttˌə ɡˈʌrrnə sˈʌkʂəmˌə hˈunˈə sˌəknuhˈuncʰə|0
+data/audio_24k/nepali_9093.wav|jˈʌdɪ tˌəpaːĩlˈeː sˌəmbʰaːwˈɪt ɾˈuːpəmˌaː sˈaːtʰəmˌaː kˈaːmə ɡˈʌrrnə sˈʌkɪnˌeː kˌəsɛːlˈaːi bʰˈeːʈnubʰˌəjoː bʰˈʌneː ˌʊnɪːhˌəɾuːlˈaːi səndˈeːʃ pˌəʈʰaːˌʊnuhˈoːs ɾə tˌəpaːĩkˈoː mˈʌnəmˌaː ɾəhˈeːkoː pˌəɾɪjˌoːɟənˈaːkoː ʋjˈaːkʰjaː ɡˌərrnuhˈoːs|0
+data/audio_24k/nepali_5937.wav|məlˈaːi tˈiː kˌɪsaːnˌəhəɾˈuːpɾətˌɪ ɡʰɾˈɪɳaː laːɡˈeːɾə ˌaːũcʰˈə ɟˈʌsəlˌeː aːpʰˈuːleː ʊtpˈʌnnˌə ɡˌəɾɪɾəhˈeːkoː pɾədˈuːʂəɳˌəkoː wˈaːstɛː ɡərrdˈɛːnən|0
+data/audio_24k/nepali_3246.wav|dɪlˈɪːp sˌaːŋɡʰəwˈiː|0
+data/audio_24k/nepali_22023.wav|sˈʌrrʈəkˌoː pʰˈɪʈ nˈɪkɛː ɾˈaːmɾoː cʰˈə jˈʌsəlˌeː məlˈaːi ˈʌɟʰ sˈundəɾˌə deːkʰˈɪncʰə|0
+data/audio_24k/nepali_13075.wav|wˈeːdəwˌəti|0
+data/audio_24k/nepali_1288.wav|tˈiː ˈaːpʰːnoː ˈaːpʰɪsˌətɪɾˌə lˈaːɡeː|0
+data/audio_24k/nepali_10876.wav|mˈaːnəsˌɪkə swˈaːstʰjˌə bʰənˈeːkoː ˌʌʊʂədʰɪdːwˈaːɾaː ˌʊpəcˈaːɾə ɡˈʌrrnə sˈʌkɪnˌeː kˈuɾaː hˈoinˌə, jˈʌsəlˌeː əstʰˈaːji ɾˈaːhət pɾədˈaːn ɡˈʌrrnə sˈʌkcʰə|0
+data/audio_24k/nepali_2724.wav|ˈʊnəlˌeː jˈʌs cˌələcˈɪtɾəlˌeː ˌəmeːɾɪkˈaːkoː saːnskɾˈɪtɪkˌə dˌəmbʰəlˈaːi cˈɪtɾəɳ ɡəɾˈeːkoː bətˈaːeː|0
+data/audio_24k/nepali_8274.wav|ˈɪɖəlˌiː|0
+data/audio_24k/nepali_22554.wav|pˌuɾuʂˈoːttˌəmə ˈeːksəpɾˌeːs|0
+data/audio_24k/nepali_27412.wav|ɟˈeːnsaːɾˌə ʈˈeːknoːlˌoːɟɪɟ ˈeːləʈˌɪɖi|0
+data/audio_24k/nepali_25000.wav|sˈʌtəhˌiː ˈʌlsəɾˌəmaː ˌeːpɪtʰˈeːlɪjˌəməkˌoː kˈeːhi bʰˈaːɡ kaːʈˈeːɾə pʰjãknˌupˈʌrrcʰə|0
+data/audio_24k/nepali_3710.wav|pˌəʃʃcaːtˈaːpəkˌoː mˈʌrrmə ɟˈaːnnˌeː mˈoːhən wˈɪkɾəmˌə ɟˈʌstoː sˈaːtʰi pˈaːeː mˈaːnɪsˌəkoː ɟˈɪːwən jˈaːtɾaː kˈʌtɪ sˈʌɟɪlˌoː hũdˈoː hoː?|0
+data/audio_24k/nepali_23146.wav|bˌəɡaːnəbˈeːli|0
+data/audio_24k/nepali_7828.wav|peːsˈaːwəɾˌə ɾə cʰˌeːʊcʰˈaːʊkˌaː ɟˌɪlllaːhəɾˈuːmaː bʰəˈeːkaː əŋɡɾˈeːɟəkˌaː ɡˈuptəcˌəɾəhˌəɾuː bʰˌəjəbʰˈɪːt bʰˈʌeː|0
+data/audio_24k/nepali_21967.wav|ɡɔːɾˈɪːleː pʰˈeːɾɪ tːjˈʌhi swɾˈʌmaː bʰˈʌni, "wˈaɾəː ˌəlpəʃˈɪkʂɪt cʰˈʌn ɾˈeː tˈaɾə pˈɛːsaː bʰˈʌneː əɡˈaːdʰ cʰˈə ɾˈeː|0
+data/audio_24k/nepali_18506.wav|məhˈɪndɾaː ˈeːnɖə məhˈɪndɾaː pʰˌaːɪnˈaːnsɪjˌəl sərrwˈɪseːɟ lˌɪmɪʈˈeːɖ|0
+data/audio_24k/nepali_22147.wav|kʰˈaːsəmˌaː ˈʌrrɟun pˌuɾəskˈaːɾəkˌaː lˈaːɡɪ mˌaːpədˈʌɳɖə kˈeː hoː?|0
+data/audio_24k/nepali_18332.wav|lˌəlɪtəsˈɪŋhə mukʰˈeːni ɾə wˌɪːɳaːlˈaːi lɪˈeːɾə kˌələkˈʌttˌaː lˈaːɡeː|0
+data/audio_24k/nepali_866.wav|jˈoː ɾˌaːɟənɪːtˈɪɟɲəkˌoː hˈoːrrɖɪŋˌəkoː bˈoːɟʰəlˌeː pˌɪlsɪˈeːkoː ɡˈʌɾɪb mˈaːncʰeːkˌoː dʰˈaːrrmɪkˌə pˌəhɪcˈaːnəkˌoː kʰoːɟˈɪːkoː wˈʌɾɪpˌəɾɪ ɡʰˈumcʰə|0
+data/audio_24k/nepali_462.wav|cˈaːləkˌəleː aːɟˈəː dʰˈeːɾɛː hətˈaːɾəkˌaː sˈaːtʰ ɡˈaːɖi cˌəlaːˌɪɾəhˈeːkaː cʰˈʌn kˈeː ˈʊni jˈoː bˌəsəlˈaːi ˌeːmbulˈeːnsə hoː bʰˈʌnnˌeː sˈoːccʰən?|0
+data/audio_24k/nepali_11592.wav|tˌəpaːĩlˈeːm mjaːɡˈɪːkaː lˈaːɡɪ pˈʌrrkʰənˌu pərrnˈeːcʰə|0
+data/audio_24k/nepali_278.wav|dˈaːdəɾˌə, mˌəɖɡãwˈʌ ɟˌənəʃətˈaːbdi ˈeːksəpɾˌeːs|0
+data/audio_24k/nepali_13325.wav|pˈuɾi, dˈɪɡʰaː ˈeːksəpɾˌeːs|0
+data/audio_24k/nepali_17662.wav|təpˈaːĩ kˈɪn jˈʌtɪ wˌɪɾəktəlˈaːɡdoː kˈuɾaː ɡˈʌrrdɛː hˌunuhˈuncʰə?|0
+data/audio_24k/nepali_21747.wav|kˈʌtɪpˌəjəlˌeː əlˈɪːkoː sˌəhəjˈoːɡi ɾə kʰˈʌplukˌaː ɾˈaːɟaː jˈaːbɡoː sˈeː ɡˌɪlaːɟɪːlˈaːi ˈʊnəkˌoː pɪtˈaːkaː ɾˈuːpəmˌaː cˈɪncʰən bʰˈʌneː ˈʌnjəlˌeː ˈʌli ˌaːpʰɛːlˈaːi pɪtˈaːkaː ɾˈuːpəmˌaː cˈɪncʰən|0
+data/audio_24k/nepali_9999.wav|mə tˌəpaːĩlˈaːi kˈʌsəɾˌiː mˈʌddˌət ɡˈʌrrnə sˈʌkcʰu, mːjˈaːɖəmˌə?|0
+data/audio_24k/nepali_323.wav|pˌəɾəʃˌuɾaːməlˈaːi bˈʌlllə sˈaːs pʰˈeːrrneː ˌəwəkˈaːʃ cʰˈə|0
+data/audio_24k/nepali_19575.wav|jˈoː bˈʌs seːwˈaːmaːtʰˌɪ cˈaːhĩ ʈʰjˈaːmmˌɛː bʰˈʌɾə nəpˈʌrrnuː hˈɛː ˈʌstɪ ɟãdˈaːɟãdˈɛː baːʈˈɛːmaː bˌɪɡɾɪˈeːɾə tʰjˈaːccˌə bˈʌsjoː pˌuɡnɛːpˈʌrrneː ˈeːʊʈˌaː sˈʌbʰaː tʰˈɪjoː, kˈʌmti ɖʰˈɪloː bʰəˈeːkoː hoː ɾə!|0
+data/audio_24k/nepali_9229.wav|bɪhˈaːn dˈʌs bəɟˈɪːkoː sˈʌməjˌə sˈɪːmaː tʰˈɪjoː|0
+data/audio_24k/nepali_16902.wav|ɟˌeːeːləˈoːleː aːɟˈəː kˈeː ɡərjˈoː?|0
+data/audio_24k/nepali_11423.wav|sˈʌhi hoː bʰənˈeːpəcʰˌɪ mə ˌaːmaːbaːbˈaːkaː sˈaːtʰəmˌaː bɪhˈaːn sˈaːt bˌəɟɪːbʰˈʌndaː əɡˈaːɖɪ ˌaːɪpˈuɡcʰu|0
+data/audio_24k/nepali_23500.wav|pɾədʰˈaːn mˈʌntɾi ʊɟɟwlˈaː jˈoːɟənˌaː|0
+data/audio_24k/nepali_18143.wav|hˈuncʰə, hˈaːmi tˌəpaːĩkˈoː saːtʰˈɪːkaː lˈaːɡɪ beːpˈʌttˌaː ʋjˈʌktɪ ˈʊɟuɾˌiː pˈeːs ɡˈʌrrnə sˈʌkcʰɔ̃|0
+data/audio_24k/nepali_14753.wav|aːɾˈuːcaː|0
+data/audio_24k/nepali_27361.wav|lˈʌʈʈˌeː ɟeːʈʰˈaːleː dˈeːkʰtaː dˈeːkʰtɛː kˈʌtɪ ɟəwˈaːn ɡˌoːʈʰaːlˌaːhəɾˈuːkoː wˈaːrrdʰəkːjˌəleː ɡˈʌrrdaː hˈʌɖɛː kʰˌəsɪsˈʌkːjoː tˈaɾə lˈʌʈʈˌeː ɟˈeːʈʰaː ˈʊstɛː swstʰˈə cʰˈə ˌənuhˌaːɾˌəmˈaː bˌuːɖʰeːsəkˈaːləkˌoː cˈɪhnə kˈʌtɛː cʰˈɛːnə|0
+data/audio_24k/nepali_10819.wav|məlˈaːi jˈaːd cʰˈə, mˈeːɾoː dˈoːsɾoː cʰˈoːɾoː cˈaːɾə wˈʌrrʂəkˌoː hũdˈaː bɪhˈaːn kʰˌaːɟaːbʰˈʌndaː pˈʌhɪlˌaː mə ˌʊsəlˈaːi ˈaːpʰːnoː dˈãt deːkʰˈaːʊ bʰˈʌnnˌeː ɡˈʌrrtʰẽ|0
+data/audio_24k/nepali_11798.wav|ˈʊni bɪːbˈɪːsi sˈɪmpʰənˌiː ərrkˈeːsʈɾaː ɾə bˈʌrrlɪn sˈɪmpʰənˌiː ərrkˈeːsʈɾaː səɲcˈaːlən ɡˈʌrrnə ɡˈʌeː|0
+data/audio_24k/nepali_15281.wav|mə tˈə sˌədʰɛ̃bʰˈʌɾɪ hˈɪp hˈʌp hˈũ|0
+data/audio_24k/nepali_13875.wav|tːjəsˈɛːleː, tˈʌkənˌɪki ɾˈuːpəmˌaː kˌəɲcənəɟˈʌŋɡʰaː hɪmˈaːl bʰˈaːɾətˌəkoː sˌəbɛːbʰˈʌndaː ˈʌɡloː ʃˈɪkʰəɾˌə hoː, tːjˈʌsəpˌəcʰɪ nˈʌndaː deːwˈiː, kaːmˈeːʈ, səlʈˈoːɾoː kˈaːŋɡɾi ɾə saːsˈeːɾə kˈaːŋɡɾi ʃˈɪkʰəɾˌə cʰˈʌn|0
+data/audio_24k/nepali_20474.wav|pˈiː.bʰˈiː. nˌəɾəsˈɪŋhə ɾˈaːwə|0
+data/audio_24k/nepali_21142.wav|dʰˈʌnjə, nˌaːɡəɾˈaːɟaː wˌaːsukˈɪːleː bʰˌɪːməlˈaːi bʌ̃cˈaːeː ɾə ˌʊnəlˈaːi durrjˈoːdʰənˌəkoː ʊnˈɪːpɾətˌɪkoː ɡʰɾˈɪɳaːkˌaː baːɾˈeːmaː pˈʌnɪ sˌaːwədʰˈaːn ɡəɾˈaːeː|0
+data/audio_24k/nepali_17867.wav|pʰˈɪlməkˌoː sˌaːʊnɖəʈrrjˈaːkə, ɾəwˈɪndɾə ɟˌɛːnədːwˈaːɾaː sˌəŋɡɪːtəbˈʌdːdʰə cʰˈə, jˈoː nˌoːbʰoːʈˈeːl ɟˈuhuː, mˌumbəˈɪːmaː ˈeːkətˌɪs mˈaːrrcə dˈui həɟˈaːɾə cˈɔːdʰəmˌaː sˈuɾu bʰəˈeːkoː tʰˈɪjoː|0
+data/audio_24k/nepali_24645.wav|sˈɪpɪŋ kˌərrpoːɾˈeːsən ˈʌpʰ ˈɪnɖɪjˌaː ˈeːləʈˌɪɖi|0
+data/audio_24k/nepali_6633.wav|pɾˈoːkʈəɾˌə ˈeːnɖə ɡˈeːmbəl hˈaːɪɟˌɪn ˈeːnɖə hˈeːltʰə kˈeːjəɾˌə lˌɪmɪʈˈeːɖ|0
+data/audio_24k/nepali_19860.wav|mˈumbəˌiː ɾə ˌɪmpʰaːləmˈaːɟʰəkˌoː sˈʌməjˌəmaː kˈʌtɪkˌoː bʰˈɪnnˌətaː cʰˈə?|0
+data/audio_24k/nepali_10462.wav|tˌəpaːĩlˈeː nˈʌjã ɡɾˌaːhəkəlˈaːi jˈoː pɾˌəstutˈɪːkəɾˌəɳ dˈɪnəˌəɡʰɪ jˌəsəlˈaːi ʈʰˈɪkə ɡˌərrnupˈʌrrcʰə bʰənˈeːɾə soːcˈeːɾə mˈaːtɾə bˈʌsnubʰˌəjoː? tˌəpaːĩkˈoː jˈoː ˌaːdətəʃˈʌ̃ɡ dˈɪkkˌə lˌaːɡɪsˈʌkːjoː|0
+data/audio_24k/nepali_17521.wav|puɟˈɪːpətˌɪ, stʰaːnˈɪːjə bjˈaːŋkəkˌaː ɾˈɪɳ ˌədʰɪkˈaːɾi ɾə sˈə sˈaːnaː ʋjˌəwəsˈaːjɪkˌə pɾəʃˈaːsən ɟˈʌstaː ˈʌnjə sˌənstʰaːhˌəɾuːʃˈʌ̃ɡ tˌəpaːĩkˈoː twcˈaː dˌeːkʰəɾˌeːkʰəsəmbˈʌndʰi ʋjˌəwəsˈaːjəkˌoː jˌoːɟənaːlˈaːi stʰˈaːpɪt ɡərrnˈaːkaː lˈaːɡɪ səmpˈʌrrkə ɡˌərrnuhˈoːs ɾə bˈɛːʈʰəkˌəhəɾˌuː nɪrrdʰˈaːɾɪt ɡˌərrnuhˈoːs|0
+data/audio_24k/nepali_24771.wav|jˈoː aːwˈaːɟ cˈɪnnˌeː sˌəpʰʈəwˈeːjəɾˌəkoː əcˈuːkə kʂˈʌmətˌaː deːkʰˈeːɾə mə cˈʌkɪt bʰˈʌẽ|0
+data/audio_24k/nepali_15245.wav|kˈeːhi ʈʰˌaːũhˈʌɾuːlˌeː tˌəpaːĩlˈaːi nˌəmuːnˈaːkoː aːdˈeːʃəhˌəɾuː dˈɪncʰən, ɟˈʌbəkˌɪ ˈʌɾuː cˈaːhĩ kˈunɛː ˈʌrrɖəɾˌəhəɾˌuː ˌʊpəlˈʌbdʰə nˌəbʰəˈeːkoː ɾˈɪttˌoː hˈuncʰən|0
+data/audio_24k/nepali_26349.wav|əwˈʌntɪkˌaː ˈeːksəpɾˌeːs|0
+data/audio_24k/nepali_7468.wav|lˈuɡaː dʰˈuneː pˈaːʊɖˌəɾəlˌeː kˌəpəɖaːlˈaːi cˈʌmkɪlˌoː sˈeːtoː bˌənaːũcʰˈə bʰˈʌnnˌeː tˌəpaːĩkˈoː ɟʰˈuʈoː wɪɟɲˈaːpənˌəkoː daːwˈɪːbaːʈ mə ˈaːkɾoːʃˌɪt bʰˌəɪɾəhˈeːkoː cʰˈu|0
+data/audio_24k/nepali_7191.wav|hˈaːmi mˌumbəɪːdˈeːkʰɪ nˌaːɡaːljˌaːnɖəsˈʌmmˌə kˈʌsəɾˌiː jˈaːtɾaː ɡˈʌrrnə sˈʌkcʰɔ̃?|0
+data/audio_24k/nepali_14576.wav|sˈʌɾə ɟˈoːn mˈaːrrsəlˌəkaː ənusˌaːɾˌə, sətˈaːwəʈˌəkaː mˈukʰjə lˈeːkʰəkˌə pˌuʂjəmˈɪtɾə hˈunˈə sˈʌkcʰən, jˈʌdjəpˌɪ pˈʌcʰɪkˌaː sˈuŋɡə ɾˌaːɟaːhəɾˈuːleː bˈɔːdːdʰə dʰˈʌrrməkˌoː bˈʌɖʰi səmˈʌrrtʰən ɡəɾˈeːkoː deːkʰˈɪncʰə|0
+data/audio_24k/nepali_6561.wav|pɾˌəjaːɡəɾˈaːɟ ˈeːksəpɾˌeːs|0
+data/audio_24k/nepali_3780.wav|tˌəpaːĩkˈaː bʰˌaːwənˈaːhəɾˌuː ˈʌɟʰ ɾˈaːmɾoːʃˌʌ̃ɡ buɟʰnˈaːkaː lˈaːɡɪ jˌəsəbˈaːʈ təpˈaːĩ kˈɪn ɾɪsˈaːʊnˌubʰəjˌoː wˈaː cˈoːʈ pˈuɡjoː bʰˈʌnnˌeː bˈaːɾeː lˈeːkʰneː pɾəjˈaːs ɡˌərrnuhˈoːs|0
+data/audio_24k/nepali_10624.wav|ɡˈeːl|0
+data/audio_24k/nepali_22782.wav|pʰˈaːrrmeːsˌiː tˈə ɾˈaːtəkˌoː dˈʌs bˈʌɟi nˈɛː bˈʌndə bʰəˈeːkoː hoː, tˈaɾə mə bʰˌɪtɾəbˈaːʈ kˈeːhi cˈʌrrkaː aːwˈaːɟəhˌəɾuː sˌunɪɾəhˈeːkoː cʰˈu|0
+data/audio_24k/nepali_27523.wav|məntɾˈɪːleː ˌədʰɪkˌaːɾɪːhəɾˈuːsɪt nˈɪʂʈʰˌaː ɾə sˌəməpˈʌrrɳəkˌaː sˈaːtʰ jˈʌs kˈaːrrjaːlˌəjəkˌoː sərrwˈoːttˌəmə pɾəjˈoːɡ ɡˈʌrrneː ˈaːɡɾəhˌə ɡˈʌrrnubʰˌəjoː|0
+data/audio_24k/nepali_7698.wav|cʰˈoːɾaː, mˈɛːleː tˌɪmɪːlˈaːi mˈeːɾoː ˈʌpʰɪsˌəkoː ljˈaːpəʈˌəpəmˌaː ɡˈeːmə nˈə kʰˈeːlnuʲˌu bʰˈʌni kˈʌtɪ pˈʌʈəkˌə bʰˈʌnɪsˌəkẽ?|0
+data/audio_24k/nepali_12904.wav|pɾəhlˈaːd|0
+data/audio_24k/nepali_16946.wav|məlˈaːi lˈaːɡcʰə, ˌədʰɪkəbʰˈʌndaː ˈʌdʰɪkˌə jˈʌs kˈɪsɪmˌəkaː nˈɪːtɪ nɪrrmˈaːɳ ɡˈʌrrneː ɾə ˈʌsəl swˈaːstʰə jˌoːɟənˈaːhəɾˌuː pˈʌɾɪcˌəjəmˌaː ljˈaːʊnˌeː bˈeːlaː bʰˌəɪsəkˈeːkoː cʰˈə|0
+data/audio_24k/nepali_6235.wav|mə ɡɾˈaːhəkˌəkoː ɡɾˌaːhəkˌəhəɾuːlˈaːi ɖʰˈɪloː ɖˌeːlɪbʰəɾˈɪːkoː səmbˈʌndʰəmˌaː ɡɾˈaːhəkˌəkoː ɡunˈaːsoː səmbˈoːdʰən ɡˈʌrrneː baːɾˈeːmaː cˈɪntɪt cʰˈu|0
+data/audio_24k/nepali_9132.wav|soːlˈaːɾə ɪnɖˈʌsʈɾɪɟ ˈɪnɖɪjˌaː ˈeːləʈˌɪɖi|0
+data/audio_24k/nepali_5763.wav|mˈɪɾɪkˌə|0
+data/audio_24k/nepali_13494.wav|bˌulɡeːɾɪjˈaːkoː tˈʌllloː təlˈaːmaː kətˈɛːtɪɾˌə bəsˈeːkoː hjˈaːkəɾˌəkɛː kˈaːɾəɳ mˈeːɾoː pʰˈoːnəmˌaː sˈaːɪbˌəɾə suɾˈʌkʂaː ʊlllˈʌŋɡʰən bʰəˈeːkoː hoː bʰˈʌnnˌeː sunˈeːɾə tˈə mə tˌɪnəcʰˈʌkkˌə pˈʌɾẽ nˈɪ hˈɔː|0
+data/audio_24k/nepali_24426.wav|bʰjˌaːksɪnəbˈaːɾeː jˈʌtɪ mˌəhəttwpˈuːrrɳə kˈeː cʰˈə?|0
+data/audio_24k/nepali_14134.wav|jˈoː sʈˈoːɾəkˌoː ɪnbʰˈeːnʈəɾˌiː ʋjˌəwəstʰˈaːpən pəʈˈʌkkˌə ʈʰˈɪkə cʰˈɛːnə jˈiː cˈɪɟəbˌɪɟəhˌəɾuː hˈeːrrnuhˌoːs tˈə, kˈunɛː pˈʌnɪ ʈʰˌaːũmˈaː cʰˈɛːnən|0
+data/audio_24k/nepali_13011.wav|hˈaːrrmoːnˌɪjəmˌə|0
+data/audio_24k/nepali_15050.wav|ʃˈʌɾət cˈʌndɾə cəʈʈˌoːpˈaːdʰjaːjˌə|0
+data/audio_24k/nepali_14782.wav|ʋhˈɪːl ɡˈaːrrɖə bɪnˈaːkoː bˈaːɪkˌə kˈʌsəɾˌiː kˈɪnnˌeː? pˈaːni pˈʌrrdaː pˈɪʈʰɪˌũ hɪlˈɛːhɪlˌoː hũdˈɛːnə ɾə? məlˈaːi tˈə ɖˈʌɾə poː lˈaːɡjoː|0
+data/audio_24k/nepali_23105.wav|sˈʌn dˈui həɟˈaːɾə ˈeːkkˌaːɪsˌəmaː, ɖˌəbljuʈˌɪeːlˈaːi pˈuɾuʂˌəkoː pɾˌətɪjˈoːɡɪtˌaː ʃɾˈɪŋkʰəlˌaːʃʌ̃ɡ mˌɪldoːɟˈuldoː ˈʌnɪ pɾəʃˈʌnsəkˌə ɾə ˌʊpəbʰˈoːktaːhˌəɾuːkˌaː lˈaːɡɪ tʰˈʌp sˈʌɾəlˌətaː pɾədˈaːn ɡˈʌrrdɛː pˈun bɾˈaːnɖə ɡˌəɾɪˈeːkoː cʰˈə|0
+data/audio_24k/nepali_11809.wav|hˈaːmɾoː eːsˈɪːkoː tˈaːɾə kˌaːʈɪdˌɪeːdˈeːkʰɪ tˈə mə lˌoːtʰərrkeːlˈaːi hˈeːrrnɛː sˈʌktɪnˌʌ̃ hˈɔː dˈeːkʰjoː kˈɪ ɾˈɪs ˈʊʈʰcʰə|0
+data/audio_24k/nepali_16686.wav|jˈoː wˈʌstu suːcˈɪːmaː tʰˌəpnuhˈoːs|0
+data/audio_24k/nepali_18740.wav|ɾˈutʰ sʈɾˈaːŋɡə ˈaːrrmsə ˈʌpʰ dˈə mˈaː ˌeːpɪsˈoːɖəmˌaː ˈeːkə wɪʃˈaːl mˈʌhɪlˌaː bˈaːnɖɪːbˌɪlɖəɾˌəkaː ɾˈuːpəmˌaː dˈeːkʰaː pˈʌrrcʰɪn, ɟˈʌsəlˌeː bʰaːɾˈoːttˌoːlənˌəmaː lˈaːɡneː mˈaːrrɟəlˌaːi sʈeːɾˈoːɪɖˌəhəɾˌuː pɾəjˈoːɡ ɡˈʌrrnə səlllˈaːhə dˈɪncʰə|0
+data/audio_24k/nepali_17631.wav|məlˈaːi tʰˈaːhaː cʰˈɛːnə tˌəpaːĩlˈeː kˈeː poː ɡˈʌrrnubʰˌəjoː tˈaɾə tːjˈoː ʈˈuppˌaː ʈˌoːkɪˈeːkoː kˈʌləmˌə tˈə ətːjˈʌntɛː bʰˈʌddˌaː dˌeːkʰɪˈeːkoː cʰˈə nˈɪ|0
+data/audio_24k/nepali_3383.wav|mˈɛːleː mˈeːɾaː sˌaːtʰɪːhəɾˈuːkoː kˈuɾaː sunnˌupˈʌrrtʰjˌoː ɾə nˌəɟɪkˈɛːkoː hˈoːʈəlˌəmaː ɟˌaːnupˈʌrrtʰjˌoː|0
+data/audio_24k/nepali_12066.wav|bʰˌuĩtˈɪɾə hˈeːrrneː nˌɪhũlˈeː ãkʰˈaːkaː kˌunaːbˈaːʈ tˈaː tːjˌəsəlˈaːi hˈeːɾɪn|0
+data/audio_24k/nepali_18672.wav|hˈuncʰə, tˌəpaːĩkˈaː ʃəŋkˈaːhəɾˌuː kˈeː cʰˈʌn?|0
+data/audio_24k/nepali_23985.wav|ˈoːhə wˈaːhə, tːjˈoː tˈə ɾˈaːmɾoː hoː, tˌəpaːĩʃˈʌ̃ɡ dʰˈeːɾɛː ɾˈucɪhˌəɾuː cʰˈʌn|0
+data/audio_24k/nepali_14736.wav|ʊsˈoːbʰəˌeː, jˈoː suɾˈʌkʂɪt cʰˈə|0
+data/audio_24k/nepali_13209.wav|sˈʌmbʰəwˌətəh jˈʌsəkˌoː duɾˈustə ˈʊttˌəɾə tˈɪmi dˈɪn səkˈɔːlaː|0
+data/audio_24k/nepali_22324.wav|hˈaːmi pɾˈaːjəɟˌəsoː bˌɪmaːɾˌɪːhəɾuːlˈaːi ˌʊnɪːhəɾˈuːleː bʰoːɡˈeːkaː kˌuɾaːhˌəɾuːbˈaːʈ ɾˈaːhət nˌəpaːˌʊnɟeːləsˈʌmmˌə dʰˈeːɾɛː sˌeːsənˌəhəɾˈuːkaː lˈaːɡɪ bˌoːlaːũcʰˈɔ̃|0
+data/audio_24k/nepali_17468.wav|buːɖʰˈaːkaː mˈukʰəkˌoː bʰˈaːwə pʰˌeːɾɪˈeːkoː tːjˈʌsəlˌeː lˈʌkʂjə ɡəɾˈeːkoː tʰɪˈeːnə|0
+data/audio_24k/nepali_23068.wav|mˈɛːleː nˈʌjã ljˈaːpəʈˌəpəkˌaː lˈaːɡɪ ənuɾˌoːdʰ ɡˈʌɾẽ tˈaɾə sˌəhəjˈoːɡi kˌərrməcˌaːɾɪːhəɾˈuːleː məlˈaːi nˈʌjã dˈɪn nəsˈʌkneː bətˈaːeː|0
+data/audio_24k/nepali_852.wav|swˈaːsni mˈaːncʰeː|0
+data/audio_24k/nepali_19369.wav|aːɟˈəː pʰˈeːɾɪ ʃˈeːkʰəɾˌə jˈoː mˈʌdʰuɾˌə bˈʌndʰən cʰˈɪnnˌə ɡəɾˈeːɾə ˈeːʊʈˌaː əpˈuːrrw sˌəpənˈaːkoː smɾˈɪtɪ lɪˈeːɾə hˈɪɳɖnə lˌaːɡɪɾəhˈeːcʰə, kˈʌhã?|0
+data/audio_24k/nepali_21254.wav|bəŋɡˈaːli|0
+data/audio_24k/nepali_13695.wav|kˈeː təpˈaːĩ pˈaːɡəl hˌunuhˈuncʰə? ˌʊpəcˈaːɾə sˈuɾu hũdˈaː ˈʌnjə ɖˈaːkʈəɾˌəhəɾˌuːleː tˈə pɛ̃tˈaːlɪs dˈɪn aːɾˈaːmə ɡˌərrnupˈʌrrcʰə bʰənˈeːnən tˈə! mˈɛːleː ˈeːkkˌaːɪs dˌɪnəsˈʌmmˌə aːɾˈaːmə ɡˌəɾɪsəkˈeːkoː cʰˈu ˈʌnɪ jˈʌdɪ mə ʌbˈə pˈʌnɪ kˈaːməmˌaː pʰˈʌrrkɪnˌʌ̃ bʰˈʌneː mˈeːɾoː ɟˈaːɡɪɾˌə ɟˈaːncʰə|0
+data/audio_24k/nepali_14980.wav|hˈʌɟuɾˌə, sˈʌɾə haːmˈɪːleː pəhˈɪljɛː dˈʌs pɾˈʌtɪʃˌət cʰˈuʈ dˌɪɪɾəhˈeːkaː cʰˈɔ̃|0
+data/audio_24k/nepali_5148.wav|mˈeːɾoː pəɖʰˈaːi ʃˈeːʂ bʰəˈeːpəcʰˌɪ hˈaːmi pʰˈeːɾɪ dˈaːrrɟɪːlˌɪŋ ɡəˈeːɾə bəscʰˈɔːn|0
+data/audio_24k/nepali_10210.wav|tˌɪɾucˌɪɾaːpˈʌllli, mˌəjɪlˈaːdutʰˌuɾɛː ˈeːksəpɾˌeːs|0
+data/audio_24k/nepali_6481.wav|kˈeː tˌəpaːĩʃˈʌ̃ɡ kˈunɛː pɾˈʌʃnə cʰˈə?|0
+data/audio_24k/nepali_21790.wav|ˈaːʈʰ noːbʰˈeːmbəɾˌə, dˈui həɟˈaːɾə ˈʊnnˌaːɪsˌəmaː ˈʊnəkˌoː pˈustəkˌə swˈaːmi ˈeːnɖə pʰɾˈeːnɖsə bˌɪbɪsˈɪːkoː hənɖɾˈeːɖ noːbʰˈʌlsə djˈaːʈ sˈeːpɖə ˈaːwəɾˌə wˌərrlɖəmˈʌdʰjeː ˌeːʊʈˈaːkaː ɾˈuːpəmˌaː cˈʌjən bʰˈʌjoː|0
+data/audio_24k/nepali_21001.wav|ˌaːɪˌaːɪpˌɪkeːˈeːləkˌoː ʊdɡʰˈaːʈən sˈʌnskəɾˌəɳ tˈeːhɾə məˈɪːmaː pˈuɳeː, bʰˈaːɾətˌəmaː bʰəˈeːkoː tʰˈɪjoː|0
+data/audio_24k/nepali_15840.wav|mˌəhaːʃwˈeːtaː deːwˈiː|0
+data/audio_24k/nepali_13768.wav|tˈaɾə jˈʌstoː kˈuɾaː tˈaː hˈunɛː səktˈɛːnə|0
+data/audio_24k/nepali_21589.wav|mˈɛːleː kʰˈaːnaː bənˈaːʊnˌu cˈaːhĩ mˈeːɾoː pˈeːsaː hˈoinˌə tˈaɾə mə kʰˈaːnaː cˈaːhĩ ɾˈaːmɾoː bˌənaːũcʰˈu mˈɛːleː bˌənaːˈeːkoː kʰˈaːnaː kʰaːˈeːɾə səbˈɛːleː taːɾˈɪːpʰ ɡˈʌrrcʰən|0
+data/audio_24k/nepali_23933.wav|jɪnˈɪːhəɾˌuː ʈʈjˈaːksɪːmˌaː cˌəɖʰneːbˈɪttˌɪkɛː tˈiː dˈuɪ pˈʌnɪ ˈʌrrkoː ʈʈjˈaːksɪːmˌaː cˈʌɖʰeː|0
+data/audio_24k/nepali_4859.wav|ˈʊttˌəɾə ɟɪlllˈaːkoː nˈaːmpʰɾɪkˌədaːŋˌəmaː hˈɪɟoː ɾˈaːɟjə stəɾˈɪːjə nˈaːməsˌuŋ ˈʊtsəwˌə səmpˈʌnnˌə bʰˈʌjoː|0
+data/audio_24k/nepali_20051.wav|hˈɪnduː pəɲcˈaːŋɡə cˈʌndɾə sˈɔːɾə cʰˈə tˈaɾə dʰˈeːɾɛː cˈaːɖ mˈɪtɪhˌəɾuː pəɲcˈaːŋɡəkˌoː cˈʌndɾə bʰˈaːɡ pɾəjˈoːɡ ɡəɾˈeːɾə nɪrrdˈɪʂʈˌə ɡəɾˈɪncʰən|0
+data/audio_24k/nepali_12077.wav|nˈeːʈəkˌoː pʰˈʌrrmaː ˈeːləʈˌɪɖi|0
+data/audio_24k/nepali_18038.wav|bɪhˈaːn cˈaːɾə tˈɪs bˈʌɟi ˈʊʈʰdaː mə ʃˈaːntɪ mˈʌhəsˌus ɡˈʌrrcʰu ɾə jˈʌsəlˌeː məlˈaːi dˈɪnəbʰˌəɾɪ sˈukʰəd mˈʌhəsˌus ɡˌəɾaːũcʰˈə|0
+data/audio_24k/nepali_13646.wav|məlˈaːi tːjˈʌstoː lˈaːɡdɛːnˌə|0
+data/audio_24k/nepali_26231.wav|wɪwˈeːkə ˈeːksəpɾˌeːs|0
+data/audio_24k/nepali_24415.wav|lˌaːmɪcʰˈaːneː ɾə ɡoːwˈɪndə kˈʌstaː ɟʌ̃ɖɖjˈaːhaː tʰˈɪeː|0
+data/audio_24k/nepali_22374.wav|tːjˈʌs wˈʌrrʂəkˌoː pˈʌcʰɪtˌɪɾə, ˈʊnəlˌeː sˈʌsti dˈulhən məhˈʌŋɡaː dˌulhaːbˈaːʈ bˈʌlɪˌʊɖəkˌoː mˌukʰjədʰaːɾˈaːmaː pɾəwˈeːʃ ɡˈʌɾeː|0
+data/audio_24k/nepali_12806.wav|mˈeːksɪkˌoːkaː ˌədʰɪkˌaːɾɪːhəɾˈuːkaː ənusˌaːɾˌə lˌaːɡuˈʌʊʂədʰ kˌaːɾoːbˈaːɾəmˌaː sənlˈʌɡnə ɾəhˈeːkaː ˌəbʰɪjˈuktə sˌədəsjˌəhəɾuːmˈaːɟʰ ˈeːʊʈˌaː ɟˈeːləmˌaː bʰəˈeːkoː ɟʰˈʌɖəpˌəmaː ˈeːkətˌɪsəɟˌənaː kɛːdˈɪːkoː mɾˈɪtːju bʰəˈeːkoː cʰˈə|0
+data/audio_24k/nepali_17572.wav|dʰwˈʌnɪ mˌɪlaːˌʊnuhˈoːs|0
+data/audio_24k/nepali_8119.wav|mˌaːnɪsˌəhəɾˈuːkoː ʈʰˈuloː sˈʌŋkʰjaː ɟˈʌmaː hˈuneː ɾəhˈeːcʰə nˈɪ tːjˈoː dʰjˈaːnəmˌaː ɾˈaːkʰdɛː, sˈʌbɛː sˌəhəbʰˌaːɡɪːhəɾˈuːkoː kəljˈaːɳ sunˈɪʃʃcɪt ɡˌərrnupˈʌrrneː hoː nˈʌbʰəˌeː tˈə ɡˈaːhɾoː hˈuncʰə hˈɛː tːjˈʌhi ɖˈʌɾəlˌeː tˈə mə kˈaːrrjəkɾˌəmə pɾəbˈʌndʰəkˌəleː aːwˈʌʃjəkˌə sˈʌbɛː sˌaːwədʰaːnˈɪːhəɾˌuː ˌəpənˌaːʊnˈeːcʰən bʰˈʌnnˌeː mə sunˈɪʃʃcɪt ɡˈʌrrnə caːhˈʌncʰu|0
+data/audio_24k/nepali_27094.wav|kˌoːcubʰˈeːli, jˌəsəwˈʌntəpˌuɾə ɡˈʌɾɪb ɾˈʌtʰ ˈeːksəpɾˌeːs|0
+data/audio_24k/nepali_17016.wav|hˈaːmi sˈʌbɛː mˈuːrrkʰəhˌəɾuː ɾəhˈeːcʰɔ̃ bʰˈʌnnˌeː ˈʌhɪlˌeː poː tʰˈaːhaː lˈaːɡdɛːcʰˌə|0
+data/audio_24k/nepali_775.wav|njˈu dˈɪllli, mˈoːɡaː ʃətˈaːbdi ˈeːksəpɾˌeːs|0
+data/audio_24k/nepali_20994.wav|ɟˌɛːsələmˈeːɾə kˈɪlllaː|0
+data/audio_24k/nepali_15991.wav|məʃˈʌ̃ɡ kənˈeːksən cʰˈə tˈaɾə mə bˈʌsneː ʈʰˌaːũmˈaː kˈunɛː saːtʰˈɪːhəɾˌuː cʰˈɛːnən ɾə jˈʌsəlˌeː məlˈaːi dˈuhkʰˌiː ənubʰˌəwˌə ɡˌəɾaːũcʰˈə|0
+data/audio_24k/nepali_9838.wav|cˌɪɾəsmˌəɾəɳˈɪːjə muhˈuːrrtəmˌaː mˈeːɾaː wɪcˈaːɾə, mˈeːɾaː sɪdːdʰˈaːntəlˌeː pˈʌlʈaː kʰˈaːeː|0
+data/audio_24k/nepali_11816.wav|pˌəkuwˈaː|0
+data/audio_24k/nepali_19294.wav|sˈʌn ˈʊnnˌaːɪs sˈʌjə pˈʌccˌɪsəmˌaː ˈʊnəlˌeː bˈeːtəlˌəbi pɾəʃˈɪkʂukˌaː ɾˈuːpəmˌaː ʈˈaːʈaː sˈʌnsəmˌaː pɾəwˈeːʃ lˈɪeː|0
+data/audio_24k/nepali_11940.wav|sˈɪnulˌeː saːrrwɟˈʌnɪkˌə ɾˈuːpəmˌaː sˌunɛːnaːlˈaːi aːpʰˈuːleː mˈaːjaː ɡəɾˈeːkoː bˌətaːũcʰˈɪn ɾə ˌʊnəlˈaːi ˈʌŋɡəd ɾə ˈʊnəkˌaː ɡˌunɖaːhˌəɾuːbˈaːʈ nˌəɖəɾˈaːʊnˌuː bʰˈʌncʰən|0
+data/audio_24k/nepali_4181.wav|neːpˈaːli|0
+data/audio_24k/nepali_26229.wav|əɟˈʌntaː pʰˈʌrrmaː ˈeːləʈˌɪɖi|0
+data/audio_24k/nepali_13144.wav|sʈˈɪl ətʰˈoːɾɪʈˌiː ˈʌpʰ ˈɪnɖɪjˌaː ˈeːləʈˌɪɖi|0
+data/audio_24k/nepali_7839.wav|aːɟˈəː tˈə mə bɪhˈaːn sˈaːɖʰeː cˈaːɾɛː bˈʌɟi ˈʊʈʰẽ ɾə pˌəhɪloːpˈʌlʈə tːjˈoː sˈʌməjˌəmaː pɾˈaːrrtʰənˌaː ɡˈʌrrnə pˈaːẽ|0
+data/audio_24k/nepali_26863.wav|ˈaːpʰːnoː ɟɪːwˈʌntə pɾədˈʌrrʃənˌəpəcʰˌɪ jˌuwətˈɪːleː ʈʰˌulaːhəɾˈuːpɾətˌɪ dˌeːkʰaːˈeːkoː wɪnˈʌmɾətˌaː ɾə səmmˈaːn deːkʰˈeːɾə mə nˈɪkɛː kʰˈusi bʰˈʌẽ|0
+data/audio_24k/nepali_4667.wav|mˈoːhənˌəleː wɾˈɪdːdʰəlˌaːi nˌəməskˈaːɾə ɡəɾˈeːɾə bʰˈʌnjoː, "mə pˈʌnɪ neːpˈaːli nˈɛː hˈũ|0
+data/audio_24k/nepali_46.wav|ɟˈʌhã ɟˈʌhã swjˈʌnseːwˌəkəhˌəɾuːkˌoː ˈʌɖɖˌaː tʰˈɪjoː, tːjˈʌhã ˌəɖɪˈeːɾə hˌəɾaːˈeːki jˌuwətˈɪːkoː tɪnˈɪːhəɾˌuː kʰˈoːɟi ɡˈʌrrnə lˈaːɡeː|0
+data/audio_24k/nepali_13423.wav|ɾˌaːɟəwˈʌnʃəlˌeː bʰˈʌwjˈə mˈuːrrtɪkˌəlaː ɾə mˈʌndɪɾˌəhəɾˌuː pəcʰˈaːɖɪ cʰˈoːɖɖjoː ɾə mˌədʰjəjuɡˈɪːn dˈʌkʂɪɳ bʰˌaːɾətˈɪːjə wˈaːstukˌəlaːkˌoː ɟˈʌɡ stʰˈaːpɪt ɡəɾˈeːkoː maːnˈɪncʰə, ɟˈun kˈeːhi wɪdːwˈaːnəhˌəɾuːlˌeː puɾˈaːtən hˈɪndu ɡɾˈʌntʰə mˌaːnəsˌaːɾaːbˈaːʈ pɾˈeːɾɪt bʰəˈeːkoː wɪʃwˈaːs ɡˈʌrrcʰən|0
+data/audio_24k/nepali_25651.wav|ɡɔːɾˈɪːleː ˈaːpʰːnɛː hˈaːtəlˌeː cˈɪjaː, kʰˈaːɟaː təjˈaːɾə ɡˈʌɾi ʃˈeːkʰəɾˌə ɾə ɾˈaːi duwˈɛːlaːˌiː kʰuwˈaːi|0
+data/audio_24k/nepali_25983.wav|ɾˈusi ʈˈeːnɪs kʰˌeːlaːɖɪːlˈaːi pɾˌətɪjˌoːɡɪtˈaːkaː lˈaːɡɪ poːljˈaːnɖəmˌaː pɾəwˈeːʃ ɡˈʌrrnə nˌədɪɪˈeːpəcʰˌɪ pɾəʃˈʌnsəkˌəhəɾˌuː ɾˈɪsəlˌeː cˈʌrrkɪˌeː|0
+data/audio_24k/nepali_17237.wav|sˈʌn cˈɔːdʰ sˈʌjə ˌʊnəncˌaːsəsˈʌmmˌə, pɾˈaːɡəkˌaː sˈʌbɛː pɾəʃˈaːsənˌɪkə ɟˌɪlllaːhˌəɾuːlˈaːi səmpˈuːrrɳə ˈeːʊʈˌaː wˈaː ˈʌdʰɪkˌə bʰˌuːɾaːɟˈʌsw eːkˈaːɪ, nˌəɡəɾəpˈaːlɪkˌaː wˈaː nˌəɡəɾˌəhəɾuːdːwˈaːɾaː ɡˈʌʈʰən ɡˌəɾɪˈeːkaː tʰˈɪeː|0
+data/audio_24k/nepali_9712.wav|ɡˈoːrrkʰaːlˌiː|0
+data/audio_24k/nepali_15322.wav|bʰˈaːɾətˌəkaː pˈʌccˌɪsɔ̃ ɾˈaːʂʈɾˌəpətˌɪ kˈoː hˈun?|0
+data/audio_24k/nepali_8178.wav|ʈˈɪʈɪkˌeː pɾˈeːsʈɪɟ ˈeːləʈˌɪɖi|0
+data/audio_24k/nepali_14018.wav|ˌərrkoːtˈʌrrpʰə ɟˌələpˈaːɪɡˌuɖi ɟɪlllˈaːkoː mˈaːl pɾˌəkʰəɳɖəbˈaːʈ pˈʌnɪ cʰˈʌɟənˌaː mˈaːnɪsˌəmaː koːɾˈoːnaː pˈoːɟɪʈˌɪbʰ pˌaːɪˈeːkoː cʰˈə, ɟˈʌsəmˌaː mˈaːl nˌəɡəɾəpˈaːlɪkˌaː pɾəʃˈaːsəkˌə bˈoːrrɖəkˌaː ədʰjˈʌkʂə pˈʌnɪ saːmˈeːl cʰˈʌn|0
+data/audio_24k/nepali_10515.wav|hˈaːmi tˌəpaːĩlˈeː ˈeːkə wˈaː dˈui dˈɪnəmˌaː koːʈˈeːsən pəʈʰˈaːʊnˌu hunˈeːcʰə bʰˈʌnnˌeː ˈaːʃaː ɡˈʌrrcʰɔ̃|0
+data/audio_24k/nepali_5018.wav|bʰˈeːʈnubʰˌəeːkˌoː cʰˈə, ˌʊhãhˈʌɾuː cˈeːnnˌəɪːmˌaː bˌəsnuhˈuncʰə|0
+data/audio_24k/nepali_15606.wav|jˈoː bʰɾˈʌməɳ səmˈuːhə kˈʌtɪ əsˈʌŋɡəʈʰˌɪt cʰˈə bʰˈʌnnˌeː mə wɪʃwˈaːs ɡˈʌrrnə sˈʌkdɪnˌʌ̃|0
+data/audio_24k/nepali_17282.wav|sˈeːtoː wˈaːɪnˌəkoː sˈʌʈʈˌaːmaː kˈun saːmˈʌɡɾi pɾəjˈoːɡ ɡˈʌrrnə səkˈɪncʰə?|0
+data/audio_24k/nepali_4034.wav|ˈoːhoː! puɾˈaːnaː pˈustəkˌəkoː mˈuːljə bəɖʰˈeːkoː deːkʰˈeːɾə cʰˈʌkkˌə pˈʌrrcʰu ʌbˈə jˈiː kɪtˈaːbəhˌəɾuː kˈɪnnˌə pˈʌnɪ ɡˈaːhɾoː pˈʌrrneː ɾəhˈeːcʰə|0
+data/audio_24k/nepali_24097.wav|jˈʌs ɡʰˌəʈənaːmˈaːtʰɪ dʰeːɾˈɛːɟənˌaː mˌaːnɪsˌəhəɾˈuːleː ˈaːpʰːnoː ɾˈuʂʈˌətaː pɾˈʌkəʈ ɡˈʌɾeː|0
+data/audio_24k/nepali_13238.wav|mˈɛːleː tˌəpaːĩkˈoː kˌaːɡəɟəpˈʌtɾə ɟˈãc ɡˈʌɾẽ|0
+data/audio_24k/nepali_25668.wav|ɟˈʌb pˈʌnɪ kˈaːrrlə sˈʌɡənˌəleː haːmˈɪːleː ˈaːpʰːnoː ɡʰˈʌɾə bʰˈʌnnˌeː ɡəɾˈeːkoː ˌəndʰəkˈaːɾəmˌaː ɟʰˌunɖɪˈeːkoː sˈaːnoː pˌəhẽlˈoː nˈɪloː bˈɪndukˌaː baːɾˈeːmaː kˈuɾaː ɡˈʌrrcʰən, məlˈaːi sˈaːhɾɛː mˈʌɟaː lˈaːɡcʰə hˈɔː|0
+data/audio_24k/nepali_24009.wav|dˌurrɡʰəʈənˈaːkoː ˈaːʈʰ dˈɪnəpˌəcʰɪ wɪmˈaːnəkˌoː ˌəwəʃˈeːʂ ɡˈʌt mˌəŋɡələbˈaːɾə ˌəɾuːɳˈaːcəl pɾədˈeːʃəkˌoː lˌɪpoːdˈeːkʰɪ sˈoːhɾə kɪlˈoːmɪʈˌəɾə ˈʊttˌəɾəmˌaː dˌeːkʰɪˈeːkoː tʰˈɪjoː|0
+data/audio_24k/nepali_24208.wav|wɛːkˈʌlpɪkˌə ɾˈuːpəmˌaː, təpˈaːĩ jˌəsəlˈaːi judˈeːmi ɟˈʌstɛː wˌeːbəsˈaːɪʈˌəmaː bˈeːcnaːkˌaː lˈaːɡɪ ˌənəlˈaːɪn pˈaːʈʰjəkɾˌəmə sˈɪrrɟənˌaː ɡˈʌrrnə pɾəjˈoːɡ ɡˈʌrrnə sˌəknuhˈuncʰə|0
+data/audio_24k/nepali_3503.wav|jˌəsəlˈaːi tːjˈʌsəɾˌiː nəsˈoːcnuhˌoːs nˈə|0
+data/audio_24k/nepali_10732.wav|mˈoːhən bˈaːhɪɾˌəkoː koːʈʰˈaːmaː ɖˈaːkʈəɾˌəkoː pɾətˈɪːkʂaːmˌaː bˈʌsjoː|0
+data/audio_24k/nepali_13083.wav|mˌeːɡʰaːlˌəjəʃˈʌ̃ɡ wɪʃwkˈoː sˌəbɛːbʰˈʌndaː ʈʰˈuloː ɟɪːwˈɪt maːtɾˈɪwənʃˌɪːjə sənskɾˈɪtɪhˌəɾuːmˌədʰjeː ˈeːʊʈˌaː cʰˈə|0
+data/audio_24k/nepali_22253.wav|ʊdˈaːhəɾˌəɳəkˌaː lˈaːɡɪ, təpˈaːĩ duˈɪːwəʈˌaː ɖʰˈoːkaː, wˌaːtaːnukˈuːlɪt, ɾə pʰlˈoːɾɪŋ bʰəˈeːkoː ˈeː ɡɾˈeːɖ bʰəɳɖˈaːɾəɳ eːkˈaːɪhˌəɾuː kʰˈoːɟi ɡˈʌrrnə sˌəknuhˈuncʰə|0
+data/audio_24k/nepali_22591.wav|ɟˈɪjaː əcˈaːnəkˌə ˌaːɪpˈuɡcʰə ɾə mˈeːhəkˌəleː ɟɪjˈaːkaː ˌaːmaːbuwˈaːlaːˌiː pʰˈoːn ɡəɾˈeːkoː səmbˈʌndʰəmˌaː ˌʊnɪːhˌəɾuːʃˈʌ̃ɡ bʰˈɪɖcʰə|0
+data/audio_24k/nepali_5601.wav|dˈə mˌɪlɪjənˈeːjəɾˌəki ʃɾˌɪːmətˈɪːleː ʈˈaːɪʈˌən sˌəbəmˈʌrrsɪbˌələmˌaː ˈaːpʰːnoː cʰoːɾˈaːkoː mɾˈɪtːju bʰˌəeːkˈoːmaː ʃˈoːkə pɾˈʌkəʈ ɡˈʌɾɪn|0
+data/audio_24k/nepali_2496.wav|ʃɾˈɪːnəɡˌəɾə|0
+data/audio_24k/nepali_18232.wav|ʃɾˈiː moːdˈɪːleː ˈeːʊʈˌaː ʈwˈɪʈ səndˈeːʃəmˌaː bʰˈʌnnˌubʰəjˌoː, pʰˈɪlmə ɟˈʌɡətˌəkoː jˈiː səʃˈʌktə ˌəbʰɪnˈeːtɾɪːlˌeː ˈʌləɡ ˈʌləɡ əwˈɪsməɾˌəɳɪːjˌə bʰˌuːmɪkˈaːhəɾˌuː nˌɪbʰaːˈeːki cʰˈʌn|0
+data/audio_24k/nepali_21079.wav|ɾaːɟˈeːndɾə kumˈaːɾə|0
+data/audio_24k/nepali_17031.wav|bʰãɖˈaːhəɾˌuː pˈʌnɪ sˈʌpʰaː ɡˈʌɾɪdˌɪnuʲˌu bʰˌəeːkˈaːmaː dʰˌənjəwˈaːd hˈɛː bˈʌhɪnˌiː tˌəpaːĩkˈoː sˌəhəjˈoːɡəbˌɪnaː kˈeː ɡˈʌrrtʰẽ hˈoːlaː, məlˈaːi tʰˈaːhaː cʰˈɛːnə|0
+data/audio_24k/nepali_5780.wav|kˈeː təpˈaːĩ dˈui sˈʌjə mˈɪʈəɾˌəkoː dˌɔːɖəhəɾˈuːmaː mˈaːtɾə sˌəhəbʰˈaːɡi bənnˌuhˈuncʰə ˌətʰəwˈaː lˈaːmoː dˈuɾi pˈʌnɪ ɡˌərrnuhˈuncʰə?|0
+data/audio_24k/nepali_14694.wav|pːjˈaːɟi|0
+data/audio_24k/nepali_20275.wav|təpˈaːĩ cʰˌaːtɾəwɾˈɪttˌɪkaː lˈaːɡɪ cˌunɪnuhˈuncʰə bʰˈʌnnˌeː mə ˈaːʃaː ɡˈʌrrcʰu|0
+data/audio_24k/nepali_18087.wav|jˈʌdjəpˌɪ, jˈʌsəlˌeː ɟʰãsˈiː, lˈʌkʰənˌəʊ ɾə wɪʃˈeːʂ ɡˈʌɾi ˈʌwədʰ ɡˌaːũmˈaː wˌɪdɾoːhəlˈaːi dəbˈaːʊnˌəkaː lˈaːɡɪ sˈʌn əʈʰˈaːɾə sˈʌjə sˌəntaːˈʊnnˌəkoː bãkˈiː sˈʌməjˌə ɾə əʈʰˈaːɾə sˈʌjə ˌənʈʰaːˈʊnnˌəmaː ɾˈaːmɾəɾˌiː bʰˈaːɡ lˈɪjoː|0
+data/audio_24k/nepali_2974.wav|jˈoː pʰˈɪlməlˌeː ˈʊnəkˌiː pˈʌtni sˈaːjəɾˌaː bˌaːnoːʃʌ̃ɡˈʌkoː pˌəhɪloːcˈoːʈɪ ɟˈoːɖi ɾəhˈeːkoː pˈʌnɪ cˈɪhnɪt ɡˈʌrrcʰə|0
+data/audio_24k/nepali_19064.wav|dʰˈeːɾɛː nˈʌjã sʈˈaːrrʈəˌəpəhˌəɾuː mˈaːnəsˌɪkə swˈaːstʰjˌəmaː kˈeːndɾɪt cʰˈʌn! hˈaːmɾoː bʰˈaːɾətˌəleː jˈʌs kʂˈeːtɾəmˌaː jˈʌtɪ cʰˈɪʈoː pɾˈʌɡətˌɪ ɡərrnˈeːcʰə bʰˈʌnnˌeː mˈɛːleː kəhˈɪljɛː soːcˈeːkoː tʰˈɪɪnˌʌ̃|0
+data/audio_24k/nepali_8279.wav|kˈɔːʃəlˌəhəɾˌuː sˌəɟɪlɛːʃˈʌ̃ɡ pʰˈeːlaː pərrdˈɛːnən bʰənˈeːɾə məlˈaːi buɟʰˈaːʊnˌəkaː lˈaːɡɪ pˈʌnɪ tˌəpaːĩlˈeː ˈʌntɪmˌə kʂˌəɳəsˈʌmmˌə pˌərrkʰənˌupəɾˈeːkoː? cʰˈʌkkˌə pˈʌrrcʰu|0
+data/audio_24k/nepali_26529.wav|ˈɪndɾə ɟˈaːtɾaː|0
+data/audio_24k/nepali_19230.wav|ˈʌɾeː, tˌəpaːĩʃˈʌ̃ɡ pˌaːɾɪwˈaːɾɪkˌə ɖˈaːkʈəɾˌə cʰˈə, hˈoinˌə? ɡˈʌt hˈʌptaː tˌəpaːĩlˈeː məlˈaːi ˌʊhãkˈaː baːɾˈeːmaː bˌətaːˌɪɾəhˌənubʰəˈeːkoː tʰˈɪjoː|0
+data/audio_24k/nepali_18266.wav|ˈeːrrnaːkˌuləm, ˈeːc nˌɪɟaːmˈuddˌɪnə duɾˈoːntoː ˈeːksəpɾˌeːs|0
+data/audio_24k/nepali_9720.wav|ɡˌədənaːnˈaːtʰɪ|0
+data/audio_24k/nepali_22971.wav|sˈuːrrjəmˌukʰi|0
+data/audio_24k/nepali_4097.wav|ˈʊnəlˌeː ˌʊnəlˈaːi mˈaːpʰ ɡˈʌɾɪsˌəkɪn bʰˈʌnnˌeː ˌʊnəlˈaːi tʰˈaːhaː cʰˈɛːnə, tˈaɾə ˌʊnəlˈaːi jˈʌtɪ tʰˈaːhaː cʰˈə kˈɪ ˈʊni ˈʌɟʰɛː pˈʌnɪ ˌʊnəlˈaːi mˈaːjaː ɡˈʌrrcʰən bʰənˈeːɾə ˈʊni bʰˈʌncʰən|0
+data/audio_24k/nepali_8960.wav|ˌeːməˌeːləˈeːkoː nˈɪdʰən|0
+data/audio_24k/nepali_26861.wav|tˌəpaːĩkˈoː pˌaːnɪːlˈaːi ɟəhˈɪljɛː pʰˈɪlʈəɾˌə ɡˌərrnuhˈoːs ɾə ʊmˈaːlnuhˌoːs, tːjˈʌsəlˌeː pˌaːnɪːlˈaːi ʃˈudːdʰə ɡərrnˈeːcʰə|0
+data/audio_24k/nepali_8969.wav|ɖˈaːkʈəɾˌəleː ˌʊnɪːʃˈʌ̃ɡ bãcnˈʌkaː lˈaːɡɪ kˈeːhi dˈɪn mˈaːtɾə bãkˈiː cʰˈə bʰˈʌni bətˈaːeː|0
+data/audio_24k/nepali_24194.wav|mˈɛːleː tˈə aːɟˈəː kˈaːrrjəkɾˌəməkˌoː sˈʌməjˌəmaː bʰˈaːɾi wˈʌrrʂaː hunˈeːcʰə bʰˈʌnnˌeː poː sˈunẽ tˈə kˈaːrrjəkɾˌəmə pɾəbˈʌndʰəkˌəleː kˈʌsəɾˌiː stʰˌɪtɪlˈaːi səmhˈaːlcʰən hˈoːlaː nˈɪ? sˈaːhɾɛː pˈɪɾə lˌaːɡɪɾəhˈeːcʰə|0
+data/audio_24k/nepali_6250.wav|jˈoː cˌələcˈɪtɾə ɾˈɪlɪɟ bʰəˈeːkoː ˈeːkə dˈɪnəpˌəcʰɪ ˈʊttˌəɾə pɾədˈeːʃəkˌaː mˌukʰjəmˈʌntɾi ˌəkʰɪlˈeːʃ jˌaːdəwədːwˈaːɾaː ɾə kˈeːhi dˈɪnəpˌəcʰɪ dʰoːnˈɪːkoː ɡɾˈɪhə ɾˈaːɟjə ɟʰˌaːɾəkʰˈʌɳɖəmˌaː kˌəɾəmˈuktə ɡʰˈoːʂəɳˌaː ɡˌəɾɪˈeːkoː tʰˈɪjoː|0
+data/audio_24k/nepali_16326.wav|tˈɪnəkˌaː aːdˈʌrrʃəlˌeː səmˈaːɟəkˌaː ˈʌɾuː dˈʌʃ ɟˈʌnaː ʈʰˌɪʈaːhəɾˈuːkoː cəɾˈɪtɾə sˈʌŋɡəʈʰˌənəmˌaː pɾəbʰˈaːwə pˈʌrrcʰə|0
+data/audio_24k/nepali_345.wav|kəsˈaːɾə|0
+data/audio_24k/nepali_2884.wav|sˈeːl pʰˌoːnəhəɾˈuːmaː ʌbˈə kˈʌl pərrkʰˈaːɪ cʰˈə, tːjəsˈɛːleː jˈoː kəsˈɛːkaː lˈaːɡɪ ˈeːʊʈˌaː ʋjˌaːwəhˈaːɾɪkˌə bəhˈaːnaː hoː|0
+data/audio_24k/nepali_9547.wav|ɡlˌeːnəmˈaːrrkə pʰˌərrmaːsjˌuʈɪkˈʌlsə ˈeːləʈˌɪɖi|0
+data/audio_24k/nepali_26057.wav|kˈeː hˈaːmi bʰˌaːɾətˈɪːjə ɾˌupĩjˈaːmaː pəʈʰˈaːʊnˌeː ˌətʰəwˈaː jˌəsəlˈaːi ɖˈʌləɾˌəmaː ɾuːpˈaːntəɾˌəɳ ɡəɾˈeːɾə pəʈʰˈaːʊnˌeː?|0
+data/audio_24k/nepali_17056.wav|jˈoː pəwˈɪtɾə stʰˈaːn hoː ˈʌnɪ lˈeːdəɾˌə ɡaːˈɪːkoː cʰˌaːlaːbˈaːʈ bˌənɪˈeːkoː hˈuncʰə|0
+data/audio_24k/nepali_12795.wav|pɾˈʌɳəjˌə cʰˈeːtɾi, pɾətˈaːp ʃˈʌrrmaː, cʰˈɪɾɪŋ ˌoːŋədˈeːn ʃˈeːrrpaː, səlˈoːn ɾˈaːi, sɾˈɪɟənˌaː ɡˈuɾuŋ|0
+data/audio_24k/nepali_10657.wav|ɟˈʌjəpˌuɾə kaːmˈʌkʰjaː kəwˈɪ ɡˈuɾu ˈeːksəpɾˌeːs|0
+data/audio_24k/nepali_7306.wav|tːjˈʌsoː hoː bʰˈʌneː məlˈaːi bˈukɪŋ ɡˈʌrrnəmˌaː mˈʌddˌət ɡˌərrnuhˈoːlaː|0
+data/audio_24k/nepali_22990.wav|ɡoːdˈaːwəɾˌiː sˌupəɾəpʰˈaːsʈə ˈeːksəpɾˌeːs|0
+data/audio_24k/nepali_26981.wav|eːlˈeːksaː, mˈeːɾoː ˌəpaːrrʈəmˈeːnʈəmˌaː ɖˈɪskoː bˈʌttˌɪːhəɾˌuː cˈaːlu ɡˌərrnuhˈoːs ɾə pˈaːrrʈi sˈuɾu ɡˈʌrrnə dˌɪnuhˈoːs|0
+data/audio_24k/nepali_16381.wav|lˈeːkʰəkˌəkoː sˌəŋɡʰərrʂəbˈaːɾeː bətˈaːʊnˌeː pˈustəkˌəkoː jˈoː ədʰjˈaːjə jˈʌtɪ bʰˌaːwənˈaːtməkˌə cʰˈə kˈɪ mə ɾˈun tʰaːlˈeːcʰu|0
+data/audio_24k/nepali_4774.wav|pˈʌndʰɾə mˈɪnəʈˌəpəcʰˌɪ ʃˈeːkʰəɾˌə ɾə mˈoːhən bəsnˈeːtəkˌaː ɡʰˈʌɾəkˌaː pʰˈaːʈəkˌəkaː ˈʌɡʰɪ puɡˈeːɾə ˈʊbʰɪˌeː|0
+data/audio_24k/nepali_21743.wav|wɪkˈʌlpəmˌaː, təpˈaːĩ ˌʊnɪːhəɾˈuːkoː jˈoːnoː ˈeːp pɾəjˈoːɡ ɡˈʌrrnə sˌəknuhˈuncʰə|0
+data/audio_24k/nepali_7888.wav|kʰˈaːsəmˌaː haːmˈɪːleː ˌəwəstʰˈaːn kʰˈoːɟnəkˌaː lˈaːɡɪ ɡˈuɡəlm mjˈaːp pɾəjˈoːɡ ɡˌəɾɪɾəhˈeːkaː tʰˈɪjɔ̃|0
+data/audio_24k/nepali_7132.wav|hoː, jˈʌsəlˌeː pɾˈʌtɪlˌɪpɪ ɡˌəɾɪˈeːkaː sˈʌbɛː bʰˈaːɡəhˌəɾuː hˌaːɪlˈaːɪʈ ɡˈʌrrcʰə ɾə wˌaːstəwˈɪkə sɾˈoːt pˈʌnɪ dˌeːkʰaːũcʰˈə|0
+data/audio_24k/nepali_2797.wav|ɾˈaːɟjəpˌaːləlˌeː kˈoːbʰɪɖ nˌaːɪnʈˌɪnəwˌɪɾˈudːdʰə səŋɡʰˈʌrrʂə ɡˈʌrrneː ˈʌɡɾɪmˌə pˈʌŋktɪkˌaː kˌaːrrjəkˌərrtaːhəɾˈuːpɾətˌɪ kɾˈɪtəɟɲˌətaː pɾˈʌkəʈ ɡˈʌrrnubʰˌəjoː|0
+data/audio_24k/nepali_16897.wav|ˌaːɪsˌɪaːˌɪsɪˈaːi ləmbˈaːrrɖə ɟˈʌnəɾˌəl ˌɪnsjoːɾˈeːnsə kˈʌmpənˌiː ˈeːləʈˌɪɖi|0
+data/audio_24k/nepali_21750.wav|ˌeːnəˈeːcəpˌɪsi ˈeːləʈˌɪɖi|0
+data/audio_24k/nepali_7091.wav|kˌəhɪleːkˈaːhĩ ɟˈʌb mə kˈaːmə ɾə ɡʰˈʌɾəmˌaː səmhˈaːlnuʲˌu pˈʌrrneː sˈʌbɛː kˌuɾaːhəɾˈuːkoː baːɾˈeːmaː sˈoːccʰu məlˈaːi ɖˈʌɾə lˈaːɡcʰə|0
+data/audio_24k/nepali_25170.wav|wˈaːhə! jˈoː ãkʰˈaːkaː lˈaːɡɪ kˈʌtɪ sˈundəɾˌə deːkʰˈɪncʰə hˈoːlaː|0
+data/audio_24k/nepali_23343.wav|kˈunɛː sˈʌməjˌə tˈə ˈʊnəkˌoː ɾˌucɪbʰˈʌndaː mˈeːɾoː ʋjəwˈʌstʰaː dʰˈeːɾə tʰˈɪjoː|0
+data/audio_24k/nepali_5388.wav|ʃɾˈiː ɡuptˈaːleː bʰˈʌnnˌubʰəjˌoː, kˈoːbʰɪɖ naːˈɪnʈɪn ʈɪkˈaːkəɾˌəɳ kˈaːrrjəkɾˌəmə ˈʌnjə sˈʌbɛː ʈɪkˈaːkəɾˌəɳ kˈaːrrjəkɾˌəməsˌəɾəhˌə ɡˌəɾɪnupˈʌrrcʰə|0
+data/audio_24k/nepali_14756.wav|ʋjˌaːwəsˈaːjɪkˌə kˌəlaːkˌaːɾəhˌəɾuːdːwˈaːɾaː ˈʌbʰɪnˌɪt ɟˈulɪjˌəs sˈɪɟəɾˌəkoː nˈaːʈəkˌə tˈə sˈaːhɾɛː məɟˈaːkoː ɾəhˈeːcʰə nˈɪ, məlˈaːi tˈə nˈɪdɾɛː laːɡˈeːn|0
+data/audio_24k/nepali_20168.wav|ɟˈeːʈʰi cʰoːɾˈɪːkoː bˈɪheː|0
+data/audio_24k/nepali_9266.wav|mˈuɾəlˌiː|0
+data/audio_24k/nepali_24636.wav|jaːɡˈaːci,  kərrnˈaːʈəkˌə|0
+data/audio_24k/nepali_10836.wav|kˈʌstoː wˈɪsməjˌəkəɾˌə hɾˈɪdəjˌə kˈʌstoː ɾˌəŋɡəlˈɪːlaː pˈuːrrw dɪʃˈaːkoː ɡˈaːtʰəmˌaː kˈʌhɪlˌeː nˈɪːloː, kˈʌhɪlˌeː ɡulˈaːpʰi, kˈʌhɪlˌeː bˈɛːɡənˌiː, kˈʌhɪlˌeː sunˈɔːlaː jˈʌstoː ɾˈʌŋɡəkˌoː pˌəɾɪwˈʌrrtən, kˈʌhã kˈun ʃɪlpˈɪːleː ɡˈʌrrnə sˈʌkcʰə?|0
+data/audio_24k/nepali_10275.wav|ɖʰˈukuɾˌə|0
+data/audio_24k/nepali_5383.wav|kaːwˈeːɾi sˈɪɖ kˈʌmpənˌiː ˈeːləʈˌɪɖi|0
+data/audio_24k/nepali_25852.wav|ˈɪnɖɪjˌən ɪnsʈˈɪcːjuʈ ˈʌpʰm mjˌaːneːɟəmˈeːnʈə kˌələkˈʌttˌaː, ˌaːɪˌaːɪˈeːməsˌiː|0
+data/audio_24k/nepali_25176.wav|ɟˈʌb kɾˈɪʂɳəlˌeː bɾˌəhməcˈʌrrjəmˌaː dˈɪːkʂaː lˈɪeː ˌʊnɪːʃʌ̃ɡˈɛː aːˈeːkaː bˌələɾˈaːmə ɾə ˈʌnjə kˈeːhi ɾˌaːɟəkˌumaːɾˌəhəɾˈuːleː kʰˌɪsjaːũdˈɛː bʰˈʌneː, tɪmˈɪːleː jˈʌtɪ swccʰˈəndə ɾə cˈʌɲcəl bʰəˈeːɾə ɟˈɪːwən bãcˈeːkaː cʰˈɔː, kˈeː tˈɪmi bɾˌəhməcˈaːɾi bˈʌnnˌə sˈʌkcʰɔː?|0
+data/audio_24k/nepali_22092.wav|ədːwˈɛːt kˈʌlaː|0
+data/audio_24k/nepali_10952.wav|ˈʊttˌəmə! tˌəpaːĩlˈaːi dʰˈeːɾɛː dʰˌənjəwˈaːd|0
+data/audio_24k/nepali_12374.wav|kˈeː təpˈaːĩ ɖˌɪskəbʰəɾˈɪːkaː kˈeːhi ɾˈaːmɾaː kˈaːrrjəkɾˌəməhˌəɾuː suɟʰˈaːʊ ɡˈʌrrnə sˌəknəhˈuncʰə?|0
+data/audio_24k/nepali_5727.wav|sɪjˈaːlədˌəhə ɾˌaːɟədʰˈaːni ˈeːksəpɾˌeːs|0
+data/audio_24k/nepali_24367.wav|məlˈaːi bʰənnˌuhˈoːs, təpˈaːĩ kˈeː ɟˈaːnnˌə cˌaːhənuhˈuncʰə?|0
+data/audio_24k/nepali_15488.wav|mˈɛːleː mˈeːɾoː kˌəmpənˈɪːleː mˈeːɾoː ljˈaːpəʈˌəp jˈʌtɪ cãɖˈɛː bˌədəlnˈeːcʰə bʰˈʌni kəhˈɪljɛː soːcˈeːkoː tʰˈɪɪnˌʌ̃!|0
+data/audio_24k/nepali_26526.wav|mˈɛːleː wˈaːn plˈʌs ʈɪbʰˈɪːmaː aːkˈʌsmɪkˌə kʂˈʌtɪ səmˈeːt kˈʌbʰəɾˌə ɡˈʌrrneː waːɾˈeːnʈi bʰəˈeːkoː əpˈeːkʂaː ɡəɾˈeːkoː tʰˈɪɪnˌʌ̃|0
+data/audio_24k/nepali_12549.wav|dʰˈʌmənˌiː|0
+data/audio_24k/nepali_9363.wav|jˈʌdɪ ʈʈjˈaːŋkəkˌoː bʰˈaːɡ mˈaːtɾə bˌɪɡɾɪˈeːkoː cʰˈə bʰˈʌneː bˈaːʊl nˌəbʰəˈeːɾə ʃɔːcˈaːləjˌəkoː ʈʈjˈaːŋkəlˌaːi mˈaːtɾə bədˈʌlnə sˈʌmbʰəwˌə cʰˈə, tˈaɾə tˌəpaːĩlˈeː ʈʰjˈaːkkˌə mˈɪldoː pʰˈeːlaː pˈaːrrnə sˌəknuhˈuncʰə bʰˈʌneː mˈaːtɾə|0
+data/audio_24k/nepali_5635.wav|tˈaɾə, bʰˈaːɾətˌəkaː kˈʌtɪwˌəʈaː ɾˈaːɟjəmˌaː səmˈudɾi tˈʌʈ cʰˈə?|0
+data/audio_24k/nepali_6830.wav|kˈeː ˈaːsɪpʰˌəki wˌɪdʰəwˈaː ˈʌkʰtəɾˌə ˈaːsɪpʰˌəleː cʰˈə ɟˈun ˈʊnnˌaːɪs sˈʌjə cʰˌəjaːsˈɪːmaː lˈʌbʰ ˈeːnɖə ɡˌəɖəlˈaːi ˈʌdʰuɾˌoː ɾˈuːpəmˌaː saːrrwɟˈɪkə ɡˈʌrrdaː nˈɪmmˌɪːleː pʰˌɪlməbˈaːʈ sənjˈaːs lɪˈeːkoː dˈui dˈʌʃəkˌə bʰˌəɪsəkˈeːkoː tʰˈɪjoː|0
+data/audio_24k/nepali_16573.wav|nˈeːsənˌəl ɟjˈoːɡɾaːpʰˌɪkə ʈɾˈaːbʰəlˌəmaː ɡoːwˈaː wɪʃwkˈoː ʃˈɪːrrʂə dˈʌs nˌaːɪʈəlˈaːɪpʰ sˌəhəɾˌəhəɾˈuːmaː cʰˈɛːʈʰɔ̃ stʰˈaːnəmˌaː cʰˈə|0
+data/audio_24k/nepali_20825.wav|cəɳɖˈɪːɡəɖʰ, bˈaːndɾaː ʈˈʌrrmɪnˌəs sˌupəɾəpʰˈaːsʈə ˈeːksəpɾˌeːs|0
+data/audio_24k/nepali_3541.wav|pʰˈɪlmə ʈˈaːʊnˌəleː tˈɪn tˈaːɾaː dĩdˈɛː bʰˈʌnjoː, pʰˈɪlməlˌeː dˈeːʃəkˌaː wɪbʰˈɪnnˌə wˌɪʂəjˌəhəɾuːlˈaːi cʰˈuncʰə, tˈaɾə mˌənoːɾˌəɲɟənˈaːtməkˌə ɾˈuːpəmˌaː|0
+data/audio_24k/nepali_14214.wav|hˈeːrrnuhˌoːs tˈə, tːjˈoː sˈaːɪkˌəl kˈʌtɪ puɾˈaːnoː cʰˈə ˈʌnɪ jˈʌsəkˌoː cˈeːnəmˌaː pˈuɾɛː kʰˈɪjaː pəɾˈeːkoː cʰˈə|0
+data/audio_24k/nepali_20698.wav|hˈaːləkˌoː mˈuːljə pɾˈʌtɪ ɪnɟˈeːksən tˈeːhɾə sˈʌjə ɖˈʌləɾˌə ɾəhˈeːkoː cʰˈə|0
+data/audio_24k/nepali_14476.wav|pˌərrkʰənuhˈoːs, məʃˈʌ̃ɡ pɾˈaːtʰəmˌɪkətˌaː dˌɪnupˈʌrrneː ˈʌnjə pɾˌətɪbˈʌdːdʰətˌaː ˈʌnɪ ɟɪmmˌeːwˈaːɾɪːhˌəɾuː cʰˈʌn|0
+data/audio_24k/nepali_27202.wav|mə ˈeːkə ɡʰənʈˈaːəɡʰˌɪ ɡˈʌhənˌaː pˈʌsəlˌəmaː aːˈeːkoː tʰˈɪẽ tˈaɾə ˌəhɪleːsˈʌmmˌə kəsˈɛːleː məlˈaːi seːwˈaː dɪˈeːkaː cʰˈɛːnən bʰəlˈaːɪkˌaː lˈaːɡɪ ʌbˈə mə tˌəpaːĩkˈoː doːkˈaːn nˈɛː ˈaːʊnˌu cʰˈaːɖneː hˈɛː tˈə|0
+data/audio_24k/nepali_5551.wav|ˌʌʊʂədʰˌɪhəɾˈuːkoː sɪpʰˈaːɾɪs ɡˈʌrrnuʲˌu dʰˈeːɾɛː ɟˌoːkʰɪməpˈuːrrɳə hˈuncʰə, bˌɪmaːɾɪːlˈaːi sˈʌɟɪlˌɛː tˌɪnɪːhəɾˈuːkoː lˈʌt lˈaːɡnə sˈʌkcʰə|0
+data/audio_24k/nepali_22943.wav|kˈeː təpˈaːĩ ˈʌdʰjəjˌən ɡˈʌrrnə ɾə ˈaːpʰːnoː sˈʌbəmˌɪsənˌəkaː lˈaːɡɪ pərrjˈaːptə sˈʌməjˌə pˈaːʊnˌu hũdˈɛːcʰə?|0
+data/audio_24k/nepali_7113.wav|nˈɪʃʃcəjˌə nˈɛː! tˌəpaːĩkˈoː kˈaːrrjəkɾˌəməkˌaː lˈaːɡɪ ˈʊttˌəmə kˈeːkə cʰənˈoːʈ ɡˈʌrrnəmˌaː tˌəpaːĩlˈaːi sˌəhəjˈoːɡ ɡˈʌrrnə pˌaːũdˈaː məlˈaːi kʰˈusi lˈaːɡneːcʰˌə|0
+data/audio_24k/nepali_3096.wav|ʃˈaːhə sˈʌn ˈʊnnˌaːɪs sˈʌjə ʊnˈaːnsəjˌəmaː ˈaːmɪɾˌə kʰˈaːn ˌəbʰɪnˈɪːt cˌələcˈɪtɾə sˌəɾəpʰəɾˈoːsəmˌaː ˈʊnəkˌoː bʰˌuːmɪkˈaːkaː lˈaːɡɪ pɾəkʰjˈaːt tʰˈɪeː, ɟˈʌhã ˈʊnəlˌeː ɡˌuləpʰˈaːmə hˌəsənəlˈaːi ɡˈʌɟəl ɡˈaːjəkˌə sˈʌhə ˌaːtəŋkəwˈaːdi mˌaːsʈəɾˌəmaːˈɪnɖə ɾə nˈɪːɾəɟ pˈaːɳɖeːkˌoː ˈeː wˌeːnəsɖˈeːmaː ˈʌbʰɪnˌəjə ɡəɾˈeːkaː tʰˈɪeː|0
+data/audio_24k/nepali_16274.wav|nˌəməskˈaːɾə məhˈoːdəjˌaː, mˈeːɾoː nˈaːmə kʰˈaːn hoː ˈʌnɪ mə tˌəpaːĩkˈoː seːwˈaː ɡˈʌrrnə pˌaːũdˈaː kʰˈusi cʰˈu|0
+data/audio_24k/nepali_16960.wav|jˈʌdjəpˌɪ, dʰeːɾˈɛːɟəsˌoː wˌəstuhəɾˈuːmaː əˈʊnsə, kˈʌp, kwˈaːrrʈsə, ɡjˈaːlən, mˈɪlɪlˌɪʈəɾˌə, lˈɪʈəɾˌə, ˈaːdɪ ɟˈʌstaː mˈaːpənˌəkoː eːkˈaːɪ hunˈeːcʰən|0
+data/audio_24k/nepali_7800.wav|jˈʌdjəpˌɪ duwˈɛː cˌələcˈɪtɾə pɾaːwˈɪdʰɪkˌə ʃɛːlˈɪːmaː səmˈaːn tʰˈɪeː, ʃoːlˈeːleː bʰˌaːɾətˈɪːjə pˌaːɾɪwˈaːɾɪkˌə mˈuːljə ɾə meːlˈoːɖɾaːmˌeːʈɪkˌə pˌəɾəmpˌəɾaːlˈaːi ɟˈoːɖ dɪˈeːkoː tʰˈɪjoː bʰˈʌneː pˌəʃʃcɪmˈɪːhəɾˌuː ˈaːpʰːnoː dɾˈɪʂʈˌɪkoːɳˌəmaː bˈʌɖʰi bʰˌɔːtɪkəwˈaːdi ɾə sˈʌɲjəmˌɪt tʰˈɪeː|0
+data/audio_24k/nepali_27375.wav|ʈˈɪpu bɾˈɪʈɪs ˈɪsʈə ˈɪnɖɪjˌaː kˌəmpənˈɪːkoː ˈeːkəɟˌənaː ˈʌʈəl ʃˈʌtɾu bˈʌneː, sˈʌn sˈʌtɾə sˈʌjə nəwˈaːsɪːmˌaː bɾˈɪʈɪs səmbˈʌndʰɪt tɾˌaːwəɳəkˈoːɾəmˌaː ˈʊnəkˌoː ˈaːkɾəmˌəɳəkˌaː sˈaːtʰ səŋɡʰˈʌrrʂə sˈuɾu bʰˈʌjoː|0
+data/audio_24k/nepali_15783.wav|dˈʌsɔ̃ sˈɪkʰ ɡˈuɾu, ɡˈuɾu ɡoːwˈɪd sˌɪŋhəɟˈɪːkoː tˈɪn sˈʌjə tɾɪpˈʌnnˌɔ̃ ɟəjˈʌnti aːɟˈəː dˈeːʃəbʰˌəɾɪ mˈɛː ʃɾˈʌdːdʰaː ˈeːwəm ʊlllˈaːsəsˌɪt mˌənaːĩdˈɛːcʰə|0
+data/audio_24k/nepali_21255.wav|jˈʌs ˈʌwəsˌəɾəmˌaː bʰˌəktəhˌəɾuːlˈaːi pəwˈɪtɾə ɟˈʌl wˈɪtəɾˌəɳ ɡəɾˈɪncʰə|0
+data/audio_24k/nepali_16186.wav|swccʰˈə pɾˈeːɾəkˌə pˌuɾəskˈaːɾə|0
+data/audio_24k/nepali_21794.wav|sˈoːhɾɔ̃ ʃətˈaːbdɪːmˌaː bˌəŋɡəlˈoːɾəkˌaː sənstʰˈaːpəkˌə kˈeːmpeː ɡˌɔːɖaːdːwˈaːɾaː ɟɪːrrɳˈoːdːdʰaːɾˌə ɡˌəɾɪˈeːkoː mˈʌndɪɾˌə ɡaːwˈiː ɡˌəŋɡaːdʰˌəɾeːʃwɾˈʌ ˈeːʊʈˌaː wˈaːstukˌəlaː cˌəmətkˈaːɾə hoː ɟˈʌsəlˌeː wɪʃwˈaːsɪːhˌəɾuːlˌaːi bʰˈɪɖəkˌaː ɾˈuːpəmˌaː aːkˈʌrrʂɪt ɡˈʌrrdəcʰˌə|0
+data/audio_24k/nepali_15361.wav|ɡʰˈʌɾəkˌaː ˈeːkə ˈeːkə kˈuɾaː, bˌəɡɛ̃cˈaːkoː pɾətːjˈeːkə ɟˈɪnɪs, ɡˈoːʈʰəkˌoː ɡˈaːi bˈaːcʰaː səbˈɛːsɪt mˌukʰeːnˈɪːkoː mˈʌdʰuɾˌə smɾˈɪtɪ ɡãsˈɪeːkˌoː cʰˈə|0
+data/audio_24k/nepali_9226.wav|jˈʌsəlˌeː mˈaːnəwˌə səmˈaːɟəmˌaː mˈʌddˌət purjˈaːũdˈɛːnə|0
+data/audio_24k/nepali_11661.wav|jˈuwətˌiː bʰˌuĩmˈaː lˈʌɖi ˈʌʊ sˈaːtʰɛː ˌɪndɾəʃˈeːkʰəɾˌə dˌəɡuɾˈeːɾə tːjˈʌhã pˈuɡjoː|0
+data/audio_24k/nepali_6700.wav|ʈʰˈɪkə cʰˈə, jˈoː sˈɪknə kˈʌtɪ sˈʌhəɟ cʰˈə?|0
+data/audio_24k/nepali_14947.wav|maːjˈaːleː bɪstˈaːɾə bɪstˈaːɾə bʰˈʌni, "aːɟˈəː mə bɪhˈaːnəkˌaː klˈaːs ʃˈeːʂ ɡəɾˈeːɾə ɡʰˈʌɾə pʰˈʌrrkən laːɡˈeːki tʰˈɪẽ, ˌeːmbulˈeːnsəkˌaː dˈuɪwˌəʈaː mˈoːʈəɾˌəleː pɾəcˈʌɳɖə bˈeːɡəmˌaː ˌəspətˈaːləkˌoː ãɡˈʌnəbʰˌɪtɾə pɾəwˈeːʃ ɡˈʌɾeː|0
+data/audio_24k/nepali_22264.wav|mˈuɾəlˌiː|0
+data/audio_24k/nepali_3581.wav|səmˈʌɡɾəmˌaː, məhˈaːn cˈɛːtːjəkˌaː stˌəmbʰəhəɾˈuːmaː ɾəhˈeːkaː ɟɲˈaːt sˌəmərrpəɳˈaːtməkˌə ʃˌɪlaːlˌeːkʰəhəɾˈuːkoː lˈʌɡəbʰˌəɡ ˈaːdʰaː bʰˈaːɡ jˌəwənˌəhəɾˈuːleː ˌoːɡəʈˈeːkaː cʰˈʌn|0
+data/audio_24k/nepali_3308.wav|kˈeː tːjˈʌhã sˈɪkkˌɪmə mˈaː kˈunɛː ˌɪeːsəˈaːɪsˌiː kˈeːndɾəhˌəɾuː cʰˈʌn ɟˈʌsəlˌeː pʰˌɪɟɪjˌoːtʰeːɾˈaːpi seːwˈaːhəɾˌuː pɾədˈaːn ɡˈʌrrdəcʰˌə ɾə ɟˈʌsəmˌaː tˌɪnɪːhəɾˈuːkoː kˈeːndɾə pɾəkˈaːɾə ˌənuɾˌuːpˌəkˈoː kʂˈeːtɾɪːjˌə kˈaːrrjaːlˌəjə cʰˈə?|0
+data/audio_24k/nepali_4101.wav|mˈɛːleː cʰˈɪʈoː ɡˌərrnuhˈoːs bʰˈʌndaː bjˈaːŋkəkˌaː kˌərrməcaːɾˈɪːleː səbˈɛːkaː əɡˈaːɖɪ məʃˈʌ̃ɡ ɾˈukʰoː paːɾˈaːleː kˈuɾaː ɡˈʌrrdaː məlˈaːi sˈaːɾɛː nəɾˈaːmɾoː lˌaːɡɪɾəhˈeːkoː tʰˈɪjoː|0
+data/audio_24k/nepali_22730.wav|ɟəwˈaːhəɾˌəlaːl nˈeːhəɾˌuː jˌunɪbʰˈʌrrsɪʈˌiː, ɟeːˈeːnəjˌu|0
+data/audio_24k/nepali_22559.wav|ɖˈaːkʈəɾˌə bʰˈʌncʰən kˈɪ məlˈaːi ʈˈeːnɪs ˈeːlboː cʰˈə ˈʌnɪ mˈɛːleː ˈaːpʰːnoː hˌaːtəlˈaːi dʰˈeːɾɛː tənˈaːwə dˈɪnuʲˌu hũdˈɛːnə|0
+data/audio_24k/nepali_17852.wav|ˌɪeːsəˈaːɪsˌiː kˈeːndɾəlˌeː ʃˈaːkʰaː kˈaːrrjaːlˌəjə bʰəˈeːkoː ˈoːnkoːlˌoːɟi seːwˈaː dˌɪɪɾəhˈeːkoː cʰˈə kˈɪ cʰˈɛːnə ɟˈãc ɡˌərrnuhˈoːs|0
+data/audio_24k/nepali_20019.wav|ʈˈɪnɪmˌuni|0
+data/audio_24k/nepali_24084.wav|kˌəmpənˈɪːmaː nɪɾˈʌntəɾˌə bəɟˈeːʈ kˌəʈɔːtˈɪːleː sˌəbɛːlˈaːi kˈaːməmˌaː ˌʊdaːsˈɪːn ənubʰˌəwˌə ɡˌəɾaːˌɪɾəhˈeːkoː tʰˈɪjoː|0
+data/audio_24k/nepali_2851.wav|jˈʌdɪ tˌəpaːĩlˈaːi jˈoː ˈeːkədˌəmɛː mˈʌn pərrdˈɛːnə bʰˈʌneː dɾˈɪɖ hˌunuhˈoːs ˈʌnɪ əswˈɪːkaːɾˌə ɡˌərrnuhˈoːs|0
+data/audio_24k/nepali_14598.wav|kˈʌməlˌaː dˈaːs, mˌaːdʰəwˈɪːkuʈʈˌiː|0
+data/audio_24k/nepali_1815.wav|ɟˈʌb naːmˈeːʈ pʰˌəɪsəkˈeːkoː dˈʌl pʰˈeːɾɪ ˌeːkəsˈaːtʰ pʰˌərrkɪˈeːɾə ˈaːjoː, məlˈaːi laːɡˈeːtʰjˌoː kˈeːhi nˈʌjã ˌaːʊneːwˈaːlaː cʰˈə|0
+data/audio_24k/nepali_17433.wav|tːjˈʌsoː nˌəbʰənnˌuhˈoːs nˈə, mˈɛːleː ˈaːpʰːnoː boːlˈɪːkaː kˈaːɾəɳ sˈʌbɛː sˌaːtʰɪːhˌəɾuːlˈaːi ɡˌumaːˈeːɾə ˈeːklɛː bˈʌsnə kʰoːɟˈeːkoː kˈʌhã hoː ɾə?|0
+data/audio_24k/nepali_13316.wav|ˌʊnəlˈaːi pˈʌcʰɪ ˈaːpʰːnoː ˌəbʰɪbʰˈaːwəkˌəkoː ɡʰˈʌɾəmˌaː ljˈaːɪjˌoː, ɟˈʌhã ˈʊni ˈaːpʰːnoː məŋɡˈeːtəɾˌəsəhˌɪt pˌəɾɪwˈaːɾəkˌaː sˌədəsjˌəhəɾˈuːleː ɡʰeːɾˈeːkoː bˈeːlaː bʰˌaːwənˈaːtməkˌə ɾˈuːpəmˌaː nˈɪskənˌeː ˌənubʰˌəwˌəbˈaːʈ nˈɪkoː hˈuncʰɪn|0
+data/audio_24k/nepali_2932.wav|wɪːɳˈaːleː ˈaːpʰːnoː mˌənoːbʰˈaːwəkˌoː ˈeːʊʈˌaː ʊdˈeːkəkˌoː ˈʌrrtʰə lˈaːi ˈʌʊ ˈaːpʰɛː lˈaːɟəlˌeː nˈɪhuɾˌiː|0
+data/audio_24k/nepali_7639.wav|ɟulˈaːi dˈui həɟˈaːɾə ʊnnˌaːɪsəsˈʌmmˌə, ˌaːɪˌeːnəˈeːpʰəkˌoː pãcˈʌwəʈˌaː kʂˈeːtɾəmˌaː tɾɪpˈʌnnˌəwəʈˌaː pˈuːrrɳə ɾə ˈʊnnˌaːɪsˌəwəʈˌaː səhˈaːjəkˌə ɾaːʃʈɾˈɪːjə sədˈʌsjə cʰˈʌn|0
+data/audio_24k/nepali_11369.wav|"kˈaːncʰɪːˌaːmaː jˈʌtɪ ɾˈaːti kˌəhãbˈaːʈ jˈʌsəɾˌiː eːkˈaːsɪ ˌaːɪbˈʌksənˌubʰoː?|0
+data/audio_24k/nepali_12571.wav|ʊdˈaːhəɾˌəɳəkˌaː lˈaːɡɪ, nˌəʈəbʰˌɛːɾəwˈɪːbaːʈ ʋjutpˈʌnnˌə hũdˈaː hɪndˈoːləmˌəmaː ɾˈɪʂəbʰˌəm ɾə pˈʌɲcəmˌəm wˈʌrrɟjə hˈun|0
+data/audio_24k/nepali_16481.wav|tˈumbi|0
+data/audio_24k/nepali_4844.wav|wɪbʰˈuːtɪ ˈeːksəpɾˌeːs|0
+data/audio_24k/nepali_20023.wav|weːdˈaːntə ˈeːləʈˌɪɖi|0
+data/audio_24k/nepali_24940.wav|hˈɪmaː dˈaːs|0
+data/audio_24k/nepali_22308.wav|ˈʊttˌəɾi koːˈeːl nˈʌdi ɾə jˈʌsəkˌaː səhˈaːjəkˌə nədˈɪːhəɾˌuː pˈaːrrkəkˌoː ˈʊttˌəɾi bʰˌaːɡəbˈaːʈ ɡʰãsˈeː mɛːdˈaːnəhˌəɾuː sɾˈɪɟənˌaː ɡˈʌrrdɛː bˈʌɡcʰən|0
+data/audio_24k/nepali_22769.wav|hˈɪɾəɳ|0
+data/audio_24k/nepali_8141.wav|bɪhˈaːn pˈãc pɛ̃tˈaːlɪsˌəmaː nˈɛː wɪʃwwˈɪdjaːlˌəjə pˈuɡẽ bʰˈʌneː mˈɛːleː ɡˌərrnupˈʌrrneː tːjˈʌhã ˈʌɾuː kˈeːhi cʰˈɛːnə|0
+data/audio_24k/nepali_13326.wav|kˈuɾaː nˌeːpaːlˌɪːhəɾˈuːkoː ˈaːrrtʰɪkˌə əwˈʌstʰaː, tˌɪnɪːhəɾˈuːkoː dˈukʰˌə sˈukʰə lɪˈeːɾə cˌəlɪɾəhˈeːkoː cʰˈə|0
+data/audio_24k/nepali_7353.wav|saːmˈaːn kʂˈeːtɾəmˌaː bʰəˈeːkoː əwjˈʌwəstʰˌaːlaːˌiː hˈeːrrdaː nˈɛː tʰˈaːhaː hˈuncʰə nˈɪ, jˈoː kˈunɛː ˈaːʃʃcərrjˌəkoː kˈuɾaː hˈoinˌə kˈɪ ˌeːjəɾˌəlaːˈɪnsəlˌeː dʰˈeːɾɛː saːmˈaːn həɾˈaːɪdˌɪneː ɡˈʌrrcʰə|0
+data/audio_24k/nepali_2325.wav|tˈuŋəsˌuŋ|0
+data/audio_24k/nepali_4068.wav|jˈoː dʰˈeːɾɛː cʰˈɪʈoː hˈuncʰə|0
+data/audio_24k/nepali_1758.wav|tˌəpaːĩkˈoː pʰˈɪrrti pɾˈʌkɾɪjˌaː ˌənaːwˈʌʃjəkˌə ɾˈuːpəmˌaː ɟˈʌʈɪl ɾə ərrkˈaːkoː sˌəməjəlˈaːi ˌənaːwˈʌʃjəkˌə ɾˈuːpəmˌaː ʋjˈʌrrtʰə pʰˈaːlneː kˈɪsɪmˌəkoː poː ɾəhˈeːcʰə tˈə|0
+data/audio_24k/nepali_10125.wav|cˈaːləkˌə məhˈaːʃəjˌə! məlˈaːi mˈaːpʰ ɡˌərrnuhˈoːlaː mˈɛːleː tˈə tˌəpaːĩlˈaːi ɡˈʌlət ʈʰeːɡˈaːnaː dɪˈeːcʰu ʈʰˌeːɡaːnˈaːkaː baːɾˈeːmaː mə ənjˈoːləmˌaː pˈʌɾẽ|0
+data/audio_24k/nepali_3045.wav|cˈɪntaː ɾə ʋjˈaːkulˌətaː cʰˈʌn tːjˈʌsəkˌaː sˈʌhəcˌəɾə|0
+data/audio_24k/nepali_22437.wav|ˈeːs. cˌəndɾəʃˈeːkʰəɾˌə|0
+data/audio_24k/nepali_20432.wav|ɟˈʌsəlˌeː kˈunɛː pˈʌnɪ mˌaːmɪlˈaːkoː ɟˌaːnəkˈaːɾi pˌaːeːpəʃʃcˈaːt tətkˈaːlɛː aːwˈʌʃjəkˌə kˌaːrrjaːwˈaːhi ɡˈʌrrnə sˈʌkʂəmˌə ɾˌəhənˈeːcʰə|0
+data/audio_24k/nepali_12968.wav|təpˈaːĩ ɟˈeː kʰˌaːnuhˈuncʰə, tːjˈʌstɛː tːjˈʌhi bənnˌuhˈuncʰə|0
+data/audio_24k/nepali_7916.wav|mˈoːhən pˈʌnɪ ʃˈeːkʰəɾˌəki ˌaːmaːlˈaːi ˈaːmaː bʰˈʌncʰə ʃˈeːkʰəɾˌəkoː ɡʰˌəɾəlˈaːi ˈaːpʰːnɛː ɡʰˈʌɾə ʈʰˈaːncʰə|0
+data/audio_24k/nepali_9000.wav|ənupˌəmˌaːm mjˈaːməkˌoː klˈaːsəmˌaː bˈʌsnə sˌəbɛːbʰˈʌndaː ɾəmˈaːɪlˌoː hˈuntʰjˌoː hˈaːmi kˈʌtʰaː, hʌ̃sjˈɔːli ˈʌnɪ nˈaːʈəkˌəhəɾˌuː pˈʌɖʰtʰjˌɔ̃ ˈʌnɪ ɾəmˈaːɪlˌoː ɡˈʌɾtʰjˌɔ̃|0
+data/audio_24k/nepali_3609.wav|ɟˈʌb mˈɛːleː jˈoː naːbˈaːlɪɡˌəkoː kʰaːtˈaːkaː lˈaːɡɪ bjˈaːŋkəlˌeː dˈɪneː ɡəɾˈeːkoː bjˈaːɟ dˈʌɾə dˈeːkʰẽ nˈɪ mˈɛːleː tˈə wɪʃwˈaːsɛː ɡˈʌrrnə sˈʌkɪnˌʌ̃! jˈoː mˈɛːleː əpˈeːkʂaː ɡəɾˈeːkoː bʰˈʌndaː dʰˈeːɾɛː ɾˈaːmɾoː cʰˈə|0
+data/audio_24k/nepali_27691.wav|nˈoːkəɾˌəleː koːʈʰˈaːmaː pɾəwˈeːʃ ɡəɾˈeːɾə lˌəlɪtˌəsɪŋhəlˈaːi bʰˈʌnjoː, "hˈʌɟuɾˌə, ˈeːkə ɟˈʌnaː mˈʌdɪsˌeː ˈeːʊʈˌaː swˈaːsnɪːmˌaːncʰeːsˌɪt tˈʌl ˌaːɪɾəhˈeːcʰə|0
+data/audio_24k/nepali_5047.wav|stʰˈaːn bˈeːltoːlˌaː hoː|0
+data/audio_24k/nepali_14765.wav|kʰˈaːsəmˌaː, məlˈaːi pɾˈaːjəh səŋɡˈɪːt mˌənəpˈʌrrcʰə|0
+data/audio_24k/nepali_5100.wav|ɟʰãsˈʌkəɾˌə jˈʌs kʂˈeːtɾəkˌoː səhˈaːjəkˌə nˌədɪːhəɾˈuːsəhˌɪtəkˌoː mˈukʰjə nˈʌdi hoː|0
+data/audio_24k/nepali_34.wav|hˈaːjə kəɾˈɪʃmaː, təpˈaːĩ kˈʌstoː hˌunuhˈuncʰə?|0
+data/audio_24k/nepali_22790.wav|ɟˌɪʈɪˈeːkaː pˌəkʂəbˈaːʈ aːjˈoːɟɪt jˈʌs kˈaːrrjəkɾˌəməmˌaː kʰˌəɾəsˈaːŋ cˈaːləkˌə mˌəhaːsˈʌŋɡʰə ˈeːwən tˈɪsəwˌəʈaː sˌɪnɖɪkˈeːʈəkˌaː pɾˌətɪnˌɪdʰɪwˈʌrrɡə ʊpˈʌstʰɪt ɾəhˈeːkaː tʰˈɪeː|0
+data/audio_24k/nepali_16096.wav|mˈeːɾoː sˈuɡəɾˌəkoː stˈʌɾə ˈʌhɪlˌeː saːmˈaːnjə cʰˈə ˈʌnɪ mˈɛːleː caːhˈeːkoː kˈunɛː pˈʌnɪ mɪʈʰˈaːi kʰˈaːn sˈʌkcʰu|0
+data/audio_24k/nepali_9418.wav|ɟˈʌb ɡjˈaːs ɖˈeːlɪbʰˌəɾi ɡˈʌrrneː ʋjˈʌktɪlˌeː məlˈaːi sɪlˈɪnɖəɾˌə lɪˈeːɾə ˌaːũdˈɛː ɡəɾˈeːkoː bətˈaːeː məlˈaːi ɖʰˈukkˌə lˈaːɡjoː, tːjəsˈɛːleː mə tːjˈʌs sˈʌməjˌəmaː mˈeːɾoː dˈɪnəkˌoː jˈoːɟənˌaː bənˈaːʊn pˈaːẽ|0
+data/audio_24k/nepali_14183.wav|pˈʌʈukˌaː|0
+data/audio_24k/nepali_261.wav|bˌeːləməpˈʌllli, hˌɛːdəɾaːbˈaːd ˈeːksəpɾˌeːs|0
+data/audio_24k/nepali_25270.wav|mˈeːɾoː swˈaːstʰjˌə bˈɪmaː pɾˈɪmɪjˌəmə kˈʌtɪ bəɖʰˈeːkoː cʰˈə bʰənˈeːɾə hˈeːrrdaː pˈʌnɪ dˈɪkkˌə laːɡˈeːɾə ˌaːũcʰˈə|0
+data/audio_24k/nepali_15311.wav|təpˈaːĩ kˈɪn mˈeːɾoː kʰˈaːtaː kʰˈoːlnə jˈʌtɪ lˈaːmoː sˈʌməjˌə lˌɪɪɾˌəhənˌubʰəˈeːkoː cʰˈə? mə jˈʌhã ˈeːkə ɡʰˌənʈaːbʰˈʌndaː bˈʌɖʰi sˌəməjədˈeːkʰɪ pˌərrkʰɪɾəhˈeːkoː cʰˈu!|0
+data/audio_24k/nepali_10349.wav|ˈʊnəlˌeː bˈʌmbeː ʈˌəkɪɟədːwˈaːɾaː nˈɪrrmɪt pʰˈɪlmə ɟwˈaːɾə bʰˌaːʈaːbˈaːʈ ˌəbʰɪneːtˈaːkaː ɾˈuːpəmˌaː ʃɾˌɪːɡəɳˈeːʃ ɡəɾˈeːkaː tʰˈɪeː|0
+data/audio_24k/nepali_5418.wav|ˌələbˈʌrrʈə hˈʌləkˌaː ˈʌɡʰɪ mˈaːnɪsˌəkoː ɡʰˌuĩcˈoː deːkʰˈeːɾə tːjˈoː pˈʌnɪ bʰˈɪtɾə pˈʌsjoː|0
+data/audio_24k/nepali_6872.wav|jˈʌsəkˌoː mˈoːɖ wɪʃˈeːʂ ɡˈʌɾi wɪʃˈɪʂʈˌə kwˈeːɾɪːhˌəɾuːkˌaː lˈaːɡɪ kːjˈueː pʰˈaːɾəmˌəhəɾˌuː hunˈeːcʰə|0
+data/audio_24k/nepali_26621.wav|wɪwˈaːhə pˈʌɲcəmˌiː|0
+data/audio_24k/nepali_21854.wav|kˌɪkəbˈʌksɪŋ ˈeːkə pʰəɾˈaːkɪlˌoː ʃˈʌbdə bʰˌəeːkˈaːleː, ˌɪtɪhˈaːs bˈuɟʰnə kˈeːhi hˌədəsˈʌmmˌə ɡˈaːhɾoː hˈunˈə sˈʌkcʰə, kˈɪnəkˌɪ ləɖˈaːĩ mˈaːnəwˌə hˈunukˌoː əntˈʌrrnɪhˌɪt bʰˈaːɡ hoː|0
+data/audio_24k/nepali_14735.wav|dˈaːdəɾˌə, mˌəɖɡãwˈʌ ɟˈaːn ʃətˈaːbdi ˈeːksəpɾˌeːs|0
+data/audio_24k/nepali_15597.wav|kˈeː ˈaːɪpʰˌaː pˌuɾəskˈaːɾə sˌəmaːɾˈoːhə kˈeːhi sˈʌməjˌəmɛ̃ hˈuneː tˈʌjə ɡˌəɾɪˈeːkoː cʰˈə?|0
+data/audio_24k/nepali_3482.wav|məlˈaːi ɾˈaːtɪ dˈʌs bəɟˈɪːkaː lˈaːɡɪ ˈeːʊʈˌaː ˈʊbəɾˌə bˈukə ɡˌəɾɪdˌɪnuhˈoːs|0
+data/audio_24k/nepali_8993.wav|ˈʊ nˈə tˈaː kəsˈɛːkaː mˈʌtəmˌaː dʰjˈaːn dˈɪncʰə, nˈə kəsˈɛːkaː wɪcˈaːɾəkˌoː wˈaːstɛː ɾˈaːkʰcʰə nˈə kəsˈɛːkoː pɾˈeːməlˌeː wˈɪcəlˌɪt hˈuncʰə, nˈə kəsˈɛːkoː dˈuhkʰˌəleː dˈuhkʰˌiː|0
+data/audio_24k/nepali_21495.wav|bʰˌuĩmˈaː ɟətˈaːtətˌɛː ɾˈʌŋəkˌaː ɖɪbːbˈaːhəɾˌuː tʰˈɪeː|0
+data/audio_24k/nepali_12250.wav|ˌəspətˈaːləkˌoː ɡəɾˈeːkoː jˈʌs ɡˌəɖəbəɖˈɪːkaː aːdʰˈaːɾəmˌaː bˈɪmaː kˌəmpənˈɪːkaː pɾˈʌtɪnˌɪdʰɪlˌeː məlˈaːi mˈeːɾoː bˈɪmaː ɾˈʌddˌə hˈunˈə sˈʌkneː ɟˌaːnəkˈaːɾi dɪˈeːkaː cʰˈʌn|0
+data/audio_24k/nepali_5191.wav|jˈoː hˈeːrrnə ɡˈʌɟəbˌəkoː hˈuncʰə, məlˈaːi wɪʃwˈaːs ɡˌərrnuhˈoːs|0
+data/audio_24k/nepali_24457.wav|məlˈaːi lˈaːɡcʰə məʃˈʌ̃ɡ kˈunɛː wɪkˈʌlpə cʰˈɛːnə tˈaɾə tˌɪrrnɛːpˈʌrrneː bʰəˈeːtaː pˈʌnɪ tˈɪrrnə əswˈɪːkaːɾˌə ɡˈʌrrneː mˌaːnɪsˌəhəɾˈuːkoː bʰˌəɾəpaːˈɪːkaː lˈaːɡɪ məlˈaːi nˈɛː ˈaːɡɾəhˌə ɡˈʌɾɪnˌeː jˈoː kˈʌstoː ənucˌɪt pɾəɳˈaːli hoː?|0
+data/audio_24k/nepali_6072.wav|dˈui dˌɪdɪːbˌəhɪnˈɪːkoː bʰˌaːwənˈaːtməkˌə kˌuɾaːkaːnˈɪːpəcʰˌɪ bˌəbɪtˈaːleː ˌʊnəlˈaːi hˈɔːsəlˌaː pɾədˈaːn ɡəɾˈeːpəcʰˌɪ ɡɪːtˈaːleː ãsˈu ɟʰˈaːrrdɛː mˌəhaːwˈɪːɾəʃˌʌ̃ɡ sˈuləhˌə ɡˈʌrrcʰɪn|0
+data/audio_24k/nepali_5500.wav|ˌəʈoːmoːbˈaːɪl bˈɪmaː hˈunulˌeː jɪːmˈʌdʰjeː kˈeːhi lˈaːɡətˌəhəɾˌuː ɡʰəʈˈaːʊn mˈʌddˌət ɡˈʌrrnə sˈʌkcʰə ɾə tˌəpaːĩlˈaːi ɾˌɪɳəbˈaːʈ ɟˈoːɡɪn mˈʌddˌət ɡˈʌrrcʰə|0
+data/audio_24k/nepali_3923.wav|ˌɪndɾəʃˈeːkʰəɾˌə pɾəbʰˈaːtəkˌoː ʊɟjˈaːloː ˈʌʊ ˈaːpʰːnoː sˈundəɾˌə ˌənuhˌaːɾˌəkˈoː kˈaːntɪ koːʈʰˈaːbʰəɾˌɪ wɪkˈɪːrrɳə ɡˈʌrrdɛː bʰˈɪtɾə pˈʌsjoː|0
+data/audio_24k/nepali_26521.wav|ɟˈʌsəɾˌiː bʰˈʌeː pˈʌnɪ mˈɛːleː pˈaːni kʰˈoːɟnɛː pˈʌrrcʰə, swˈãswˈã ɡˈʌrrdɛː ˈʊni bˈoːlɪn|0
+data/audio_24k/nepali_23391.wav|tˈaɾə kˈeːhi ʊpˈaːjə mˈʌnəmˌaː aːˈeːnə|0
+data/audio_24k/nepali_20274.wav|kˈeː tˌəpaːĩcˈʌndɾəwindˌu məlˈaːi ʃˈɛːkʂɪkˌə wˈʌrrʂə dˈui həɟˈaːɾə ˈeːkkˌaːɪs, dˈui həɟˈaːɾə bˈaːɪsˌəmaː eːˈaːɪsˌɪʈɪˌiː swˈɪːkɾˈɪt ʃˈɪːrrʂə pɛ̃tˈaːlɪsˌəwəʈˌaː sˌənstʰaːnˌəhəɾˈuːkoː sˈuːci nɪkˈaːlnə sˌəknuhˈuncʰə?|0
+data/audio_24k/nepali_8020.wav|ɟˈʌb tːjˈʌs bjˈaːŋkəkˌaː kˌərrməcˈaːɾi bjˈaːŋkə kʰˈaːtaː kʰˈoːlnəmˌaː mˈʌddˌət ɡˈʌrrnə mˈeːɾɛː ˌaːmaːbaːbˈaːkoː ɡʰˈʌɾə ˈaːɪpˌuɡeː mə tˈə tˌɪnəcʰˈʌkkˌə pˈʌɾẽ bjˈaːŋkəkˌaː kˌərrməcaːɾˈɪːhəɾˌuː jˈʌtɪ ʊdˈaːɾə swbʰˈaːwəkˌaː hˈuncʰən bʰənˈeːɾə mˈɛːleː kəhˈɪljɛː soːcˈeːkoː tʰˈɪɪnˌʌ̃|0
+data/audio_24k/nepali_18140.wav|ˌəhɪlˈeːkaː lˈaːɡɪ, sˈaːjəd ˌəsaːˌɪnəmˈeːnʈə pˈuɾaː ɡˈʌɾɔ̃ hˈoːlaː|0
+data/audio_24k/nepali_25136.wav|aːkˈaːseː nˈɪloː|0
+data/audio_24k/nepali_1227.wav|ɾˌaːɟənˈɪːtɪkˌoː ˌəpəɾˈaːdʰɪkˌəɾəɳ mˈuddˌaːsɪt ɟˈʌɖɪt ˈeːʊʈˌaː ˌəwəmˈaːnjətˌaː jˌaːcɪkaːmˈaːtʰɪ aːdˈeːʃ dĩdˈɛː njˌaːjəmˈuːrrtɪ ˈeːpʰ nˈʌɾɪmˌənəlˌeː bʰˈʌnnˌubʰəjˌoː, lˌoːkəsəbʰˈaːkoː wˈɪɡət cˈaːɾəwˌəʈaː cunˈaːʊkˌoː ˈʌwədʰˌɪmaː ɾˌaːɟənˈɪːtɪkˌoː ˌəpəɾˈaːdʰɪkˌəɾəɳ cɪntˈaːɟənˌəkə stʰˌɪtəsˈʌmmˌə wɾˈɪdːdʰɪ bʰəˈeːkoː cʰˈə bʰˈʌnnˌeː lˈaːɡcʰə|0
+data/audio_24k/nepali_12559.wav|ʃˈuːnjə cˈaːɾə, ʃˈuːnjə nˈɔː, ʃˈuːnjə dˈui|0
+data/audio_24k/nepali_6676.wav|tˌəpaːĩlˈeː cʰənˈoːʈ ɡˌərrnubʰəˈeːkoː kˈeːkə jˈʌsəkˌoː ɟˈʌʈɪl bənˈoːʈ ˈʌnɪ ənukˌuːlˌən wˌɪkəlpˌəhəɾˈuːkaː kˈaːɾəɳ ˌətɪɾˈɪktə lˈaːɡətˌəkoː sˈaːtʰ ˌaːũcʰˈə bʰənˈeːɾə sˈuːcɪt ɡˈʌrrnə məlˈaːi kʰˈeːd cʰˈə kˈunɛː pˈʌnɪ ˌəsuwˈɪdʰaːkˌaː lˈaːɡɪ mə mˈaːpʰi mˈaːɡcʰu|0
+data/audio_24k/nepali_2281.wav|kʰˈaːsəmˌaː məlˈaːi kˈeːhi ɟˌaːnəkˈaːɾi cˌaːhɪˈeːkoː cʰˈə|0
+data/audio_24k/nepali_14704.wav|məlˈaːi ˈaːʃaː cʰˈə kˈɪ təpˈaːĩ ʃˌaːkaːhˈaːɾi hˌunuhˈunnˌə?|0
+data/audio_24k/nepali_5035.wav|ˈʊnəlˌeː dˌurrɡʰəʈənˈaːwəʃ mˈeːɾoː mˈɛːsuɾˌə ɾˈeːsəmˌəkoː saːɖˈɪːmaː kˈeːkə pʰjãkdˈaː, tʰˈoːɾɛː ɾˈɪs ʊʈʰˈeːn nˈɪ|0
+data/audio_24k/nepali_474.wav|ˌəwəstʰˈaːkaː pɾˈʌmukʰ sˌəmbʰaːwˈɪt ɟˌəʈɪlətˈaːhəɾˌuː kɾˈoːnɪkˌə swˈaːdəkˌoː kʂˈʌjə, kɾˈoːnɪkˌə ˌənuhˌaːɾˌəkˈoː ɛ̃ʈʰˈʌn, ˌənuhˌaːɾˌəkˈoː dukʰˈaːɪ ɾə kˈoːrrnɪjˌəl sˈʌŋkɾəmˌəɳəhˌəɾuː hˈun|0
+data/audio_24k/nepali_10823.wav|mˈɛːleː bˌɪɡɾɪˈeːkoː ˈʌʊʂədʰˌɪ tuɾˈuntɛː pʰˈɪrrtaː ɡˈʌɾẽ|0
+data/audio_24k/nepali_27241.wav|ʃɾˈiː ʃˈʌrrmaː aːɟˈəː ɡˈaːntoːkˌəkoː ʈˈaːsɪlˌɪŋ sˌəcɪwˈaːləjˌəmaː pˌətɾəkˈaːɾə səmmˌeːlənəlˈaːi səmbˈoːdʰən ɡˈʌrrdɛː hˌunuhˈuntʰjˌoː|0
+data/audio_24k/nepali_22084.wav|pɾətˈɪʂʈʰˌɪt sˌəŋɡɪːtˌəkaːɾˌəhəɾuːlˈaːi ʊnˈɪːhəɾˌuː hˈɪndu cʰˈʌn bʰˈʌneː pˈʌɳɖɪt ɾə mˈuslɪmˌə cʰˈʌn bʰˈʌneː ʊstˈaːd bʰənˈeːɾə səmbˈoːdʰən ɡəɾˈɪncʰə|0
+data/audio_24k/nepali_20233.wav|tˌəpaːĩshˈɪɾˌəwˌindˌu kˈʌstoː hˌunuhˈuncʰə?|0
+data/audio_24k/nepali_18679.wav|bʰˈoːljumˌə ɡʰˌəʈaːˌʊnuhˈoːs|0
+data/audio_24k/nepali_2752.wav|hˈeːllloː, təpˈaːĩ cˈɪntɪt dˌeːkʰɪnuhˈuncʰə, kˈeː bʰˌəɪɾəhˈeːkoː cʰˈə?|0
+data/audio_24k/nepali_17351.wav|ˈʌntəmˌaː pˈʌtɾəlˌeː bʰəwˈɪʂjəkˌaː lˈʌkʂjəhˌəɾuː pˈʌnɪ cʰˈʌləpʰˌəl ɡˌərrnupˈʌrrcʰə|0
+data/audio_24k/nepali_5550.wav|tˌəpaːĩlˈeː kˈeːhi pˈɪɾə mˈaːnnˌuʲu pərrdˈɛːnə|0
+data/audio_24k/nepali_19441.wav|mˈʌndɪɾˌə nɪlˈaːɡɪɾˌiː pərrwtˈʌkoː cʰˈeːʊmˌaː ɾəhˈeːkoː cʰˈə|0
+data/audio_24k/nepali_3068.wav|ʈˈaːʈaː kˌənsəlʈˈeːnsi sərrwˈɪseːɟ ˈeːləʈˌɪɖi|0
+data/audio_24k/nepali_11624.wav|ˌaːɪkeːˈeːpʰəkˌoː ʊddˈeːʃjə kˈoːrrpʰəbˌələlˌaːi wɪʃwbʰˈʌɾɪ pʰɛːlˈaːʊnˌu ɾə səmbˈʌdːdʰə dˌeːʃəhəɾˈuːmaː kʰˈeːləkˌoː stˈʌɾə bəɖʰˈaːʊnˌu hoː|0
+data/audio_24k/nepali_14675.wav|bɾəhmˈaːɳɖə pˈʌnɪ ˈeːʊʈˌaː wɪʃˈaːl ʃəɾˈɪːɾə hˌaːeːkˈaːːɾə, bʰˌɛːaːkˈaːːɾətˌɪkə ʃəɾˈɪːɾə|0
+data/audio_24k/nepali_1959.wav|cˌələcˈɪtɾəmˌaː ˈaːpʰːnɛː sənwˈaːd leːkʰˈeːki ɾənˈɔːtəlˌeː ənˈʌntə ˈʌɖɪɡ ʊtsˈaːhə ɾə sˌəɟɪːwətˈaːkaː sˈaːtʰ cˌəɾɪtɾəlˈaːi cˈɪtɾəɳ ɡˈʌrrcʰɪn bʰˈʌni ˈʊnəlˌeː lˈeːkʰeː|0
+data/audio_24k/nepali_4344.wav|ˌʊhãlˈeː hˈɪɟoː bˈeːlukˌiː nˈɛː ˈaːpʰːnoː aːwˈaːsəmˌaː ˌaːpətˌəkaːlˈɪːn bˈɛːʈʰəkˌə boːlˈaːʊnˌubʰəjˌoː ˈʌnɪ ʃɾˈiː ˌədʰɪkaːɾˈɪːkoː tːjˌaːɡəpˌətɾəmˈaːtʰɪ cˈʌrrcaː bʰəˈeːkoː ɟˌaːnəkˈaːɾi pɾˈaːptə bʰəˈeːkoː cʰˈə|0
+data/audio_24k/nepali_14664.wav|mˈeːdu bˈʌɖaː|0
+data/audio_24k/nepali_10690.wav|ˌeːcəˌeːpʰəsɪˈeːl ˈeːləʈˌɪɖi|0
+data/audio_24k/nepali_6887.wav|sɔːbʰˈaːɡjəwˌəʃ, ˈʌrrɟunˌəleː ʈˌaːɖʰaːbˈaːʈ ˈaːpʰːnoː dˈeːbɾeː tˈɪɡʰɾaː tʰɪcˈeːɾə səŋkˈeːt ɡˈʌɾeː|0
+data/audio_24k/nepali_25013.wav|bˈaːndɾaː ʈˈʌrrmɪnˌəs, muɟˈʌpʰpʰəɾˌəpuɾˌə ˈʌwədʰ ˈeːksəpɾˌeːs|0
+data/audio_24k/nepali_12505.wav|kˈeː mə ɟˈɪlllaː kˈʌɲcɪpˌuɾəmˌəmaː mˈeːɾoː hˈaːləkˌoː stʰˈaːnəmˌaː nˈʌɟɪkˌəkoː kʰˈoːp kˈeːndɾə tʰˈaːhaː pˈaːʊn sˈʌkcʰu|0
+data/audio_24k/nepali_14848.wav|nˈɪʃʃcəjˌə nˈɛː, sˈʌɾə jˈoː mˈeːɾaː lˈaːɡɪ ˈʌsəl cʰˈə|0
+data/audio_24k/nepali_10708.wav|ˌəmaːjaːlˈaːi ˈʌɪɾi eːlˈeːksaː ɖˈɪɟɪʈˌəl kːjaːmˈeːɾaː pɾˌəɳaːlˈɪːleː kʰˌɪcɪˈeːkoː tʰˈɪjoː ˈʌnɪ sˈʌbɛː ɡˌɪːtəhəɾˈuːsəhˌɪt ˈʊntɪs dˈɪnəmˌaː cʰaːjˈaːŋkən ɡˌəɾɪˈeːkoː tʰˈɪjoː|0
+data/audio_24k/nepali_25951.wav|tˈʌmɪl sˌɪneːmˈaːmaː ˌʊnɪːhəɾˈuːleː ˈaːpʰːnoː nˈaːjəkˌəkoː mˈaːtɾɛː kʰjˈaːl ɾˈaːkʰcʰən|0
+data/audio_24k/nepali_12659.wav|ˈoːli məlˈaːi tˌəpaːĩʃˈʌ̃ɡ mˈeːɾoː dˌɪnəbˈaːɾeː bʰˈʌnnˌuʲu cʰˈə|0
+data/audio_24k/nepali_19713.wav|bʰˈeːllləɾˌə, ˈʊttˌəɾi tˌəmɪlənˈaːɖuː|0
+data/audio_24k/nepali_22449.wav|ʃˈuːnjə ˈaːʈʰ, dˈʌs, eːɡʰˈaːɾə|0
+data/audio_24k/nepali_18963.wav|bɪhˈaːɾəlˌeː kənwɾˈʌ tˈaːl pˈʌkʂi ˌəbʰəjaːɾˈʌɳjə ɾə nˈaːɡi bˈãdʰ pˈʌkʂi ˌəbʰəjaːɾˈʌɳjə ɟˈʌstaː pˈʌkʂi ˌəbʰəjaːɾˈʌɳjəmˌaː dʰˈeːɾɛː pɾəɟˈaːtɪkˌaː pɾəwˈaːsi cˌəɾaːhˌəɾuːlˈaːi nˈɪmtoː dˈɪncʰə|0
+data/audio_24k/nepali_12567.wav|ɟˈaːmaː mˈʌsɟɪd|0
+data/audio_24k/nepali_24560.wav|kʰˌərrcəlˈaːi beːwˈaːstaː ɡˌəɾɪˈeːkoː ˈʌnɪ cˌaːhĩdˈoːbʰəndˌaː bˈʌɖʰi kˈʌɾəhˌəɾuː bʰuktˈaːn ɡˌəɾɪˈeːkoː dˈeːkʰdaː məlˈaːi sˈaːɾɛː ɾˈɪs ˈʊʈʰcʰə|0
+data/audio_24k/nepali_15296.wav|kˈeː tˌəpaːĩlˈeː kɾˈɪpaːlˌaːi pˈʌnɪ ˌəkaːdəmˈɪːmaː pɾəwˈeːʃ ɡəɾˈaːʊnˌeː jˈoːɟənˌaː bənˈaːɪɾˌəhənˌu bʰəˈeːkoː cʰˈə?|0
+data/audio_24k/nepali_4165.wav|bʰˈʌɡət kˈiː kˈoːʈʰi, bɪlˈaːsəpˌuɾə ˈeːksəpɾˌeːs|0
+data/audio_24k/nepali_1406.wav|pɪˈeːmə ˌeːpʰəˈeːməˌiː, pʰˌərrmaːlˌaːɪɟˈeːsən oːˈeːpʰ maːˈɪkɾoː pʰˈuɖ pɾoːsˈeːsɪŋ ˈeːnʈəɾˌəpɾaːˌɪɟeːɟ skˈɪmə|0
+data/audio_24k/nepali_13246.wav|tˈuɡəlˌəkə ɾˌaːɟəwˈʌnʃəkˌaː sənstʰˈaːpəkˌə ɡɪjˈaːtʰ ˈʌl dˈɪnəkˌoː ʋjˈʌktɪɡˌət nˈaːmə tʰˈɪjoː, nˈə kˈɪ pɛːtɾˈɪkə pˌədənˈaːmə, bʰˈʌnnˌeː kˈuɾaː saːhˈɪtːjɪkˌə, səŋkʰjˈaːtməkˌə ɾə ˌeːpɪɡɾˈaːpʰɪkˌə pɾˌəmaːɳˌəhəɾˈuːleː spˈʌʂʈˌə pˈaːrrcʰən|0
+data/audio_24k/nepali_10175.wav|ˈʌdʰɪkˌə kɾˈɪtɪhˌəɾuː kəwˈɪtaːmˌaː mˈaːtɾə sˈɪːmɪt cʰˈʌn|0
+data/audio_24k/nepali_24221.wav|ɟʰˈeːləmˌə ˈeːksəpɾˌeːs|0
+data/audio_24k/nepali_18223.wav|tːjˈʌs bˈeːlaː bəsnˈeːt bʰˈʌrrkʰəɾˌə sˈʌtɾə wˈʌrrʂə puɡˈeːkaː ɟəwˈaːn tʰˈɪeː|0
+data/audio_24k/nepali_1182.wav|tːjˈʌsoː ɡˌəɾɪsəkˈeːpəcʰˌɪ ˈʊsəlˌeː jˈiː kˌuɾaːhəɾˈuːmaː cˈaːsoː dˌeːkʰaːʊnˈeːcʰə ɟˈʌstoː məlˈaːi lˈaːɡcʰə|0
+data/audio_24k/nepali_21939.wav|ˌaːʃaːtˈɪːt bˈʌkəs paːˈeːɾə hˌərrʂoːtpʰˈulllə bʰˈʌeː maːɟʰˈɪːkaː ãkʰˈaː kˈaːlaː mˈukʰəmˌaː dˈeːkʰaː pˈʌɾeː ˈʌtɪ ˈʊɟɟwl dˌəntəʃɾˈeːɳi|0
+data/audio_24k/nepali_13360.wav|mə nɪɾˈaːʃ cʰˈu kˈɪnəbʰˌəneː swˈaːstʰjˌə kˈeːndɾəbˌaːʈ ɖɪscˈaːrrɟə bʰəˈeːpəcʰˌɪ mˈɛːleː sˈʌbɛː kˈuɾaː ˌaːpʰɛ̃lˈeː səmhˈaːlnuʲˌu pərrnˈeːcʰə|0
+data/audio_24k/nepali_7763.wav|ʌbˈə, məlˈaːi bʰənnˌuhˈoːs ,təpˈaːĩ ˈaːpʰːnoː ɡʰˌəɾəlˈaːi kˈʌsəɾˌiː sˌəɟaːˌʊnuhˈuncʰə?|0
+data/audio_24k/nepali_8101.wav|ˈʊttˌəɾə kaːwˈeːɾi|0
+data/audio_24k/nepali_23817.wav|ʃˌɪkʰəɾəɟˈɪːkaː sˈaːtʰəmˌaː ˈʌʂʈˌəpəd, ɡˌɪɾənˈaːɾə, maːˈʊnʈə əbˈuːkoː dˌɪləwˈaːɾaː mˈʌndɪɾˌə ɾə ʃˌətɾuɲɟˌəjəlˈaːi ʃwˈeːtəmbˌəɾə pˈʌɲcə tˈɪːrrtʰə bʰənˈɪncʰə|0
+data/audio_24k/nepali_1660.wav|pˌəʈʰaːnˌəmətʰˈɪʈʈˌaːmaː bˈanˈə, wɾˈɪkʂaːɾˌoːpəɳ, nˈʌdi ɾə ʊrrwɾˈʌ bʰˈuːmɪsˌəɡɛ̃ ˌʊʂɳəkˌəʈɪbəndʰˈɪːjə ɟɛːwˈɪkə wɪwˈɪdʰətˌaː cʰˈə|0
+data/audio_24k/nepali_10597.wav|mə pːjˈaːɾɪsˌəkoː nˈoːʈɾeː ɖˈeːmə kːjˌaːtʰeːɖɾˌələbʰˈɪtɾə pˈʌsẽ ˈʌnɪ tːjˈʌhã bʰˈɪtɾəkˌaː ɡˈupʰɛː ɡˈupʰaː deːkʰˈeːɾə tˈə heːɾˈeːkoː heːrjˈɛː bʰˈʌẽ|0
+data/audio_24k/nepali_6290.wav|swˈaːstʰjˌə məntɾˈaːləjˌəleː bʰənˈeːkoː cʰˈə, kˈeːndɾəkˌoː ɟˈãc, nˌɪɡəɾˈaːni ˈʌʊ ˌʊpəcˈaːɾəkˌoː ɾˌəɳənˌɪːtɪbˈaːʈ swˈaːstʰjˌə hˌuneːhəɾˈuːkoː dˈʌɾə bˈʌɖʰnukˌaː sˈaːtʰɛː mɾˈɪtːju dˈʌɾəmˌaː kˈʌmi aːˈeːkoː cʰˈə|0
+data/audio_24k/nepali_14634.wav|əmˈeːɾɪkˌiː ˌədʰɪkˌaːɾɪːhˌəɾuːənusˌaːɾˌə ˌəpʰəɡˌaːnɪstˈaːnəlˌeː ɡˈʌt cʰˈə wˈʌrrʂəmˌaː ˈʌhɪlˌeː sˌəbɛːbʰˈʌndaː bˈʌɖʰi hˈɪnsaː bʰˌoːɡɪɾəhˈeːkoː cʰˈə|0
+data/audio_24k/nepali_22220.wav|mˈɛːleː ˌaːdʰaːɾəbʰˈuːt seːwˈaːkaː lˈaːɡɪ ˈʊcɪt mˈuːljəkˌoː əpˈeːkʂaː ɾaːkʰˈeːkoː tʰˈɪẽ, tˈaɾə jˈoː bˈɪl tˈə hˌədəbʰˈʌndaː dʰˈeːɾɛː cʰˈə! kˈeː təpˈaːĩ məlˈaːi ɟˌɪskːjaːũdˈɛː hˌunuhˈuncʰə?|0
+data/audio_24k/nepali_18756.wav|jˈʌhã tˈə dʰeːɾˈɛːwəʈˌaː plˌaːʈəpʰˈʌrrməhˌəɾuː cʰˈʌn ɟˈʌstoː cʰˈə nˈɪ|0
+data/audio_24k/nepali_16143.wav|bˌədəmaːʃˈɪːmaː wɪdjˈaːləjˌəkoː nˈɪːtɪ pˈuːrrɳətˌəjaː bʰəjˈaːwəhˌə cʰˈə wɪʃˈeːʂ ɡˈʌɾi kˈɪnəbʰˌəneː jˌəsəlˈaːi ɾˈoːknə kˈeːhi ɡˌəɾɪˈeːkoː cʰˈɛːnə|0
+data/audio_24k/nepali_20493.wav|pʰˈɪlməmˌaː nˈʌɾəɡˌɪs pʰˈaːkʰəɾˌiː, wˈʌɾuɳ dʰˈʌwən ɾə ˌɪlɪjˈaːnaː ɖˈɪkɾuɟˌəkoː ˈʌbʰɪnˌəjə ɾəhˈeːkoː cʰˈə|0
+data/audio_24k/nepali_27174.wav|hˈɪndi|0
+data/audio_24k/nepali_9538.wav|bʰˈaːt|0
+data/audio_24k/nepali_14827.wav|dˈʌjaː|0
+data/audio_24k/nepali_27711.wav|mə mˈeːɾoː ʋjˈʌktɪɡˌət wˈɪwəɾˌəɳəhˌəɾuː sˈaːɟʰaː ɡˈʌrrnə sˈʌhəɟ hunˈeːcʰu ɟˈʌstoː məlˈaːi lˈaːɡdɛːnˌə|0
+data/audio_24k/nepali_27234.wav|sˈɪkkˌɪmaː kˈoːbʰɪɖ naːˈɪnʈɪnˌəkoː ˈʌɟʰɛː ˈeːʊʈˌaː mˈaːmɪlˌaː dˈeːkʰaː pəɾˈeːkoː cʰˈə|0
+data/audio_24k/nepali_8047.wav|ˈʌnɟu bˈʌbi ɟˈʌrrɟə|0
+data/audio_24k/nepali_873.wav|jˈʌdɪ mˈɛːleː ɡɾˈaːhəkˌəkoː sˌəməsjˈaːkoː sˌəmaːdʰˈaːn pʰˈeːlaː pˈaːrrnə sˈʌkɪnˌʌ̃ ˈʌnɪ tˌɪnɪːhəɾˈuːleː jˌəsəlˈaːi bəɖʰˈaːeː bʰˈʌneː kˈeː hˈuncʰə?|0
+data/audio_24k/nepali_10943.wav|kˈeː təpˈaːĩ sˌuːcɪːbˈaːʈ jˈoː wˈʌstu həʈˈaːʊn sˌəknuhˈuncʰə|0
+data/audio_24k/nepali_13114.wav|hˌumaːjũkˈoː cɪhˈaːn|0
+data/audio_24k/nepali_23412.wav|jˈoː sˈoːhɾɔ̃ ʃətˈaːbdɪːmˌaː sˌuhuŋˌəmuŋˌəəntˈʌrrɡət əcˈaːnəkˌə bɪstˈaːɾə bʰˈʌjoː ɾə bˌəhuɟaːtˈɪːjə bˈʌnjoː, jˈʌsəlˌeː səmpˈuːrrɳə bɾˌəhməpˈutɾə ˌʊpətːjəkˈaːkoː ɾˌaːɟənˈɪːtɪkˌə ɾə saːmˈaːɟɪkˌə ɟˈɪːwənˌəmaː ɡˈʌhɪɾˌoː pɾəbʰˈaːwə paːɾˈeːkoː tʰˈɪjoː|0
+data/audio_24k/nepali_20476.wav|ˈɪnɖɪjˌən ɪnsʈˈɪcːjuʈ ˈʌpʰm mjˌaːneːɟəmˈeːnʈə lˈʌkʰənˌəʊ, ˌaːɪˌaːɪˌeːməˈeːl|0
+data/audio_24k/nepali_1921.wav|ˈoːhə, jˈoː kˈun plˌeːʈəpʰˈaːrrmə hoː?|0
+data/audio_24k/nepali_4320.wav|ʊlhˈaːs|0
+data/audio_24k/nepali_24587.wav|məlˈaːi ˌʊnəlˈaːi hˈaːmɾoː wɪwˈaːhəmˌaː deːkʰˈeːkoː tʰˈaːhaː cʰˈɛːnə|0
+data/audio_24k/nepali_3978.wav|bʰəɳɖˈaːɾəhˌəɾuː ɾˌaːɟəstʰˈaːnəkˌoː ˈʌləwˌəɾə, ˌəɟəmˈeːɾə, bʰˈʌɾətˌəpuɾˌə, ʈõkˈʌ, səwˈaːi maːdʰˈoːpuɾˌə, pˈaːli, ˈʊdəjˌəpuɾˌə, cˈuɾuː ɾə cˈɪttˌoːɖəɡˌəɖʰ ɟɪlllˈaːmaː pʰˌɛːlɪˈeːkaː cʰˈʌn|0
+data/audio_24k/nepali_18804.wav|ãkʰˈaːleː dˈeːkʰnə nəsˈʌkneː, dˌuːɾədˈʌrrʃi ɾə dɾˈɪʂʈˌɪwˈɪhɪːn ãkʰˈaːmaː bʰəˈeːkaː ʈʰˈulaː ɡəltˈɪːhəɾˌuː sudʰˈaːrrnə sˈʌn ˈʊnnˌaːɪs sˈʌjə nˌɪnaːnˌəbːbeːdˈeːkʰɪ ˌɪnʈɾaːˈoːkulˌəɾə lˈeːnsə pɾəjˈoːɡ hũdˈɛː aːˈeːkoː cʰˈə|0
+data/audio_24k/nepali_23763.wav|cʰjˈaː, bˈaːtʰəʈˌəbəmˌaː tˈə ˈeːʊʈˌaː mˈaːkuɾˌoː cʰˈə ɾə mə sˌəkeːsˈʌmmˌə jˌəsəbˈaːʈ ʈˈaːɖʰaː ɟãdˈɛːcʰu|0
+data/audio_24k/nepali_21193.wav|kˈeː mə jˈoː lˈɪsʈə pˈuɾaː ɡˈʌɾɔ̃ sˈʌɾə?|0
+data/audio_24k/nepali_18670.wav|dˈuɪɟˌənaː neːpˈaːli kulllˈɪːhəɾˌuː ɟʰjˈaːʊɾˌeː ɡˈɪːt ɡˈaːʊn tʰˈaːleː|0
+data/audio_24k/nepali_9140.wav|ɟˈaːɖoː ˈʊtkəʈ cʰˈə|0
+data/audio_24k/nepali_11175.wav|kːjˈaːpəlˌɪn poːˈɪnʈə ljˌaːboːɾˈeːʈəɾˌɪɟ ˈeːləʈˌɪɖi|0
+data/audio_24k/nepali_7755.wav|tˈɛːpənˌɪ jˈoː ɡʰˌəʈənˈaːleː ʃˈeːkʰəɾˌəkoː mˌənəlˈaːi sˈaːhɾɛː wˈɪcəlˌɪt paːrjˈoː ɟəwˈɪːn nˈɪssˌaːɾə, cʰˈaːjã, ənˈɪʃʃcɪt kʂˌəɳəbʰˈʌŋɡuɾˌə kˈaːjaː|0
+data/audio_24k/nepali_6241.wav|bɾəhmˈaːɳɖə kˈʌtɪ ʈʰˈuloː cʰˈə|0
+data/audio_24k/nepali_16922.wav|tˌɪɾucˈeːnduɾˌə ˈeːksəpɾˌeːs|0
+data/audio_24k/nepali_4372.wav|mə beːpˈʌttˌaː ʋjˈʌktɪkˌoː ɾɪpˈoːrrʈə buɟʰˈaːʊn caːhˈʌncʰu tˈaɾə mˈɛːleː ɡˌərrnupˈʌrrcʰə ˌətʰəwˈaː pərrdˈɛːnə bʰˈʌnnˌeː məlˈaːi tʰˈaːhaː cʰˈɛːnə|0
+data/audio_24k/nepali_8589.wav|meːɡʰˈaːləjˌəkaː saːmˈaːnjə sˌəɾɪːsɾˈɪpəhˌəɾuː cʰeːpˈaːɾoː, ɡˈoːhi ɾə kˌəcʰuwˈaː hˈun|0
+data/audio_24k/nepali_26907.wav|kãsˈɛː neːɾˈoːljaːkˌə pˈeːnʈsə ˈeːləʈˌɪɖi|0
+data/audio_24k/nepali_3753.wav|bˈaːi|0
+data/audio_24k/nepali_2508.wav|ɖˈaːkʈəɾˌəlaːˌiː bʰˈeːʈnə ɟãdˈaː sˌəŋɡɪtaːmˈaːtʰɪ pˈuːrrɳə ɾˈuːpəlˌeː bʰˈuːt cəɖˈeːkoː hˈuncʰə|0
+data/audio_24k/nepali_27057.wav|dʰˈaːtu ʊdjˈoːɡ ɾə ɟˈɔːhəɾˌiː kˈʌlaː ʊtkɾˈɪʂʈˌətaːkˌoː ˈʊccˌə stˈʌɾəmˌaː puɡˈeːkoː tʰˈɪjoː|0
+data/audio_24k/nepali_24319.wav|skwˈaːjəɾˌə sʈˈʌrrnəmˌaː ˈeːʊʈˌaː pˌətəwˈaːɾə cəɖʰˈaːʊn dʰˈeːɾɛː sˈʌɟɪlˌoː bʰˌəeːkˈaːleː, tːjˈʌstaː kːjaːnˈoːhəɾˌuː pɾˈaːjə ɖuŋɡˈaːkaː lˈaːɡɪ ənupɾˌəjˌoːɡ hũdˈʌcʰən|0
+data/audio_24k/nepali_21769.wav|jˈʌdɪ tˌəpaːĩlˈeː ˈʌhɪlˌeː aːwˈeːdən ɡˈʌrrnubʰˌəjoː bʰˈʌneː təpˈaːĩ ˌaːũdˈoːmaː mˌətədˈaːn ɡˈʌrrnə sˈʌkʂəmˌə hˈunuhˌuneː cʰˈə|0
+data/audio_24k/nepali_4894.wav|jˈʌsəkˌoː pɾətːjˈuttˌəɾəmˌaː, sˌəmbʰaːɟˈɪːleː ˈaːpʰːnaː bɾˈaːhməɳ mˈɪtɾə ˈʌnɪ kəwˈɪ kˈʌləʃˌəkaː sˈaːtʰəmˌaː sˈoːhɾə sˈɔː cʰˌəjaːsˈɪːmaː mˌɛːsuɾəmˈaːtʰɪ ˈaːkɾəmˌəɳ ɡˈʌɾeː|0
+data/audio_24k/nepali_21329.wav|jˈʌsəlˌeː ˈaːpʰːnoː ɟˈɪbɾoː kˌəmɪlˈaːkoː ɡũɖˈʌmaː cʰˌɪɾaːˈeːɾə kˈʌmɪlˌaː tˈaːnnˌeː ɡˈʌrrdəcʰˌə|0
+data/audio_24k/nepali_7012.wav|ɟˈʌjəpˌuɾə, bˈaːndɾaː ʈˈʌrrmɪnˌəs sˌupəɾəpʰˈaːsʈə ˈeːksəpɾˌeːs|0
+data/audio_24k/nepali_16604.wav|ˈoːɳəmˌəkoː pəcʰˈaːɖɪ ˈeːʊʈˌaː kɪmwdˈʌnti pˈʌnɪ cʰˈə, jˌəsəənusˌaːɾˌə jˈoː kˌeːɾəlˈaːkaː sˌəbɛːbʰˈʌndaː məhˈaːn ʃˈaːsəkˌə məhˈaːbəlˌiː ˈaːpʰːnaː pɾˌəɟaːlˈaːi pʰˈeːɾɪ bʰˈeːʈnə pˌaːtaːləbˈaːʈ ˈaːʊnˌeː sˈʌməjˌə hoː|0
+data/audio_24k/nepali_13466.wav|pˈuʂʈˌɪ ɡˌərrnubʰˌəeːkˈoːmaː dʰˌənjəwˈaːd|0
+data/audio_24k/nepali_9987.wav|mə pˈʌnɪ tːjˌəsəmˈaːtʰɪ cˈʌɖʰcʰu nˈɪ|0
+data/audio_24k/nepali_22953.wav|wˈʌndeː mˈaːtəɾˌəm|0
+data/audio_24k/nepali_8317.wav|ʊncˈaːlɪsˌɔ̃ wˈaːrrʂɪkˌə saːdʰˈaːɾəɳ səbʰˈaːmaː ədʰjˈʌkʂəlˌeː aːɡˈaːmi tˈɪn wˈʌrrʂəmˌaː kˌəmpənˈɪːkoː lˈʌɡəbʰˌəɡ pˈʌndʰɾə ˈʌrrbəkˌoː lˌəɡaːnˈɪːkoː jˈoːɟənˌaː ɾəhˈeːkoː sˌeːjəɾˌədʰənˌɪːhəɾuːlˈaːi ɟˌaːnəkˈaːɾi ɡəɾˈaːeː|0
+data/audio_24k/nepali_980.wav|jˈʌs sˈustə ˌərrtʰəwjˈʌwəstʰˌaːmaː sʈˈaːrrʈəˌəpəhˌəɾuːmˌaː ləɡˈaːni ɡˌəɾɪˈeːkoː pɛːsˈaːkoː mˈaːtɾaː deːkʰˈeːɾə mə cˈʌkɪt cʰˈu|0
+data/audio_24k/nepali_2171.wav|ɟɛːwˈɪkə wɪwˈɪdʰətˌaː mˈuːljəbˌaːʈ, jˈoː eːkˈaːɪ jˈʌsəkˌoː wɪʃˈɪʂʈˌə ˈʊccˌə ˌɪlaːkˈaːkaː wənˈʌspətˌɪ ˈʌnɪ ɟˌɪːwəɟˈʌntukˌaː kˈaːɾəɳ wɪʃˈeːʂ mˌəhəttwkˈoː cʰˈə|0
+data/audio_24k/nepali_536.wav|səmɾˈaːʈəlˌeː hətːjˈaːkoː dʰəmkˈɪːkaː kˈaːɾəɳ ˈaːpʰːnoː əɡˈaːɖɪ kʰˈaːnaː kʰˈaːnəkˌaː lˈaːɡɪ ˈʌɾuː kˌəsɛːlˈaːi pˈɛːsaː dˈɪeː|0
+data/audio_24k/nepali_15071.wav|ˈʊntɪs, eːɡʰˈaːɾə, ˈʊnnˌaːɪs sˈʌjə ˌeːkəsˈʌʈʈʰˌiː|0
+data/audio_24k/nepali_20990.wav|ɾəsˈaːjənˌəkoː kˈaːɾəɳˌəleː hˈuneː kˌənɟəkʈˌɪbʰaːˌɪʈɪsəlˈaːi ɾˈɪŋɡəɾˌəkoː ljˈaːkʈeːʈ wˈaː səlˈaːɪnˌəkoː ɡʰˌoːlədːwˈaːɾaːsĩcˈaːɪ mˈaːrrpʰət ˌʊpəcˈaːɾə ɡəɾˈɪncʰə|0
+data/audio_24k/nepali_18885.wav|hˈʌɟuɾˌə, hˌaːmɪːʃˈʌ̃ɡ pˈuɾuʂ ˈʌnɪ mˈʌhɪlˌaː duwˈɛːkaː lˈaːɡɪ sˈaːwəɾˌə suwˈɪdʰaː cʰˈə|0
+data/audio_24k/nepali_17335.wav|ˈaːdʰunˌɪkə səmˈaːɟəmˌaː mˈʌhɪlˌaː ˌədʰɪkˈaːɾəkˌoː kʂˈʌɾəɳ dˈeːkʰdaː ɾˈɪs ˈʊʈʰcʰə|0
+data/audio_24k/nepali_13084.wav|ɾˈaːhul dɾəwˈɪɖ|0
+data/audio_24k/nepali_22697.wav|ˈʌhoː, mˈeːɾaː lˈaːɡɪ jˈoː kɪɾˈaːjaː ɡʰˈʌɾə pʰˈeːlaː pˈaːrrnə bɾˌoːkəɾˈeːɟ seːwˈaːhəɾˌuːkoː stəɾˈɪːjə mˈuːljə nɪrrdʰˈaːɾəɳ sˈʌnɾəcˌənaː pˈʌnɪ ɾəhˈeːcʰə nˈɪ məlˈaːi jˈoː kˈuɾaː ˈeːkədˌəmɛː ʈʰˈɪkə lˈaːɡjoː|0
+data/audio_24k/nepali_24588.wav|sˈʌn ˈʊnnˌaːɪs sˈʌjə ˌʊnaːsɪːsˈʌmmˌə ˈeːkə mˈɪlɪjˌən bəɾˈaːbəɾˌə bˈɪkɾi bʰˈʌjoː ɾə jˈoː sˌaːʊnɖəʈrrjˈaːkə plˈeːʈɪnˌəməmˌaː ɡˈʌjoː, ˈʌnɪ ˈʊnnˌaːɪs sˈʌjə sˈʌttˌəɾəkˌoː dˈʌʃəkˌəkoː sˌəbɛːbʰˈʌndaː dʰˈeːɾɛː bˈɪkɾi hˈuneː bˈʌlɪˌʊɖ sˌaːʊnɖˌəʈrrjaːkˌəhəɾuːmˈʌdʰjeː ˈeːʊʈˌaː bˈʌnjoː|0
+data/audio_24k/nepali_6902.wav|ɾˈaːʂʈɾˌəpətˌɪ ɾˌaːmənˈaːtʰ koːwˈɪd ˈʌnɪ ˌʊpəɾˈaːʂʈɾˌəpətˌɪ ˈeːmə. wˈeːŋkɛːjˌaː nˌaːjəɖˈuːleː ɾˈʌkʂaː bˈʌndʰənˌəkoː ˈʌwəsˌəɾəmˌaː mˌaːnɪsˌəhəɾuːlˈaːi bədʰˈaːi dɪˈeːkaː cʰˈʌn|0
+data/audio_24k/nepali_1710.wav|ˈʌləɡˌəɖʰaː|0
+data/audio_24k/nepali_25512.wav|tːjˈoː mˌaːnɪsəlˈaːi hˈeːrrnuhˌoːs tˈə ˈʊnəlˌeː pˈɛːsaː ɡˈʌnti ɡˈʌrrdaː ˈaːpʰːnaː ɔ̃lˈaːhəɾˌuː cˌaːʈɪɾəhˈeːkaː cʰˈʌn|0
+data/audio_24k/nepali_9480.wav|sˈʌn dˈui həɟˈaːɾə pãcˈʌmaː ɾˌəhəmˈaːnəlˌeː cˈeːnnˌəɪːkˌoː koːɖˈaːmbəkkˌəməmˌaː eːˈeːmə sʈˈuɖɪjˌoː stʰˈaːpənˌaː ɡəɾˈeːɾə ˈaːpʰːnoː pˌəɲcətˈaːn ɾeːkˈʌrrɖə ˈɪn sʈˌuɖɪjˈoːkoː wɪstˈaːɾə ɡˈʌɾeː, ɟˈun ˌeːsɪjˈaːkɛː sˌəbɛːbʰˈʌndaː ətːjˈaːdʰunˌɪkə sʈˈuɖɪjˌoː tʰˈɪjoː|0
+data/audio_24k/nepali_21191.wav|ədˈaːni ʈɾˈaːnsəmˌɪsən ˈeːləʈˌɪɖi|0
+data/audio_24k/nepali_11968.wav|mˈaːpʰ ɡˌərrnuhˈoːs, tˌəpaːĩkˈoː kˈaːrrʈə wˌəstuhˌəɾuːbˈaːʈ ˈaːɪɾˌɪs ɾˈɪɖ sʈˈɪkə sˌɪdːdʰɪˈeːkoː cʰˈə|0
+data/audio_24k/nepali_10023.wav|ˈɪd ˈʊl pʰˈɪtəɾˌə pˈʌʃʃcɪmˌə bəŋɡˈaːləkˌoː sˌəbɛːbʰˈʌndaː mˌəhəttwpˈuːrrɳə mˈuslɪmˌə cˈaːɖ hoː|0
+data/audio_24k/nepali_21702.wav|jˈaːtɾɪːhˌəɾuː kˈoːhi bˈaːt ɡərrdˈɛːcʰən, kˈoːhi nɪʂpˈʌʈʈˌə sˌutɪɾəhˈeːkaː cʰˈʌn|0
+data/audio_24k/nepali_4890.wav|ʈʰˈɪkə cʰˈə, tːjˈʌsoː hoː bʰˈʌneː tːjˈoː ˈʊsəkˌoː ˈaːdʰaː ʈˈɪkəʈ lˈaːɡneːcʰˌə|0
+data/audio_24k/nepali_21838.wav|aːbʰˈaːpuɾˌə, pˈoːloː ɾə ˌəntəɾəsˈurrbhə stʰˈʌləkˌoː nˈʌɟɪkˌəmaː ɾəhˈeːkaː ɟˈɛːnə ɾə hˈɪnduː mˌəndɪɾˌəhəɾˈuːleː mˌədʰjəjuɡˈɪːn jˈuɡəmˌaː ɟˈɛːnə ɾə hˈɪnduː duwˈɛː dʰˈʌrrməkˌoː sˌəhəəstˈɪtw ɾəhˈeːkoː səŋkˈeːt ɡˈʌrrcʰən|0
+data/audio_24k/nepali_4220.wav|ɟˈɪɾoː|0
+data/audio_24k/nepali_4084.wav|haːmˈɪːleː ˈʌstɪkˌoː hˈʌptaː ˈeːʊʈˌaː pˈaːltu lˌoːtʰərrkeːlˈaːi ɟˈʌŋɡəlˌəmaː cʰˈaːɖɪdˌɪjɔ̃ nˈɪ ɡʰˈʌɾəmˌaː aːˈeːpəcʰˌɪ tˈə kˈeːhi dˌɪnəsˈʌmmˌə sˈaːhɾɛː kʰˈʌllloː lˌaːɡɪɾˈʌhjoː|0
+data/audio_24k/nepali_18498.wav|ˈaːɪpˌɪsɪˌeː ljˌaːboːɾˈeːʈəɾˌɪɟ ˈeːləʈˌɪɖi|0
+data/audio_24k/nepali_7602.wav|jˈoː bʰˈaːɖaː eːkˈaːɪ jˈʌsəɾˌiː ˈaːdʰunˌɪkə ɾə ɾˈaːmɾoː tˌəɾɪkˈaːleː kˈaːjəmˌə ɡˌəɾɪˈeːkoː cʰˈə jˈoː pɾˌəbʰaːwəʃˈaːli cʰˈə! ɟˈʌsəlˌeː jˈoː mˈeːɾaː lˈaːɡɪ jˈoː pʰˈeːlaː paːrjˈoː mˈɛːleː jˈoː ɡʰˈʌɾəkˌoː dˌəlaːləlˈaːi dʰˌənjəwˈaːd dˈɪnɛː pˈʌrrcʰə|0
+data/audio_24k/nepali_24850.wav|hˈʌlɪɖˌeː tʰˈɪmɖə kˈuki, cˈɪjaː ˈʌnɪ kːjˈaːnɖɪːhˌəɾuː ˈʌntɪmˌə mɪnˈeːʈəkˌaː lˈaːɡɪ ˌʊpəhˈaːɾəkˌaː ɾˈaːmɾaː wɪkˈʌlpə hˈunˈə sˈʌkcʰən|0
+data/audio_24k/nepali_24222.wav|ɡoːdˈaːwəɾˌiː bˈeːsɪnˌəmaː mˈukʰjətˌəjaː ˌɪndɾaːwətˈɪːkoː ˌʊpətːjəkˈaːmaː ɾəhˈeːkaː upˈə ˌʊʂɳəkˌəʈɪbəndʰˈɪːjə, ˈʌrrdʰə ˈaːrrdɾə wˈʌnəhˌəɾuː cʰˈʌn|0
+data/audio_24k/nepali_26374.wav|kˌeːaːɾˌəbɪˈeːl ˈeːləʈˌɪɖi|0
+data/audio_24k/nepali_19499.wav|tˈiː pˈustəkˌə wˌɪkɾeːtˈaːleː mˈeːɾaː puɾˈaːnaː pˈustəkˌəhəɾˌuː kˈɪnnˌə nˈɪkkˌɛː cˈaːsoː dɪkʰˈaːeː nˈɪ sˈaːhɾɛː ɖʰˈukkˌə lˌaːɡɪɾəhˈeːkoː cʰˈə bˈʌlllə jˈiː pˌustəkəɾˈuːleː nˈʌjã pˈaːʈʰəkˌə pˈaːʊnˌeː bʰˈʌeː!|0
+data/audio_24k/nepali_1923.wav|hˈʌɟuɾˌə bʰˈaːɪ, məlˈaːi pˈʌnɟaː pˈʌnɪ cˈaːhɪjˌoː kˈeː jˈoː sˈãccˌɛː sɪttˌɛ̃mˈaː hoː ɾə? dʰˌənjəwˈaːd hˈɛː!|0
+data/audio_24k/nepali_23108.wav|dˈʌŋɡəl sˈʌn dˈui həɟˈaːɾə sˈoːhɾəkˌoː wɪʃwwjˈaːpi ɾˈuːpəmˌaː tˈɪsɔ̃ sˌəbɛːbʰˈʌndaː dʰˈeːɾɛː kəmˈaːʊnˌeː pʰˈɪlmə ɾə sˈʌbɛː sˈʌməjˌəkoː pãcˈɔ̃ sˌəbɛːbʰˈʌndaː dʰˈeːɾɛː kəmˈaːʊnˌeː ɡˈɛːɾə əŋɡɾˈeːɟi pʰˈɪlməkˌaː ɾˈuːpəmˌaː ˈʊbʰɪjˌoː|0
+data/audio_24k/nepali_10460.wav|jˈʌdɪ jˈoː ɖʰˈoːkaː jˈʌsəɾˌiː nˈɛː ˈʌɖkɪjˌoː bʰˈʌneː mə hˌoːʈələbˈaːʈ bˈaːhɪɾˌə nˈɪskən sˈʌkdɪnˌʌ̃ bʰənˈeːɾə sˈãccˌɛː cˈɪntɪt cʰˈu|0
+data/audio_24k/nepali_11192.wav|lˈʌnɖən skˈul ˈʌpʰ ˌɪkoːnoːmˈɪksəkˌaː ˈeːkəɟˌənaː sˌəmaːɟəʃˈaːstɾi kˈɔːʃɪkˌə bˌənərrɟˈɪːleː soːlˈeːleː dˈuʂʈˌə pˌuɾuʂətwkˈoː sˌəhaːnˌubʰuːtɪpˈuːrrɳə nɪrrmˈaːɳ ɟˈʌjə ɾə wˈɪːɾu ɟˈʌstaː ˌəpəɾˌaːdʰɪːhˌəɾuːdːwˈaːɾaː dɾˌɪʂʈˈaːntə ɾˈuːpəmˌaː dˌeːkʰaːˈeːkoː ʈˈɪppˌəɳi ɡˈʌrrcʰən|0
+data/audio_24k/nepali_11959.wav|naːˈɪnʈi|0
+data/audio_24k/nepali_27456.wav|ˌaːʊnuhˈoːs aːɟˈəː jˌəsəbˈaːɾeː kˈuɾaː ɡˈʌɾɔ̃|0
+data/audio_24k/nepali_13776.wav|jˈʌs ˌʊpənjˈaːsəkˌoː lˈeːkʰəkˌə ʃɾˈiː ɾˌuːpənaːɾˈaːjəɳ sˈɪŋhə bˈiː.ˈeːl., məhˈoːdəjˌəkoː ɟˈʌnmə jˈʌhĩ dˈaːrrɟɪlˌɪŋəmˌaː bʰəˈeːkoː hoː tˈʌtʰaː ˈʊhã jˌəhĩkˈaː waːtˈaːwəɾˌəɳəmˌaː bˈʌɖʰnuʲˌu bʰəˈeːkoː hoː|0
+data/audio_24k/nepali_16434.wav|jˌəsəwˈʌntəpˌuɾə, hˈaːʊɖˌaː sˌupəɾəpʰˈaːsʈə ˈeːksəpɾˌeːs|0
+data/audio_24k/nepali_3386.wav|əmɾˈɪtaː ˈeːksəpɾˌeːs|0
+data/audio_24k/nepali_26667.wav|tˌəpaːĩkˈoː bɪcˈɛːmaː mˈeːɾoː bˌaːtəlˈaːi kˈaːʈneː baːnˈɪːleː hˈaːmɾoː sˌəmbəndʰəlˈaːi ˈʌsəɾˌə ɡˌəɾɪɾəhˈeːkoː cʰˈə bʰˈʌni kˈʌsəɾˌiː tʰˈaːhaː pˌaːʊnuhˈunnˌə? mə bˈuɟʰnɛː sˈʌktɪnˌʌ̃|0
+data/audio_24k/nepali_7397.wav|kɾˈɪʂɳəlˌeː bʰˌɪːməlˈaːi ˌɪsaːɾaːdːwˈaːɾaː durrjˈoːdʰənˌəkoː tɪɡʰɾˈaːmaː pɾəhˈaːɾə ɡˈʌrrneː nɪrrdˈeːʃ dˈɪeː|0
+data/audio_24k/nepali_19013.wav|kɾˈɪpəjˌaː mˈeːɾoː sˈoːsəl mˈɪɖɪjˌaː skːjˈaːn ɡˌərrnuhˈoːs ɾə kˈeː bʰˌəɪɾəhˈeːkoː cʰˈə məlˈaːi bˌətaːˌʊnuhˈoːs|0
+data/audio_24k/nepali_12375.wav|məlˈaːi tˈə ˈaːpʰːnɛː kˌaːnəmˈaːtʰɪ wɪʃwˈaːs lˌaːɡɪɾəhˈeːkoː cʰˈɛːnə cˈoːɾi bʰəˈeːkoː ˈeːkə dˌɪnəbʰˈɪtɾɛː tˌəpaːĩhˈʌɾuːlˌeː kˈʌsəɾˌiː cˌoːɾəhˌəɾuːlˈaːi jˈʌtɪ cʰˈɪʈoː səmˈaːtnə sˌəknuhˈuncʰə, hˈʌ̃?|0
+data/audio_24k/nepali_10687.wav|lˈʌpcuː|0
+data/audio_24k/nepali_491.wav|ɾˈeːleː cʰˈʌttˌɪsəwˌəʈaː pʰˈɪlmə nɪrrdˈeːʃən ɡəɾˈeːkaː tʰˈɪeː, ɟˈʌsəmˌaː pʰˈɪcəɾˌə pʰˈɪlmə, ɖˌəkumˈeːnʈɾi ɾə sˈʌrrʈə pˈʌnɪ cʰˈʌn|0
+data/audio_24k/nepali_13252.wav|təpˈaːĩ kˈeː pˈɪʊn cˌaːhənuhˈuncʰə sˈʌɾə?|0
+data/audio_24k/nepali_22085.wav|jˌɪːbaːhˈeːkə, ɾˈaːɟjəkˌaː ɾaːʃʈɾˈɪːjə mˌəhəttwkˈaː wɪʃˈeːʂ sˌənstʰaːnˌəhəɾˈuːmaː ˈeːmsə bˈɪbɪnˌəɡəɾˌə, ˌaːɪˈaːɪʈˌiː hˌɛːdəɾaːbˈaːd, ɾə ˌeːnəˈaːɪʈˌiː waːɾˈʌŋɡəl sˌəmaːwˈeːʃ cʰˈʌn|0
+data/audio_24k/nepali_25798.wav|bˈɛːʈʰəkˌəmaː ʈˌurrnaːmˈeːnʈəsˌəmbədʰˌiː wˌɪʂəjˌəhəɾuːmˈaːtʰɪ pˈʌnɪ ʋjˈaːpəkˌə wɪcˈaːɾə wˈɪrrməʃ ɡˈʌɾɪjˌoː|0
+data/audio_24k/nepali_4513.wav|məlˈaːi kˈʌhɪlˌeː pˈʌnɪ ˈeːni kˈʌnʈɾi nˌəbəɟˌaːʊnuhˈoːs|0
+data/audio_24k/nepali_4519.wav|bˌuːɖʰeːsəkˈaːləmˌaː smˈʌɾəɳ ʃˈʌktɪkˌoː sˌəbɛːbʰˈʌndaː ˈʌɡʰɪ hɾˈaːs hˈuncʰə|0
+data/audio_24k/nepali_3537.wav|əʃwˈɪn sˈʌŋɡʰi|0
+data/audio_24k/nepali_24997.wav|jˈoː wˈɛːdʰ sˈoːɾumˌə hoː ɟˈʌstoː laːɡˈeːn kˈɪn ɖˈɪləɾˌəleː hˌaːmɪːlˈaːi kˈaːɾə kˈɪnnˌaːkaː lˈaːɡɪ dʰˌəmkaːˌɪɾəhˈeːkoː cʰˈə?|0
+data/audio_24k/nepali_4639.wav|muktˈaːi swɾˈʌməhˌəɾuː swɾˈʌmə waːkːjˈaːnʃəhˌəɾuː hˈun ɟˈun tˈaːnaː wˈʌrrɳəmˌaː ˌənupˌəlllˌəwɪːpˈʌcʰɪ ʊtpˈʌnnˌə hˈuncʰən, ɟˈʌsəlˌeː ɡˌəɾɪbˈaːŋɡəkˌoː səmˈaːpən bʰˈaːɡəkˌaː ɾˈuːpəmˌaː kˈaːmə ɡˈʌrrcʰən|0
+data/audio_24k/nepali_18134.wav|kˈaːlhəʈʈˌiː ɟʰˈʌɾənˌaː wˈaː kˈaːlhəʈʈˌɪːɡɪɾˌiː ɟʰˈʌɾənˌaː kərrnˈaːʈəkˌəkoː cˈɪkəmˌəɡəlˌuɾə ɟɪlllˈaːkoː tˌaːɾɪkˈeːɾeː tˈaːlukˌəkoː kˌəlllaːʈʰˌɪːɡɪɾˈɪːmaː əwˈʌstʰɪt nədˈɪːkoː muhˈaːnəmˌaː ɾəhˈeːkoː cʰãɡˈoː hoː|0
+data/audio_24k/nepali_5676.wav|pɾˈaːɡəmˌaː wˈʌrrʂaː ˈʌlɪ njˈuːn hˈuncʰə, pɾˈʌtɪ wˈʌrrʂə pˈãc sˈʌjə mˌɪlɪmˌɪʈəɾəbʰˈʌndaː kˈeːhi bˈʌɖʰi, kˈɪnəbʰˌəneː jˈoː suɖˈeːʈsə ɾə ˈʌnjə paːhˈaːɖi ʃɾˈɪŋkʰəlˌaːhəɾˌuːkoː wˈʌrrʂaː cʰaːjˈaːmaː əwˈʌstʰɪt cʰˈə|0
+data/audio_24k/nepali_5576.wav|təpˈaːĩ kˈʌstoː hˌunuhˈuncʰə?|0
+data/audio_24k/nepali_880.wav|əkʈˈoːbəɾˌə dˈui həɟˈaːɾə əʈʰˈaːɾəmˌaː hˌəpʰəpˌoːsʈəʃʌ̃ɡˈʌkoː ˌəntərrwˈaːrrtaːmˌaː pʰjˈaːnʈəmˌə pʰˈɪlmsəkˌaː ˈeːkəɟˌənaː pˈuːrrw kˌərrməcaːɾˈɪːleː pʰˈɪlmə bˈʌmbeː bʰˌeːləbʰˈeːʈəkˌoː pɾəmˈoːsənˌəl kˈaːrrjəkɾˌəməpˌəcʰɪ bˌəhələlˈaːi jˈɔːn ʊtpˈɪːɖən ɡəɾˈeːkoː aːɾˈoːp ləɡˈaːɪn|0
+data/audio_24k/nepali_2119.wav|hˈaːmɾoː ɟˈʌŋɡəlˌiː kʂˈeːtɾəmˌaː sˈɪɡnəl hˌəɾaːũdˈaː mə ˈʊttˌəɾi mˈɪsɪɡˌənəmˌaː hˌəɾaːˈɪncʰə bʰˈʌnnˌeː bˈaːɾeː cˈɪntɪt tʰˈɪẽ|0
+data/audio_24k/nepali_26685.wav|ˈeːmə.sˈiː. mˈeːɾi kˈoːmə|0
+data/audio_24k/nepali_4419.wav|ˌətəˈeːwə duˈɪːwəʈˌaː bˌələɟˈʌpʰti bʰəˈeːkaː wˌɪbʰaːɡəlˈaːi pəɾˈʌspəɾˌə cɪhnˈaːʊnˌeː sˈaːdʰən ʊpˈʌstʰɪt hũdˈaː pɾətːjˈeːkə dˌeːʃəbʰˈʌktə nˌeːpaːlˈɪːkoː hɾˈɪdəjˌə pɾəsˈʌnnˌə hˈuncʰə|0
+data/audio_24k/nepali_7841.wav|jˈʌsəlˌeː pˈʌccˌɪs pɾˌətɪʃˌətəbʰˈʌndaː bˈʌɖʰi saːhˈɪtːjɪkˌə cˈoːɾi dˌeːkʰaːũcʰˈə|0
+data/audio_24k/nepali_8057.wav|mˈaːjaː ɖʰoːkˈaːkoː ʃʌ̃ɡʰˈaːɾəmˌaː ˌʊbʰɪˈeːɾə jˈoː dɾˈɪʃjə hˌeːɾɪɾəhˈeːki tʰˈɪi|0
+data/audio_24k/nepali_4296.wav|sˌəhəjˈoːɡəkˌaː lˈaːɡɪ tˌəpaːĩlˈaːi dʰˈeːɾɛː dʰˌənjəwˈaːd|0
+data/audio_24k/nepali_14205.wav|ɖʰˈuŋɡaː kʰənˈeːpəcʰˌɪ, kəŋkˈaːləhˌəɾuː dˌəkʂɪɳˌəpəʃʃcˌɪmədˈeːkʰɪ ʊttˌəɾəpuːrrwtˈɪɾə pʰərrkˈeːɾə, ʈˈaːʊkˌoː ˈeːkə dɪʃˈaːmaː pʰˌərrkaːˈeːkoː ɾə hˈaːtəhˌəɾuː ˌeːkəərrkˈaːkaː mˈaːtʰɪ ɾˌaːkʰɪˈeːkoː bʰˈeːʈɪjˌoː|0
+data/audio_24k/nepali_12351.wav|ɟˈʌb ɡɾˌaːhəkˌəhəɾˈuːleː dʰˈeːɾɛː saːɖˈɪːhəɾˌuː hˈeːrrnə mˈaːɡcʰən ˈʌnɪ ˈʌntəmˌaː kˈunɛː pˈʌnɪ nˌəkɪnˈɪːkənˌɛː ɟˈaːncʰən ˈʌnɪ məlˈaːi dʰˈeːɾɛː ɾˈɪs ˈʊʈʰcʰə|0
+data/audio_24k/nepali_2901.wav|ɾˌaːʊɾəkˈeːlaː|0
+data/audio_24k/nepali_6350.wav|tˌəpaːĩlˈaːi cˈaːhɪnˌeː kˈaːɾəkˌoː pəɲɟˈɪːkəɾˌəɳ kˌaːɡəɟəpˈʌtɾə ɾə tˌəpaːĩkˈoː ʈʰˌeːɡaːnˈaːkoː pɾəmˈaːɳ hoː|0
+data/audio_24k/nepali_11229.wav|mˈɛːtɾi ˈeːksəpɾˌeːs|0
+data/audio_24k/nepali_21023.wav|ɡʰˈaːɡʰəɾˌaː|0
+data/audio_24k/nepali_22378.wav|nˌɪɟaːmaːbˈaːd, kaːcˈeːɡuɖˌaː ɖˈeːmu|0
+data/audio_24k/nepali_423.wav|ɡʰˈʌɾəkˌaː cˈaːkəɾˌəhəɾˌuː mˌaːjaːlˈaːi ˈaːdəɾˌə ɡəɾˈeːɾə ʈʰˈuːli mˈɛːjã bʰˈʌndəcʰˌən|0
+data/audio_24k/nepali_11597.wav|ˌʊnɪːhəɾˈuːleː səmˈaːptə ɡˈʌrrnəˌəɡʰɪ, cˈaːɾəɟˌənaː ɾˈʌə eːɟˈeːnʈəhˌəɾuːlˌeː ˌaːɪˌeːsəˌaːɪːlˈaːi bˈaːhɪɾˌə nɪkˈaːlcʰən ɾə ɡˈoːlɖəmmjˌaːnəlˌaːi bˈʌndʰəkˌə bˌənaːũcʰˈʌn|0
+data/audio_24k/nepali_10612.wav|hˈɪɟoː ɖˈeːlɪbʰˌəɾə ɡˌəɾɪˈeːkaː bʰãɖˈaːkũɖˈaːm mjˈaːd sˌəkɪˈeːkaː tʰˈɪeː|0
+data/audio_24k/nepali_15963.wav|mˈɛːleː hˈubʰu pʰɾˈeːs lˈoːʈəs sʈˈeːmə ˈʌrrɖəɾˌə ɡˈʌɾẽ ɾə tˈeːhɾə dˈɪnəpˌəcʰɪ pɾˈaːptə ɡˈʌɾẽ|0
+data/audio_24k/nepali_23913.wav|kˈaːŋɡɾeːs kəʈʈˌəɾəpˈʌntʰi sˌəmaːɟəwˈaːdi, pˌəɾəmpˌəɾaːwˈaːdi ɾə hˈɪndu ɾə mˈuslɪmˌə ˌənudˌaːɾˌəpəntʰˌɪːhəɾˌuːlaːˈiː ˈaːʃɾəjˌə dˈɪneː cʰˈaːtaː sˈʌŋɡəʈʰˌən tʰˈɪjoː|0
+data/audio_24k/nepali_11222.wav|ˈʌɾeː! ʈʰˌeːɡaːnˈaːkaː baːɾˈeːmaː jˈʌtɪ dʰˈeːɾɛː səmˈʌsjaː hũdˈaːhũdˈɛː pˈʌnɪ tˌəpaːĩlˈeː sˈʌhi stʰˈaːn pˈʌttˌoː lˌəɡaːɪcʰˈaːɖnuʲˌu bʰˈʌjoː tˈə!|0
+data/audio_24k/nepali_20221.wav|mə pˈʌnɪ tːjˈʌhi mˈaːncʰu, hoː|0
+data/audio_24k/nepali_18904.wav|kˈɔːɾəwˌə dˌaːɟubʰˈaːɪsˌɪt ˈʊni kˌəhɪleːkˈaːhĩ ʋjˌaːwəhˈaːɾɪkˌə ʈʰˈʌʈʈˌaːhəɾˌuː pˈʌnɪ ɡˈʌrrdətʰˌeː, ˈʊnəlˌeː ˌʊnɪːlˈaːi kustˈɪːmaː cunˈɔːti dɪˈeːɾə kustˈɪːmaː sənlˈʌɡnə ɡəɾˈaːi dʰˈeːɾɛː sˌəhəɟətˈaːkaː sˈaːtʰ həɾˈaːʊnˌeː ɡˈʌrrdətʰˌeː|0
+data/audio_24k/nepali_19551.wav|kˈeː jˈʌsəlˌeː kːjˌaːsəlˈeːs ɡjaːɾˈeːɟəkˌoː suwˈɪdʰaː sˈʌmmˌɪlɪt ɡˈʌrrcʰə?|0
+data/audio_24k/nepali_16487.wav|ʃəkˈuntəlˌaː ˈeːksəpɾˌeːs|0
+data/audio_24k/nepali_24526.wav|jˈoː pˈʌnɪ səmˈaːɟ sˈʌŋɡəʈʰˌən ɾə sudʰˈaːɾəmˌaː ˈʌlpə mˌəhəttwkˈoː kˈuɾaː hˈoinˌə|0
+data/audio_24k/nepali_22071.wav|ˈʌntəmˌaː, mə mˌaːpədˌəɳɖəənusˌaːɾˌə ˌʊnɪːhəɾˈuːkoː muːljˈaːŋkən ɡˈʌrrneː ɡˈʌrrtʰẽ|0
+data/audio_24k/nepali_21198.wav|ˈʌhoː! jˈoː kˈuɾaː tʰˈaːhaː paːˈeːɾə məlˈaːi sˈaːhɾɛː ɾˈaːmɾoː lˈaːɡjoː mə wɪʃˈeːʂ ɡˈʌɾi ˌaːɾaːmədˈaːji sˈoːpʰaː ˈʌnɪ ˈʌdʰjəjˌən ɡˈʌrrneː ɖˈaːɪnˌɪŋ ʈˈeːbəlˌəkoː kʰoːɟˈɪːmaː cʰˈu|0
+data/audio_24k/nepali_21135.wav|kəʃmˈɪːɾə ˌaːɪpuɡˈeːɾə, hˌɛːdəɾəlˈaːi sˈʌjjəd ɡˈuʈ nˈaːɟukˌəkoː sultˈaːnəkˌaː ɾˈuːpəmˌaː stʰˈaːpɪt ɡˈʌɾɪjˌoː|0
+data/audio_24k/nepali_657.wav|pɾˈɪtʰwˈɪːnaːɾˌaːjəɳ ʃˈaːhəkˌoː mɾˈɪtːjupˌəcʰɪ sˈaːʈʈʰˌiː wˈʌrrʂəmˌaː dˈeːʃ pˈʌʃʃcɪmˌəmaː ʃˈʌtəd ˌətʰəwˈaː sˌətəlˌəɟəsˈʌmmˌə ɾə puːrrwmˈaː sɪkkˌɪməsˈʌmmˌə wɪstɾˈɪt bʰˈʌjoː|0
+data/audio_24k/nepali_27296.wav|bʰˌənsaːlˈɪːleː pəhˈɪljɛː təjˈaːɾə ɡˌəɾɪˈeːkaː sˈeːʈəhˌəɾuː ɾə nˈʌɟɪkˌɛː ɾəhˈeːkoː cˌələcˈɪtɾəkˌoː tˌaːlɪkˈaːsɪt pɾɪjˈʌŋkaː cˌoːpəɖaːlˈaːi səmpˈʌrrkə ɡˈʌɾeː ɟˈoː jˈoː pʰˈɪlmə ɡˈʌrrnə ɾˈaːɟi bʰˈʌɪn|0
+data/audio_24k/nepali_20774.wav|bɪhˈaːɾə səmpˈʌrrkə kɾˈaːntɪ sˌupəɾəpʰˈaːsʈə ˈeːksəpɾˌeːs|0
+data/audio_24k/nepali_14757.wav|məlˈaːi cʰˈɪʈoː ɖuŋɡˈaːmaː tˈaːnnˌuhoːs nˈə, paːnˈɪːmaː tˈə ˈeːʊʈˌaː sˈaːrrkə ɾəhˈeːcʰə|0
+data/audio_24k/nepali_12912.wav|kˈeː mə mˈeːɾoː hˈoːmə lˈoːn sɪˈeːsəbˌiː bjˈaːŋkəmˌaː ˌaːɪsˌɪaːˌɪsɪˈaːi pəkˈeːʈ mˈaːrrpʰət pʰˈɪrrtaː tˈɪrrnə sˈʌkcʰu?|0
+data/audio_24k/nepali_10935.wav|duɾˈɪːkaː lˈaːɡɪ ɟˈʌmpɪŋ pɾˌətɪspərrdʰˈaːkoː pɾˌəstutɪːlˈaːi bˈoːrrɖə wˈaː mˈaːrrkəɾˌəbaːʈ mˈaːpən ɡəɾˈɪncʰə, ɾə jˈʌs cˌɪhnəlˈaːi wɪlˈʌŋɡʰən ɡˈʌrrneː kˈunɛː pˈʌnɪ kʰˌeːlaːɖˈɪːleː pʰˈaːʊl ɡəɾˈeːkoː maːnˈɪncʰə|0
+data/audio_24k/nepali_22936.wav|ˈʊni cˈʌndaː, ɟˈʌŋɡəlˌiː, ɟˈoːni mˈeːɾaː nˈaːmə pɾˈɪːtʰi mˈeːɾaː kˈaːmə ɾə ɟəjˈʌmmˌaːnaː mˈaːɡaː ɟˈʌstaː cˌələcˌɪtɾəhəɾˈuːmaː ˈaːpʰːnoː ˈʌbʰɪnˌəjəkˌaː lˈaːɡɪ pɾəkʰjˈaːt cʰˈʌn|0
+data/audio_24k/nepali_24696.wav|kˈeː mə pʰlˌɪpəkˈaːrrʈəkˌoː wˌeːbəsˈaːɪʈˌəmaː jˌupɪˈaːi ˈeːpəhˌəɾuː pɾəjˈoːɡ ɡəɾˈeːɾə bʰuktˈaːni ɡˈʌrrnə sˈʌkʂəmˌə hunˈeːcʰu?|0
+data/audio_24k/nepali_9870.wav|jˈoː plˌaːɪmˌaːʊtʰəbˈaːʈ bljˈaːkə ɾˈʌkə, pʰˌaːləmˌaːʊtʰəsˈʌmmˌəkoː sˈɪdʰaː dˈɔːɖ tʰˈɪjoː ɾə tːjˈʌsəpˌəcʰɪ plˌaːɪmˈaːʊtʰˌəmaː pʰˈʌrrkɪn pˈʌrrneː tʰˈɪjoː, ɟˈʌsəmˌaː lˈʌɡəbʰˌəɡ ˈeːkə sˈʌjə mˈaːɪlˌəkoː dˈuɾi tʰˈɪjoː|0
+data/audio_24k/nepali_2647.wav|bʰˈoːlɪ bɪhˈaːn ɡʰˈaːmə ɟʰulkˈeːkoː nəhˈeːɾi nˈʌhunˌeː ɾˈeː|0
+data/audio_24k/nepali_4884.wav|jˈʌsəkˌaː ˌətɪɾˈɪktə, bˌɪsɪsˌɪaːˈɪːleː pɾətːjˈeːkə wˈʌrrʂə mˈaːrrcə əpɾˈeːləkˌoː ˈʌwədʰˌɪmaː ˈɪnɖɪjˌən pɾˈɪmɪjˌəɾə lˈɪɡ, ɡʰəɾˈeːlu pʰɾˈeːncaːˌɪɟɪːmˌaː aːdʰˈaːɾɪt ʈwˈeːnʈi ʈwˈeːnʈi pɾˌətɪjˈoːɡɪtˌaː səɲcˈaːlən ɡˈʌrrcʰə ɾə jˈʌsəlˌeː ɾˈaːʂʈɾˌəmaː nˈɪkɛː loːkˈʌpɾɪjˌətaː paːˈeːkoː cʰˈə|0
+data/audio_24k/nepali_26791.wav|mə tˌəpaːĩlˈaːi ˈeːʊʈˌaː səlllˈaːhə dˈɪn sˈʌkcʰu|0
+data/audio_24k/nepali_26543.wav|ɟˈʌŋɡəlˌəkaː ɾˈukʰ bˌɪɾuwˈaːhəɾˌuː pˈʌnɪ ʈʰˈulaː ˌənɔːʈʰˌaːeːkˈaːːɾə aːkˈaːɾəkˌaː deːkʰˈɪntʰeː|0
+data/audio_24k/nepali_6425.wav|ˈʊni kˈʌtɪ wˈʌrrʂə kʰˈeːleː?|0
+data/audio_24k/nepali_13028.wav|ˈʊni sˈʌn əʈʰˈaːɾə sˈʌjə pɛ̃sˈʌʈʈʰˌɪːmaː ˈʊccˌə ʃˈɪkʂaː pɾˈaːptə ɡˈʌrrnə ɪŋljˈaːnɖə ɟˈaːnubʰˌəjoː ˈʌnɪ pəɖʰˈaːɪ ʃʌ̃ɡˈʌsəɡˌɛː kəwˈɪtaːhˌəɾuː pˈʌnɪ lˈeːkʰɪɾˌəhənˌubʰəjˌoː|0
+data/audio_24k/nepali_6934.wav|mə tˈə pˈʌllloː cʰˈeːʊkˌoː kːjˈaːbɪnˌəmaː bˈʌsnə nˈɪkɛː ˈʌsəhˌəɟ mˈʌhəsˌus ɡˌəɾɪɾəhˈeːkoː tʰˈɪeː, ɟˈʌhã mə kˈunɛː pˈʌnɪ cˌoːɾəhəɾˈuːkoː sˈʌɟɪlˌɛː lˈʌkʂjə hˈunˈə sˈʌktʰẽ ˈʌnɪ tːjˈʌhã kəsˈɛːkoː pˈʌnɪ səhˈaːjətˌaː pˈuɡneː səmbʰˈaːwənˌaː dʰˈʌɾɪ tʰɪˈeːnə nˈɪ|0
+data/audio_24k/nepali_2744.wav|kˈaːlɪɟ|0
+data/audio_24k/nepali_2664.wav|mˈɛːleː dˈeːkʰnə sˈʌkɪnˌʌ̃ jˌəsəlˈaːi ˈʌɟʰ ʊɟjˈaːloː pˌaːɾɪdˌɪnuhˈoːs|0
+data/audio_24k/nepali_23022.wav|bˌeːləpˈaːt|0
+data/audio_24k/nepali_4400.wav|jˈoː ɾˌeːsʈuɾˈeːnʈə kˌoːlaːhˌələpˈuːrrɳə cʰˈə, ʈʰˈaːũ ˈeːkədˌəmɛː ljˌaːŋəpʰjˈaːŋ cʰˈə, məlˈaːi jˈʌhã pˈʌsnə pəʈˈʌkkˌə mˈʌn pərrdˈɛːnə|0
+data/audio_24k/nepali_21151.wav|kˈʌhã ɟˈaːneː hoː?|0
+data/audio_24k/nepali_7175.wav|mˌɛːnaːdeːwˈiː, lˌəlɪtəsˈɪŋhə, ʃˈeːkʰəɾˌə, wɪːɳˈaːki pʰˈupuː sˈʌbɛː ʈʰˈuːloː bʰˌaːwənˈaːmaː pˈʌɾeː|0
+data/audio_24k/nepali_14050.wav|məlˈaːi tʰˈaːhaː cʰˈɛːnə tˌəpaːĩlˈeː kˈeː poː ɡˈʌrrnubʰˌəjoː tˈaɾə tːjˈoː ʈˈuppˌaː ʈˌoːkɪˈeːkoː kˈʌləmˌə tˈə ətːjˈʌntɛː bʰˈʌddˌaː dˌeːkʰɪˈeːkoː cʰˈə nˈɪ|0
+data/audio_24k/nepali_14587.wav|ɡˌoːləkˈoːɳɖaː kˈɪlllaː|0
+data/audio_24k/nepali_17869.wav|bʰuːwˈɛːɟɲaːnˌɪkəhˌəɾuːlˌeː paːlˈɪːmaː mˈaːncʰeːkˌoː bˌəsoːbˌaːsoːlˈaːi pɾˌaːɡɪtˌɪhaːsəsˈʌmmˌə pˈʌttˌaː ləɡˈaːeː ɾə pˈaːli wɪʃˈaːl pˈʌʃʃcɪmˌiː sˌəmudɾəbˈaːʈ nˌɪskɪˈeːkoː kˈuɾoː bətˈaːeː, ɟˈun wˌərrtəmˈaːn ɾˌaːɟəstʰˈaːnəkˌoː ʈʰˈuloː bʰˈaːɡəmˌaː pʰˌɛːlɪˈeːkoː tʰˈɪjoː|0
+data/audio_24k/nepali_6010.wav|ɾˈɪŋkuː sˈɪŋhəlˌeː əsʈɾˈeːlɪjˌən bˈeːsəbˌəl lˈɪɡ pɾˌətɪjˌoːɡɪtˈaːkoː ʊdɡʰˈaːʈən dˈui həɟˈaːɾə dˈʌs eːɡʰˈaːɾə sˈʌtɾə kːjˌaːnəbˈeːɾaː kːjˌaːbʰəlˌəɾɪːbˈaːʈ kʰˈeːleː|0
+data/audio_24k/nepali_7525.wav|təpˈaːĩ kˈɪn məlˈaːi mˈeːɾoː ʊmˈeːɾə səmɟʰˈaːɪɾˌəhənˌu hˈuncʰə?|0
+data/audio_24k/nepali_20871.wav|ɾˈaːkʰi pˈuːrrɳɪmˌaː|0
+data/audio_24k/nepali_17712.wav|mˈeːɾoː pˌəɾaːmˈʌrrʃə dˈɪneː ʋjˌəwəsˈaːjə pʰˌəsʈaːũdˈɛː cʰˈə, ɾə məʃˈʌ̃ɡ səmpˈuːrrɳə ɡɾˌaːhəkˌəhəɾˈuːkoː sˈuːci cʰˈə|0
+data/audio_24k/nepali_26366.wav|bˈoːʈ mˈeːl|0
+data/audio_24k/nepali_21311.wav|jˈʌs jˌoːɟənaːmˈaːtʰɪ kˈunɛː ɟˌaːnəkˈaːɾi cˌaːhɪˈeːmaː kɾˈɪpəjˌaː hˌaːmɪːlˈaːi kˈʌl ɡˌərrnuhˈoːlaː|0
+data/audio_24k/nepali_10013.wav|kʰˈurrpaː|0
+data/audio_24k/nepali_13332.wav|ˈoːhə ɾˈaːmɾoː, mə dʰˈeːɾɛː ʊtsˈaːhɪt cʰˈu|0
+data/audio_24k/nepali_9300.wav|pʰətˈeːhəpˌuɾə sˈɪkɾi|0
+data/audio_24k/nepali_15736.wav|ˌʊhãlˈeː səmbˈʌndʰɪt mˌəntɾaːlˌəjəhəɾˈuːsɪt ɡˈʌɾɪb kəljˈaːɳ jˌoːɟənˈaːkoː lˈaːbʰ lˌaːbʰaːrrtʰˌɪːhəɾuːsˈʌmmˌə sucˈaːɾuː ɾˈuːpəmˌaː purjˈaːʊn sunˈɪʃʃcɪt ɡˈʌrrneː ˈaːɡɾəhˌə ɡˈʌrrnubʰˌəjoː|0
+data/audio_24k/nepali_20459.wav|jˈʌdɪ pərrjˈaːptə swspʰˈuːrrtə sudʰˈaːɾə nˌəbʰəˈeːkoː kʰˈʌɳɖəmˌaː wɪdjˈaːləjˌə sˈuɾu hˈunuˌəɡʰɪ nˈɛː ˌʊpəcˌaːɾəbˈaːɾeː wɪcˈaːɾə ɡˈʌrrnuʲˌu mˌəhəttwpˈuːrrɳə cʰˈə|0
+data/audio_24k/nepali_21840.wav|ˌəleːeːkˈaːːɾəksˌaː, mˈeːɾoː səmpˈʌrrkə sˌuːcɪːbˈaːʈ bˈɪləkˌaː baːɾˈeːmaː ɟˌaːnəkˈaːɾi ˌʊpəlˈʌbdʰə ɡˌəɾaːˌʊnuhˈoːs|0
+data/audio_24k/nepali_20613.wav|mə ʊdbʰɾˈaːntə bˌəʈuwˈaː, nˌɪɾuddˈeːʃjə pˈʌtʰɪkˌə|0
+data/audio_24k/nepali_21934.wav|tɾɪwˈeːɳi ˈeːksəpɾˌeːs|0
+data/audio_24k/nepali_17172.wav|kəmˈɪnsə ˈɪnɖɪjˌaː ˈeːləʈˌɪɖi|0
+data/audio_24k/nepali_2346.wav|təpˈaːĩ sˈʌhəɾˌəkaː ʊtkɾˈɪʂʈˌə hˈaːsjə kˌəlaːkˌaːɾəhəɾˈuːkoː sˈaːtʰəmˌaː hĩɖˈʌɖul ɡˌərrnuhˈuncʰə bʰˈʌnnˌeː kuɾˈaːleː nˈɛː təpˈaːĩ kˈʌtɪ ˈʌsəl hˌunuhˈuncʰə bʰˈʌnnˌeː bˌətaːɪhˈaːlcʰə nˈɪ|0
+data/audio_24k/nepali_23575.wav|kˈɪl dˈɪləkˌoː səŋɡˈɪːt ʃˈʌŋkəɾˌə ˌeːhəsˈaːn lˈoːjə, ʃˈʌŋkəɾˌə mˌəhaːdˈeːwən, ˌeːhəsˈaːn nuɾˈaːni ɾə lˈoːjə meːnɖˈoːnsaː, dːwˈaːɾaː ɾˈʌcənˌaː ɡˌəɾɪˈeːkoː tʰˈɪjoː, ɟˈʌsəkˌoː ʃˈʌbdə ɡˌuləɟˈaːɾəkˌoː tʰˈɪjoː|0
+data/audio_24k/nepali_9507.wav|swcʰˈə bʰˈaːɾət mˈɪsən|0
+data/audio_24k/nepali_18388.wav|kˈeː məlˈaːi jˌəsəlˈaːi səmpˈaːdən ɡˈʌrrnə ənumˌətˌɪ dˈɪn səkˈɪncʰə?|0
+data/audio_24k/nepali_7573.wav|cˈeːnnˌəɪːbˌaːʈ dˈubəˌiː ɟˈaːneː mˈeːɾoː ʊɖˈaːnəmˌaː bʰəˈeːkoː ɖʰɪlˈaːɪlˌeː məlˈaːi dˈukʰi bənˈaːjoː kˈɪnəbʰˌəneː mˈɛːleː waːsˈɪŋʈən ɟˈaːneː kənˈeːkʈɪŋ ʊɖˈaːn ɡˌumaːˌʊnupərjˈoː|0
+data/audio_24k/nepali_8863.wav|sˈʌn ˈʊnnˌaːɪs sˈʌjə ˌəʈʰaːsˈɪːmaː ˈaːpʰːnoː mɾˈɪtːju hˈunuˌəɡʰɪ ˈʊnəlˌeː ˈaːpʰːnaː cʰˈoːɾaː ɾˈɪʂɪ ɾə pˌaːkɪstˈaːni ˌəbʰɪnˈeːtɾi ɟˈeːbaː bˌəkʰtɪjˈaːɾəkˌoː ˈʌbʰɪnˌəjəmˌaː hɪnˈaːkoː nɪrrdˈeːʃən ɡˈʌrrneː təjˈaːɾi ɡəɾˈeːkaː tʰˈɪeː|0
+data/audio_24k/nepali_15615.wav|kʰˌeːlaːɖˌɪːhəɾˈuːleː ɟˈɪtnəkˌaː lˈaːɡɪ lˌaːɡuˈʌʊʂədʰ pɾəjˈoːɡ ɡəɾˈeːkoː dˈeːkʰdaː sˈaːhɾɛː dˈukʰˌə lˈaːɡcʰə|0
+data/audio_24k/nepali_21806.wav|jˈiː sˈʌbɛː sˌəŋkɾəmˌɪtəhˌəɾuːlˈaːi sˌɪləɡəɖʰˈɪːkoː duˈɪːwəʈˌaː koːɾˈoːnaː ˌəspətˌaːləhəɾˈuːmaː bʰˈʌrrti ɡˌəɾaːɪˈeːkoː cʰˈə ˈʌnɪ ˌʊnɪːhəɾˈuːkoː səmpˈʌrrkəmˌaː aːˈeːkaː mˌaːnɪsˌəhəɾuːlˈaːi ˌeːkaːntəwˈaːsəmˌaː ɾˈʌhənˌeː səlllˈaːhə dˌɪɪˈeːkoː cʰˈə|0
+data/audio_24k/nepali_5325.wav|ɾˈoːməkˌaː ɾˌeːsʈuɾˈeːnʈəhˌəɾuːkˌaː lˈaːɡɪ ɡˈaːɪɖˌəbukˌəkaː sɪpʰˈaːɾɪsˌəhəɾˌuː nˌɪɾaːʃˈaːɟənˌəkə sˈaːbɪt bʰˈʌeː|0
+data/audio_24k/nepali_14491.wav|tˌəpaːĩlˈeː məlˈaːi pˈãc mɪnˈeːʈəmˌɛː wɪwˈaːhə ɡərrnˈaːkaː lˈaːɡɪ pərrjˈaːptə ɾˈuːpəmˌaː ɾˈoːcəkˌə pˈaːʊnˌubʰəjˌoː, mə wɪʃwˈaːsɛː ɡˈʌrrnə sˈʌkdɪnˌʌ̃|0
+data/audio_24k/nepali_10861.wav|bˈaːndʰəwˌəɡəɖʰ ɾaːʃʈɾˈɪːjə nɪkˈuɲɟə|0
+data/audio_24k/nepali_7364.wav|tˈɪɾupˌətɪ, ˌəməɾˈaːwətˌiː ˈeːksəpɾˌeːs|0
+data/audio_24k/nepali_6649.wav|mə jˈoː sˈʌhən sˈʌkdɪnˌʌ̃ kˈɪ kˈʌsəɾˌiː sˈeːjəɾˌə bəɟˈaːɾəlˌeː wˌɪʃeːʂˌaːdʰɪkˈaːɾə pɾˈaːptə tʰˌoːɾɛːlˈaːi səmˈʌrrtʰən ɡˈʌrrdəcʰˌə ɾə jˈʌsəlˌeː məlˈaːi kɾˈoːdʰɪt bˌənaːũcʰˈə|0
+data/audio_24k/nepali_16031.wav|bjˈaːŋkə lˈʌkəɾˌəkaː jˈʌtɪ dʰˈeːɾɛː lˈaːɡɪ pˈɛːsaː dɪˈeːɾə pˈʌnɪ tːjˈoː koːʈʰˈaːkoː əwˈʌstʰaː hˈeːrrnuhˌoːs tˈə! pˈʌsnɛː ɖˈʌɾə lˈaːɡneː pʰˈeːɾɪ kˈʌstoː nˈʌmɪʈʰˌoː ɡˈʌndʰə aːˈeːkoː! mə tˈə pˈʌsnɛː sˈʌktɪnˌʌ̃|0
+data/audio_24k/nepali_11006.wav|ɖˈaːləmˌɪjaː bʰˈaːɾət ˈeːləʈˌɪɖi|0
+data/audio_24k/nepali_20075.wav|ɡɾˈɪhɪɳˌɪːhəɾˌuːleː dˈɪnəbʰˌəɾɪ ɡəɾˈeːkoː kˈaːməkˌoː pərrjˈaːptə ɟjˈaːlaː kˈɪn nˌəpaːˈeːkaː hoːlˈaːn nˈɪ? məlˈaːi kˌoːhɪːbˈeːlaː sˈaːhɾɛː dˈukʰˌə lˈaːɡcʰə|0
+data/audio_24k/nepali_15486.wav|kˈeː jˈoː hˈeːlpəlˌaːɪn nˈʌmbəɾˌə sˈʌbɛː sˈʌməjˌəmaː ˌʊpəlˈʌbdʰə hunˈeːcʰə?|0
+data/audio_24k/nepali_5953.wav|ɖubˈulki mˈaːrrnə təjˈaːɾə pɾˈeːmaː ɖˈaːɪbʰˌɪŋ bˈoːrrɖəmˌaː ˌʊbʰĩdˈaː ˈʊnəkˌaː kʰˈuʈʈˌaː tʰˈʌɾətʰˌəɾə kãpˈeː|0
+data/audio_24k/nepali_25905.wav|tːjˌəsəbaːhˈeːkə pˈulɪsˌəkaː ənˈeːkə kˌərrməcaːɾˈɪːhəɾˌuː kˈoːʈʰaː ɡʰeːɾˈeːɾə bəsˈeːkaː cʰˈʌn|0
+data/audio_24k/nepali_485.wav|ˈeː, tˌəpaːĩlˈaːi dʰˌənjəwˈaːd, kˈʌɾə sˈʌnɾəcˌənaː ʌbˈə mˈɛːleː spˈʌʂʈˌə ɾˈuːpəmˌaː bˈuɟʰẽ|0
+data/audio_24k/nepali_11923.wav|təpˈoːwən ˈeːksəpɾˌeːs|0
+data/audio_24k/nepali_15683.wav|ɡoːwˈɪndə pˈʌʃu wɪhˈaːɾə wˌənjəɟˈʌntu ˌəbʰəjaːɾˈʌɳjə|0
+data/audio_24k/nepali_14344.wav|ɟˈɪʈɪˌeː kʂˈeːtɾəmˌaː kɾˈɪʂəkˌə dˌaːɟubʰˌaːɪhˌəɾuːlˈaːi pɾˈoːtsaːhˌən pɾədˈaːn ɡˈʌrrnə ɡɾˈaːmə pəɲcˈaːjətˌəleː kˈeːhi sˈʌhəlˌujɪt pɾədˈaːn ɡˈʌrrnuʲˌu pˈʌrrneː stʰaːnˈɪːjə kɾˈɪʂəkˌəwərrɡˌəleː məntˈʌwjˈə poːkʰˈeːkaː cʰˈʌn|0
+data/audio_24k/nepali_1278.wav|wˈaːhə! ɟˈʌb kˈʌmpːjuʈˌəɾəmˌaː pɾˈoːɡɾaːmˌɪŋəkˌoː kˈuɾaː ˌaːũcʰˈə təpˈaːĩ sˈaːhɾɛː pɾˌətɪbʰaːʃˈaːli hˌunuhˈuncʰə|0
+data/audio_24k/nepali_17538.wav|bʰˈeːncəɾˌə kːjˈaːpɪʈˌəl ˌeːsɪsʈˈeːnsə skˈɪmə|0
+data/audio_24k/nepali_25577.wav|mːjˈaːkɾoːʈˌeːkə ɖˌeːbʰələpˈʌrrsə ˈeːləʈˌɪɖi|0
+data/audio_24k/nepali_9819.wav|tːjəsˈɛːleː wˈeːdəmˌaː bʰˌənɪˈeːkoː cʰˈə, tˈʌd wˌɪɟɲaːnˈaːrrtʰən sˈə ɡˈuɾum ˈeːwə ˌəbʰɪɡəccʰˈeːt|0
+data/audio_24k/nepali_1441.wav|kˈeː tːjˈʌhã pˌɪnəkˈoːɖ pˈãc sˈaːt ʃˈuːnjə tˈɪn tˈɪn tˈɪn bʰəˈeːkoː kʂˈeːtɾə nˈʌɟɪkˌɛː kˈunɛː ˌɪeːsəˈaːɪsˌiː kˈeːndɾə pɾəkˈaːɾə ɖˌaːjəɡnˈoːsʈɪkˌə sˈeːnʈəɾˌə cʰˈə?|0
+data/audio_24k/nepali_5219.wav|ɟˌəjəmˈʌŋɡəlˌiː|0
+data/audio_24k/nepali_11490.wav|bʰənˈeːpəcʰˌɪ mə tːjˈʌhã ɟˌaːnupˈʌrrcʰə|0
+data/audio_24k/nepali_19004.wav|ˌənɖəmˈaːn ɾə nˌɪkoːbˈaːɾə ʈˌaːpuhəɾˈuːmaː ˌʊʂɳəkˌəʈɪbəndʰˈɪːjə wərrʂˈaːwən cˌəndəwˈaː cʰˈə, ɟˈun mˈɪʃɾɪt wˌənəspˌətɪbˈaːʈ bənˈeːkoː cʰˈə, ɟˈʌsəmˌaː bʰˌaːɾətˈɪːjə, mːjˌaːnəmˈaːɾə, mˌəleːsɪjˈaːli ɾə stʰaːnˈɪːjə pˈuʂpəkˌaː ˌʊpəbʰˈeːdəhˌəɾuː cʰˈʌn|0
+data/audio_24k/nepali_16068.wav|bʰˈaːɾətˌəmaː kˈul tˈɪn lˈaːkʰ eːɡʰˈaːɾə həɟˈaːɾəɟˌənaː swdˈeːʃi sˈɛːnɪkˌə, cˈaːlɪs həɟˈaːɾə, ˈeːkə sˈʌjə, saːʈʰˈɪːɟənˌaː bɾˈɪʈɪs sˈɛːnɪkˌə ɾə pˈãc həɟˈaːɾə, tˈɪn sˈʌjə, bɛːsˈʌʈʈʰˌɪːɟənˌaː ˈʌpʰɪsˌəɾə tʰˈɪeː|0
+data/audio_24k/nepali_1512.wav|ˈʊnəlˌeː kːjaːjˈoːɖuː kˈaːi, ˈʊlllaː kˈʌɖətʰˌəl ˈʌnɪ pəcˈaːi nɪɾˈaːmeː ɡˈʌɾi tˈɪnəwˌəʈaː cˌələcˈɪtɾəmˌaː nˈaːjəkˌəkoː bʰˈuːmɪkˌaː nɪrrwˈaːhə ɡəɾˈeːkaː cʰˈʌn|0
+data/audio_24k/nepali_13755.wav|hˌeːɡəɖˈeːkoː dˈoːsɾoː pʰˈɪlmə ɾˈɪlɪɟ bʰˈʌjoː, tˈeːluɡˌu pʰˈɪlmə ˈoːkaː lˈɛːlaː kˈoːsəmˌə, ɟˈʌsəmˌaː ˈʊnəkˌoː wˌɪpəɾˈɪːt bʰˌuːmɪkˈaːmaː nˈaːɡaː cɛːtˈʌnjə cʰˈʌn|0
+data/audio_24k/nepali_21370.wav|bjˈunəs aːjˈʌrrsəmˌaː ˈeːkə sˈʌjə pˈʌccˌɪsɔ̃ ˌaːɪˈoːsi sˈʌtɾəmˌaː, ˌaːɪoːsˈɪːleː skwˈaːs wˈaː bˈeːsəbˌəl, sˈʌpʰʈəbˌələkˌoː sˈʌʈʈˌaː kustˈɪːkaː lˈaːɡɪ mˌətədˈaːn ɡərjˈoː|0
+data/audio_24k/nepali_15964.wav|ˈeːʊʈˌɛː ʈʰˈaːũ sˈaːɟʰaː ɡˈʌrrnuʲˌu ɾə ˈʊcɪt sˌəɾəsəpʰˈaːɪ nˈʌhunˌuleː haːmˈɪːmaː bʰˈʌjə ʊtpˈʌnnˌə ɡˌəɾɪɾəhˈeːkoː cʰˈə, kˈeːwəl kˈoːbʰɪɖˌəkoː wɪstˈaːɾə hˈoinˌə tˈaɾə ˈʌnjə ɾˌoːɡəhˌəɾuːbˈaːɾeː pˈʌnɪ|0
+data/audio_24k/nepali_5210.wav|ɡˈuɡəlˌəleː dˈaːbi ɡˌəɾeːənusˌaːɾˌə ˌədʰɪkˈaːnʃ bˈɪkɾi ˌənubˌəndʰˌəhəɾˈuː jˈʌsəkˌaː ɖˈʌblɪn kˈaːrrjaːlˌəjəhˌəɾuːmˌaː bˈʌndə ɡˌəɾɪˈeːkaː cʰˈʌn|0
+data/audio_24k/nepali_20575.wav|cʰˈə, cˈɪkən kˈʌɾi ɾə bʰˈaːt nˈɪkɛː ɾˈaːmɾoː cʰˈə|0
+data/audio_24k/nepali_4202.wav|tˌəpaːĩlˈeː dʰˈeːɾɛː cˈɪɟəhˌəɾuː nɪʃˈulkə wˈaː ʊdʰˈaːɾoː pˈʌnɪ lˈɪn sˌəknuhˈuncʰə, pˈustəkˌə, cˌələcˈɪtɾə, ɾə sˈɪɖi tˌəpaːĩkˈoː stʰaːnˈɪːjə pˌustəkˌaːləjəbˈaːʈ nɪhʃˈulkə wˈaː bʰaːɖˈaːmaː lˌɪnuhˈoːs!|0
+data/audio_24k/nepali_9392.wav|ˈʌdʰɪkˌə ˈaːrrdɾə puːrrwˈiː ədʰˈɪtːjəkˌaː ˈaːrrdɾə pˈʌtəɟʰˌəɖi wˌənəhəɾˈuːleː ɾˈaːɟjəkˌoː puːrrwˈiː bʰˈaːɡəmˌaː ɾəhˈeːkaː puːrrwˈiː ɡʰˈaːʈəhˌəɾuː ɖʰˈaːkcʰən|0
+data/audio_24k/nepali_19283.wav|kˈeː tːjˈʌhã cˈaːɾə, pˈãc, sˈaːt, dˈui, tˈɪn, ˈeːkə pˌɪnəkˈoːɖ bʰəˈeːkoː kʂˈeːtɾə nˈʌɟɪkˌɛː kˈunɛː ˌɪeːsəˈaːɪsˌiː kˈeːndɾə pɾəkˈaːɾə ɖˌaːjəɡnˈoːsʈɪkˌə sˈeːnʈəɾˌə cʰˈə?|0
+data/audio_24k/nepali_13812.wav|ˌəlpəkˈaːləmˌaː mˈaːjaː kˌeːtəlˈɪːmaː cˈɪjaː lɪˈeːɾə pʰˈʌrrki pˈʌcʰɪ pˈʌcʰɪ ɾˈaːmeː cʰˈə|0
+data/audio_24k/nepali_25883.wav|pʰɾˈaːnseːlˌiː sˈɛːnɪkˌə ˌədʰɪkˌaːɾɪːhəɾˈuːleː mˌəɾaːʈʰˈaːkoː ʃˌəktɪlˈaːi pəɾˈaːstə ɡˈʌrrnə sˈʌkcʰən ɾə bʰˈaːɾətˌəmaː pʰɾˈaːnseːlˌiː mˌəhəttwˈaːkaːŋkʂˌaː bəɖʰˈaːʊn mˈuɡəl səmɾˈaːʈəkˌoː ˌəkʰtɪjˈaːɾə pɾəjˈoːɡ ɡˈʌrrnə sˈʌkcʰən bʰˈʌnnˌeː beːlˈaːjətˌiː mˈaːnɪsˌəhəɾˌuː ɖˌəɾaːˈeːkaː tʰˈɪeː|0
+data/audio_24k/nepali_19985.wav|tːjˈʌsəkˌoː smˈɪt ənumˌaːn mˈʌlɪn cʰˈə tˈaɾə tːjˈʌsəlˌeː tːjˈoː maːlˈɪnjə ɡaːmbʰˈɪːrrjəkˌoː ˈaːwəɾˌəɳəlˌeː cʰˈoːpneː cˈeːʂʈˌaː ɡərrdˈɛːcʰeː|0
+data/audio_24k/nepali_5225.wav|ˌaːmaːbˈaːbukˌaː lˈaːɡɪ ɾˌaːkʰɪˈeːkaː kˈaːrrjəkɾˌəməhˌəɾuː ˈʊnnˌaːɪs sˈʌjə ˈʌssˌɪːkoː dˈʌʃəkˌəmaː wˈɪkəsˌɪt ɡˌəɾɪˈeːkaː tʰˈɪeː ɾə dˌuɪːdˈeːkʰɪ tˈɪn ɡʰˈʌnʈaː lˈaːmoː ˈeːʊʈˌaː bˈʌndə bˈɛːʈʰəkˌəkaː ɾˈuːpəmˌaː hˈuntʰeː|0
+data/audio_24k/nepali_21759.wav|bˈʌksɪŋ ɖˈeː, kɾˈɪsəmˌəsəkˌoː bʰˌoːlɪpˈʌlʈə, sˈʌn əʈʰˈaːɾə sˈʌjə ˌeːkəhˈʌttˌəɾəmˌaː tʰˌəpɪˈeːkoː tʰˈɪjoː|0
+data/audio_24k/nepali_6087.wav|sɪmˈaːnaː|0
+data/audio_24k/nepali_23469.wav|tːjˈʌs ɟˈʌɡɡˌaːmaː sˈʌmətˌəl bʰˈuːmɪ cʰˈə bʰˈʌnnˌeː nˈɪʃʃcɪt ɡˌərrnuhˈoːs, ˈʌnjətʰˌaː tˌəpaːĩlˈeː jˌəsəlˈaːi səmmjˈaːʊnˌu pərrnˈeːcʰə|0
+data/audio_24k/nepali_23979.wav|ɾəŋɡˈuːnəmˌaː kˌubɪːɾəmˈaːn ɾˈaːi dˈuɪ wˈʌrrʂə saːhˈeːbəkˌoː cˌaːkəɾˈɪːmaː ɾˈʌhjoː|0
+data/audio_24k/nepali_18757.wav|tˈaɾə pɾˌətɪbʰˈaːleː mˈeːɾaː lˈaːɡɪ ˈaːjə ˈaːrrɟən ɡˌəɾaːˌɪɾəhˈeːkoː cʰˈɛːnə|0
+data/audio_24k/nepali_7793.wav|hˈoinˌə, jˈʌsəmˌaː cʰˈɛːnə|0
+data/audio_24k/nepali_9299.wav|hˈaːi! hˈaːmi bɪɟˈaːpuɾˌə ɡˌəɪɾəhˈeːkaː cʰˈɔ̃|0
+data/audio_24k/nepali_4036.wav|ʊnˈɪːhəɾˌuː kˈɛːjɔ̃ dˈɪn wˈaː wˈʌrrʂəkˌaː lˈaːɡɪ ˈʌpəhˌəɾɪt tʰˈɪeː, tːjˌəsəkˈaːɾəɳ ˌʊnɪːhəɾˈuːleː kɾˈɪhˈʌləntˈəʂɳəʃˌʌ̃ɡ wˈɪnti ɡˈʌɾeː, hˌaːmɪːlˈaːi ˈaːpʰːnoː pɪtˈaːleː pˈʌnɪ swˈɪːkaːɾˌə ɡˈʌrrnuhˌuneː cʰˈɛːnə nˈə tˈə kˈunɛː ʋjˈʌktɪ hˌaːmɪːʃˈʌ̃ɡ wɪwˈaːhə ɡˈʌrrnə ɾˈaːɟi hunˈeːcʰən|0
+data/audio_24k/nepali_3222.wav|paːbˈoːŋ|0
+data/audio_24k/nepali_1598.wav|ɟˌəlnaːbˈaːʈ ʈɾˈeːn kˈʌtɪ bˈʌɟi cʰˈuʈcʰə|0
+data/audio_24k/nepali_18220.wav|bwˈãsˈoː|0
+data/audio_24k/nepali_8834.wav|təpˈaːĩ kˈʌstoː hˌunuhˈuncʰə|0
+data/audio_24k/nepali_6699.wav|mˈukʰjə nɪwˈaːcən aːjˈuktə sˈunɪl ˌəɾoːɖˈaːleː pɾˈɔːdjoːɡˌɪkɪːkˌoː mˌəhəttwpˈuːrrɳə bʰˌumɪkaːmˈaːtʰɪ ɟˈoːɖ dˈɪnubʰˌəjoː|0
+data/audio_24k/nepali_11997.wav|ʈʰˈaːũ ʈʰˌaːũmˈɛ̃ ʊpˈaːjəhˌəɾuː suɟʰˈaːʊnˌu mˈeːɾoː kˈaːmə hˈoinˌə nˈɪ|0
+data/audio_24k/nepali_3820.wav|ˈʊttˌɪs|0
+data/audio_24k/nepali_25990.wav|jˈiː tɪnˈɛːwəʈˌaː jˌəntɾəlˈaːi pˈaːɪp lˌaːɪnˌəhəɾuːdːwˈaːɾaː ɾˈaːɟjəbʰˌəɾɪ ɟəɖˈaːn ɡˌəɾɪnˈeːcʰə|0
+data/audio_24k/nepali_26537.wav|cʰˈɛːnə, mˈɛːleː heːɾˈeːkoː cʰˈuɪnˌʌ̃|0
+data/audio_24k/nepali_291.wav|sɪjˈaːlədˌəhə, njˈu dˈɪllli duɾˈoːntoː ˈeːksəpɾˌeːs|0
+data/audio_24k/nepali_1266.wav|kˈeː mə pˌɪnəkˈoːɖ ˈeːkə cˈaːɾə cʰˈə tˈɪn dˈui cˈaːɾə nˈʌɟɪkˌɛː kˌoːbʰɪsˈɪlɖə kʰˈoːp lˈɪn sˈʌkcʰu|0
+data/audio_24k/nepali_10710.wav|məlˈaːi dʰˈoːti pˈʌnɪ kˌəpaːsəbˈaːʈ bənˈɪncʰə ɟˈʌstoː lˈaːɡcʰə|0
+data/audio_24k/nepali_3635.wav|pˈʌhɪlˌoː ʃɾeːɳˈɪːkoː bˌudːdʰɪmˈaːn mˈaːnɪs bənnˌuhˈoːs|0
+data/audio_24k/nepali_10802.wav|ɟˈeː hˈoːs, dʰˈoːti ɾə kurrtˈaːleː dˌuləhaːlˈaːi ˈeːʊʈˌaː sˈundəɾˌə ɾˈuːp dˈɪncʰə|0
+data/audio_24k/nepali_23578.wav|mˈaːncʰeː hˌoːʃɪjˈaːɾə tʰˈɪjoː|0
+data/audio_24k/nepali_16758.wav|ɾˈeːpkoː pʰˌaːɪnˈeːnsəlˌaːi lˈoːn ˌɪeːməˈaːi tˌɪrrnuhˈoːs|0
+data/audio_24k/nepali_10746.wav|hˌəstəkʂˈeːpəkˌaː lˈaːɡɪ dʰˌənjəwˈaːdəswɾˈuːp, ˈʊnəlˌeː məhˈaːdəɟˌiː sˌɪndeːlˈaːi wˈʌkɪl ˈʊl mˈutəlˌəkə ɾə ˈʌmɪɾˌə ˈʊl ˌəmaːɾˈaːkoː ʊpˈaːdʰɪ dˈɪeː|0
+data/audio_24k/nepali_7819.wav|duwˈɛː bʰˈʌlɪbˌəl ɾə njukˈʌmbə bˈʌl, ɟˈʌbəkˌɪ puɾˈaːnaː kʰˈeːləhˌəɾuː hˈun, ɟˈʌsəkˌoː tʰɾˌoːbələʃˈʌ̃ɡ dʰˈeːɾɛː sˈaːɟʰaː sˌəmaːnətˈaːhəɾˌuː cʰˈʌn|0
+data/audio_24k/nepali_20263.wav|hˈaːmi cˌəndɾəmˈaːmaː tʰˈɪjɔ̃ ɟˈʌb haːmˈɪːleː ˈeːkə ɡˈuptə ɡɾˌaːhəkəbˈaːʈ sˌəkaːɾˈaːtməkˌə pɾətˈɪkɾɪjˌaː pɾˈaːptə ɡərjˈɔ̃ ˈʊni tˈə ˈeːkə saːmˈaːɟɪkˌə səɲɟˈaːl pɾˌəbʰaːwəkˈʌrrtaː poː ɾəhˈeːcʰən|0
+data/audio_24k/nepali_243.wav|pʰˈoːksoː|0
+data/audio_24k/nepali_21072.wav|ɡˌədənaːnˈaːtʰɪ|0
+data/audio_24k/nepali_17664.wav|dːwˈaːɾəkˌaː ˈeːksəpɾˌeːs|0
+data/audio_24k/nepali_26434.wav|sˈʌn dˈui həɟˈaːɾə əʈʰˈaːhɾə pɾˈoː kəbˈʌɖɖˌiː lˈɪɡəkˌoː cʰˈɛːʈɔ̃ sˈʌnskəɾˌəɳ hoː ɾə jˈʌsəmˌaː bˈaːhɾə wˈʌʈaː ʈˈɪməkˌoː sˌəhəbʰˈaːɡɪtˌaː ɾəhˈeːkoː cʰˈə|0
+data/audio_24k/nepali_16185.wav|haːmˈɪːleː nɪɾˈʌntəɾˌə ɾˈuːpəmˌaː ˈaːpʰːnaː lˈʌkʂjəhˌəɾuː pˈuɾaː ɡˈʌrrdɛː aːˈeːkaː cʰˈɔ̃ ˈʌnɪ kˈeːhi ˈʌsəl pˌəɾɪɳˈaːməhˌəɾuː dˈeːkʰnə tʰaːlˈeːkaː cʰˈɔ̃|0
+data/audio_24k/nepali_26242.wav|kʰˈaːsəmˌaː jˈoː ˌənəlˈaːɪn wˈaːjəɾˌə ʈɾˈaːnsəpʰˌəɾə kˈeː hoː?|0
+data/audio_24k/nepali_24625.wav|pˈuɳeː, kˌaːɟɪpˈeːʈ wˈɪkli sˌupəɾəpʰˈaːsʈə ˈeːksəpɾˌeːs|0
+data/audio_24k/nepali_21764.wav|dˈuːdʰnə|0
+data/audio_24k/nepali_8398.wav|kˈeː tˌəpaːĩʃˈʌ̃ɡ kˈunɛː sɪpʰˈaːɾɪs cʰˈə?|0
+data/audio_24k/nepali_20627.wav|mˌoːhɪnɪːjˈʌʈʈˌəmə|0
+data/audio_24k/nepali_26787.wav|sˈʌɾə, tˌəpaːĩlˈeː jˌəhãbˈaːʈ pˌəkəwˈaːn cˈʌjən ɡˈʌrrnuʲˌu pˈʌrrcʰə|0
+data/audio_24k/nepali_22367.wav|tˌeːləŋɡaːnˈaːmaː wɪbʰˈɪnnˌə pɾˈaːtʰəmˌɪkə tˈʌtʰaː mˈaːdʰjəmˌɪkə wˌɪdjaːlˌəjəhəɾˈuːkaː sˈaːtʰ ˈʊccˌə ʃˈɪkʂaː wɪʃwwˈɪdjaːlˌəjəkˌaː wɪbʰˈɪnnˌə sənstʰˈaːnəhˌəɾuː cʰˈʌn|0
+data/audio_24k/nepali_13291.wav|ˌʊnɪːhəɾˈuːleː pʰoːhˈoːɾə nɪɾˈaːkəɾˌəɳ ɾə ɡəlllˈɪːkaː kˌunaːhəɾˈuːmaː hˈuneː əwˈɛːdʰ nˌɪʂkaːsˌənəmˈaːtʰɪ kˈeːhi ɡˈʌrrneː bˈaːcaː ɡˌərrnupˈʌrrcʰə|0
+data/audio_24k/nepali_6354.wav|bˈʌɖʰdoː ɾaːɟˈʌsw ɡʰˌaːʈaːmˈaːtʰɪ wˈɪɟəjˌə pˈaːʊn ˌədʰɪkˌaːɾɪːhəɾˈuːleː dɪlˈɪːpəsˌəhɪt ˌədʰɪkˈaːnʃ kˌaːmədˌaːɾəlˈaːi nɪkˈaːldɛː səɲjˈʌntɾə bˈʌndə ɡˈʌɾeː|0
+data/audio_24k/nepali_19192.wav|tˌɪɾumˈaːlaː ˈeːksəpɾˌeːs|0
+data/audio_24k/nepali_21230.wav|ɾɪbʰˈʌlbʰəɾˌə ɾaːnˈɪːkoː sˌaːʊnɖəʈrrjˈaːkə ˌəpəɾˌəmpəɾˈaːɡət cʰˈə ɾə dʰˈeːɾɛː hˌədəsˈʌmmˌə pɾˌəjoːɡˈaːtməkˌə cʰˈə|0
+data/audio_24k/nepali_15004.wav|tˈaɾə pˈʌnɪ, tːjˈʌhã wɪʃˈeːʂ ɡˈʌɾi juwˈaː wˌəjəskˌəhəɾˈuːkaː lˈaːɡɪ ˈʌɟʰɛː pˈʌnɪ ˈʌlɪkˌə ʊdˈaːsɪlˌoː ɾə bˈoːɾɪŋ kˈaːmə ɡˌərrnupˈʌrrneː hˈuncʰə|0
+data/audio_24k/nepali_6815.wav|ʈˈuɾɪŋ bɾˌeːkəɖˈaːʊn ˌəsɪsʈˈeːnsə ˌeːsoːsɪˈeːsənˌəkaː ənusˌaːɾˌə bˈeːlɟɪjˌəməmˌaː mˌəŋɡələbˈaːɾə bɪhˈaːnəkˌoː bʰˌɪɖəbʰˈaːɖəkˌoː sˈʌməjˌəmaː ˈeːkə həɟˈaːɾə cʰˈə sˈʌjə kˌɪloːmˌɪʈəɾəbʰˈʌndaː bˈʌɖʰi ʈɾˈaːpʰɪkˌə ɟˈaːmə bʰəˈeːkoː tʰˈɪjoː|0
+data/audio_24k/nepali_20998.wav|cʰjˈaː, tːjˈoː ɡˈɪːtəkˌaː bˈoːl jˈʌtɪ sˈʌtəhˌiː ɾə ˌərrtʰəhˈɪːn cʰˈʌn nˈɪ kəsˈɛːleː sˈunlaː ɟˈʌstoː tˈə məlˈaːi pəʈˈʌkkˌɛː laːɡˈeːn|0
+data/audio_24k/nepali_5742.wav|pʰˈeːɖəɾˌəl bjˈaːŋkəlˌeː pˈãc wˌərrʂəbʰˈʌndaː mˈaːtʰɪkˌaː mɪjˈaːdi ɟˈʌmmˌaːmaː pˈãc dˈʌʃəmˌələwˌə sˈaːt, pˈãc pɾˈʌtɪʃˌət bjˈaːɟ dˈɪneː bʰəˈeːkoː cʰˈə|0
+data/audio_24k/nepali_8410.wav|mˈɛːleː bjˈaːŋkɪŋ kʂˈeːtɾəmˌaː ˈɪɟɟˌət ɡˈʌrrneː mˌaːnɪsˌəhəɾˈuːleː ʈʰəɡˈeːkaː tʰˈɪeː bʰənˈeːɾə tʰˈaːhə paːˈeːpəcʰˌɪ mə nɪɾˈaːʃ bʰˈʌẽ|0
+data/audio_24k/nepali_14718.wav|bʰɾˈuːɳ|0
+data/audio_24k/nepali_2476.wav|sˈɪŋhəɡˌəɖ ˈeːksəpɾˌeːs|0
+data/audio_24k/nepali_3594.wav|tˌəpaːĩlˈeː kˈeːwəl ˈeːʊʈˌaː aːwˈeːdən bʰəɾˈeːɾə bˌuɟʰaːˌʊnupˈʌrrcʰə|0
+data/audio_24k/nepali_22208.wav|tˈaɾə ʋjˌaːwəhˈaːɾɪkˌə sˌərrtəhəɾˈuːmaː, ˈʌntɪmˌə kʰˈeːləmˌaː, ɾˈaːɟaː ˈeːʊʈˌaː lˌəɖaːĩkˈoː ˈʌnʃəkˌaː ɾˈuːpəmˌaː saːmˈaːnjətˌəjaː bˈɪsəp wˈaː nˌaːɪʈəbʰˈʌndaː bˈʌɖʰi ʃˌəktɪʃˈaːli hˈuncʰə tˈaɾə ɾˌukəbʰˈʌndaː kˈʌmə ʃˌəktɪʃˈaːli hˈuncʰə|0
+data/audio_24k/nepali_17811.wav|ʃɛːlˈɪːkaː aːdʰˈaːɾəmˌaː, tˈʌl ləɖˈaːʊnˌu, ɡʰumˈaːʊnˌu ɾə kˈeːhi dˈurrləbʰ ˌəwəstʰˌaːhəɾˈuːmaː ɟˈʌmɪnˌəmaː sˈʌməjˌə sˈɪːmɪt ɾˈuːpəmˌaː sˌəmaːˈeːɾə ʌ̃ʈʰjˈaːʊnˌeː pˈʌnɪ ənumˌətˌɪ dɪˈɪncʰə|0
+data/audio_24k/nepali_1555.wav|hˈeːɾə mə tˈə ˈʊɖnə lˈaːɡẽ, pɪɡˈɪːleː ˈeːʊʈˌaː hãɡˈaːmaː ˌʊpʰɾʌ̃dˈɛː bʰˈʌneː|0
+data/audio_24k/nepali_22158.wav|ʃɾˈiː ɟˌaːwəɖˈeːkəɾˌəleː bətˈaːʊnˌubʰəjˌoː, kˈeːndɾɪːjˌə mˌəntɾɪːmˈʌɳɖəlˌəleː pˌuɖuceːɾˈɪːmaː ɾˈaːʂʈɾˌəpətˌɪ ʃˈaːsən laːɡˈaːʊnˌeː sɪpʰˈaːɾɪs pˈʌnɪ ɡəɾˈeːkoː cʰˈə|0
+data/audio_24k/nepali_24764.wav|wˈaːstəwˌəmaː jˈoː tˌəhəhəɾˈuːmaː nˈɪrrbʰəɾˌə ɡˈʌrrcʰə|0
+data/audio_24k/nepali_12035.wav|jˈʌdɪ tˌəpaːĩlˈeː jˈiː pɾˌəmaːɳəpˈʌtɾəhˌəɾuː hˌəɾaːɪhˈaːlnubʰˌəjoː bʰˈʌneː, ˈeːʊʈˌaː lˈaːmoː wˈɪdʰɪ cʰˈə|0
+data/audio_24k/nepali_13609.wav|bɾəhmˈaːɳɖəkˌoː tʰˌaːlənˈɪːkoː kˈʌlpənˌaː ɡˈʌrrnə sˌəbɛːbʰˈʌndaː ʈaːɖʰˈaːkaː ˌaːkaːʃˌəɡəŋɡˈaːkaː cʰəwˈɪhəɾˌuː heːɾˈeːɾə məlˈaːi əpˈaːɾə aːnˈʌndə lˈaːɡcʰə|0
+data/audio_24k/nepali_27666.wav|ˈʊnəlˌeː ˈʌlkaː jˈaːɟɲənˌɪkəʃˌʌ̃ɡ sˈʌn ˈʊnnˌaːɪs sˈʌjə bjaːsˈɪːmaː kˌaːməcˈoːɾəkˌaː lˈaːɡɪ tˈuməsˌeː bˈʌɖʰəkˌəɾə dˈunɪjˌaː mˈeː nˈə dˈeːkʰaː, ˈeːkə ɖˈaːku sˈʌhəɾˌə mˈeːkoː hˈʌmənˌəsi ãkʰˈeː ɾə pˈɪɡʰəlˌətaː ˌaːsəmˈaːnəmˌaː tˈeːɾi mˈeːɾi pɾˈeːmə kəhˈaːni ɟˈʌstaː jˈuɡəl ɡˈɪːt ɡˈaːeː|0
+data/audio_24k/nepali_2898.wav|duˈɪːwəʈˌaː bʰˌaːɡəlˈaːi hˌaːpʰəʈˈaːɪmˌə ˌəwədʰɪdːwˈaːɾaː cʰˌuʈʈjaːɪˈeːkoː cʰˈə ˈʌnɪ pˈʌhɪlˌoː ɾə tˈeːsɾoː kwˈaːrrʈəɾˌəhəɾˌuː cʰˈoːʈoː ˌəntəɾˈaːləpˌəcʰɪ ˌaːũcʰˈʌn|0
+data/audio_24k/nepali_5339.wav|sˈʌn əʈʰˈaːɾə sˈʌjə sˈoːhɾəmˌaː ɡˌəɖʰəwˈaːl ɾˈaːɟjə ʈˌɪhəɾˈɪːkoː sˈaːnoː kʂˈeːtɾəbˌaːʈ ˈeːʊʈˌaː ʃˈaːhi ɾˈaːɟjəkˌaː ɾˈuːpəmˌaː punˈʌhstʰˌaːpɪt bʰˈʌjoː|0

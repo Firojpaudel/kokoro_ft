@@ -64,9 +64,18 @@ class FilePathDataset(torch.utils.data.Dataset):
         self.sr = sr
 
         # Kokoro PLBERT limits: max sequence length is 512, leaving 510 usable tokens
-        self.data_list = [
-            d for d in self.data_list if len(self.text_cleaner(d[1])) <= 510
-        ]
+        # Also filter out samples shorter than 1.0 second to prevent StyleEncoder Conv2d crashes
+        filtered_data_list = []
+        for d in self.data_list:
+            if len(self.text_cleaner(d[1])) > 510:
+                continue
+            try:
+                wav_path = osp.join(root_path, d[0])
+                if sf.info(wav_path).duration >= 1.0:
+                    filtered_data_list.append(d)
+            except Exception:
+                continue
+        self.data_list = filtered_data_list
 
         self.df = pd.DataFrame(self.data_list)
 
