@@ -36,6 +36,8 @@ kmodel = kmodel.to(device).eval()
 
 # Load pipeline
 pipeline = KPipeline(lang_code="n", repo_id="hexgrad/Kokoro-82M", model=kmodel)
+from text_normalizer import NepaliHybridG2P
+pipeline.g2p = NepaliHybridG2P()
 
 # Load voicepack
 print(f"Loading voicepack: {VOICEPACK_PATH}")

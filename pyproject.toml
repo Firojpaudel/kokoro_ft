@@ -23,6 +23,8 @@ dependencies = [
     "matplotlib>=3.11.0",
     "tensorboard>=2.21.0",
     "gradio>=6.20.0",
+    "nepali-g2p>=0.1.0",
+    "aksharamukha>=2.3",
 ]
 
 [tool.uv.sources]

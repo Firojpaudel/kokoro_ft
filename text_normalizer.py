@@ -1,4 +1,6 @@
 import re
+import csv
+from nepali_g2p import NepaliG2P
 
 NEPALI_NUMS = {
     0: 'शून्य', 1: 'एक', 2: 'दुई', 3: 'तीन', 4: 'चार', 5: 'पाँच', 6: 'छ', 7: 'सात', 8: 'आठ', 9: 'नौ', 10: 'दश',
@@ -471,7 +473,77 @@ def normalize_text(text):
     res = re.sub(r' +', ' ', res)
     return res.strip()
 
+class NepaliHybridG2P:
+    def __init__(self, dict_path="/home/oem/wiseyak_backup/firojpaudel/kokoro_ft/data/dictionary_data.csv"):
+        self.word_dict = {}
+        self.rule_g2p = NepaliG2P()
+        
+        print(f"Loading dictionary from {dict_path}...")
+        try:
+            with open(dict_path, "r", encoding="utf-8") as f:
+                reader = csv.reader(f, delimiter='$')
+                next(reader, None)
+                for row in reader:
+                    if len(row) >= 6:
+                        word = row[1].strip()
+                        ipa = row[5].strip()
+                        if ipa.startswith('/') and ipa.endswith('/'):
+                            ipa = ipa[1:-1]
+                        if word and ipa:
+                            self.word_dict[word] = ipa
+            print(f"Loaded {len(self.word_dict)} words from dictionary.")
+        except Exception as e:
+            print(f"Error loading dictionary: {e}")
+
+    def clean_rule_ipa(self, ipa_str):
+        mapping = {
+            'ā': 'aː',
+            'ē': 'eː',
+            'ī': 'iː',
+            'ō': 'oː',
+            'ū': 'uː',
+            'ã': 'ʌ̃',
+            'm̐': '̃',
+            'c': 'ts',
+            'j': 'dz',
+            'ś': 's',
+            'ṣ': 's',
+            'h': 'ʰ',
+        }
+        res = ipa_str
+        for k, v in mapping.items():
+            res = res.replace(k, v)
+        allowed_chars = set(" !\"(),.:;?AIOQSTWYabcdefhijklmnopqrstuvwxyzæçðøŋœɐɑɒɔɕɖəɚɛɜɟɡɣɤɥɨɪɯɰɲɳɴɸɹɻɽɾʁʂʃʈʊʋʌʎʒʔʝʣʤʥʦʧʨʰʲˈˌː̃βθχᵊᵝᵻ—“”…→↓↗↘ꭧ")
+        res = "".join(c for c in res if c in allowed_chars)
+        return res
+
+    def convert_word(self, word):
+        if word in self.word_dict:
+            return self.word_dict[word]
+        try:
+            raw_phonemes = self.rule_g2p.to_phonemes_simple(word)
+            return self.clean_rule_ipa(raw_phonemes)
+        except Exception:
+            return ""
+
+    def __call__(self, text):
+        tokens = re.findall(r'[\u0900-\u097F]+|[^\u0900-\u097F\s]+|\s+', text)
+        result_phonemes = []
+        for token in tokens:
+            if re.match(r'^[\u0900-\u097F]+$', token):
+                ph = self.convert_word(token)
+                if ph:
+                    result_phonemes.append(ph)
+            else:
+                result_phonemes.append(token)
+        return "".join(result_phonemes), None
+
 if __name__ == "__main__":
     sample_input = "डा. शर्माले २०८१ साल असार १५ गते रु. १,२५,००० को सम्झौता ई.सं. २०२४ मा गरे। I'd say it's approx. $1,000."
     print("Input:", sample_input)
     print("Output:", normalize_text(sample_input))
+    
+    # Test hybrid G2P
+    g2p = NepaliHybridG2P()
+    test_ph, _ = g2p("नेपाली भाषा")
+    print("Phonemes test:", test_ph)
